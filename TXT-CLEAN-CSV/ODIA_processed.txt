@@ -1,0 +1,107 @@
+# ODIA Plinthe coupe-brise en acier à dessus incliné
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 120V, 208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.
+
+### Construction
+• Devant en acier de calibre 16.
+• Boîtier en acier satiné de calibre 18.
+• Assemblage vissé pour une plus grande robustesse.
+• Canalisation de câblage intégrée pleine longueur.
+• Entrée d'air frais par l'avant; sortie d'air chaud par le dessus.
+- Entrée d'air frais par le dessous (-BAI) en option.
+• Finition unie du dos de l'appareil (-BD) en option.
+• Protection thermique linéaire pleine longueur, à réenclenchement automatique.
+• Protection thermique pour la haute altitude (-HA) en option.
+• Bouts inclus.
+
+### Élément
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+### Densité
+• Densité moyenne standard de 275W/pi.
+• Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.
+
+### Régulation
+• Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+• Relais mécanique, relais électronique ou relais pneumatique en option (installation du côté droit seulement).
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+• L'appareil doit être installé à 2 po (51 mm) au-dessus du plancher (pour option –BAI).
+• Trous de montage espacés de 4 po (102 mm) afin de faciliter la pose.
+• Installation au plancher ou au mur.
+• Variété d'accessoires pour l'installation en continu en option.
+• Trousse de piédestals en option.
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Édifice commercial, immeuble à bureaux, hôpital, école, résidence privée
+
+-------
+
+## Modèles à densité moyenne standard de 275W/pi
+
+Tableau ODIA - Plinthe coupe-brise en acier à dessus incliné
+Watts;# Produit;# Produit;# Produit;# Produit;Watts 240/208V;# Produit 240/208V;Prix;Longueur;Longueur;Poids;Poids/120V;208V;347V;600V;;;po;mm;lb;kg
+500.0;ODIA0502;ODIA0508;ODIA0507;-;500/375;ODIA0500;383.00;28.875;733.0;11.6;5.3
+750.0;ODIA0752;ODIA0758;ODIA0757;ODIA0756;750/563;ODIA0750;435.00;38.875;987.0;15.1;6.9
+1000.0;ODIA1002;ODIA1008;ODIA1007;ODIA1006;1000/750;ODIA1000;497.00;49.125;1248.0;18.7;8.5
+1250.0;ODIA1252;ODIA1258;ODIA1257;ODIA1256;1250/938;ODIA1250;559.00;58.625;1489.0;22.0;10.0
+1500.0;ODIA1502;ODIA1508;ODIA1507;ODIA1506;1500/1125;ODIA1500;642.00;67.3125;1710.0;25.0;11.4
+1750.0;-;ODIA1758;ODIA1757;ODIA1756;1750/1313;ODIA1750;734.00;76.625;1947.0;28.3;12.8
+2000.0;-;ODIA2008;ODIA2007;ODIA2006;2000/1500;ODIA2000;825.00;85.4375;2170.0;31.3;14.2
+2250.0;-;ODIA2258;ODIA2257;ODIA2256;2250/1688;ODIA2250;937.00;94.3125;2395.0;34.4;15.6
+2500.0;-;ODIA2508;ODIA2507;ODIA2506;2500/1875;ODIA2500;936.00;103.4375;2627.0;37.6;17.1
+-------
+
+## Options
+
+Tableau ODIA - Options
+# Produit En trousse;# Produit Installée en usine*;Prix;Description
+-;BAI;Sans frais;Entrée d'air par le dessous
+-;BD;0.1;Finition unie du dos de l'appareil
+KIT-ODIA-CE;-;362.00;Coin extérieur, 4 po (102 mm)
+KIT-ODIA-CI;-;362.00;Coin intérieur, 4 po (102 mm)
+KIT-ODIA-JT;-;108.00;Joint de finition, 2 po (51 mm)
+KIT-ODIA-JT-PE;-;120.00;Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)
+KIT-ODIA-PE;-;155.00;Trousse de piédestals ronds (2), 3 po (76 mm)
+KIT-ODIA-PEC;-;155.00;Trousse de piédestals carrés (2), 2 po (51 mm)
+ODIA-SV-XX;-;Sur demande;Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2625 mm)
+-------
+
+Tableau ODIA - Options de contrôles
+# Produit En trousse;# Produit Installée en usine*;Prix;Description
+KIT-ODIA-DIS203;DIS203;172.00;Interrupteur principal, 20A à 277V max.
+KIT-ODIA-DIS403;DIS403;211.00;Interrupteur principal, 40A à 600V max.
+-;HA;Sans frais;Protection thermique pour la haute altitude (3000 pi à 8200 pi)
+-;PM;410.00;Relais pneumatique, 20A à 600V max.
+KIT-ODIA-R-347;R;175.00;Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V
+KIT-ODIA-R-600;R;182.00;Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V
+KIT-ODIA-RT-120;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V
+KIT-ODIA-RT-208;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V
+KIT-ODIA-RT-240;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V
+KIT-ODIA-RT-277;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V
+KIT-ODIA-RT-347;RT;189.00;Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V
+KIT-ODIA-RT-6001;RT1;195.00;Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)
+KIT-ODIA-TB6;TB6;154.00;Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODIA-TB262;TB262;250.00;Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODIA-TB6-AV;TB6AV;154.00;Thermostat bimétallique, unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODIA-TB26-AV2;TB26AV2;250.00;Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODIA-TRIAC-347;TRIAC;77.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.
+KIT-ODIA-TRIAC-347T;TRIACT;105.00;Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V
+KIT-ODIA-TRIAC-600;TRIAC;135.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.
+-------

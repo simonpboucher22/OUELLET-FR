@@ -1,0 +1,67 @@
+# OFM - Plinthe électrique standard
+
+## Caractéristiques
+Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesures disponibles sur demande.
+
+Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+• Peut accepter toute peinture intérieure.
+
+Tension
+• 120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase.
+
+Construction
+• Boîtier de raccord en acier de calibre 20.
+• Corps en acier de calibre 22.
+• Devant en acier de calibre 20.
+• Coins supérieurs arrondis.
+• Protection thermique linéaire à réenclenchement automatique.
+
+Élément
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+Densité
+• Densité moyenne standard de 275W/pi.
+• Basse densité moyenne de 200W/pi.
+
+Régulation
+• Thermostat intégré mécanique en option pouvant être installé aux deux extrémités.
+• Section de plinthe avec thermostat électronique intégré pouvant être installée du côté gauche seulement (240V seulement).
+• Thermostat intégré électronique en option pouvant être installé du côté droit seulement. Compatible avec les appareils fabriqués après 14-10-2019 seulement.
+• Relais 24V en option (installation du côté droit seulement).
+• Un compartiment pour les raccords basse tension (situé directement sous la boîte de jonction) qui facilite l'installation de relais à basse tension dans les plinthes électriques.
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+Installation
+• Installation en contact avec le plancher.
+• Boîtes de raccordement aux extrémités des plinthes.
+• Serre-fils à une seule vis.
+• Trousse pour installation d'un câble électrique de type AC90 (BX) en option.
+• Canalisation de câblage approuvé pour interconnexion des appareils.
+• Deux rangés de trous de montage espacés de 1 po (25.4 mm) afin de faciliter la pose.
+• Variété d'accessoires pour l'installation en continu en option.
+
+Garantie
+• 5 ans contre tous vices.
+• Élément garanti à vie pour le premier utilisateur consommateur.
+
+Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, baie vitrée, édifice commercial, immeuble de bureaux, condo, restaurant.
+
+-------
+
+Tableau OFM - Plinthe électrique standard (Modèles à densité moyenne standard de 275W/pi)
+Watts;Watts 240/208V;# Produit;;;;;Longueur;;Poids;/;120V;Prix;208V;240/208V;Prix;347V;600V;Prix;po;mm;lb;kg/300.0;300/225;OFM0302;102.50;OFM0308;OFM0300;82.25;-;-;-;22.3125;566.0;4.5;2.0/500.0;500/375;OFM0502;108.25;OFM0508;OFM0500;85.75;OFM0507;-;101.25;27.1875;691.0;5.5;2.5/750.0;750/563;OFM0752;125.75;OFM0758;OFM0750;99.00;OFM0757;OFM0756;119.50;37.1875;945.0;7.3;3.3/1000.0;1000/750;OFM1002;145.75;OFM1008;OFM1000;115.25;OFM1007;OFM1006;139.75;47.5;1206.0;9.0;4.0/1250.0;1250/938;OFM1252;178.00;OFM1258;OFM1250;137.00;OFM1257;OFM1256;170.00;57.0;1447.0;10.5;4.8/1500.0;1500/1125;OFM1502;187.00;OFM1508;OFM1500;148.25;OFM1507;OFM1506;182.25;65.6875;1668.0;12.0;5.5/1750.0;1750/1313;-;-;OFM1758;OFM1750;176.75;OFM1757;OFM1756;219.75;75.0;1905.0;13.5;6.2/2000.0;2000/1500;-;-;OFM2008;OFM2000;194.00;OFM2007;OFM2006;233.50;83.8125;2128.0;15.0;6.8/22501.0;2250/16881;-;-;OFM2258;OFM2250;213.75;OFM2257;OFM2256;259.00;92.625;2353.0;16.5;7.5/25001.0;2500/18751;-;-;OFM2508;OFM2500;230.25;OFM2507;OFM2506;277.00;101.8125;2585.0;18.0;8.2
+-------
+
+Tableau OFM - Plinthe électrique standard (Modèles à basse densité moyenne de 200W/pi)
+Watts;Watts 240/208V;# Produit;;;;;Longueur;;Poids;/;120V;Prix;208V;240/208V;Prix;347V;600V;Prix;po;mm;lb;kg/300.0;300/225;OFM0302-691;108.25;OFM0308-691;OFM0300-691;85.75;-;-;-;27.1875;691.0;5.5;2.5/500.0;500/375;OFM0502-945;125.75;OFM0508-945;OFM0500-945;99.00;OFM0507-945;-;119.50;37.1875;945.0;7.3;3.3/750.0;750/563;OFM0752-1206;145.75;OFM0758-1206;OFM0750-1206;115.25;OFM0757-1206;OFM0756-1206;139.75;47.5;1206.0;9.0;4.0/1000.0;1000/750;OFM1002-1447;178.00;OFM1008-1447;OFM1000-1447;137.00;OFM1007-1447;OFM1006-1447;170.00;57.0;1447.0;10.5;4.8/1250.0;1250/938;OFM1252-1668;187.00;OFM1258-1668;OFM1250-1668;148.25;OFM1257-1668;OFM1256-1668;182.25;65.6875;1668.0;12.0;5.5/1500.0;1500/1125;OFM1502-2128;223.75;OFM1508-2128;OFM1500-2128;194.00;OFM1507-2128;OFM1506-2128;233.50;83.8125;2128.0;15.0;6.8/17501.0;1750/13131;-;-;OFM1758-2353;OFM1750-2353;213.75;OFM1757-2353;OFM1756-2353;259.00;92.625;2353.0;16.5;7.5/20001.0;2000/15001;-;-;OFM2008-2585;OFM2000-2585;230.25;OFM2007-2585;OFM2006-2585;277.00;101.8125;2585.0;18.0;8.2/22501.0;2250/16881;-;-;OFM2258-2585;OFM2250-2585;230.25;OFM2257-2585;OFM2256-2585;277.00;101.8125;2585.0;18.0;8.2
+-------
+
+Tableau OFM - Plinthe électrique standard (Options)
+# Produit En trousse;# Produit;Prix;Description/;Installée en usine*;;/KIT-OFM-BX-25;-;593.00;Trousse pour installation d'un câble électrique de type AC90 (BX), boite de 25 trousses/KIT-OFM-CI;-;113.25;Boîte de coins (intérieur et extérieur)/KIT-OFM-DIS20;DIS20;175.50;Interrupteur principal, bipolaire, 20A à 250V max./KIT-OFM-JT;-;52.75;Joint de finition 3 9/16 po (90 mm)/KIT-OFM-RO1;-;89.25;Section de plinthe 6 po (152 mm) - Prise de type 5-15R en façade - 15A à 120V/KIT-OFM-RO2;-;303.00;Section de plinthe 6 po (152 mm) - Dériveur d'alimentation 240V vers prise type 6-20R en façade (interrupteur 20A, bipolaire, bidirectionnel)/KIT-OFM-RO2B;-;245.50;Section de plinthe 6 po (152 mm) - Prise de type 6-20R en façade - 240V/KIT-OFM-R-347;R;94.25;Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 18A à 347V/KIT-OFM-R-600;R;128.00;Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V/KIT-OFM-RT-120;RT;159.25;Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V/KIT-OFM-RT-208;RT;132.75;Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V/KIT-OFM-RT-240;RT;132.75;Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V/KIT-OFM-RT-277;RT;132.75;Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V/KIT-OFM-RT-347;RT;132.75;Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V/KIT-OFM-RT-6003;RT3;191.25;Relais unipolaire, bobine 24V, avec transformateur 600V/24V,10A à 600V (2 fils seulement)/KIT-OFM-240SPLITTER;-;131.75;Section de plinthe 6 po (152 mm) - Dériveur d'alimentation 240V pour brancher un autre appareil de façon permanente (interrupteur 20A, bipolaire, bidirectionnel)/KIT-OFM-THA5;THACD5;49.25;Thermostat électronique avec bouton rotatif ultraprécis pour installation à droite seulement : 12.5A à 120V, 208V, 240V/-;THCG4;194.50;Section de plinthe 6 po (152 mm) avec thermostat électronique intégré (240V seulement), installée du côté gauche/KIT-OFM-SR;-;95.00;Section de plinthe 6 po (152 mm) pour installation d'un relais 24V (relais non inclus)/KIT-OFM-TB6;TB6;50.75;Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V/KIT-OFM-TB262;TB262;61.00;Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V/KIT-OFM-TB6-AV;TB6AV;90.75;Thermostat bimétallique, unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V/KIT-OFM-TB26-AV2;TB26AV2;93.50;Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V/KIT-OFM-TRIAC-347;TRIAC;93.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max./KIT-OFM-TRIAC-347T;TRIACT;131.00;Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 277V, 347V/KIT-OFM-TRIAC-600;TRIAC;170.75;Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.
+-------

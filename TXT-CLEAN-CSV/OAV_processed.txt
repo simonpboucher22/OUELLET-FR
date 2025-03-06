@@ -1,0 +1,60 @@
+# OAV Aérotherme vertical
+
+## Caractéristiques
+
+### Couleur
+• Standard : amande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 208V, 240V, 347V, 480V, 600V, 1 ou 3 phases.
+
+### Construction
+• Construction en acier calibre 18.
+• Protection thermique linéaire à réenclenchement automatique.
+• Bornier de commande du ventilateur permettant le contrôle à distance. 1
+
+### Ventilateur
+• Commande à retardement du ventilateur; retarde le départ du ventilateur pour permettre aux éléments de se réchauffer et laisse continuer le ventilateur quelques secondes après l'arrêt du chauffage pour éliminer la chaleur résiduelle.
+• Moteur fermé à roulement à billes. 2
+• Moteur avec protection thermique intégrée.
+
+### Élément
+• Élément tubulaire, mise à la terre pour plus de sécurité. 3
+
+-------
+
+## Régulation
+• Contacteur intégré standard. 4
+• Circuit de commande à 240V standard (avec transformateur si nécessaire).
+• Relais 24V en option avec ou sans transformateur.
+• Circuit de commande à 120V en option.
+• Température ambiante maximale de fonctionnement : 30 °C (85 °F).
+• Tout dispositif de contrôle [thermostat ou relais] doit être connecté au bornier de contrôle de l'appareil.
+
+### Installation
+• Montage 10kW et moins : 4 trous filetés (1/2 po - 13 UNC).
+• Montage 15kW et plus : 4 crochets.
+• Cônes disponibles en option. 5
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Usine, entrepôt, centre commercial, garage.
+
+-------
+
+## Modèles
+
+Tableau OAV - Aérotherme vertical
+kW;Volts (ph);# Produit;Prix;BTU/hr;pcm;Hausse de température;Hausse de température;Moteur;Moteur;Poids;Poids/5.0;208 (1);OAV05008AM;3554.00;17060.0;450.0;19.0;34.0;45682.0;1050.0;75.0;34.0/5.0;208 (3);OAV05038AM;3554.00;17060.0;450.0;19.0;34.0;45682.0;1050.0;75.0;34.0/7.5;208 (3);OAV07538AM;3624.00;25590.0;600.0;22.0;40.0;45682.0;1050.0;75.0;34.0/10.0;208 (3);OAV10038AM;3700.00;34120.0;750.0;23.0;42.0;45682.0;1050.0;75.0;34.0/15.0;208 (3);OAV15038AM;5824.00;51180.0;1200.0;22.0;40.0;45663.0;1075.0;100.0;48.0/20.0;208 (3);OAV20038AM;6045.00;68240.0;1600.0;22.0;40.0;45663.0;1075.0;100.0;48.0/25.0;208 (3);OAV25038AM;6323.00;85300.0;2000.0;22.0;40.0;45663.0;1075.0;100.0;48.0/30.0;208 (3);OAV30038AM;6522.00;102360.0;2300.0;23.0;41.0;45663.0;1075.0;100.0;48.0/5.0;240 (1);OAV05000AM;3554.00;17060.0;450.0;19.0;34.0;45682.0;1050.0;75.0;34.0/7.5;240 (1);OAV07500AM;3624.00;25590.0;600.0;22.0;40.0;45682.0;1050.0;75.0;34.0/10.0;240 (1);OAV10000AM;3700.00;34120.0;750.0;23.0;42.0;45682.0;1050.0;75.0;34.0/15.0;240 (1);OAV15000AM;5824.00;51180.0;1200.0;22.0;40.0;45663.0;1075.0;100.0;48.0/20.0;240 (1);OAV20000AM;6045.00;68240.0;1600.0;22.0;40.0;45663.0;1075.0;100.0;48.0/25.0;240 (1);OAV25000AM;6323.00;85300.0;2000.0;22.0;40.0;45663.0;1075.0;100.0;48.0/30.0;240 (1);OAV30000AM;6522.00;102360.0;2300.0;23.0;41.0;45663.0;1075.0;100.0;48.0/5.0;347 (1);OAV05007AM;3669.00;17060.0;450.0;19.0;34.0;45682.0;1050.0;75.0;34.0/7.5;347 (1);OAV07507AM;3719.00;25590.0;600.0;22.0;40.0;45682.0;1050.0;75.0;34.0/10.0;347 (1);OAV10007AM;3788.00;34120.0;750.0;23.0;42.0;45682.0;1050.0;75.0;34.0/25.0;480 (3);OAV25034AM;6575.00;85300.0;2000.0;22.0;40.0;45663.0;1075.0;100.0;48.0/30.0;480 (3);OAV30034AM;6700.00;102360.0;2300.0;23.0;41.0;45663.0;1075.0;100.0;48.0/5.0;600 (1);OAV05006AM;3669.00;17060.0;450.0;19.0;34.0;45682.0;1050.0;75.0;34.0/5.0;600 (3);OAV05036AM;3669.00;17060.0;450.0;19.0;34.0;45682.0;1050.0;75.0;34.0/7.5;600 (3);OAV07536AM;3719.00;25590.0;600.0;22.0;40.0;45682.0;1050.0;75.0;34.0/10.0;600 (3);OAV10036AM;3788.00;34120.0;750.0;23.0;42.0;45682.0;1050.0;75.0;34.0/15.0;600 (3);OAV15036AM;6223.00;51180.0;1200.0;22.0;40.0;45663.0;1075.0;100.0;48.0/20.0;600 (3);OAV20036AM;6448.00;68240.0;1600.0;22.0;40.0;45663.0;1075.0;100.0;48.0/25.0;600 (3);OAV25036AM;6575.00;85300.0;2000.0;22.0;40.0;45663.0;1075.0;100.0;48.0/30.0;600 (3);OAV30036AM;6700.00;102360.0;2300.0;23.0;41.0;45663.0;1075.0;100.0;48.0/40.0;600 (3);OAV40036AM;8792.00;136480.0;4800.0;15.0;26.0;45663.0;1140.0;215.0;98.0/50.0;600 (3);OAV50036AM;9853.00;170600.0;4800.0;18.0;33.0;45663.0;1140.0;215.0;98.0/60.0;600 (3);OAV60036AM;10840.00;204720.0;4800.0;22.0;40.0;45663.0;1140.0;215.0;98.0
+-------
+
+## Options
+
+Tableau OAV - Aérotherme vertical
+# Produit En trousse;# Produit Installée en usine*;Prix;Description/-;120.0;205.00;Circuit de commande à 120V/-;3P;93.00;Contacteur 3 pôles/KIT-OAV-CJ-1AM;-;110.00;Cône jet, unités de 5 à 10kW/KIT-OAV-CJ-2AM;-;129.00;Cône jet, unités de 15 à 30kW/KIT-OAV-CJ-3AM;-;152.00;Cône jet, unités de 40 à 60kW/KIT-OAV-CS-1AM;-;129.00;Cône simple, unités de 5 à 10kW/KIT-OAV-CS-2AM;-;152.00;Cône simple, unités de 15 à 30kW/KIT-OAV-CS-3AM;-;171.00;Cône simple, unités de 40 à 60kW/KIT-OAV-CT-1AM;-;216.00;Cône triple, unités de 5 à 10kW/KIT-OAV-CT-2AM;-;432.00;Cône triple, unités de 15 à 30kW/KIT-OAV-CT-3AM;-;648.00;Cône triple, unités de 40 à 60kW/-;DIS40;221.00;Interrupteur principal, tripolaire, 40A à 600V/-;DIS80;270.00;Interrupteur principal, tripolaire, 80A à 600V/-;DIS100;840.00;Interrupteur principal, tripolaire, 100A à 600V/KIT-OAV-R;R;193.00;Relais 24V, sans transformateur/KIT-OAV-RT;RT;214.00;Relais 24V, avec transformateur
+-------

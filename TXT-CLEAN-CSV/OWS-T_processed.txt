@@ -1,0 +1,67 @@
+# OWS-T Câble chauffant pour fonte de neige en tapis
+
+## Caractéristiques
+
+### Tension
+• 208V, 240V et 600V, 1 phase.
+
+### Construction
+• Ensemble de câble chauffant en série de type double conducteur.
+• Câble chauffant maintenu, à l'aide de bandes flexibles, sous forme de tapis à espacement régulier de 3'' (76 mm).
+• Gaine isolante des fils conducteurs en fluoropolymère/XLPE de 0.019'' (0.5 mm) d'épaisseur.
+• Blindage en maille de cuivre (0.823 mm2) servant de mise à la terre.
+• Gaine de protection du câble chauffant en polyoléfine (EPR) de 0.08'' (2 mm) d'épaisseur.
+
+### Densité
+• 50W/pi2 (538W/m2) à 208V, 240V et 600V, espacement aux 3'' (76 mm).
+
+### Dimension
+• Tapis de 24'' (610 mm) et 36'' (914 mm) de largeur, offerts en plusieurs longueurs.
+
+### Liaison froide
+• 50' (15 m) de longueur.
+• Liaison froide de 100' (30 m) disponible sur commande.
+• Calibre 12 AWG ou 14 AWG (selon la charge maximale permise).
+• Gaine de protection en PVC de 0.03'' (0.76 mm) d'épaisseur.
+• Diamètre externe de 3/8'' (9.5 mm).
+
+-------
+
+### Matériel inclus
+• Étiquette de tableau de mesures (à apposer au panneau électrique).
+
+### Installation
+• Ne jamais couper ni tenter de raccourcir le câble.
+• Pour applications extérieures seulement.
+• Le câble chauffant doit être entièrement enrobé dans un revêtement de béton, d'asphalte ou de poussière de pierre sous pavé.
+• Température minimale d'installation -5 °C (23 °F).
+• Température maximale d'exposition à long terme 105 °C (221 °F).
+• Température maximale d'exposition pour 10 minutes 220 °C (428 °F).
+
+### Garantie
+• 10 ans sur le câble chauffant.
+
+### Application
+• Stationnement résidentiel, trottoir, rampe d'accès, rampe de garage sous-terrain, débarcadères d'animaux
+
+-------
+
+Tableau OWS-T - Câble chauffant pour fonte de neige en tapis
+Watts;# Produit;;;Prix;Surface couverte1;;Longueur du tapis (X);;Longueur du câble2;;Poids;/;208V;Amp.;240V;Amp.;600V;Amp.;;pi2;m2;pi;m;pi;m;lb;kg/500.0;OWS-T0508-24;2.40;OWS-T0500-24;2.08;-;-;231.00;11.0;1.0;5.0;1.5;43.0;13.1;3.0;1.4/1000.0;OWS-T1008-24;4.81;OWS-T1000-24;4.17;-;-;390.00;22.0;2.0;10.0;3.0;86.0;26.2;5.0;2.3/1500.0;OWS-T1508-24;7.21;OWS-T1500-24;6.25;OWS-T1506-24;2.50;540.00;32.5;3.0;15.0;4.6;128.0;39.0;7.0;3.2/2000.0;OWS-T2008-24;9.62;OWS-T2000-24;8.33;-;-;692.00;43.5;4.0;20.0;6.1;171.0;52.1;10.0;4.5/2500.0;OWS-T2508-24;12.02;OWS-T2500-24;10.42;-;-;846.00;54.0;5.0;25.0;7.6;214.0;65.2;12.5;5.7/3000.0;OWS-T3008-24;14.42;OWS-T3000-24;12.50;-;-;1001.00;65.0;6.0;30.0;9.1;257.0;78.4;15.0;6.8/4000.0;OWS-T4008-24;19.23;OWS-T4000-24;16.67;OWS-T4006-24;6.67;1307.00;86.5;8.1;40.0;12.2;342.0;104.3;20.0;9.1/5000.0;OWS-T5008-24;24.04;OWS-T5000-24;20.83;OWS-T5006-24;8.33;1619.00;108.5;10.1;50.0;15.2;428.0;130.5;25.0;11.4/6000.0;-;-;OWS-T6000-24;25.00;OWS-T6006-24;10.00;1924.00;130.0;12.1;60.0;18.3;513.0;156.4;30.0;13.6
+-------
+
+Tableau OWS-T - Câble chauffant pour fonte de neige en tapis
+Watts;# Produit;;;Prix;Surface couverte1;;Longueur du tapis (X);;Longueur du câble2;;Poids;/;208V;Amp.;240V;Amp.;600V;Amp.;;pi2;m2;pi;m;pi;m;lb;kg/450.0;OWS-T0458-36;2.16;OWS-T0450-36;1.88;-;-;211.00;9.5;0.9;3.0;0.9;38.0;11.6;2.5;1.1/750.0;OWS-T0758-36;3.61;OWS-T0750-36;3.13;-;-;305.00;16.0;1.5;5.0;1.5;63.0;19.2;3.5;1.6/1050.0;OWS-T1058-36;5.05;OWS-T1050-36;4.38;-;-;390.00;22.0;2.0;7.0;2.1;88.0;26.8;5.0;2.3/1500.0;OWS-T1508-36;7.21;OWS-T1500-36;6.25;-;-;524.00;31.5;2.9;10.0;3.0;126.0;38.4;8.0;3.6/2250.0;-;-;-;-;OWS-T2256-36;3.75;752.00;47.5;4.4;15.0;4.6;188.0;57.3;11.5;5.0/3000.0;OWS-T3008-36;14.42;OWS-T3000-36;12.50;OWS-T3006-36;5.00;981.00;63.5;5.9;20.0;6.1;251.0;76.5;15.0;6.8/4500.0;OWS-T4508-36;21.63;OWS-T4500-36;18.75;OWS-T4506-36;7.50;1426.00;95.0;8.8;30.0;9.1;377.0;114.9;22.5;10.2/6000.0;-;-;OWS-T6000-36;25.00;OWS-T6006-36;10.00;1876.00;126.5;11.8;40.0;12.2;502.0;153.0;30.0;13.6
+-------
+
+Tableau OWS-T - Câble chauffant pour fonte de neige en tapis
+# Produit En trousse;Prix;Description/DS-2C1;889.00;Sonde et contrôleur à montage aérien pour détecter l'humidité et la température, 30A : 100V à 277V, 20A : 28VDC/ETF-744-99;206.00;Sonde extérieure 24V pour détecter la température/ETO21;825.00;Contrôleur électronique bizone, 1 zone : 3 x 16A, 2 zones : 2 x 16A, 120V à 240V/ETO2-BOX;634.00;Boîtier de montage pour contrôleur électronique bizone ETO2/ETOG;492.00;Sonde de sol pour détecter l'humidité et la température avec câble de 33 pi (10 m) sortant sur le côté/ETOG-56;604.00;Sonde de sol pour détecter l'humidité et la température avec câble de 80 pi (25 m) sortant en dessous/ETOK-1;124.00;Tube de montage pour sonde de sol ETOG-56/ETOR-55;401.00;Sonde de gouttière pour détecter l'humidité avec câble de 33 pi (10 m)
+-------
+
+Tableau OWS-T - Câble chauffant pour fonte de neige en tapis
+# Produit En trousse;H x L x P (po);Prix;Description/WS-4CIR-208;20x16x8;8343.00;4 circuits 30A 208V/WS-6CIR-208;24x20x8;9167.00;6 circuits 30A 208V/WS-8CIR-208;24x24x8;10146.00;8 circuits 30A 208V/WS-12CIR-208;30x24x8;10892.00;12 circuits 30A 208V/WS-4CIR-240;20x16x8;8343.00;4 circuits 30A 240V/WS-6CIR-240;24x20x8;9167.00;6 circuits 30A 240V/WS-8CIR-240;24x24x8;10146.00;8 circuits 30A 240V/WS-12CIR-240;30x24x8;10892.00;12 circuits 30A 240V
+-------
+
+Tableau OWS-T - Câble chauffant pour fonte de neige en tapis
+# Produit En trousse;H x L x P (po);Prix;Description/WS-3CIR-600-600;24x24x8;8910.00;3 circuits 24A 600V/WS-6CIR-600-600;30x24x8;9528.00;6 circuits 24A 600V/WS-9CIR-600-600;30x24x8;11073.00;9 circuits 24A 600V/WS-12CIR-600-600;30x30x8;12412.00;12 circuits 24A 600V/WS-15CIR-600-600;36x30x10;13364.00;15 circuits 24A 600V
+-------

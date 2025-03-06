@@ -1,0 +1,66 @@
+# Convecteur contemporain OCT
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, charcoal métallique.
+• Optionnelles (surcharge applicable) : amande, argent étoilé, bronze, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+-------
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+-------
+
+### Tension
+• 240/208V, 50/60 Hz, 1 phase.
+
+-------
+
+### Construction
+• Acier de calibre 20.
+• Sortie d'air chaud à effet propulsif, qui dirige l'air vers le centre de la pièce.
+• Grilles à louvres limitant l'insertion de petits objets, recouvertes d'une peinture à faible porosité lavable.
+• Protection thermique à réenclenchement automatique.
+
+-------
+
+### Élément
+• 2 éléments monobloc en aluminium, silencieux.
+
+-------
+
+### Densité
+• 700W/pi (2320W/m).
+
+-------
+
+### Régulation
+• Thermostat non programmable intégré (modèles -THO).
+
+-------
+
+### Installation
+• Installation au mur à 4 po (102 mm) minimum du plancher et d'un mur adjacent.
+• Montage en surface rapide avec support de fixation mural inclus.
+
+-------
+
+### Garantie
+• 5 ans contre tous vices.
+(La garantie est valide seulement si l'appareil est contrôlé par un thermostat électronique pulsant proportionnel avec un cycle maximum de 15 secondes.)
+
+-------
+
+### Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, sous-sol.
+
+-------
+
+## Modèles
+
+Tableau OCT - Convecteur contemporain
+Watts;Volts;# Produit Sans thermostat;Prix;# Produit Thermostat intégré non programmable;Prix;Longueur po;Longueur mm;Poids lb;Poids kg/500/375;240/208;OCT0500;286.00;OCT0500-THO;344.00;18.0;457.0;13.0;6.0/750/563;240/208;OCT0750;330.00;OCT0750-THO;388.00;20.75;527.5;15.5;7.0/1000/750;240/208;OCT1000;357.00;OCT1000-THO;415.00;23.5625;598.0;16.7;7.6/1250/938;240/208;OCT1250;381.00;OCT1250-THO;439.00;26.3125;668.5;18.7;8.5/1500/1125;240/208;OCT1500;404.00;OCT1500-THO;462.00;29.0625;739.0;20.0;9.1/1750/1313;240/208;OCT1750;424.00;OCT1750-THO;482.00;31.875;809.5;22.0;10.0/2000/1500;240/208;36800.0;448.00;OCT2000-THO;506.00;34.625;880.0;24.0;10.9
+-------

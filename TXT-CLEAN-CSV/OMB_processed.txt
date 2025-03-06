@@ -1,0 +1,69 @@
+# Mini plinthe coupe-brise en aluminium OMB
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+• Optionnelle : aluminium anodisé.
+
+### Tension
+• 208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.
+
+### Construction
+• Devant et dessus en aluminium de calibre 14 (0.0787 po [2 mm]).
+• Boîtier en acier satiné de calibre 18.
+• Assemblage vissé pour une plus grande robustesse.
+• Canalisation de câblage intégrée pleine longueur.
+• Canalisation de câblage 24V (-WW) en option.
+• Ouvertures inférieures à 1/4 po (6.4 mm) évitant l'intrusion de petits objets à l'intérieur.
+• Entrée d'air frais par le dessous et sortie d'air chaud par le dessus.
+• Finition unie du dos de l'appareil (-BD) en option.
+• Protection thermique linéaire pleine longueur à réenclenchement automatique.
+• Protection thermique pour la haute altitude (-HA) en option.
+• Bouts inclus.
+
+### Élément
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+### Densité
+• Densité moyenne standard de 175W/pi.
+• Basse densité moyenne de 100W/pi, 150W/pi.
+
+### Régulation
+• Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+• Relais mécanique, relais électronique ou relais pneumatique en option (installation du côté droit seulement).
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+• Usage non-résidentiel aux États-Unis.
+• L'appareil doit être installé à 2 po (51 mm) au-dessus du plancher.
+• Trous de montage espacés de 4 po (102 mm) afin de faciliter la pose.
+• Installation au plancher avec piédestals ou au mur.
+• Variété d'accessoires pour l'installation en continu en option.
+• Trousse de piédestals en option.
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Édifice commercial, immeuble de bureaux, hôpital, école, résidence privée.
+
+-------
+
+Tableau OMB - Mini plinthe coupe-brise en aluminium (Modèles à densité moyenne standard de 175W/pi)
+Watts;# Produit;;Watts 240/208V1;# Produit 240/208V;Prix;Longueur;;Poids;/;208V;347V;600V;;;po;mm;lb;kg/350.0;OMB0358;-;-;350/263;OMB0350;539.00;27.5625;700.0;7.0;3.2/525.0;OMB0528;OMB0527;-;525/394;OMB0520;617.00;35.4375;900.0;8.3;3.8/700.0;OMB0708;OMB0707;-;700/526;OMB0700;695.00;47.25;1200.0;10.2;4.6/875.0;OMB0878;OMB0807;OMB0876;875/657;OMB0870;793.00;59.0625;1500.0;12.0;5.5/1050.0;OMB1058;OMB1057;OMB1056;1050/789;OMB1050;901.00;70.875;1800.0;13.9;6.3/1225.0;OMB1228;OMB1227;OMB1226;1225/920;OMB1220;1022.00;82.6875;2100.0;15.8;7.2/1400.0;OMB1408;OMB1407;OMB1406;1400/1052;OMB1400;1163.00;94.5;2400.0;17.6;8.0
+-------
+
+Tableau OMB - Mini plinthe coupe-brise en aluminium (Modèles à basse densité moyenne)
+# Produit2;Prix;Longueur;Poids;Densité moyenne W/pi;Watts;Watts 240/208V1;208V;240/208V;347V;600V/OMB030X-700;539.00;27 9/16";7.0 lb;150.0;300.0;300/225;✓;✓;-;-/;;(700 mm);(3.2 kg);;;;;;;/OMB030X-900;617.00;35 7/16";8.3 lb;100.0;300.0;300/225;✓;✓;-;-/OMB045X-900;;(900 mm);(3.8 kg);150.0;450.0;450/338;✓;✓;✓;-/OMB040X-1200;695.00;47 1/4";10.2 lb;100.0;400.0;400/300;✓;✓;✓;-/OMB060X-1200;;(1200 mm);(4.6 kg);150.0;600.0;600/450;✓;✓;✓;-/OMB050X-1500;793.00;59 1/16";12.0 lb;100.0;500.0;500/375;✓;✓;✓;✓/OMB075X-1500;;(1500 mm);(5.5 kg);150.0;750.0;750/563;✓;✓;✓;✓/OMB060X-1800;901.00;70 7/8";13.9 lb;100.0;600.0;600/450;✓;✓;✓;✓/OMB090X-1800;;(1800 mm);(6.3 kg);150.0;900.0;900/675;✓;✓;✓;✓/OMB070X-2100;1022.00;82 11/16";15.8 lb;100.0;700.0;700/525;✓;✓;✓;✓/OMB105X-2100;;(2100 mm);(7.2 kg);150.0;1050.0;1050/788;✓;✓;✓;✓/OMB080X-2400;1163.00;94 1/2";17.6 lb;100.0;800.0;800/600;✓;✓;✓;✓/OMB120X-2400;;(2400 mm);(8.0 kg);150.0;1200.0;1200/900;✓;✓;✓;✓
+-------
+
+Tableau OMB - Mini plinthe coupe-brise en aluminium (Options)
+# Produit En trousse;# Produit;Prix;Description/;Installée en usine*;;/Finition/;BD3;0.1;Finition unie du dos de l'appareil/KIT-OMB-CE;-;483.00;Coin extérieur, 4 po (102 mm)/KIT-OMB-CI;-;483.00;Coin intérieur, 4 po (102 mm)/KIT-OMB-JT;-;108.00;Joint de finition, 2 po (51 mm)/KIT-OMB-JT-PE;-;120.00;Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)/KIT-OMB-PE;-;154.00;Trousse de piédestals ronds (2), 3 po (76 mm)/KIT-OMB-PEC;-;154.00;Trousse de piédestals carrés (2), 2 po (51 mm)/OMB-SV-XX;-;Sur demande;Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2400 mm)/Contrôles/KIT-OMB-DIS204;DIS204;172.00;Interrupteur principal, 20A à 277V max./;HA;Sans frais;Protection thermique pour la haute altitude (3000 pi à 8200 pi)/;PM;410.00;Relais pneumatique, 20A à 600V max./KIT-OMB-R-347;R;175.00;Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 19A à 277V - 18A à 347V/KIT-OMB-R-600;R;182.00;Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V/KIT-OMB-RT-208;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V/KIT-OMB-RT-240;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V/KIT-OMB-RT-277;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V/KIT-OMB-RT-347;RT;189.00;Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V/KIT-OMB-RT-6002;RT2;195.00;Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)/KIT-OMB-TB6;TB6;154.00;Thermostat bimétallique, unipolaire : 25A à 208V, 240V, 277V - 10A à 347V, 480V, 600V/KIT-OMB-TB261;TB261;250.00;Thermostat bimétallique, bipolaire : 25A à 208V, 240V, 277V - 10A à 347V, 480V, 600V/KIT-OMB-TB6-AV;TB6AV;154.00;Thermostat bimétallique, unipolaire, anti-vandale : 25A à 208V, 240V, 277V - 10A à 347V, 480V, 600V/KIT-OMB-TB26-AV1;TB26AV1;250.00;Thermostat bimétallique, bipolaire, anti-vandale : 25A à 208V, 240V, 277V - 10A à 347V, 480V, 600V/KIT-OMB-TRIAC-347;TRIAC;77.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 10A max. à 347V max./KIT-OMB-TRIAC-347T;TRIACT;105.00;Relais électronique unipolaire, bobine 24V, avec transformateur, 10A max. à 208V, 240V, 347V/KIT-OMB-TRIAC-600;TRIAC;135.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max./;WW;46.00;Canalisation de câblage 24V
+-------

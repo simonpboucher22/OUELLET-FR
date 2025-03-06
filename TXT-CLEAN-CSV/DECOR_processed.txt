@@ -1,0 +1,61 @@
+# DECOR Chauffe-terrasse infrarouge architectural en vitrocéramique
+
+## Caractéristiques
+
+Couleur
+• Standard : noir.
+
+Finition
+• Standard : peinture en poudre.
+
+Tension
+• 240/208V, 60 Hz, 1 phase.
+
+Construction
+• Construction certifiée IP65 pour utilisation extérieure.
+• Boîtier en extrusion d'aluminium de 2 mm d'épaisseur.
+• Réflecteur optique en aluminium de haute qualité.
+• Cordon d'alimentation de 6 pi (1.8 m) avec raccordement fixe.
+• Cadre de la vitrocéramique en acier inoxydable grade 304.
+
+Élément
+• Filament en fibre de carbone dans un tubulaire de 15 mm au Quartz.
+• Longévité de l'élément ± 8000h.
+
+Longueur d'onde
+• Onde moyenne (2 µm).
+
+Régulation
+• Régulateur intégré On/Off et télécommande à 6 réglages de chaleur.
+• L'appareil peut être câblé pour contourner la télécommande si nécessaire. (Boîte de jonction non-incluse).
+
+Certification
+• Conforme aux normes UL2021:2015 Ed.4 et C22.2 No.46 : 2013 Ed.9.
+
+Installation
+• Installation horizontale seulement.
+• Supports de fixation murale pivotant inclus.
+• Supports de fixation pour suspension au plafond disponible en option. Doit être commandé séparément (CFCEIL).
+• Distances minimales d'installation :
+-	8 pi (2.4 m) du plancher.
+-	8 po (20.3 cm) du plafond, 20 po (50.8 cm) du bout de l'appareil au mur et 20 po (50.8 cm) du côté long de l'appareil au mur.
+• Raccordement fixe dans une boîte de jonction électrique (non incluse).
+
+Garantie
+• 1 an contre tous vices.
+• - 90 jours sur l'élément (pour les applications industrielles seulement).
+
+Application
+• Chauffage d'appoint temporaire, atelier, garage, solarium, piscine et spa, balcon, terrasse, bar, restaurant, hôtel, église
+
+-------
+
+## Modèle
+
+Tableau DECOR - Chauffe-terrasse infrarouge architectural en vitrocéramique
+watts;volts;#produit;prix;L (po);L (mm);H(po);H (mm);P(po);P(mm);poids (lb);poids (kg)/15;-;-;-;po;mm;po;mm;po;mm;lb;kg/3000/2250;240/208;ADGLASS-30240B;1098.00;42.6;1082.0;6.0;152.4;5.0;127.0;17.0;7.7
+-------
+
+Tableau DECOR - Chauffe-terrasse infrarouge architectural en vitrocéramique
+#produit: en trousse;prix;description/-;-;-/CFCEIL;44.00;Supports de fixation pour suspension au plafond
+-------

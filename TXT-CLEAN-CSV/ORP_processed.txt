@@ -1,0 +1,65 @@
+# Panneau Radiant Architectural ORP
+
+## Caractéristiques
+
+### Couleur
+• Standard : blanc polaire PW.
+• Optionnelle (surcharge applicable) : Noir Therma Ray PB-0218-HT -ST.
+
+### Finition
+• Peinture en poudre de polyester haute température.
+
+### Tension
+• 120V, 208V, 240V, 277V, 347V.
+
+### Construction
+• Feuille réfléchissante utilisée pour adhérer aux éléments chauffants du panneau.
+• Isolation en laine minérale haute température, densité 4 PSF, 2 po (50.8 mm) d'épaisseur.
+• Devant et cadre du panneau en acier galvanisé de calibre 22.
+• Boîte de jonction interne avec couvercle.
+• Boîte de jonction externe en option.
+• Attache de suspension aux quatre coins du panneau (câble de suspension non-inclus).
+• Dimensions personnalisées disponibles sur demande.
+
+### Élément
+• Fil de résistance en alliage nickel-chrome, isolation PTFE répartie uniformément sur le panneau.
+
+### Densité
+• 65 à 95W/pi2 à la tension nominale.
+
+-------
+
+### Régulation
+• Circuit de commande à tension de ligne pour thermostat, minuterie ou interrupteur (non inclus, doit être compatible avec le voltage et la puissance de l'appareil).
+• Ouellet recommande fortement l'utilisation d'un thermostat électronique mural pour un meilleur confort.
+
+### Certification
+• CSA STD C22.2 No.46.
+
+### Installation
+• Suspendu au plafond ou inséré à un plafond suspendu de type «T-Bar».
+• Variété d'accessoires en option pour l'installation en surface avec un cadre SF à un plafond de gypse ou encastré avec un cadre PF.
+• Dégagement minimum de 2 po (50.8 mm) au-dessus du panneau.
+• Hauteur minimale d'installation de 7 pi (2.13 m) du plancher.
+• Relocalisation possible.
+
+### Garantie
+• 1 an sur la peinture.
+• 10 ans sur l'élément.
+
+### Application
+• Édifice commercial, immeuble de bureau, hôpital, école, garderie, résidence privée.
+
+-------
+
+## Modèles
+
+Tableau ORP - Panneau Radiant Architectural
+Watts;# Produit 120V;# Produit 208V;# Produit 240V;# Produit 347V;Prix;Poids lb;Poids kg/Panneau de 23-3/4'' x 23-3/4'';;;;;//250.0;AS2424-250-120PW;-;AS2424-250-240PW;AS2424-250-347PW;471.00;15.0;6.8/300.0;-;-;-;AS2424-300-347PW;484.00;15.0;6.8/310.0;-;AS2424-310-208PW;AS2424-310-240PW;-;484.00;15.0;6.8/335.0;AS2424-335-120PW;-;-;-;484.00;15.0;6.8/375.0;AS2424-375-120PW;AS2424-375-208PW;-;AS2424-375-347PW;484.00;15.0;6.8/Panneau de 23-3/4'' x 47-3/4'';;;;;//500.0;AS2448-500-120PW;-;AS2448-500-240PW;AS2448-500-347PW;685.00;30.0;13.6/535.0;-;AS2448-535-208PW;-;-;685.00;30.0;13.6/625.0;AS2448-625-120PW;AS2448-625-208PW;AS2448-625-240PW;-;693.00;30.0;13.6/650.0;-;-;-;AS2448-650-347PW;693.00;30.0;13.6/700.0;-;-;-;AS2448-700-347PW;693.00;30.0;13.6/725.0;-;-;AS2448-725-240PW;-;693.00;30.0;13.6/750.0;AS2448-750-120PW;AS2448-750-208PW;-;AS2448-750-347PW;693.00;30.0;13.6/Panneau de 13-3/4'' x 47-3/4'';;;;;//300.0;-;-;AS1448-300-240PW;-;471.00;18.0;8.2/350.0;AS1448-350-120PW;-;-;-;471.00;18.0;8.2/400.0;-;AS1448-400-208PW;-;AS1448-400-347PW;471.00;18.0;8.2/435.0;-;AS1448-435-208PW;AS1448-435-240PW;-;484.00;18.0;8.2/Panneau de 13-3/4'' x 59-3/4'';;;;;//350.0;AS1460-350-120PW;-;-;-;568.00;22.0;10.0/375.0;-;-;AS1460-375-240PW;-;568.00;22.0;10.0/450.0;-;AS1460-450-208PW;-;-;582.00;22.0;10.0/540.0;-;-;-;AS1460-540-347PW;582.00;22.0;10.0/550.0;-;-;AS1460-550-240PW;-;582.00;22.0;10.0
+-------
+
+## Options
+
+Tableau ORP - Panneau Radiant Architectural
+# Produit En trousse;# Produit Installée en usine*;Prix;Description/-;FC48;128.00;Conduit flexible de 48 po (121.92 cm)/PF-1448PW;-;138.00;Cadre pour installation encastré à un plafond de gypse, 14 1/8'' x 48 1/8''/PF-1460PW;-;142.00;Cadre pour installation encastré à un plafond de gypse, 14 1/8'' x 60 1/8''/PF-22PW;-;109.00;Cadre pour installation encastré à un plafond de gypse, 24 1/8'' x 24 1/8''/PF-24PW;-;117.00;Cadre pour installation encastré à un plafond de gypse, 24 1/8'' x 48 1/8''/-;WT;Sur demande;Joints en silicone incluant un conduit Sealtite® de 36 po (91.44 cm)/SF-1448PW;-;139.00;Cadre pour installation en surface à un plafond de gypse, 14'' x 48''/SF-1460PW;-;145.00;Cadre pour installation en surface à un plafond de gypse, 14'' x 60''/SF-22PW;-;108.00;Cadre pour installation en surface à un plafond de gypse, 24'' x 24''/SF-24PW;-;117.00;Cadre pour installation en surface à un plafond de gypse, 24'' x 48''
+-------

@@ -1,0 +1,97 @@
+# OSR-HA Câble chauffant autorégulant haute température ELSR-HA
+
+-------
+## Caractéristiques
+
+Surgaine
+• Fluoropolymère (BOT).
+
+Conducteur d'alimentation
+• Cuivre nickelé, 16 AWG.
+
+Température minimale de démarrage
+• -30 °C (-22 °F).
+
+Température maximale maintenue (sous tension)
+• 120 °C (248 °F).
+
+Température d'exposition continue maximale (hors tension)
+• 150 °C (302 °F), continu.
+• 200 °C (392 °F), hors tension pendant 1000 heures.
+
+Tension nominale
+• 120V, 240/208V.
+
+Rayon de courbure minimal
+• 25 mm (1 po).
+
+Température minimale d'installation
+• AO, BO : -45 °C (-49 °F).
+• BOT : -25 °C (-13 °F).
+
+Classifications
+• II 2G Ex e IIC T6 Gb II 2D Ex tb IIIC.
+• T 80 °C Db.
+• Classe I, Division 2, Groupes A, B, C, D.
+• Classe II, Division 2, Groupes E, F, G.
+• Classe III, T6.
+• Classe I, Zone 1, AEx / Exe II, T6.
+• Classe 1, Division 1, Groupes B, C, D (Contacter le manufacturier).
+
+Normes
+• CSA C22.2.130.03; -WS.
+• CAN/CSA 60079-7:12, 60079-0-11.
+• ANSI/IEEE 515, 515.
+
+Certifications
+• IECEx EPS 12.0006U.
+• 12ATEX1431U.
+• CSA C US 2547790.
+
+Classement
+• Applications extérieures et endroits humides (WS).
+
+Garantie
+• Garantie de base de 1 an sur le câble chauffant.
+
+Application
+• Protection contre le gel, réservoir, tuyaux, canalisations, industrie chimique et pétrochimique, industrie automobile, industrie alimentaire, traçage d'instrumentation
+
+-------
+## Modèles
+
+Tableau OSR-HA - Modèles
+Puissance nominale W/pi;# Produit;Surgaine/Protection mécanique;Prix/pi;Dimensions approx. du câble (mm)/;120V1, 3;240V1, 2, 3;BOT;;/3.0;ELSR-HA-3-1-BOT;ELSR-HA-3-2-BOT;✓;26.00;12.4 x 5.9/7.0;ELSR-HA-7-1-BOT;-;✓;26.00;12.4 x 5.9/10.0;ELSR-HA-10-1-BOT;ELSR-HA-10-2-BOT;✓;26.00;12.4 x 5.9/15.0;ELSR-HA-15-1-BOT;ELSR-HA-15-2-BOT;✓;26.00;12.4 x 5.9/20.0;ELSR-HA-20-1-BOT;ELSR-HA-20-2-BOT;✓;26.00;12.4 x 5.9
+-------
+
+## Longueur de circuit chauffant
+
+Tableau OSR-HA - Longueur de circuit chauffant pour le modèle ELSR-HA
+120V;;;;;/Température de démarrage;Disjoncteur Valeur nominale (A);Longueur maximale du circuit;chauffant (pi) pour;;;/;;ELSR- HA-3-1;ELSR- HA-7-1;ELSR- HA-10-1;ELSR- HA-15-1;ELSR- HA-20-1/;10.0;261.0;137.0;113.0;72.0;53.0/;15.0;391.0;205.0;169.0;108.0;79.0/;20.0;521.0;273.0;225.0;145.0;105.0/10 °C;25.0;559.0;342.0;282.0;181.0;132.0/(50 °F);;;;;;/;30.0;559.0;411.0;338.0;217.0;158.0/;35.0;559.0;411.0;374.0;253.0;184.0/;40.0;559.0;411.0;374.0;279.0;200.0/;10.0;249.0;132.0;108.0;70.0;50.0/;15.0;374.0;198.0;162.0;104.0;75.0/;20.0;499.0;264.0;216.0;139.0;100.0/0 °C;25.0;559.0;330.0;270.0;174.0;125.0/(32 °F);;;;;;/;30.0;559.0;396.0;324.0;209.0;150.0/;35.0;559.0;411.0;374.0;244.0;175.0/;40.0;559.0;411.0;374.0;279.0;200.0/;10.0;239.0;128.0;104.0;67.0;48.0/;15.0;358.0;192.0;156.0;101.0;72.0/;20.0;477.0;256.0;208.0;134.0;95.0/-10 °C;25.0;559.0;320.0;260.0;168.0;119.0/(14 °F);;;;;;/;30.0;559.0;384.0;312.0;201.0;143.0/;35.0;559.0;411.0;364.0;235.0;167.0/;40.0;559.0;411.0;374.0;269.0;191.0/;10.0;220.0;120.0;97.0;63.0;43.0/;15.0;330.0;180.0;145.0;94.0;65.0/;20.0;440.0;240.0;193.0;125.0;87.0/-30 °C;25.0;550.0;300.0;242.0;157.0;109.0/(-22 °F);;;;;;/;30.0;559.0;360.0;290.0;188.0;130.0/;35.0;559.0;411.0;338.0;220.0;152.0/;40.0;559.0;411.0;374.0;251.0;174.0
+-------
+
+Tableau OSR-HA - Longueur de circuit chauffant pour le modèle ELSR-HA (suite)
+240V;;;/Température de démarrage;Disjoncteur Valeur nominale (A);Longueur maximale du circuit;chauffant (pi) pour/;;ELSR-HA-3-2;ELSR- HA-10-2;ELSR- HA-15-2;ELSR- HA-20-2/;10.0;649.0;181.0;115.0;97.0/;15.0;973.0;271.0;173.0;146.0/;20.0;1267.0;361.0;231.0;194.0/10 °C;25.0;1267.0;452.0;288.0;243.0/(50 °F);;;;/;30.0;1267.0;542.0;346.0;291.0/;35.0;1267.0;632.0;404.0;340.0/;40.0;1267.0;716.0;461.0;389.0/;10.0;610.0;171.0;110.0;92.0/;15.0;915.0;256.0;165.0;138.0/;20.0;1220.0;341.0;220.0;184.0/0 °C;25.0;1267.0;427.0;275.0;230.0/(32 °F);;;;/;30.0;1267.0;512.0;330.0;276.0/;35.0;1267.0;597.0;385.0;322.0/;40.0;1267.0;683.0;440.0;368.0/;10.0;576.0;162.0;105.0;87.0/;15.0;864.0;243.0;158.0;131.0/;20.0;1152.0;324.0;211.0;175.0/-10 °C;25.0;1267.0;405.0;263.0;219.0/(14 °F);;;;/;30.0;1267.0;486.0;316.0;262.0/;35.0;1267.0;567.0;369.0;306.0/;40.0;1267.0;648.0;421.0;350.0/;10.0;518.0;147.0;97.0;80.0/;15.0;777.0;220.0;145.0;119.0/;20.0;1036.0;293.0;193.0;159.0/-30 °C;25.0;1267.0;367.0;242.0;199.0/(-22 °F);;;;/;30.0;1267.0;440.0;290.0;239.0/;35.0;1267.0;513.0;338.0;278.0/;40.0;1267.0;587.0;387.0;318.0
+-------
+
+## Facteurs de correction
+
+Tableau OSR-HA - Câble chauffant Multiplicateur/facteurs de correction
+Puissance nominale 208V vs. 240V;Longueur de circuit chauffant 208V vs. 240V/ELSR-HA-XX-2;0.74;1.00
+-------
+
+## Options et accessoires
+
+Tableau OSR-HA - Options
+# Produit En trousse;Prix;Description/Série OSR-NA;;/ECA-JB1;355.00;Boîte de jonction pour branchement simple, étiquette et bande de serrage/ECA-JB2;506.00;Boîte de jonction pour branchement double, étiquette et bande de serrage/EL-CLIC-P;260.00;Connecteur à branchement rapide avec raccord d'alimentation pour 1 à 3 câbles/EL-CLIC-S;247.00;Connecteur à branchement rapide pour connecter 1 à 3 câbles en ligne ou liaison froide/EL-ECN-EX1;25.00;Terminaison de fin pour ELSR-NA et ELSR-WA/EL-SPN-16;37.00;Ensemble de raccord pour connecter en ligne deux cables ELSR-NA ou une liaison froide/ELAK-3-7;626.00;Boîte de jonction avec support de montage pour environnements ordinaires et dangereux/ELVB-SRAN;46.00;Raccord d'alimentation sans connecteur/ELVB-SRAN-12-PA;64.00;Raccord d'alimentation avec connecteur en plastique/PA12, 1/2" NPT, emplacements ordinaires/ELVB-SRAN-34-PA;67.00;Raccord d'alimentation avec connecteur en plastique/PA12, 3/4" NPT, emplacements ordinaires/ELVB-SRAN-34-ST;80.00;Raccord d'alimentation avec connecteur en zinc/acier, 3/4" NPT, emplacements ordinaires/ELVB-SREX-34-HT1;216.00;Raccord d'alimentation avec connecteur plaqué de nickel 3/4" NPT, emplacements dangereux/ELVB-SREX-M20-HT1;192.00;Raccord d'alimentation avec connecteur plaqué de nickel, M20, emplacements dangereux/EX-IT-LAG;525.00;Dispositif de terminaison de ligne avec voyant DEL vert et trousse de terminaison. NEMA 4X pour emplacements ordinaires./EX-IT-LAR;525.00;Dispositif de terminaison de ligne avec voyant DEL rouge et trousse de terminaison. NEMA 4X pour emplacements ordinaires./KIT-OSR-DRD-120V;1521.00;Trousse pour déglaçage de drain de toit plat avec 50' câble OSR-NA 120V 7w/pi (ELSR-NA-7-1-BO)/KIT-OSR-DRD-240V;1521.00;Trousse pour déglaçage de drain de toit plat avec 50' câble OSR-NA 240V 8w/pi (ELSR-NA-8-2-BO)/KIT-OSR-ELSR-NA;92.00;Kit de terminaison et de raccord d'alimentation avec étiquette d'avertissement Série NA/Série OSR-MA (surgaine AO et BO);;/EL-ECM1;24.00;Terminaison de fin pour ELSR-MA/ELVB-SRAM;46.00;Raccord d'alimentation sans connecteur/ELVB-SRAM-34-ST;80.00;Raccord d'alimentation avec connecteur en zinc/acier, 3/4" NPT, emplacements ordinaires/KIT-OSR-ELSR-MA;92.00;Kit de terminaison et de raccord d'alimentation avec étiquette d'avertissement Série MA/Série OSR-MA (surgaine BF);;/EL-ECMF2;34.00;Terminaison de fin pour ELSR-MA-BF/ELVB-SRAM-34-ST;80.00;Raccord d'alimentation avec connecteur en zinc/acier, 3/4" NPT, emplacements ordinaires/KIT-OSR-ECA-MABF-PH-FIT;56.00;Connecteur de plomberie laiton 3/4'' NPT emplacement ordinaire pour câble MA-BF/KIT-OSR-ELSR-MA-BF;104.00;Kit de terminaison et de raccord d'alimentation avec étiquette d'avertissement Série BF/KIT-OSR-MABF-PH-1-CTSOD3;107.00;Trousse de raccord de plomberie rapide pour tuyau de polyéthylène CTS de 1" OD pour câble MA-BF/KIT-OSR-MABF-PH-114-CTSOD3;125.00;Trousse de raccord de plomberie rapide pour tuyau de polyéthylène CTS de 1 1/4" OD pour câble MA-BF/KIT-OSR-MABF-PH-112-CTSOD3;163.00;Trousse de raccord de plomberie rapide pour tuyau de polyéthylène CTS de 1 1/2" OD pour câble MA-BF/KIT-OSR-MABF-PH-34-ID3;96.00;Trousse de raccord de plomberie rapide pour tuyau de polyéthylène de 3/4" ID pour câble MA-BF/KIT-OSR-MABF-PH-1-ID3;125.00;Trousse de raccord de plomberie rapide pour tuyau de polyéthylène de 1" ID pour câble MA-BF/KIT-OSR-MABF-PH-114-ID3;141.00;Trousse de raccord de plomberie rapide pour tuyau de polyéthylène de 1 1/4" ID pour câble MA-BF/KIT-OSR-MABF-PH-112-ID3;227.00;Trousse de raccord de plomberie rapide pour tuyau de polyéthylène de 1 1/2" ID pour câble MA-BF/Série OSR-WA;;/EL-CLIC-P;260.00;Connecteur à branchement rapide avec raccord d'alimentation pour 1 à 3 câbles/EL-CLIC-S;247.00;Connecteur à branchement rapide pour connecter 1 à 3 câbles en ligne ou liaison froide/EL-ECN-EX1;25.00;Terminaison de fin pour ELSR-NA et ELSR-WA/ELVB-SRAW;55.00;Raccord d'alimentation sans connecteur/ELVB-SRAW-34-ST;88.00;Raccord d'alimentation avec connecteur en zinc/acier, 3/4" NPT, emplacements ordinaires/KIT-OSR-ELSR-WA;95.00;Kit de terminaison et de raccord d'alimentation avec étiquette d'avertissement Série WA/Série OSR-HA;;/ECA-JB1;355.00;Boîte de jonction pour branchement simple, étiquette et bande de serrage/ECA-JB2;506.00;Boîte de jonction pour branchement double, étiquette et bande de serrage/EL-ECH-EX1;25.00;Terminaison de fin pour ELSR-HA/ELAK-3-7;626.00;Boîte de jonction avec support de montage pour environnements ordinaires et dangereux/ELVB-SRAH;46.00;Raccord d'alimentation sans connecteur/ELVB-SRAH-34-ST;80.00;Raccord d'alimentation avec connecteur en zinc/acier, 3/4" NPT, emplacements ordinaires/ELVB-SREX-34-HT1;216.00;Raccord d'alimentation avec connecteur plaqué de nickel 3/4" NPT, emplacements dangereux/ELVB-SREX-M20-HT1;192.00;Raccord d'alimentation avec connecteur plaqué de nickel, M20, emplacements dangereux/EX-IT-LAG;525.00;Dispositif de terminaison de ligne avec voyant DEL vert et trousse de terminaison. NEMA 4X pour emplacements ordinaires./EX-IT-LAR;525.00;Dispositif de terminaison de ligne avec voyant DEL rouge et trousse de terminaison. NEMA 4X pour emplacements ordinaires./KIT-OSR-ELSR-HA;92.00;Kit de terminaison et de raccord d'alimentation avec étiquette d'avertissement Série HA
+-------
+
+Tableau OSR-HA - Options (suite)
+# Produit;Prix;Description/En trousse;;/Toutes les séries OSR;;/Multi-applications;;/KIT-OSR-EL-WS03;2.00;Étiquette de signalisation bilingue (Anglais / Français)/Toitures et gouttières;;/ELB-20;14.00;Plaque de fixation 90° en acier inoxydable pour tuyau de descente de gouttière avec attaches en plastique (de type «tie-wrap»)/ELB-21;18.00;Plaque de fixation en acier inoxydable pour gouttière avec attaches en plastique (de type «tie-wrap»)/ELB-RCLIP;44.00;Attaches de toiture pour câble, qté 25/Traçage des tuyaux;;/ELB-02B;61.00;Ruban autocollant en tissu de fibre de verre, temp. max. = 90 °C (194 °F), 165 pi (50 m)/ELB-06;57.00;Ruban autocollant en aluminium, temp. max. 140 °C (284 °F) 165 pi (50 m)/ELB-06C;46.00;Ruban autocollant en aluminium, temp. max. = 80 °C (176 °F), 165 pi (50 m)
+-------
+
+## Contrôles
+
+Tableau OSR-HA - Contrôles
+Options de contrôleur pour déglaçage de toitures et gouttières;/DS-2C1;889.00;Sonde et contrôleur à montage aérien pour détecter l'humidité et la température 30A : 100V à 277V, 20A : 28VDC/DS-8C1;953.00;Sonde et contrôleur à montage aérien pour détecter la température ainsi qu'une sonde pour détecter l'humidité avec 10 pi (3 m) de câble 30A 100V à 277V/DS-9C1;953.00;Sonde et contrôleur à montage aérien pour détecter la température ainsi qu'une sonde pour détecter l'humidité avec 10 pi (3 m) de câble 2 x 30A 100V à 277V/EX-50;257.00;Trousse d'extension de 50 pi (15 m) avec raccord de connexion pour sonde d'humidité/CDP-2;291.00;Contrôleur et afficheur intérieur pour les produits DS/ETO21;825.00;Contrôleur électronique bizone 1 zone : 3 x 16A, 2 zones : 2 x 16A, 120V à 240V/ETF-744-99;206.00;Sonde extérieure 24V pour détecter la température/ETOR-55;401.00;Sonde de gouttière pour détecter l'humidité avec câble de 33 pi (10 m)/Options de contrôleur pour traçage des tuyaux pour usage en environnement ordinaire;/ECA-E55-R25HT1;1620.00;Thermostat SPDT NEMA 4X boîtier en aluminium moulé 22A à 120/250/480V avec bulbe et capillaire en acier inoxydable de 10 pi (3 m)/TPR-L1N-3X-Q101;495.00;Thermostat SPDT NEMA 4X boîtier en polycarbonate 22A à 120/250/480V avec bulbe et capillaire en cuivre étamé de 3 pi (1 m)/TPR-L1N-10X-Q101;645.00;Thermostat SPDT NEMA 4X boîtier en polycarbonate 22A à 120/250/480V avec bulbe et capillaire en cuivre étamé de 10 pi (3 m)/TRF115-0051;174.00;Thermostat SPDT NEMA 4X plage de -17 °C à 49 °C (0 °F à 120 °F) 25A à 120/208/240/277V avec bulbe et capillaire en acier inoxydable de 5 pi (1.5 m)/TRF115-0071;179.00;Thermostat SPDT NEMA 4X plage de -35 °C à 38 °C (-30 °F à 100 °F) 25A à 120/208/240/277V avec bulbe et capillaire en cuivre de 8 pi (2.4 m)/ELTC-14-RTD1;898.00;Contrôle de température digital 20A à 90-260V inclus RTD 3 fils (Pt-100) élément sensitif de 5 x 50 mm avec fils d'alimentation en fluoropolymère de 5 m plage de 0 °C à 250 °C (32 °F à 482 °F). Convient pour une utilisation avec les panneaux GFEP/GPT-130;1608.00;Contrôleur à point unique pour câbles chauffants de traçage NEMA 4X IP66 100-277V 30A avec GFEP 30 mA intégré et câble de 20 pieds (6 m), 100k ohms à 25 °C (77 °F) thermistance. Plage de -40 °C à 110 °C (-40 °F à 230 °F)/S1-A;2964.00;Contrôleur électronique NEMA 4X IP67 à point unique pour câbles chauffants de traçage avec GFEP 30 mA, thermistance de 10K ohms, 30A @ 100-277V, Wi-Fi, Ethernet, fonctionnalité Modbus et BACnet3/S1-B;2054.00;Contrôleur électronique NEMA 4X IP67 à point unique pour câbles chauffants de traçage avec GFEP 30 mA, thermistance de 10K ohms, 30A @ 100-277V, Wi-Fi, Ethernet/GATEWAY-PCKG;4524.00;Passerelle BACnet dans boîtier NEMA 4X 24VDC avec alimentation et transformateur 24VDC pour la Série S1/GATEWAY;3276.00;Passerelle BACnet 24VDC seulement pour la Série S1/Options de contrôleur pour traçage des tuyaux pour usage en environnement dangereux;/E121-132731;1664.00;Thermostat SPDT anti-déflagrant NEMA 4X 7, 9 et IP66 en aluminium moulé peint à l'époxy 22A@120-480V avec bulbe et capillaire de 10' (3 m) en acier inoxydable/TM-1SIH1-E5-RTD-A1;2395.00;Thermostat électronique DDFT simple circuit à 120V TraceMateTM I, 30A/TM-1DIH2-E5-RTD-A1;2851.00;Thermostat électronique DDFT simple circuit à 240/208V TraceMateTM I, 30A/TM-2SIH1-E5-RTD;4015.00;Thermostat électronique DDFT double circuit à 120V TraceMateTM II, 2 x 30A/TM-2DIH2-E5-RTD;4809.00;Thermostat électronique DDFT double circuit à 240/208V TraceMateTM II, 2 x 30A/MS-21012;4672.00;Contrôleur DDFT électronique simple circuit double pôle MasterTrace 85V à 300V 30A avec interface utilisateur/MS-21022;5617.00;Contrôleur DDFT électronique double circuit simple pôle MasterTrace 120V ou 277V 30A avec interface utilisateur/RTD-7;406.00;Sonde RTD pour contrôleur MasterTrace/Options de panneau de contrôle;/SR-4CIR-240;5876.00;Panneau de contrôle GFEP 4 circuits 30A 240V avec contacteur et transfo. de contrôle 240-120V (HxLxP : 20x16x8 po)/SR-6CIR-240;6396.00;Panneau de contrôle GFEP 6 circuits 30A 240V avec contacteur et transfo. de contrôle 240-120V (HxLxP : 20x16x8 po)/SR-8CIR-240;6994.00;Panneau de contrôle GFEP 8 circuits 30A 240V avec contacteur et transfo. de contrôle 240-120V (HxLxP : 24x20x8 po)/SR-12CIR-240;8138.00;Panneau de contrôle GFEP 12 circuits 30A 240V avec contacteur et transfo. de contrôle 240-120V (HxLxP : 24x24x8 po)
+-------

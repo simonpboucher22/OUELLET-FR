@@ -1,0 +1,136 @@
+# ODB Plinthe coupe-brise en aluminium
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+• Optionnelle : aluminium anodisé.
+
+### Tension
+• 120V, 208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.
+
+### Construction
+• Devant en aluminium de calibre 14 (0.0787 po [2 mm]).
+• Boîtier en acier satiné de calibre 18.
+• Assemblage vissé pour une plus grande robustesse.
+• Canalisation de câblage intégrée pleine longueur.
+• Ouvertures inférieures à 1/4 po (6.4 mm) évitant l'intrusion de petits objets à l'intérieur.
+• Entrée d'air frais par l'avant; sortie d'air chaud par le dessus.
+- Entrée d'air frais par le dessous (-BAI) en option.
+• Finition unie du dos de l'appareil (-BD) en option.
+• Protection thermique linéaire pleine longueur, à réenclenchement automatique.
+Protection thermique pour la haute altitude (-HA) en option.
+• Bouts inclus.
+
+### Élément
+• Élément tubulaire en acier recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+-------
+
+### Densité
+• Densité moyenne standard de 275W/pi.
+• Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.
+
+### Régulation
+• Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+• Relais mécanique, relais électronique ou relais pneumatique en option (installation du côté droit seulement).
+Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+• L'appareil doit être installé à 2 po (51 mm) au-dessus du plancher (pour l'option -BAI).
+• Trous de montage espacés de 4 po (102 mm) afin de faciliter la pose.
+• Installation au plancher ou au mur.
+• Variété d'accessoires pour l'installation en continu en option.
+• Trousse de piédestals en option.
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Édifice commercial, immeuble de bureaux, hôpital, école, résidence privée.
+
+-------
+
+Tableau ODB - Plinthe coupe-brise en aluminium
+Watts;# Produit;;;;Watts 240/208V1;# Produit 240/208V;Prix;Longueur;;Poids;
+;120V;208V;347V;600V;;;po;mm;lb;kg
+500.0;ODB0502;ODB0508;ODB0507;-;500/375;ODB0500;542.00;29.0625;738.0;8.0;3.6
+750.0;ODB0752;ODB0758;ODB0757;ODB0756;750/563;ODB0750;589.00;39.0625;992.0;10.4;4.7
+1000.0;ODB1002;ODB1008;ODB1007;ODB1006;1000/750;ODB1000;647.00;49.3125;1253.0;12.8;5.8
+1250.0;ODB1252;ODB1258;ODB1257;ODB1256;1250/938;ODB1250;709.00;58.8125;1494.0;15.1;6.8
+1500.0;ODB1502;ODB1508;ODB1507;ODB1506;1500/1125;ODB1500;784.00;67.5;1715.0;17.2;7.8
+1750.0;-;ODB1758;ODB1757;ODB1756;1750/1313;ODB1750;866.00;76.875;1952.0;19.4;8.8
+2000.0;-;ODB2008;ODB2007;ODB2006;2000/1500;ODB2000;961.00;85.625;2175.0;21.5;9.7
+2250.0;-;ODB2258;ODB2257;ODB2256;2250/1688;ODB2250;1065.00;94.5;2400.0;23.6;10.7
+2500.0;-;ODB2508;ODB2507;ODB2506;2500/1875;ODB2500;1187.00;103.625;2632.0;25.8;11.7
+-------
+
+Tableau ODB - Modèles à basse densité moyenne
+# Produit2;Prix;Longueur;Poids;Densité moyenne W/pi;Watts;Watts 240/208V1;120V;208V;240/208V;347V;600V
+ODB020X-738;;29 1/16";8.0 lb;100.0;200.0;200/150;✓;✓;✓;-;-
+ODB030X-738;542.00;(738 mm);(3.6 kg);150.0;300.0;300/225;✓;✓;✓;-;-
+ODB040X-738;;;200.0;400.0;400/300;✓;✓;✓;✓;-
+ODB030X-992;;39 1/16";10.4 lb;100.0;300.0;300/225;✓;✓;✓;✓;-
+ODB045X-992;589.00;(992 mm);(4.7 kg);150.0;450.0;450/338;✓;✓;✓;✓;-
+ODB060X-992;;;200.0;600.0;600/450;✓;✓;✓;✓;-
+ODB040X-1253;;49 5/16";12.8 lb;100.0;400.0;400/300;✓;✓;✓;✓;-
+ODB060X-1253;647.00;(1253 mm);(5.8 kg);150.0;600.0;600/450;✓;✓;✓;✓;-
+ODB080X-1253;;;200.0;800.0;800/600;✓;✓;✓;✓;✓
+ODB050X-1494;;58 13/16";15.1 lb;100.0;500.0;500/375;✓;✓;✓;✓;-
+ODB075X-1494;709.00;(1494 mm);(6.8 kg);150.0;750.0;750/563;✓;✓;✓;✓;✓
+ODB100X-1494;;;200.0;1000.0;1000/750;✓;✓;✓;✓;✓
+ODB060X-1715;;67 1/2";17.2 lb;100.0;600.0;600/450;✓;✓;✓;✓;✓
+ODB090X-1715;784.00;(1715 mm);(7.8 kg);150.0;900.0;900/675;✓;✓;✓;✓;✓
+ODB120X-1715;;;200.0;1200.0;1200/900;✓;✓;✓;✓;✓
+ODB070X-1952;;76 7/8";19.6 lb (8.8kg);100.0;700.0;700/525;✓;✓;✓;✓;✓
+ODB105X-1952;866.00;(1952 mm);;150.0;1050.0;1050/788;✓;✓;✓;✓;✓
+ODB140X-1952;;;200.0;1400.0;1400/1050;✓;✓;✓;✓;✓
+ODB080X-2175;;85 5/8";21.5 lb;100.0;800.0;800/600;✓;✓;✓;✓;✓
+ODB120X-2175;961.00;(2175 mm);(9.7 kg);150.0;1200.0;1200/900;✓;✓;✓;✓;✓
+ODB160X-2175;;;200.0;1600.0;1600/1200;-;✓;✓;✓;✓
+ODB090X-2400;;94 1/2";23.6 lb;100.0;900.0;900/675;✓;✓;✓;✓;✓
+ODB135X-2400;1065.00;(2400 mm);(10.7 kg);150.0;1350.0;1350/1013;-;✓;✓;✓;✓
+ODB180X-2400;;;200.0;1800.0;1800/1350;-;✓;✓;✓;✓
+ODB100X-2632;;;100.0;1000.0;1000/750;✓;✓;✓;✓;✓
+ODB150X-2632;1187.00;103 5/8";26.8 lb;150.0;1500.0;1500/1125;-;✓;✓;✓;✓
+ODB200X-2632;;(2632 mm);(11.7 kg);200.0;2000.0;2000/1500;-;✓;✓;✓;✓
+ODB225X-2632;;;200.0;2250.0;2250/1688;-;✓;✓;✓;✓
+-------
+
+Tableau ODB - Options
+# Produit En trousse;# Produit Installée en usine*;Prix;Description
+-;BAI;Sans frais;Entrée d'air par le dessous
+-;BD1;0.1;Finition unie du dos de l'appareil
+KIT-ODB-CE;-;479.00;Coin extérieur, 4 po (102 mm)
+KIT-ODB-CI;-;479.00;Coin intérieur, 4 po (102 mm)
+KIT-ODB-JT;-;111.00;Joint de finition, 2 po (51 mm)
+KIT-ODB-JT-PE;-;123.00;Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)
+KIT-ODB-PE;-;161.00;Trousse de piédestals ronds (2), 3 po (76 mm)
+KIT-ODB-PEC;-;161.00;Trousse de piédestals carrés (2), 2 po (51 mm)
+ODB-SV-XX;-;Sur demande;Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2632 mm)
+KIT-ODB-DIS204;DIS204;172.00;Interrupteur principal, 20A à 277V max.
+KIT-ODB-DIS404;DIS404;211.00;Interrupteur principal, 40A à 600V max.
+-;HA;Sans frais;Protection thermique pour la haute altitude (3000 pi à 8200 pi)
+-;PM;410.00;Relais pneumatique, 20A à 600V max.
+KIT-ODB-R-347;R;175.00;Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V
+KIT-ODB-R-600;R;182.00;Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V
+KIT-ODB-RT-120;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V
+KIT-ODB-RT-208;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V
+KIT-ODB-RT-240;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V
+KIT-ODB-RT-277;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V
+KIT-ODB-RT-347;RT;189.00;Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V
+KIT-ODB-RT-6002;RT2;195.00;Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)
+KIT-ODB-TB6;TB6;154.00;Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODB-TB263;TB263;250.00;Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODB-TB6-AV;TB6AV;154.00;Thermostat bimétallique, unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODB-TB26-AV3;TB26AV3;250.00;Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODB-TRIAC-347;TRIAC;77.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.
+KIT-ODB-TRIAC-347T;TRIACT;105.00;Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V
+KIT-ODB-TRIAC-600;TRIAC;135.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.
+-------

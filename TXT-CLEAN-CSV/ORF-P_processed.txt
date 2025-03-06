@@ -1,0 +1,53 @@
+# ORF-P Câble chauffant à résistance fixe 120V préassemblé pour tuyaux
+
+## Caractéristiques
+Tension nominale
+• 120V.
+
+Densité linéaire
+• 7 Watts par pied.
+
+Longueur de la liaison froide
+• 30 po (0.76 m).
+
+Surgaine
+• PVC.
+
+Conducteur d'alimentation
+• Cuivre nickelé.
+
+Rayon de courbure minimal
+• 5/16 po (8 mm).
+
+-------
+
+## Matériel inclus
+• Thermostat bimétallique intégré active le câble lorsque la température baisse sous 4 °C (40 °F).
+• Fiche à 3 bornes avec mise à la terre et témoin lumineux indiquant la mise sous tension du câble.
+
+## Installation
+• Ne jamais couper ni tenter de raccourcir le câble.
+• Installation sous l'isolation d'un tuyau.
+• Pour applications intérieures et extérieures.
+• Température minimale d'installation : 0 °C (34 °F).
+
+## Garantie
+• Garantie de base de 1 an sur le câble chauffant.
+
+## Application
+• Tuyau métallique et non métallique.
+• Aide à prévenir les dommages causés par un tuyau gelé.
+
+-------
+
+Tableau ORF-P - Câble chauffant à résistance fixe 120V préassemblé pour tuyaux
+Produit;Prix;Longueur pi;Longueur m;Watts/ORF-P003;32.00;3.0;0.9;21.0/ORF-P006;34.00;6.0;1.8;42.0/ORF-P009;41.00;9.0;2.7;63.0/ORF-P012;42.00;12.0;3.7;84.0/ORF-P015;43.00;15.0;4.6;105.0/ORF-P018;47.00;18.0;5.5;126.0/ORF-P024;60.00;24.0;7.3;168.0/ORF-P030;64.00;30.0;9.0;210.0/ORF-P040;88.00;40.0;12.2;280.0/ORF-P060;111.00;60.0;18.3;420.0/ORF-P080;134.00;80.0;24.4;560.0
+-------
+
+Note: Doit être branché dans une prise 120V munie d'un dispositif de détection de fuite à la terre (DDFT).
+
+-------
+
+Tableau ORF-P - Produits en trousse
+Produit En trousse;Prix;Description/ELB-02B;61.00;Ruban autocollant en tissu de fibre de verre, temp. max. = 90 °C (194 °F), 50 m (165 pi)/ELB-06C;46.00;Ruban autocollant en aluminium, temp. max. = 80 °C (176 °F), 50 m (165 pi)
+-------

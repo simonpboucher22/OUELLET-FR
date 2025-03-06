@@ -1,0 +1,70 @@
+# ORA-HX Rideau d'air commercial HX Range
+
+## Caractéristiques
+
+### Modèle
+• Chauffant électrique.
+• Sans chauffage.
+
+### Couleur
+• Standard : blanc.
+• Couleurs sur mesure disponibles sur demande (Charte RAL).
+
+### Tension
+• 208V, 240/208V, 480V, 600V, 60 Hz.
+
+### Construction
+• Boîtier en acier avec embouts en plastique résistant.
+• Accès rapide aux composantes internes par le panneau frontal qui facilite l'entretien et le branchement.
+• Protection thermique à réenclenchement automatique.
+
+### Ventilateur
+• Ventilateurs à cage d'écureuil.
+
+### Élément
+• Élément produisant une chaleur instantanée (modèle chauffant électrique).
+
+-------
+
+### Régulation
+• Contrôle Ecopower inclus (câble de commande RJ9 de 20 pi (6m) inclus).
+• Interrupteur de porte inclus.
+• Compatible avec le Système de Gestion du Bâtiment.
+• Programmation personnalisée du rideau d'air.
+
+### Installation
+• Hauteur maximum d'installation :
+  - Montage en surface au mur : 11.48 pi (3.5 m) du plancher.
+  - Montage encastré : 11.48 pi (3.5 m) du plancher.
+• Montage en surface au mur : support inclus.
+• Montage suspendu : fixations incluses pour tiges filetées 3/8 po x 20 UNC (tiges non fournies).
+• Montage encastré : grille à charnière incluse pour faciliter l'installation et l'entretien.
+• Trousse de raccordement, disponible en option, pour connexion de plusieurs appareils installés en surface.
+
+### Garantie
+• 2 ans contre tous vices.
+
+### Application
+• Vestibule, édifice commercial, hall d'entrée, porte de service, hôpital et entrée de magasin.
+
+-------
+
+## Modèles
+
+Tableau ORA-HX - Rideau d'air commercial HX Range
+Volts (ph);# Produit1;Modèles standards;Couleurs sur mesure (charte RAL)1;kW Lo/Hi;Amp.;pcm;Vélocité max (pi/min);dBA à 3 m;Longueur effective du flux d'air;Poids/;;;;;;;;po;mm;lb;kg
+Montage en surface/Chauffant électrique/600 (3) + 208 ou 2402;HX1000ENTECO600V;8992.00;11628.00;45820.0;13.0;900.0;1500.0;60/58/54;43.0;1100.0;101.0;46.0/600 (3) + 208 ou 2402;HX1500ENTECO600V;12134.00;14770.00;46009.0;19.3;1315.0;1500.0;60/56/53;64.0;1630.0;148.0;67.0/600 (3) + 208 ou 2402;HX2000ENTECO600V;14824.00;17460.00;46015.0;25.9;1735.0;1500.0;60/58/54;85.0;2150.0;185.0;84.0/480 (3) + 208 ou 2402;HX1000ENTECO480V;8992.00;11628.00;45820.0;15.9;900.0;1500.0;60/58/54;43.0;1100.0;101.0;46.0/480 (3) + 208 ou 2402;HX1500ENTECO480V;12134.00;14770.00;46009.0;23.7;1315.0;1500.0;60/56/53;64.0;1630.0;148.0;67.0/480 (3) + 208 ou 2402;HX2000ENTECO480V;14824.00;17460.00;46015.0;31.7;1735.0;1500.0;60/58/54;85.0;2150.0;185.0;84.0/208 (3);HX1000ENTECO208V;8992.00;11628.00;45820.0;36.0;790.0;1500.0;58/54/50;43.0;1100.0;101.0;46.0/208 (3);HX1500ENTECO208V;12134.00;14770.00;46009.0;54.0;1155.0;1500.0;58/52/49;64.0;1630.0;148.0;67.0/208 (3);HX2000ENTECO208V;14824.00;17460.00;46015.0;72.0;1520.0;1500.0;58/54/50;85.0;2150.0;185.0;84.0/Sans chauffage/208/240 (1)3;HX1000ANTECO208-230V;6847.00;9485.00;-;1.4;900.0;1500.0;60/58/54;43.0;1100.0;99.0;45.0/208/240 (1)3;HX1500ANTECO208-230V;9218.00;11852.00;-;2.0;1315.0;1500.0;60/56/53;64.0;1630.0;146.0;66.0/208/240 (1)3;HX2000ANTECO208-230V;11307.00;13937.00;-;2.8;1735.0;1500.0;60/58/54;85.0;2150.0;176.0;80.0/Montage encastré/Chauffant électrique/600 (3) + 208 ou 2402;HX1000ERECO600V;10723.00;12600.00;45820.0;13.0;900.0;1500.0;60/58/54;43.0;1100.0;101.0;46.0/600 (3) + 208 ou 2402;HX1500ERECO600V;14456.00;16438.00;46009.0;19.3;1315.0;1500.0;60/56/53;64.0;1630.0;148.0;67.0/600 (3) + 208 ou 2402;HX2000ERECO600V;17666.00;19753.00;46015.0;25.9;1735.0;1500.0;50/58/54;85.0;2150.0;185.0;84.0/480 (3) + 208 ou 2402;HX1000ERECO480V;10723.00;12600.00;45820.0;15.9;900.0;1500.0;60/58/54;43.0;1100.0;101.0;46.0/480 (3) + 208 ou 2402;HX1500ERECO480V;14456.00;16438.00;46009.0;23.7;1315.0;1500.0;60/56/53;64.0;1630.0;148.0;67.0/480 (3) + 208 ou 2402;HX2000ERECO480V;17666.00;19753.00;46015.0;31.7;1735.0;1500.0;50/58/54;85.0;2150.0;185.0;84.0/208 (3);HX1000ERECO208V;10723.00;12600.00;45820.0;36.0;790.0;1500.0;58/54/50;43.0;1100.0;101.0;46.0/208 (3);HX1500ERECO208V;14456.00;16438.00;46009.0;54.0;1155.0;1500.0;58/52/49;64.0;1630.0;148.0;67.0/208 (3);HX2000ERECO208V;17666.00;19753.00;46015.0;72.0;1520.0;1500.0;58/54/50;85.0;2150.0;185.0;84.0/Sans chauffage/208/240 (1)3;HX1000ARECO208-230V;8141.00;10018.00;-;1.4;900.0;1500.0;60/58/54;43.0;1100.0;99.0;45.0/208/240 (1)3;HX1500ARECO208-230V;10973.00;12955.00;-;2.0;1315.0;1500.0;60/56/53;64.0;1630.0;146.0;66.0/208/240 (1)3;HX2000ARECO208-230V;13398.00;15489.00;-;2.8;1735.0;1500.0;60/58/54;85.0;2150.0;176.0;80.0
+-------
+
+### Notes importantes
+1. Pour commander une couleur sur mesure de la charte RAL àjouter «-SP» à la fin du # Produit et indiquer le numéro de la couleur sur la commande. Contacter notre service à la clientèle pour connaître les délais de livraison.
+2. IMPORTANT : Les modèles de 600V et 480V nécessitent 2 sources de puissance (Ex. : 600V+208V ou 230V) ou l'ajout d'un transformateur externe (Ex. : 600V/240V). Le nombre de VA requis varie selon les modèles : HX1000 = 500VA, HX1500 = 750VA et HX2000 = 1000VA.
+3. Hauteur maximum d'installation lorsque branché à 208V est de 9.84 pi (3 m).
+
+-------
+
+## Options
+
+Tableau ORA-HX - Rideau d'air commercial HX Range
+# Produit En trousse;Prix;Description/ORA-EEPROM;54.00;Mémoire EEPROM/ORA-RS-485;359.00;Adaptateur USB pour câble RS-485/T7263627;166.00;Carte de programmation/T5951001;33.00;Câble d'appareil maître/esclave : 9.84 pi (3 m)/T5951050;108.00;Rallonge électrique Ecopower : 32.80 pi (10 m)/T5951060;127.00;Rallonge électrique Ecopower : 49.21 pi (15 m)/T5951020;245.00;Rallonge électrique Ecopower : 98.42 (30 m)/T5951030;33.00;Coupleur
+-------

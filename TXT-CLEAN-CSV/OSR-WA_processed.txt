@@ -1,0 +1,69 @@
+# OSR-WA Câble chauffant autorégulant moyenne température ELSR-WA
+
+## Caractéristiques
+Surgaine
+• Thermoplastique (AO, BO).
+
+Conducteur d'alimentation
+• Cuivre nickelé.
+
+Température minimale de démarrage
+• -30 °C (-22 °F).
+
+Température maximale maintenue (sous tension)
+• 80 °C (176 °F).
+
+Température d'exposition continue maximale (hors tension)
+• 90 °C (194 °F).
+
+Tension nominale
+• 120V, 240/208V.
+
+Rayon de courbure minimal
+• 20 mm (3/4 po).
+
+Température minimale d'installation
+• -45 °C (-49 °F).
+
+-------
+
+## Classifications
+• Classe I, Zone 1, AEx / Ex e II, T5.
+• Classe I, Division 2, Groupes A, B, C, D.
+• Classe II, Division 1, Groupes E, F, G.
+• Classe III, Division 1.
+
+## Normes
+• IEEE 515, CSA 22.2 130.03.
+
+## Certification
+• FM CUS 3050047.
+
+## Classement
+• Applications extérieures et endroits humides (WS).
+
+## Garantie
+• Garantie de base de 1 an sur le câble chauffant.
+
+## Application
+• Protection contre le gel des conduits de chauffage, conduites d'eau usée dans les cuisines, chauffage de conduites à graisse, industrie alimentaire, installations d'alimentation d'eau chaude
+
+-------
+
+## Modèles
+
+Tableau OSR-WA - Câble chauffant autorégulant moyenne température ELSR-WA
+Applications;Puissance nominale W/pi;# Produit;Surgaine/Protection mécanique;Dimensions approx. du câble (mm)/;;120V1, 3;240V1, 2, 3;AO;Prix/pi;BO;Prix/pi;/Sur conduite d'eau;3.0;ELSR-WA-55-1-XX;ELSR-WA-55-2-XX;✓;9.75;✓;11.00;13.8 x 5.6/Sur conduite d'eau;5.0;ELSR-WA-65-1-XX;ELSR-WA-65-2-XX;✓;9.75;✓;11.00;13.8 x 5.6/Sur conduite d'huile et de graisse;7.0;ELSR-WA-65-1-XX;ELSR-WA-65-2-XX;✓;9.75;✓;11.00;13.8 x 5.6
+-------
+
+## Longueur de circuit chauffant pour le modèle ELSR-WA
+
+Tableau OSR-WA - Câble chauffant autorégulant moyenne température ELSR-WA
+;120V;;;;240V;;/Température de démarrage;Disjoncteur Valeur nominale (A);Longueur maximale du circuit chauffant (pi) pour;;;Température de démarrage;Disjoncteur Valeur nominale (A);Longueur maximale du circuit chauffant (pi) pour;/;;ELSR-WA-55-1;ELSR-WA-65-1;;;;ELSR-WA-55-2;ELSR-WA-65-2/;10.0;144.0;97.0;;;10.0;231.0;149.0/;15.0;219.0;145.0;;;15.0;348.0;226.0/10 °C;20.0;246.0;194.0;;10 °C;20.0;430.0;302.0/(50 °F);;;;;;/;25.0;246.0;198.0;;;25.0;430.0;348.0/;30.0;246.0;198.0;;;30.0;430.0;348.0/;10.0;131.0;87.0;;;10.0;207.0;136.0/;15.0;197.0;133.0;;;15.0;312.0;203.0/0 °C;20.0;233.0;176.0;;0 °C;20.0;405.0;272.0/(32 °F);;;;;;/;25.0;233.0;189.0;;;25.0;405.0;326.0/;30.0;233.0;189.0;;;30.0;405.0;326.0/;10.0;118.0;81.0;;;10.0;187.0;123.0/;15.0;180.0;121.0;;;15.0;279.0;184.0/-10 °C;20.0;221.0;160.0;;-10 °C;20.0;372.0;247.0/(14 °F);;;;;;/;25.0;221.0;180.0;;;25.0;384.0;310.0/;30.0;221.0;180.0;;;30.0;384.0;312.0/;10.0;102.0;68.0;;;10.0;158.0;105.0/;15.0;153.0;103.0;;;15.0;237.0;160.0/-30 °C;20.0;202.0;139.0;;-30 °C;20.0;315.0;212.0/(-22 °F);;;;;;/;25.0;203.0;167.0;;;25.0;353.0;263.0/;30.0;203.0;167.0;;;30.0;353.0;286.0
+-------
+
+## Multiplicateur/facteurs de correction Eltherm® pour utilisation des câbles chauffants à 208V
+
+Tableau OSR-WA - Câble chauffant autorégulant moyenne température ELSR-WA
+Câble chauffant Multiplicateur/facteurs de correction;Puissance nominale 208V vs. 240V;Longueur;;;;;/;de circuit chauffant 208V vs. 240V;;;;;/ELSR-WA-XX-2;0.80;1.00;;;;;
+-------

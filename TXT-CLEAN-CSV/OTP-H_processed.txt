@@ -1,0 +1,75 @@
+# Thermopompe simple zone Harmony sans conduit de ventilation (OTP-H)
+
+## Caractéristiques
+
+Mode de fonctionnement
+- Climatisation, chauffage, déshumidification, ventilation et auto.
+
+Capacité nominale
+- 9000, 12000, 18000, 24000 BTU/hr.
+
+Tension
+- 230/208V, 60 Hz, 1 phase.
+
+Unité intérieure
+- Installation en haut de mur, pouvant être raccordée de chaque côté.
+- Boîtier en plastique, standard blanc.
+- Ventilateur à courant transversal à 7 vitesses (auto, turbo, élevée, moyenne-élevée, moyenne, faible et très faible)
+- Filtres lavables.
+
+Unité extérieure
+- Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.
+- Vanne d'expansion électronique pour un contrôle précis du débit de réfrigérant.
+- Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.
+- Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.
+- Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.
+
+-------
+
+Tuyauterie de raccordement
+- Longueur minimale de la tuyauterie de 10 pi (3 m).
+- Raccords évasés.
+
+Régulation
+- Télécommande sans fil incluse.
+- Contrôleur mural en option.
+- Wi-Fi.
+- Température de consigne : 16 à 30 °C (61 à 86 °F).
+- Format d'affichage de la température : °C ou °F.
+
+Garantie
+- Garantie de base 10 ans pièces et 10 ans compresseur (main-d'œuvre non incluse).
+- Garantie main-d'œuvre (vendue séparément) de la 1ère à la 10e année, couvre pièces et main-d'œuvre avec remplacement du système si défaillance du compresseur.
+
+Application
+- Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant
+
+-------
+
+Tableau OTP-H - Thermopompe simple zone Harmony sans conduit de ventilation
+# Produit1;Unité intérieure;CHD09KCH19S-I;CHD12KCH17S-I;CHD18KCH17S-I;CHD24KCH18S-I/;Unité extérieure;CHD09KCH19S-O;CHD12KCH17S-O;CHD18KCH17S-O;CHD24KCH18S-O
+-------
+
+Tableau OTP-H - Thermopompe simple zone Harmony sans conduit de ventilation
+Tension;Volts;230/208;230/208;230/208;230/208/;Nominale;W;2667.0;3517.0;5159.0;6450.0/Capacité en climatisation;(BTU/hr);-9100.0;-12000.0;-17600.0;-22000.0/;Min. – max.;W;820 - 3018;700 - 3700;1100 - 5850;2000 - 7400/;;(BTU/hr);(2800 - 10300);(2388 - 13307);(3753 - 19960);(6824 - 25249)/;Nominale;W;2931.0;3517.0;5598.0;7040.0/Capacité en chauffage;(BTU/hr);-10000.0;-12000.0;-19100.0;-24000.0/;Min. – max.;W;655 - 3575;700 - 4400;800 - 6600;1750 - 8000/;;(BTU/hr);(2200 - 12200);(2388 - 15013);(2730 - 22519);(5971 - 27296)/Puissance consommée en climatisation;Nominale;W;805.0;1334.0;1750.0;1896.0/;Min. – max.;W;180 - 1350;180 - 1500;200 - 2300;340 - 2350/Puissance consommée en chauffage;Nominale;W;781.0;1004.0;1750.0;2051.0/;Min. – max.;W;150 -1450;260 - 1650;260 - 2300;370 - 2400/Puissance consommée nominale;W;1450.0;1650.0;2300.0;2400.0/Courant nominal;A;6.5;6.7;9.5;12.0/MCA;A;9.0;11.0;14.0;15.0/Disjoncteur/fusible max. (MOCP);A;15.0;15.0;20.0;20.0/SEER2 (SEER);-;19.5 (19.5);17.5 (17.5);17.5 (17.5);18 (18)/HSPF2 (HSPF);-;8.8 (10);8.5 (10);8.5 (9);8.5 (10)/TRÉ (EER);W/W;3.30;2.64;2.95;3.40/COP;W/W;3.75;3.50;3.20;3.43/Numéro AHRI;-;210410121.0;210410122.0;210410123.0;210410124.0/ENERGY STAR;-;-;-;-;-
+-------
+
+Tableau OTP-H - Thermopompe simple zone Harmony sans conduit de ventilation
+Unité intérieure;;;;/Déshumidification;pt/hr (l/hr);1.69 (0.80);2.96 (1.40);3.8 (1.80);5.28 (2.50)/Débit d'air volumique;pcm;353 / 282.5 / 264.8 / 229.5 /;424 / 353 / 324 / 277 /;618 / 512 / 471 / 436 /;677 / 588 / 559 / 500 //;;211.86 / 194.2 / 158.8;247 / 224 / 182;395 / 336 / 283;471 / 441 / 412/Niveau sonore;dB (A);51 / 47 / 44 / 42 /;57 / 49 / 48 / 45 /;60 / 56 / 54 / 52 /;61 / 57 / 55 / 52 //;;41 / 38 / 36;43 / 42 / 37;50 / 46 / 42;50 / 48 / 46/Puissance du moteur du ventilateur;W;20.0;15.0;45.0;60.0/RLA du moteur du ventilateur;A;0.30;0.40;0.70;0.45/Puissance du moteur du déflecteur;W;1.5;1.5;2.5;2.5/Poids net;lb (kg);19.8 (9);19.8 (9);28.7 (13);33 (18)
+-------
+
+Tableau OTP-H - Thermopompe simple zone Harmony sans conduit de ventilation
+Unité extérieure;;;;/Débit d'air volumique;m3/hr;1950.0;1950.0;2520.0;3200.0/Niveau sonore;dB (A);51.0;52.0;57.0;57.0/Puissance du compresseur;W;756.0;857.0;1295.0;1330.0/LRA du compresseur;A;-;-;25.0;35.0/RLA du compresseur;A;5.20;7.30;9.35;10.45/Puissance du moteur du ventilateur;W;30.0;30.0;30.0;60.0/RLA du moteur du ventilateur;A;0.4;0.6;0.9;0.6/Volume de réfrigérant (R410A);oz (g);24.7 (700);27.5 (750);44.1 (1150);52.9 (1500)/Poids net;lb (kg);56.22 (25.5);57.33 (26);71.70 (32.5);97 (44)/Température ambiante de fonctionnement;Climatisation;°C (°F);-18 à 46 (0 à 115);;/;Chauffage;°C (°F);-25 à 24 (-13 à 75);;
+-------
+
+Tableau OTP-H - Thermopompe simple zone Harmony sans conduit de ventilation
+Tuyauterie de raccordement/réfrigérant;;;;/Longueur de préchargement;pi (m);25 (7.5);25 (7.5);25 (7.5);25 (7.5)/Volume additionnel de réfrigérant;oz/pi (g/m);0.2 (20);0.2 (20);0.2 (20);0.5 (50)/Diamètre externe tuyau liquide;po;45661.0;45661.0;45661.0;45661.0/Diamètre externe tuyau gaz;po;45724.0;45724.0;45659.0;45785.0/Différence de hauteur maximale;pi (m);40 (12.2);40 (12.2);66 (20);82 (25)/Longueur totale maximale;pi (m);66 (20);66 (20);82 (25);131 (40)
+-------
+
+Tableau OTP-H - Thermopompe simple zone Harmony sans conduit de ventilation
+Unité intérieure;L;;H;;P;;A;;B;;C;/;po;mm;po;mm;po;mm;po;mm;po;mm;po;mm/CHD09KCH19S-I CHD12KCH17S-I;32.875;835.0;10.875;275.0;7.875;200.0;7.0625;119.0;18.15625;542.0;7.6875;184.0/CHD18KCH17S-I;37.125;943.0;13.125;333.0;9.6875;246.0;7.53125;102.0;22.0625;686.0;7.5;183.0/CHD24KCH18S-I;42.4375;1078.0;13.125;333.0;9.6875;246.0;10.1875;206.0;22.0625;686.0;10.15625;186.0
+-------
+
+Tableau OTP-H - Thermopompe simple zone Harmony sans conduit de ventilation
+Unité extérieure;L;;H;;P;;A;;B;;/;po;mm;po;mm;po;mm;po;mm;po;mm/CHD09KCH19S-O CHD12KCH17S-O;28.8125;732.0;21.84375;555.0;13.0;330.0;17.9375;540.0;12.1875;286.0/CHD18KCH17S-O;31.578125;802.0;21.84375;555.0;13.78125;350.0;20.15625;559.0;13.0625;364.0/CHD24KCH18S-O;37.75;958.0;26.0;660.0;15.828125;402.0;22.40625;610.0;14.59375;395.0
+-------
