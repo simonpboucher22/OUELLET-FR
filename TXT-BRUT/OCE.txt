@@ -1,0 +1,88 @@
+OCE Convecteur de style européen												
+												
+Caractéristiques												
+Couleur												
+•  Standards : blanc, amande.												
+•  Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.												
+•  Couleurs sur mesure disponibles sur demande.												
+Finition												
+•  Standard : peinture à la poudre d’époxy/polyester.												
+•  Optionnelle : acier inoxydable												
+(seulement les grilles sont peintes en noir).												
+Tension												
+•  240/208V, 50/60 Hz, 1 phase.												
+Construction												
+•  Acier de calibre 20 ou acier inoxydable de calibre 22.												
+•  Sortie d’air chaud à effet propulsif, qui dirige l’air vers le centre de la pièce.												
+•  Grilles à lames limitant l’insertion de petits objets, recouvertes d’une peinture à faible porosité lavable et anti-jaunissement.												
+•  Protection thermique à réenclenchement automatique.												
+Élément												
+•  Élément monobloc en aluminium, silencieux.												
+												
+												
+												
+Densité												
+•  OCEH : 850W/pi (2800W/m).												
+•  OCEM : 700W/pi (2320W/m).												
+•  OCEB : 500W/pi (1700W/m).												
+Régulation												
+•  Thermostat électronique intégré (modèle -TH)												
+ou relais 24V électronique intégré (modèles -TRIAC et -TRIACT).												
+•  Thermostat électronique mural (modèles -OTH et -T600).												
+Installation												
+•  Installation au mur à 2 po (51 mm) minimum du plancher.												
+•  Placer le convecteur sur le support mural pour le rendre fonctionnel.												
+•  Support mural du convecteur branché sur le circuit électrique, sert de bloc d’alimentation.												
+Garantie												
+•  5 ans contre tous vices.												
+(La garantie est valide seulement si l’appareil est contrôlé par un thermostat électronique pulsant proportionnel avec un cycle maximum de 15 secondes et que la boîte de jonction est fixée au mur avec l’ancrage fourni.)												
+Application												
+•  Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, baie vitrée.												
+												
+												
+OCE												
+Modèles												
+												
+# Produit				Prix		# Produit	Prix		Longueur		Poids	
+Watts	Volts	Thermostat non programmable	Thermostat mural non programmable inclus2	Modèles standards	Acier inoxydable	Thermostat mural programmable inclus2	Modèles standards	Acier inoxydable				
+		intégré1							po	mm	lb	kg
+												
+OCEH Hauteur : 27" (685 mm) 850W/pi (2800W/m)												
+500/375	240/208	OCEH0500-TH	OCEH0500-OTH	538.00	659.00	OCEH0500-T600	565.00	686.00	10.625	270.0	14.0	6.4
+750/563	240/208	OCEH0750-TH	OCEH0750-OTH	566.00	694.00	OCEH0750-T600	593.00	721.00	13.5	344.0	17.0	7.7
+1000/750	240/208	OCEH1000-TH	OCEH1000-OTH	597.00	733.00	OCEH1000-T600	624.00	760.00	16.5	418.0	19.0	8.6
+1250/938	240/208	OCEH1250-TH	OCEH1250-OTH	631.00	775.00	OCEH1250-T600	658.00	802.00	19.4375	492.0	21.0	9.5
+1500/1125	240/208	OCEH1500-TH	OCEH1500-OTH	653.00	803.00	OCEH1500-T600	680.00	830.00	23.0	584.0	25.0	11.4
+1750/1313	240/208	OCEH1750-TH	OCEH1750-OTH	687.00	845.00	OCEH1750-T600	714.00	872.00	26.5	674.0	27.0	12.3
+2000/1500	240/208	OCEH2000-TH	OCEH2000-OTH	725.00	893.00	OCEH2000-T600	752.00	920.00	28.125	714.0	28.0	12.7
+2500/1875	240/208	OCEH2500-TH	OCEH2500-OTH	786.00	969.00	OCEH2500-T600	813.00	996.00	34.0	862.0	33.0	15.0
+3000/2250	240/208	OCEH3000-TH	OCEH3000-OTH	845.00	1043.00	OCEH3000-T600	872.00	1070.00	41.125	1044.0	39.0	17.7
+OCEM Hauteur : 18 1/2" (470 mm) 700W/pi (2320W/m)												
+500/375	240/208	OCEM0500-TH	OCEM0500-OTH	522.00	639.00	OCEM0500-T600	549.00	666.00	13.5	344.0	13.0	5.9
+750/563	240/208	OCEM0750-TH	OCEM0750-OTH	543.00	665.00	OCEM0750-T600	570.00	692.00	16.5	418.0	15.0	6.8
+1000/750	240/208	OCEM1000-TH	OCEM1000-OTH	574.00	704.00	OCEM1000-T600	601.00	731.00	19.4375	492.0	16.0	7.3
+1250/938	240/208	OCEM1250-TH	OCEM1250-OTH	609.00	748.00	OCEM1250-T600	636.00	775.00	23.0	584.0	19.0	8.6
+1500/1125	240/208	OCEM1500-TH	OCEM1500-OTH	644.00	792.00	OCEM1500-T600	671.00	819.00	26.5	674.0	21.0	9.5
+1750/1313	240/208	OCEM1750-TH	OCEM1750-OTH	675.00	830.00	OCEM1750-T600	702.00	857.00	30.3125	769.0	23.0	10.5
+2000/1500	240/208	OCEM2000-TH	OCEM2000-OTH	710.00	874.00	OCEM2000-T600	737.00	901.00	34.0	862.0	25.0	11.4
+2500/1875	240/208	OCEM2500-TH	OCEM2500-OTH	771.00	950.00	OCEM2500-T600	798.00	977.00	41.125	1044.0	29.0	13.2
+3000/2250	240/208	OCEM3000-TH	OCEM3000-OTH	832.00	1027.00	OCEM3000-T600	859.00	1054.00	48.375	1229.0	34.0	15.5
+OCEB Hauteur : 14" (356 mm) 500W/pi (1700W/m)												
+500/375	240/208	OCEB0500-TH	OCEB0500-OTH	550.00	674.00	OCEB0500-T600	577.00	701.00	19.4375	492.0	13.0	5.9
+750/563	240/208	OCEB0750-TH	OCEB0750-OTH	570.00	699.00	OCEB0750-T600	597.00	726.00	23.0	584.0	15.0	6.8
+1000/750	240/208	OCEB1000-TH	OCEB1000-OTH	608.00	747.00	OCEB1000-T600	635.00	774.00	26.5	674.0	16.0	7.3
+1250/938	240/208	OCEB1250-TH	OCEB1250-OTH	647.00	795.00	OCEB1250-T600	674.00	822.00	34.0	862.0	20.0	9.1
+1500/1125	240/208	OCEB1500-TH	OCEB1500-OTH	680.00	837.00	OCEB1500-T600	707.00	864.00	36.375	924.0	22.0	10.0
+1750/1313	240/208	OCEB1750-TH	OCEB1750-OTH	715.00	880.00	OCEB1750-T600	742.00	907.00	41.125	1044.0	24.0	10.9
+2000/1500	240/208	OCEB2000-TH	OCEB2000-OTH	741.00	913.00	OCEB2000-T600	768.00	940.00	46.4375	1179.0	26.0	11.8
+2500/1875	240/208	OCEB2500-TH	OCEB2500-OTH	802.00	989.00	OCEB2500-T600	829.00	1016.00	62.1875	1579.0	35.0	15.9
+3000/2250	240/208	OCEB3000-TH	OCEB3000-OTH	864.00	1067.00	OCEB3000-T600	891.00	1094.00	69.3125	1760.0	38.0	17.3
+												
+												
+Options												
+												
+# Produit En trousse	# Produit	Prix	Description									
+	Installée en usine*											
+KIT-OCE-AV	-	11.00	Dispositif anti-vandale									
+KIT-OCE-TRIAC-3473	TRIAC3	65.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.									
+KIT-OCE-TRIAC-347T3	TRIACT3	94.00	Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V									

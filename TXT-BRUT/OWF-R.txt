@@ -1,0 +1,75 @@
+OWF-R Câble de plancher chauffant pour pose sur gabarit											
+											
+											
+caractéristiques											
+Tension											
+•	120V, 240/208V, 1 phase.										
+Longueur de la liaison froide											
+•	10’ (3 m).										
+Construction											
+•	Câble chauffant de type double conducteur pour une installation plus simple et plus rapide, à émission magnétique négligeable.										
+Densité											
+•	12W/pi2 (130W/m2), installation aux 3’’ (76 mm).										
+•	9W/pi2 (100W/m2), installation aux 4’’ (102 mm).										
+Matériel inclus											
+•	Gabarit de pose en plastique.										
+•	Sonde de sol de 15’ (4.6 m).										
+•	Étiquette de tableau de mesures (à apposer au panneau électrique).										
+Installation											
+•	Ne jamais couper ou tenter de raccourcir le câble.										
+•	Pour applications intérieures seulement.										
+•	S’installe sur un sous-plancher de contreplaqué ou sur une chape de béton.										
+ 											
+											
+											
+Régulation											
+•	Deux types de régulation possible (voir manuel d’installation pour les détails) :										
+-	Régulation de la température de la surface avec un thermostat électronique en mode plancher (F) et sonde de sol.										
+-	Régulation de la température ambiante avec un thermostat électronique en mode ambiant avec limite de plancher (A ou AF) et sonde de sol.										
+Note : Ce produit doit être utilisé avec un disjoncteur-détecteur de fuite à la terre (DDFT) sauf si exempté par le code national et/ou local en vigueur dans la région d’installation.											
+Garantie											
+•	25 ans sur le câble chauffant.										
+Application											
+•	Vestibule, salle d'eau, salle à manger-cuisine, salle de séjour, salle familiale										
+											
+											
+											
+											
+	# Produit Gabarit inclus1 240/208V	# Produit Gabarit inclus1 120V	Diamètre du câble (mm)		Surface couverte selon l'espacement2				Longueur du câble		Longueur Gabarit inclus
+Watts				Prix	3" (76 mm)		4’’ (102 mm)				(pi)
+					12W/pi2	130W/m2	9W/pi2	100W/m2	pi	m	
+85.0	-	OWF-R0082	4.3	172.00	8.0	0.7	11.0	1.0	32.0	9.75	25.0
+120.0	-	OWF-R0122	4.3	184.00	10.0	0.9	13.0	1.2	40.0	12.19	25.0
+150.0	-	OWF-R0152	4.3	208.00	13.0	1.2	17.0	1.6	53.0	16.15	25.0
+170.0	OWF-R0170	OWF-R0172	4.3	221.00	15.0	1.4	20.0	1.9	61.0	18.59	25.0
+240.0	OWF-R0240	OWF-R0242	4.3	275.00	20.0	1.9	27.0	2.5	80.0	24.38	25.0
+300.0	OWF-R0300	OWF-R0302	4.3	315.00	25.0	2.3	33.0	3.1	101.0	30.78	25.0
+360.0	OWF-R0360	OWF-R0362	4.3	353.00	30.0	2.8	40.0	3.7	120.0	36.58	50.0
+420.0	OWF-R0420	OWF-R0422	4.3	362.00	35.0	3.3	47.0	4.3	141.0	42.98	50.0
+475.0	OWF-R0475	OWF-R0472	4.3	370.00	40.0	3.7	53.0	5.0	160.0	48.76	50.0
+600.0	OWF-R0600	OWF-R0602	4.3	437.00	50.0	4.6	67.0	6.2	200.0	60.96	50.0
+720.0	OWF-R0720	OWF-R0722	4.3	490.00	60.0	5.6	80.0	7.4	240.0	73.15	75.0
+840.0	OWF-R0840	OWF-R0842	4.3	506.00	70.0	6.5	93.0	8.7	280.0	85.34	75.0
+960.0	OWF-R0960	OWF-R0962	4.3	578.00	80.0	7.4	107.0	9.9	320.0	97.54	75.0
+1080.0	OWF-R1080	-	4.3	580.00	90.0	8.4	120.0	11.2	360.0	109.73	100.0
+1140.0	-	OWF-R1142	4.3	599.00	95.0	8.8	127.0	11.7	380.0	115.82	100.0
+1200.0	OWF-R1200	-	4.3	642.00	100.0	9.3	133.0	12.4	400.0	121.92	100.0
+1320.0	-	OWF-R1322	4.3	623.00	110.0	10.2	147.0	13.6	440.0	134.11	100.0
+1440.0	OWF-R1440	-	4.3	698.00	120.0	11.1	160.0	14.9	480.0	146.30	100.0
+1450.0	-	OWF-R1452	4.3	645.00	120.0	11.1	160.0	14.8	480.0	146.30	100.0
+1500.0	-	OWF-R1502	4.3	698.00	125.0	11.6	167.0	15.5	500.0	152.40	125.0
+1600.0	OWF-R1600	-	4.3	762.00	140.0	13.0	187.0	17.4	560.0	170.69	125.0
+1680.0	-	OWF-R1682	4.3	790.00	140.0	13.0	187.0	17.4	560.0	170.69	125.0
+1920.0	OWF-R1920	-	4.3	864.00	160.0	14.9	213.0	19.8	640.0	195.07	125.0
+2280.0	OWF-R2280	-	4.3	1025.00	190.0	17.7	253.0	23.6	760.0	231.64	150.0
+2640.0	OWF-R2640	-	4.3	1115.00	220.0	20.4	293.0	27.2	880.0	268.22	200.0
+2900.0	OWF-R2900	-	4.3	1216.00	242.0	22.5	323.0	30.0	968.0	295.04	200.0
+3000.0	OWF-R3000	-	4.3	1251.00	250.0	23.2	333.0	30.9	1000.0	304.80	200.0
+3360.0	OWF-R3360	-	4.3	1369.00	280.0	26.0	374.0	34.7	1120.0	341.38	200.0
+											
+option 											
+# Produit En trousse	Prix	Description									
+OTM-CC	41.00	CableCheck - Indicateur de défaillance électrique									
+KIT-SP1	48.00	Trousse de réparation									
+KIT-CBL-G25	18.00	25 pi (7.6 m) de gabarits de pose en plastique									
+KIT-CBL-SN	29.00	Sonde de sol 15 pi (4.6 m)									

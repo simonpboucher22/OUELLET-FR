@@ -1,0 +1,46 @@
+OCC Chaufferette de construction portative							
+							
+							
+caractéristiques							
+Couleur							
+• Standard : amande.							
+Finition							
+• Standard : peinture à la poudre d’époxy/polyester.							
+Tension							
+• 240/208V, 1 phase.							
+Construction							
+• Poignée servant de dévidoir pour le rangement du câble de raccordement.							
+• Câble de raccordement de 6 pi (2 m), moulé pour une plus grande durabilité.							
+• Bouton de thermostat encastré pour un minimum d’encombrement de l’appareil.							
+• Protection thermique à réenclenchement automatique.							
+Ventilateur							
+• Moteur fermé lubrifié à vie (modèle -MF).							
+• Moteur ouvert lubrifié à vie (modèle -MO) 1							
+• Ventilateur de 300 pcm.							
+							
+Modèles							
+							
+							
+							
+							
+							
+Élément							
+• Fil hélicoïdal en alliage nickel-chrome protégé par des isolateurs en céramique.							
+• Élément produisant une chaleur instantanée.							
+Élévation de la température							
+• 28 °C (51 °F).							
+Régulation							
+• Thermostat intégré inclus							
+Installation							
+• Se branche dans une prise à 3 bornes avec mise à la terre de 30A 250VAC. 2							
+Garantie							
+• 2 ans contre tous vices (modèle -MO).							
+• 3 ans contre tous vices (modèle -MF).							
+Application							
+• Chantier, atelier, garage.							
+							
+modèel							
+Watts	Volts	# Produit2	Prix	Type de moteur	Prise à 3 bornes avec mise à la terre	Poids	
+						lb	kg
+4800/3600	240/208	OCC4800AM-MF-TB6	262.00	Fermé	30A. 250VAC	16.0	7.3
+4800/3600	240/208	OCC4800AM-MO-TB61	193.00	Ouvert	30A. 250VAC	16.0	7.3

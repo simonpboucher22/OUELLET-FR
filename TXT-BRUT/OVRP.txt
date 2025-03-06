@@ -1,0 +1,75 @@
+OVRP Ventilo-convecteur compact de plafond					
+Caractéristiques					
+Couleur					
+•  Standards : blanc, amande.					
+•  Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.					
+•  Couleurs sur mesure disponibles sur demande.					
+Finition					
+•  Standard : peinture à la poudre d’époxy/polyester.					
+Construction					
+•  Boîtier en acier de calibre 20.					
+•  Devant en acier de calibre 22.					
+•  Protection thermique à réenclenchement automatique.					
+Ventilateur					
+•  Ventilateur silencieux.					
+•  Modèles 120V, 208V, 240/208V :					
+40 pcm de 500W à 1000W et 80 pcm de 1250W à 2000W.					
+•  Modèles 347V : 80 pcm.					
+•  Moteur lubrifié à vie.					
+					
+					
+Élément					
+•  120V, 208V, 208/240V : élément tubulaire à ailettes très robuste.					
+- Élément scellé en usine en option.					
+•  347V : Alliage fer-chrome-aluminium.					
+Régulation					
+•  Si un thermostat électronique est utilisé, il faut s’assurer qu’il soit compatible avec les ventilo-convecteurs.					
+Installation					
+•  Installation rapide grâce aux trous de fixation du boîtier d’encastrement.					
+•  Vaste compartiment de câblage.					
+•  Boîtier de montage en surface en option.					
+•  Boîtier d’encastrement en «V» permettant une installation ajustée.					
+Garantie					
+•  5 ans contre tous vices.					
+Application					
+•  Vestibule, salle d’eau, salle à manger-cuisine, salle familiale, corridor.					
+					
+Caractéristiques OVRP					
+Tension					
+•  120V, 240/208V, 347V, 1 phase.					
+Régulation					
+•  Doit être utilisé avec un thermostat mural compatible (non inclus).					
+•  Relais électronique en option.					
+Installation					
+•  Installation au plafond seulement.					
+•  La sortie d’air doit être installée à une distance minimale de 10 po (25.4 cm) du mur.					
+S’encastre dans un plafon					
+					
+					
+Modèles OVRP					
+					
+Watts	Volts	# Produit	Prix	Poids	
+				lb	kg
+500.0	120.0	OVRP0502	355.00	9.0	4.1
+750.0	120.0	OVRP0752	355.00	9.0	4.1
+1000.0	120.0	OVRP1002	378.00	9.0	4.1
+1250.0	120.0	OVRP1252	415.00	9.0	4.1
+1500.0	120.0	OVRP1502	415.00	9.0	4.1
+500/375	240/208	OVRP0500	346.00	9.0	4.1
+750/563	240/208	OVRP0750	346.00	9.0	4.1
+1000/750	240/208	OVRP1000	366.00	9.0	4.1
+1250/938	240/208	OVRP1250	366.00	9.0	4.1
+1500/1125	240/208	OVRP1500	405.00	9.0	4.1
+500.0	347.0	OVRP0507	533.00	9.0	4.1
+1000.0	347.0	OVRP1007	559.00	9.0	4.1
+1500.0	347.0	OVRP1507	598.00	9.0	4.1
+2000.0	347.0	OVRP2007	663.00	9.0	4.1
+					
+options					
+# Produit En trousse	# Produit	Prix	Description		
+	Installée en usine*				
+KIT-OVR-BS	-	73.00	Boîtier pour montage en surface		
+KIT-OVR-DIS1	DIS1	179.00	Interrupteur principal, 20A à 277V max. (120V, 240/208V seulement)		
+-	ES2	33.00	Élément scellé en usine (120V, 240/208V seulement)		
+-	TRIAC4	83.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.		
+-	TRIACT4	113.00	Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 277V, 347V		

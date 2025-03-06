@@ -1,0 +1,122 @@
+OLA Convecteur architectural haute densité												
+												
+												
+caracteriistiques												
+Couleur												
+•	Standards : blanc, amande.											
+•	Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.											
+•	Couleurs sur mesure disponibles sur demande.											
+Finition												
+•	Standard : peinture à la poudre d’époxy/polyester.											
+Tension												
+•	208V, 240V, 277V, 347V, 600V, 1 ou 3 phases.											
+Construction												
+•	Boîtier en acier de calibre 20.											
+•	Devant en acier de calibre 16. 1											
+•	Grillage en aluminium extrudé empêche l’entrée de corps étrangers. 2											
+•	Finition unie du dos de l’appareil (-BD) en option.											
+•	Protection thermique linéaire à réenclenchement automatique. 3											
+Élément												
+•	Trois éléments tubulaires en acier inoxydable recouverts d’ailettes d’aluminium. 4											
+•	Éléments flottants sur supports de nylon haute température réduisant les bruits causés par son expansion thermique. 5											
+ 												
+												
+												
+Densité												
+•	Densité moyenne standard de 1000W/pi.											
+•	Basse densité moyenne de 500W/pi, 750W/pi.											
+Régulation												
+•	Thermostat intégré en option, anti-vandale.											
+•	Relais mécanique, relais électronique ou relais pneumatique en option.											
+Note : Thermostat unipolaire pour appareils 1 ph seulement.												
+Ouellet recommande fortement l’installation d’un thermostat électronique mural pour un meilleur confort.												
+Installation												
+•	Usage non-résidentiel aux États-Unis.											
+•	Installation au plancher ou au mur.											
+•	Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.											
+•	Variété d’accessoires pour l’installation en continu en option.											
+•	Socle et trousse de piédestals en option.											
+Garantie												
+•	3 ans contre tous vices.											
+Application												
+•	Édifice commercial, immeuble de bureaux, hôpital, école.											
+												
+Caractéristiques OLA												
+Construction												
+•	Entrée d’air frais par l’avant; sortie d’air chaud par le dessus.											
+- Sortie d’air chaud par l’avant (-FR) en option.												
+Installation												
+•	Installation encastrée possible pour les modèles -FR											
+												
+												
+Modèles à densité moyenne standard de 1000W/pi												
+												
+Watts			# Produit			Watts 240/208V1	# Produit 240/208V	Prix	Longueur		Poids	
+	208V (1 ph)	208V (3 ph)	347V	600V (1 ph)	600V (3 ph)				po	mm	lb	kg
+2000.0	OLA2008	OLA20382	OLA2007	OLA2006	OLA2036	2000/1500	OLA2000	1247.00	27.1875	690.0	37.0	16.8
+3000.0	OLA3008	OLA30382	OLA3007	OLA3006	OLA30362	3000/2250	OLA3000	1451.00	37.1875	944.0	47.0	21.3
+4000.0	OLA40082	OLA40382	OLA4007	OLA40062	OLA40362	4000/3000	OLA40002	1679.00	47.1875	1198.0	57.0	25.9
+5000.0	OLA50083	OLA50382	OLA5007	OLA50062	OLA50362	5000/3750	OLA50002	1823.00	57.1875	1452.0	67.0	30.4
+6000.0	OLA60083	OLA60383	OLA60072	OLA60063	OLA60362	6000/4500	OLA60003	1961.00	65.1875	1655.0	79.0	35.8
+Modèles à basse densité moyenne												
+												
+# Produit4	Prix	Longueur	Poids	Densité moyenne W/pi	Watts	208V	208V	240V	347V	600V	600V	
+						(1 ph)	(3 ph)			(1 ph)	(3 ph)	
+  OLA10XX-690 	1247.00	27 3/16" (690mm)	37.0 lb	500.0	1000.0	✓	✓	✓	✓	-	-	
+OLA15XX-690			(16.8 kg)	750.0	1500.0	✓	✓	✓	✓	✓	✓	
+  OLA15XX-944 	1451.00	37 3/16"	47.0 lb	500.0	1500.0	✓	✓	✓	✓	-	✓	
+OLA22XX-944		(944 mm)	(21.3 kg)	750.0	2250.0	✓	✓	✓	✓	✓	✓	
+ OLA20XX-1198 	1679.00	47 3/16"	57.0 lb	500.0	2000.0	✓	✓	✓	✓	✓	✓	
+OLA30XX-1198		(1198 mm)	(25.9 kg)	750.0	3000.0	✓	✓	✓	✓	✓	✓	
+ OLA25XX-1452 	1823.00	57 3/16"	67.0 lb	500.0	2500.0	✓	✓	✓	✓	✓	✓	
+OLA37XX-1452		(1452 mm)	(30.4 kg)	750.0	3750.0	✓	✓	✓	✓	✓	✓	
+ OLA30XX-1655 	1961.00	65 3/16"	79.0 lb	500.0	3000.0	✓	✓	✓	✓	✓	✓	
+OLA45XX-1655		(1655 mm)	(35.8 kg)	750.0	4500.0	✓	✓	✓	✓	✓	✓	
+												
+												
+Options												
+												
+# Produit En trousse	# Produit	Prix	Description									
+	Installée en usine*											
+Finition												
+-	BD	0.1	Finition unie du dos de l’appareil									
+KIT-OLA-CI	-	1120.00	Boîte de coins (intérieur et extérieur)									
+KIT-OLA-CR-27	-	164.00	Cadre d’installation en retrait, 27 3/16 po (690 mm)									
+KIT-OLA-CR-37	-	173.00	Cadre d’installation en retrait, 37 3/16 po (944 mm)									
+KIT-OLA-CR-47	-	183.00	Cadre d’installation en retrait, 47 3/16 po (1198 mm)									
+KIT-OLA-CR-57	-	194.00	Cadre d’installation en retrait, 57 3/16 po (1452 mm)									
+KIT-OLA-CR-65	-	202.00	Cadre d’installation en retrait, 65 3/16 po (1655 mm)									
+KIT-OLA-CTR	-	247.00	Boîte pour relais, 12 po (305 mm)									
+-	FR	Sans frais	Sortie d’air chaud par l’avant									
+KIT-OLA-PEC	-	150.00	Trousse de piédestals carrés (2), 3 po (76 mm)									
+KIT-OLA-SO-27	-	230.00	Socle, 27 3/16 po (690 mm)									
+KIT-OLA-SO-37	-	245.00	Socle, 37 3/16 po (944 mm)									
+KIT-OLA-SO-47	-	267.00	Socle, 47 3/16 po (1198 mm)									
+KIT-OLA-SO-57	-	310.00	Socle, 57 3/16 po (1452 mm)									
+KIT-OLA-SO-65	-	323.00	Socle, 65 3/16 po (1655 mm)									
+KIT-OLA-SV-27	-	789.00	Fausse section, 27 3/16 po (690 mm)									
+KIT-OLA-SV-37	-	923.00	Fausse section, 37 3/16 po (944 mm)									
+KIT-OLA-SV-47	-	1092.00	Fausse section, 47 3/16 po (1198 mm)									
+KIT-OLA-SV-57	-	1201.00	Fausse section, 57 3/16 po (1452 mm)									
+KIT-OLA-SV-65	-	1432.00	Fausse section, 65 3/16 po (1655 mm)									
+Contrôles												
+-	CTT	224.00	Relais unipolaire, bobine 240V : 25A à 240V, 10A à 600V									
+-	CTT2	300.00	Relais bipolaire, bobine 240V : 25A à 240V, 10A à 600V									
+-	DIS403	232.00	Interrupteur principal tripolaire, 40A à 600V									
+-	PM	458.00	Relais pneumatique, 20A à 600V									
+KIT-OLA-R	R	200.00	Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 18A à 347V									
+KIT-OLA-R2	R2	300.00	Relais bipolaire, bobine 24V, sans transformateur, 25A à 240V - 10A à 600V									
+KIT-OLA-R2-30	R230	290.00	Relais bipolaire, bobine 24V, sans transformateur, 30A à 600V max.									
+KIT-OLA-RT-208	RT	224.00	Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 4500W, 22A à 208V									
+KIT-OLA-RT-240	RT	224.00	Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 5200W, 22A à 240V									
+KIT-OLA-RT-277	RT	224.00	Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 5200W, 19A à 277V									
+KIT-OLA-RT-347	RT	224.00	Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 6000W, 18A à 347V									
+KIT-OLA-RT-6001	RT1	224.00	Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 6000W, 10A à 600V (2 fils seulement)									
+KIT-OLA-T-AV2	TAV2	166.00	Thermostat unipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max.									
+KIT-OLA-T2-AV	T2AV	281.00	Thermostat bipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max.									
+-	TRIAC	79.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.									
+-	TRIACT	110.00	Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V									
+-	TRIAC	144.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.									
+Transformateurs												
+-	TRF24	272.00	Transformateur 24V, 50VA									
+-	TRF240	272.00	Transformateur 240V, 50VA									

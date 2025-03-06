@@ -1,0 +1,36 @@
+OAE Aérotherme économique							
+							
+							
+Caractéristiques							
+Couleur							
+• Standard : amande.							
+Finition							
+• Standard : peinture à la poudre d’époxy/polyester.							
+Tension							
+• 240/208V, 1 phase.							
+Construction							
+• Construction en acier de calibre 20.							
+• Déflecteurs ajustables pour diriger l’air. 1							
+• Protection thermique à réenclenchement automatique. 2							
+Ventilateur							
+• Ventilateur de 300 pcm (51 dBA).							
+• Moteur fermé lubrifié à vie. 3							
+							
+• Fil hélicoïdal en alliage nickel-chrome protégé par des isolateurs en céramique. 4							
+• Élément produisant une chaleur instantanée.							
+Régulation							
+• Thermostat intégré inclus.							
+Installation							
+• Supports de fixation inclus permettant la pose au mur et au plafond.							
+• Les supports permettent de faire pivoter l’appareil sur 360° et l’empêchent de basculer.							
+Garantie							
+• 3 ans contre tous vices.							
+Application							
+Garage, atelier							
+							
+							
+Watts	Volts	# Produit1	Prix	BTU/hr	Type d'élément	Poids	
+						lb	kg
+2000/1500	240/208	OAE2000AM-EO-TB6	644.00	6824/5118	Ouvert	20.0	9.1
+3000/2250	240/208	OAE3000AM-EO-TB6	649.00	10236/7677	Ouvert	20.0	9.1
+5000/3750	240/208	OAE5000AM-EO-TB6	682.00	17060/12795	Ouvert	20.0	9.1

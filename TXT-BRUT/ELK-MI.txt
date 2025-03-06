@@ -1,0 +1,90 @@
+ELK-MI Câble à isolation minérale (M.I.) en alliage 825																	
+																	
+																	
+cartéristiques																	
+Surgaine																	
+•	Alliage 825.																
+Composants de l’assemblage																	
+•	Alliage 825.																
+Conducteur d’alimentation																	
+•	Le type de conducteur peut varier selon le modèle (Nichrome, KP, Constantan, Alliage (30, 60, 90), Cuivre).																
+Longueur de la liaison froide																	
+•	Liaison froide de 6 pi (1.8 m) comprend un cordon flexible de 18 po (45 cm).																
+Température ambiante																	
+•	-60 °C à +60 °C (-76 °F à +140 °F).																
+Température maximale maintenue (sous tension)																	
+•	700 °C (1292 °F).																
+Tension nominale																	
+•	Jusqu’à 600V.																
+Rayon de courbure minimal																	
+•	Diamètre x 6.																
+Température minimale d’installation																	
+•	-60 °C (-76 °F).																
+ 																	
+																	
+																	
+Classifications																	
+•	Classe I, Division 2, Groupes A, B, C, D.																
+•	Classe II, Division 1, Groupes E, F, G.																
+•	Classe III, Division 1.																
+•	Classe I, Zone 1, AEx/Ex d e IIC T1…T6.																
+Normes																	
+•	CSA C22.2 130-16.																
+•	UL 60079-30-1.																
+Certifications																	
+•	FM 18 US0191X.																
+•	FM 18 CA0089X.																
+Classement																	
+•	Protection contre l’humidité, peut être immergé dans des fluides.																
+Garantie																	
+•	Garantie de base de 1 an sur le câble chauffant.																
+Application																	
+•	Maintien de la température, silo, réservoir, canalisation, industrie chimique et pétrochimique, industrie pétrolière et gazière, processus industriel, installation de traitement mobile, processus sous vide, prévention du gel																
+																	
+Modèles																	
+																	
+	Conducteur double						Conducteur double						Conducteur simple				
+		300V						600V						600V			
+# Produit	Dia. po	Ω/pi	Dia. mm	Ω/m	Type de conducteur	# Produit	Dia. po	Ω/pi	Dia. mm	Ω/m	Type de conducteur	# Produit	Dia. po	Ω/pi	Dia. mm	Ω/m	Type de conducteur
+11E0L-2S	0.16	11.0	4.1	36.089	Nichrome R	11E0H-2S	0.22	11.0	5.6	36.089	Nichrome R	30E1H-1S	0.17	3.0	4.3	9.842	Nichrome R
+90E1L-2S	0.16	9.0	4.1	29.527	Nichrome R	90E1H-2S	0.23	9.0	5.7	29.527	Nichrome R	20E1H-1S	0.17	2.0	4.3	6.562	Nichrome R
+75E1L-2S	0.16	7.5	4.1	24.606	Nichrome R	75E1H-2S	0.24	7.5	6.0	24.606	Nichrome R	19E1H-1S	0.17	1.88	4.3	6.168	Nichrome R
+60E1L-2S	0.16	6.0	4.1	19.685	Nichrome R	60E1H-2S	0.23	6.0	5.8	19.685	Nichrome R	16E1H-1S	0.17	1.6	4.3	5.249	Nichrome A
+50E1L-2S	0.16	5.0	4.1	16.404	Nichrome R	40E1H-2S	0.24	4.0	6.1	13.123	Nichrome A	13E1H-1S	0.17	1.3	4.3	4.265	Nichrome A
+40E1L-2S	0.16	4.0	4.1	13.123	Nichrome A	30E1H-2S	0.26	3.0	6.5	9.842	Nichrome A	12E1H-1S	0.17	1.22	4.3	4.003	Nichrome A
+32E1L-2S	0.16	3.2	4.1	10.498	KP	20E1H-2S	0.26	2.0	6.5	6.562	Nichrome R	10E1H-1S	0.17	1.0	4.3	3.281	KP
+27E1L-2S	0.16	2.7	4.1	8.858	KP	14E1H-2S	0.26	1.4	6.5	4.593	Constantan	85E2H-1S	0.17	0.85	4.3	2.789	KP
+25E1L-2S	0.16	2.5	4.1	8.202	Constantan	10E1H-2S	0.26	1.0	6.5	3.281	KP	70E2H-1S	0.17	0.7	4.3	2.297	Constantan
+20E1L-2S	0.16	2.0	4.1	6.562	Constantan	70E2H-2S	0.27	0.7	6.7	2.297	Constantan	50E2H-1S	0.17	0.5	4.3	1.640	Constantan
+17E1L-2S	0.16	1.7	4.1	5.577	Constantan	50E2H-2S	0.28	0.5	7.1	1.640	Constantan	38E2H-1S	0.17	0.38	4.3	1.247	Constantan
+14E1L-2S	0.16	1.4	4.1	4.593	Constantan	30E2H-2S	0.3	0.3	7.6	0.984	Constantan	30E2H-1S	0.17	0.3	4.3	0.984	Constantan
+10E1L-2S	0.17	1.0	4.2	3.281	Constantan	23E2H-2S	0.28	0.23	6.9	0.755	Alliage 90	25E2H-1S	0.17	0.25	4.3	0.820	Constantan
+70E2L-2S	0.18	0.7	4.3	2.297	Constantan	20E2H-2S	0.26	0.2	6.5	0.656	Alliage 90	20E2H-1S	0.18	0.2	4.4	0.656	Constantan
+50E2L-2S	0.19	0.5	4.8	1.640	Alliage 60	15E2H-2S	0.27	0.15	6.7	0.492	Alliage 90	17E2H-1S	0.18	0.17	4.3	0.558	Constantan
+30E2L-2S	0.17	0.3	4.3	0.984	Alliage 60	10E2H-2S	0.28	0.1	7.1	0.328	Alliage 60	15E2H-1S	0.17	0.15	4.3	0.492	Alliage 60
+25E2L-2S	0.17	0.25	4.3	0.820	Alliage 60	70E3H-2S	0.3	0.07	7.5	0.230	Alliage 60	12E2H-1S	0.17	0.12	4.3	0.394	Alliage 60
+20E2L-2S	0.17	0.2	4.3	0.656	Alliage 60	50E3H-2S	0.31	0.05	7.9	0.164	Alliage 60	10E2H-1S	0.17	0.1	4.3	0.328	Alliage 60
+15E2L-2S	0.18	0.15	4.4	0.492	Alliage 60	40E3H-2S	0.33	0.04	8.3	0.131	Alliage 60	80E3H-1S	0.17	0.08	4.3	0.262	Alliage 60
+10E2L-2S	0.19	0.1	4.8	0.328	Alliage 30	30E3H-2S	0.35	0.03	8.8	0.098	Alliage 60	70E3H-1S	0.17	0.07	4.3	0.230	Alliage 60
+70E3L-2S	0.21	0.07	5.2	0.230	Alliage 30	20E3H-2S	0.27	0.02	6.9	0.066	Cuivre	60E3H-1S	0.17	0.06	4.3	0.197	Alliage 60
+50E3L-2S	0.23	0.05	5.7	0.164	Alliage 30	16E3H-2S	0.28	0.016	7.1	0.052	Cuivre	40E3H-1S	0.18	0.04	4.4	0.131	Alliage 60
+-	-	-	-	-	-	13E3H-2S	0.29	0.013	7.4	0.043	Cuivre	30E3H-1S	0.19	0.03	4.7	0.098	Alliage 60
+-	-	-	-	-	-	10E3H-2S	0.3	0.01	7.6	0.033	Cuivre	20E3H-1S	0.2	0.02	5.1	0.066	Alliage 60
+-	-	-	-	-	-	-	-	-	-	-	-	10E3H-1S	0.17	0.01	4.3	0.033	Cuivre
+-	-	-	-	-	-	-	-	-	-	-	-	65E4H-1S	0.18	0.0065	4.3	0.021	Cuivre
+-	-	-	-	-	-	-	-	-	-	-	-	40E4H-1S	0.19	0.0041	4.8	0.013	Cuivre
+																	
+Calibre des liaisons froides																	
+																	
+Conducteur double						Conducteur simple											
+Calibre	Courant max. (A)		Diamètre du connecteur (NPT)		Calibre	Courant max. (A)		Diamètre du connecteur (NPT)									
+AWG	CEC	NEC	CEC	NEC	AWG	CEC	NEC	CEC	NEC								
+14.0	15.0	25.0			14.0	20.0	30.0										
+12.0	20.0	30.0	1/2'' (12.7 mm)	1/2'' (12.7 mm)	12.0	25.0	40.0	1/2'' (12.7 mm)	1/2'' (12.7 mm)								
+10.0	30.0	40.0			10.0	40.0	55.0										
+8.0	50.0	55.0			8.0	70.0	75.0										
+Configurations																	
+																	
+Design B	Câble à isolation minérale (M.I.) à conducteur simple muni de liaisons froides avec usinage précis au laser de la partie chaude à la partie froide aux deux extrémités.																
+Design D	Câble à isolation minérale (M.I.) à conducteur double muni de liaisons froides aux extrémités avec usinage précis au laser de la partie chaude à la partie froide sur une extrémité et de chaude à chaude sur les extrémités opposées.																
+Design E	Câble à isolation minérale (M.I.) à conducteur double muni d’une liaison froide avec usinage précis au laser de la partie chaude à la partie froide aux deux extrémités.																

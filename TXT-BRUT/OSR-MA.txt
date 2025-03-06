@@ -1,0 +1,90 @@
+OSR-MA Câble chauffant autorégulant micro ELSR-MA										
+										
+caractéristiques										
+Surgaine										
+•	Thermoplastique (AO, BO), Fluoropolymère (BF).									
+Conducteur d’alimentation										
+•	Cuivre nickelé, 18 AWG.									
+Température minimale de démarrage										
+•	-30 °C (-22 °F).									
+Température maximale maintenue (sous tension)										
+•	60 °C (140 °F).									
+Température d’exposition continue maximale (hors tension)										
+•	60 °C (140 °F).									
+Tension nominale										
+•	120V, 240/208V.									
+Rayon de courbure minimal										
+•	25 mm (1 po).									
+Température minimale d’installation										
+•	AO, BO : -45 °C (-49 °F).									
+•	BF : -25 °C (-13 °F).									
+										
+Modèles										
+ 										
+										
+										
+Normes										
+•	IEEE 515, CSA 22.2 130.03.									
+Certification										
+•	FM CUS 3050047.									
+Classement										
+•	Applications extérieures et endroits humides (WS) (AO, BO).									
+•	PS (2000 kPa/290 psi) (BF).									
+Garantie										
+•	Garantie de base de 1 an sur le câble chauffant.									
+Application										
+•	Protection contre le gel, conduite d’eau potable (BF), réservoir, tuyaux, canalisations, automobile, traçage d’instrumentation, industrie alimentaire, système de gicleurs.									
+										
+										
+Modèles										
+										
+										
+Puissance nominale W/pi	# Produit			Surgaine/Protection mécanique						Dimensions approx. du câble (mm)
+	120V1, 3	240V1, 2, 3	AO	Prix/pi	BO	Prix/pi		BF	Prix/pi	
+3.0	ELSR-MA-3-1-XX	ELSR-MA-3-2-XX	✓	5.75	✓	6.50	✓		10.00	7.7 x 6.4
+5.0	ELSR-MA-5-1-XX	ELSR-MA-5-2-XX	✓	5.75	✓	6.50	-		-	8.1 x 5.8
+										
+Longueur de circuit chauffant pour le modèle ELSR-MA										
+										
+Température de démarrage	Disjoncteur Valeur nominale (A)	Longueur maximale du circuit chauffant (pi) pour			Température de démarrage	Disjoncteur Valeur nominale (A)	Longueur maximale du circuit chauffant (pi) pour			
+		ELSR-MA-3-1-XX	ELSR-MA-5-1-XX				ELSR-MA-3-2-XX	ELSR-MA-5-2-XX		
+	10.0	208.0	132.0			10.0	415.0	320.0		
+10 °C	15.0	233.0	190.0		10 °C	15.0	415.0	346.0		
+(50 °F)	20.0	233.0	190.0		(50 °F)	20.0	415.0	346.0		
+	25.0	233.0	190.0			25.0	415.0	346.0		
+	10.0	170.0	110.0			10.0	379.0	273.0		
+0 °C	15.0	213.0	174.0		0 °C	15.0	379.0	320.0		
+(32 °F)	20.0	213.0	174.0		(32 °F)	20.0	379.0	320.0		
+	25.0	213.0	174.0			25.0	379.0	320.0		
+	10.0	146.0	94.0			10.0	325.0	239.0		
+-10 °C	15.0	197.0	150.0		-10 °C	15.0	349.0	299.0		
+(14 °F)	20.0	197.0	161.0		(14 °F)	20.0	349.0	299.0		
+	25.0	197.0	161.0			25.0	349.0	299.0		
+	10.0	113.0	73.0			10.0	255.0	190.0		
+-30 °C	15.0	172.0	117.0		-30 °C	15.0	307.0	266.0		
+(-22 °F)	20.0	172.0	141.0		(-22 °F)	20.0	307.0	266.0		
+	25.0	172.0	141.0			25.0	307.0	266.0		
+										
+										
+										
+Longueur de circuit chauffant pour le modèle ELSR-MA-BF										
+										
+	120V				240V					
+	Disjoncteur Valeur nominale (A)	Longueur maximale du circuit chauffant (pi) pour			Disjoncteur Valeur nominale (A)	Longueur maximale du circuit chauffant (pi) pour				
+Température de démarrage				Température de démarrage						
+		ELSR-MA-3-1-BF				ELSR-MA-3-2-BF				
+	10.0	139.0			10.0	241.0				
+10 °C	15.0	167.0		10 °C	15.0	302.0				
+(50 °F)	20.0	167.0		(50 °F)	20.0	302.0				
+	25.0	167.0			25.0	302.0				
+	10.0	112.0			10.0	202.0				
+0 °C	15.0	153.0		0 °C	15.0	282.0				
+(32 °F)	20.0	153.0		(32 °F)	20.0	282.0				
+	25.0	153.0			25.0	282.0				
+										
+										
+Multiplicateur/facteurs de correction Eltherm® pour utilisation des câbles chauffants à 208V										
+										
+Câble chauffant Multiplicateur/facteurs de correction	Puissance nominale 208V vs. 240V	Longueur								
+		de circuit chauffant 208V vs. 240V								
+ELSR-MA-XX-2	0.82	1.00								

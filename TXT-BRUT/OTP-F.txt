@@ -1,0 +1,184 @@
+OTP-F  Thermopompe centrale Flexx et système de serpentin couvert												
+												
+												
+caractéristiques												
+Mode de fonctionnement												
+•	Climatisation, chauffage, déshumidification, ventilation et auto.											
+Capacité nominale												
+•	24000, 36000, 42000, 60000 BTU/hr.											
+Tension												
+•	230/208V, 60 Hz, 1 phase.											
+Unité intérieure Cabinet souffleur												
+•	Conception compacte et peu encombrante.											
+•	Compatible avec la plupart des thermostats 24V standards sur le marché.											
+Serpentin couvert «Cased Coil»												
+•	Deux dimensions disponibles.											
+•	Possibilité d’installation à l’horizontale ou à la verticale.											
+•	Peut être jumelé à un appareil de chauffage au gaz ou à un ventilateur											
+Unité extérieure												
+•	Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.											
+•	Soupape d’expansion électronique pour un contrôle précis du débit de réfrigérant.											
+•	Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.											
+•	Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.											
+ 												
+R410A												
+												
+												
+•	Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.											
+•	Couverture et technologie de préchauffage du compresseur.											
+•	Installation sur support mural ou au sol en aluminium en option.											
+Tuyauterie de raccordement												
+•	Longueur minimale de la tuyauterie de 24.6 pi (7.5 m).											
+•	Raccords évasés.											
+Régulation												
+•	Température de fonctionnement :											
+-	En climatisation : -15 à 54 °C (5 à 129 °F).											
+-	En chauffage : -30 à 24°C (-22 à 75 °F)..											
+•	Format d’affichage de la température : °C ou °F.											
+Garantie												
+•	Garantie de base 10 ans pièces et 10 ans compresseur (main-d’œuvre non incluse).											
+•	Garantie main-d’œuvre (vendue séparément) de la 1ère à la 10e année, couvre pièces et main-d’œuvre avec remplacement du système si défaillance du compresseur.											
+Application												
+•	Résidence privée, condo, édifice commercial, immeuble de bureaux, restaurant.											
+												
+												
+Modèles - Unité extérieure												
+# Produit			FXD-ACD36		FXD-ACD60							
+Performance technique												
+	Nominale	BTU/hr	24000.0	36000.0	48000.0	54000.0						
+Capacité en climatisation	Min. – max.	W (BTU/hr)	3.2 - 10.8	3.2 - 10.8	9.96 - 14.65	9.96 - 15.24						
+			(11000 - 37000)	(11000 - 37000)	(34000 - 50000)	(34000 - 52000)						
+	Nominale	BTU/hr	24000.0	36000.0	48000.0	54000.0						
+Capacité en chauffage	Min. – max.	W (BTU/hr)	2.9 - 11.1	2.9 - 11.1	10.26 - 16.12	10.26 - 17.58						
+			(10000 - 38000)	(10000 - 38000)	(35000 - 55000)	(35000 - 60000)						
+Alimentation électrique		V / Ph / Hz	230/208 / 1 / 60	230/208 / 1 / 60	230/208 / 1 / 60	230/208 / 1 / 60						
+TRÉS (SEER)		-	20.0	18.0	18.0	17.0						
+CPSC (HSPF)		-	10.5	10.0	10.5	10.0						
+TRÉ (EER)		-	12.5	10.0	11.5	10.5						
+COP		-	4.0	3.0	3.26	3.46						
+MCA		A	24.0	24.0	35.0	35.0						
+Disjoncteur/fusible max. (MOCP)		A	35.0	35.0	45.0	45.0						
+Numéro AHRI		-	207497901.0	207497902.0	207497903.0	207497904.0						
+ENERGY STAR		-	✓	-	-	-						
+Volume de réfrigérant (R410A)		lb	9.3	9.3	12.3	12.3						
+Tuyaux de raccordement	Liquide	po	45724.0	45724.0	45724.0	45724.0						
+	Gaz	po	45720.0	45720.0	45720.0	45720.0						
+Poids net		lb (kg)	217 (98.5)	217 (98.5)	308 (140)	308 (140)						
+Niveau sonore		dB (A)	55 (45 - 56)	57 (45 - 57)	58 (48 - 61)	58 (48 - 61)						
+Puissance du compresseur		W	3680.0	3680.0	6000.0	6000.0						
+LRA du compresseur		A	16.0	16.0	19.0	19.0						
+RLA du compresseur		A	-	-	-	-						
+Puissance du moteur du ventilateur		A	1.5	1.5	1.5 x 2	1.5 x 2						
+Dimensions (L x H x l)	Produit	po	37 x 32 1/4 x 18 1/8	37 x 32 1/4 x 18 1/8	39 3/8 x 53 3/4 x 14 1/2	39 3/8 x 53 3/4 x 14 1/2						
+	Emballage	po	42 x 38 5/16 x 22 9/16	42 x 38 5/16 x 22 9/16	45 x 59 3/8 x 18 7/8	45 x 59 3/8 x 18 7/8						
+Puissance consommée en chauffage	Nominale	W	1020.0	1100.0	1730.0	2000.0						
+	Min. – max.	W	160 - 1350	400 - 1400	580 - 2600	450 - 3000						
+Plage de fonctionnement de la température pour le refroidissement		°C (°F)		-15 à 54 (5 à 129)								
+Plage de fonctionnement de la température pour le chauffage		°C (°F)		-30 à 24 (-22 à 75)								
+Longueur de tuyau maximale entre les unités intérieure et extérieure		pi (m)	99 (30)	99 (30)	99 (30)	99 (30)						
+Hauteur maximale entre les unités intérieure et extérieure		pi (m)	49 (15)	49 (15)	49 (15)	49 (15)						
+												
+												
+Unité extérieure	A		B		C		D		E		G	
+	po	mm	po	mm	po	mm	po	mm	po	mm	po	mm
+FXD-ACD36	37.0	940.0	18.125	460.0	32.25	820.0	24.0	610.0	19.125	486.0	18.125	460.0
+FXD-ACD60	39.375	1000.0	14.5	368.0	53.75	1365.0	24.5	620.0	15.5	395.0	14.5	370.0
+												
+												
+												
+Modèles - Unité intérieure (cabinet souffleur)												
+												
+												
+# Produit				AH224	AH236	AH248	AH260					
+	Alimentation électrique		V / Ph / Hz	230/208 / 1 / 60	230/208 / 1 / 60	230/208 / 1 / 60	230/208 / 1 / 60					
+	Alimentation	Climatisation	W	145.0	180.0	300.0	420.0					
+Données électriques	Courant d’entrée	Climatisation	A	1.10	1.33	2.13	2.74					
+	Disjoncteur/fusible max. (MOCP)		A	15.0	15.0	15.0	15.0					
+	Tension min./max.		V	187 / 253	187 / 253	187 / 253	187 / 253					
+Niveau sonore			dB (A)	55.0	57.0	58.0	61.0					
+Réfrigérant		Type	-		R410A							
+		Contrôle	-		Soupape d’expansion thermique							
+ENERGY STAR			-	✓	-	-	-					
+Débit d’air			pcm	960.0	1000.0	1380.0	1600.0					
+			m3/hr	1630.0	1700.0	2350.0	2720.0					
+		Nominale	Pa	25.0	37.0	50.0	50.0					
+HPS (Haute Pression Statique)			inH2O	0.1	0.148	0.2	0.2					
+		Plage	Pa	0 à 250	0 à 250	0 à 250	0 à 250					
+			inH2O	0 à 1	0 à 1	0 à 1	0 à 1					
+	Modèle		-	B-FGZ370C	B-FGZ370C	B-FGZ750C	B-FGZ750C					
+	Type de transmission		-		Transmission directe							
+Moteur ventilateur	Vitesse		tour/minute	750.0	820.0	840.0	920.0					
+	Puissance électrique		W	0.5	0.5	1.0	1.0					
+	Courant pleine charge (FLA)		A	3.0	3.0	5.0	5.0					
+Ventilateur	Type		-		Centrifuge							
+	Quantité		-		1.0							
+	Matériel		-	Tuyau en cuivre avec rainure intérieure – Ailettes en aluminium								
+	Aire de surface - Superficie		pi² (m²)	4.09 (0.38)	4.09 (0.38)	5.49 (0.51)	5.49 (0.51)					
+Évaporateur	Diamètre du tuyau		po	45724.0	45724.0	45724.0	45724.0					
+	Type d’ailette		-		Hydrophile							
+	Dimensions (L x H x l)		po	16 5/16 x 2 x 18	16 5/16 x 2 x 18	16 5/16 x 3 1/2 x 24	16 5/16 x 3 1/2 x 24					
+Température de fonctionnement (climatisation)			°C (°F)		18 à 27 (64.4 à 80.6)							
+Contrôle de fonctionnement du système			-		Contrôleur câblé							
+Dimensions	Unité seule (L x H x l)		po	21 1/4 x 48 1/4 x 21 1/4	21 1/4 x 48 1/4 x 21 1/4	24 3/4 x 57 x 21 1/4	24 3/4 x 57 x 21 1/4					
+			mm	660 x 603 x 1280	660 x 603 x 1280	693 x 660 x 1508	693 x 660 x 1508					
+Poids	Net		lb (kg)	156 (71)	156 (71)	178 (81)	178 (81)					
+	Brut		lb (kg)	170 (77)	170 (77)	192 (87)	192 (87)					
+												
+												
+												
+												
+Tableau de compatibilité des éléments électriques chauffants												
+Puissance de l’élément	AH224	AH236	AH248	AH260								
+10kW	✓	✓	✓	✓								
+15kW	-	✓	✓	✓								
+20kW	-	-	✓	✓								
+												
+												
+												
+Modèles - Unité intérieure (serpentin couvert «Cased Coil»)												
+												
+												
+												
+# Produit	Unité intérieure		GCAT24F-NAA	GCAT36F-NAA	GCAT48H-NAA	GCAT60H-NAA						
+	Unité extérieure		FXD-ACD36	FXD-ACD36	FXD-ACD60	FXD-ACD60						
+Performance technique												
+Tension		V / Ph / Hz		208-230 / 1 / 60								
+	Nominale	W (BTU/hr)	24000.0	36000.0	48000.0	54000.0						
+Capacité en climatisation	Min. – max.	W (BTU/hr)	3517 - 7034	5275 - 10844	9964 - 14067	10257 - 15826						
+			(12000 - 24000)	(18000 - 37000)	(34000 - 48000)	(35000 - 54000)						
+	Nominale	W (BTU/hr)	24000.0	36000.0	48000.0	54000.0						
+Capacité en chauffage	Min. – max.	W (BTU/hr)	3517 - 8792	5275 - 11137	9964 - 15240	10257 - 17584						
+			(12000-30000)	(18000-38000)	(34000 - 52000)	(35000 - 60000)						
+TRÈS2 (SEER2)		-	15.2	15.2	15.2	15.2						
+CPSC2 (HSPF2)		-	8.5	8.5	8.5	8.5						
+TRÈ2 (EER2)		W/W	11.0	9.5	10.0	9.5						
+COP		W/W	4.2	3.5	3.6	3.5						
+Numéro AHRI		-	213164338.0	213164339.0	213164340.0	213164341.0						
+ENERGY STAR		-	✓	-	-	-						
+Unité intérieure												
+Déshumidification		L/hr (pt/hr)	2.85 (6.03)	4.58 (9.68)	4.70 (9.94)	5.74 (12.13)						
+Débit d’air volumique	Max.	pcm	800.0	1000.0	1230.0	1510.0						
+Dimensions produit	L x H x l	po (mm)	17 1/2 x 23 x 21 1/4	17 1/2 x 23 x 21 1/4	24 1/2 x 28 1/2 x 21 1/4	24 1/2 x 28 1/2 x 21 1/4						
+			(445 x 585 x 540)	(445 x 585 x 540)	(622 x 725 x 540)	(622 x 725 x 540)						
+Dimensions emballage	L x H x l	po (mm)	21 x 25 13/16 x 27 1/8	21 x 25 13/16 x 27 1/8	28 1/8 x 31 5/16 x 27 1/8	28 1/8 x 31 5/1 x 27 1/8						
+			(535 x 655 x 690)	(535 x 655 x 690)	(714 x 795 x 689)	(714 x 795 x 689)						
+Charge de réfrigérant		oz	8.8	8.8	8.8	8.8						
+Poids	Net	lb (kg)	64 (29)	64 (29)	95 (43)	95 (43)						
+	Brut	lb (kg)	75 (34)	75 (34)	110 (50)	110 (50)						
+Longueur de préchargement		pi (m)	31 (9.5)	31 (9.5)	31 (9.5)	31 (9.5)						
+Volume additionnel de réfrigérant		oz/pi (g/m)	0.32 (29)	0.32 (29)	0.32 (29)	0.32 (29)						
+Diamètre externe tuyau liquide		po	45724.0	45724.0	45724.0	45724.0						
+Diamètre externe tuyau gaz		po	45720.0	45720.0	45720.0	45720.0						
+Longueur maximale entre		pi (m)	164 (50)	164 (50)	164 (50)	164 (50)						
+les unités intérieure et extérieure												
+Hauteur maximale entre		pi (m)	100 (30)	100 (30)	50 (15)	50 (15)						
+les unités intérieure et extérieure												
+												
+												
+												
+Unité intérieure serpentin couvert	L		P		H		A		B			
+«Cased Coil»	po	mm	po	mm	po	mm	po	mm	po	mm		
+GCAT24F-NAA	17.5	445.0	21.25	540.0	23.0	585.0	15.875	405.0	19.375	492.0		
+GCAT36F-NAA												
+GCAT48H-NAA	24.5	622.0	21.25	540.0	28.5	725.0	22.875	580.0	19.375	492.0		
+GCAT60H-NAA												

@@ -1,0 +1,115 @@
+OTP-P Thermopompe simple zone Pacific sans conduit de ventilation												
+												
+Caractéristiques												
+Mode de fonctionnement												
+•	Climatisation, chauffage, déshumidification, ventilation et auto											
+Capacité nominale												
+•	9000, 12000, 18000, 24000 BTU/hr.											
+Tension												
+•	230/208V, 60 Hz, 1 phase.											
+Unité intérieure												
+•	Installation en haut de mur, pouvant être raccordée de chaque côté.											
+•	Boîtier en plastique, standard blanc.											
+•	Ventilateur à courant transversal à 7 vitesses (auto, turbo, élevée, moyenne-élevée, moyenne, faible et très faible).											
+•	Filtres lavables.											
+Unité extérieure												
+•	Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.											
+•	Vanne d’expansion électronique pour un contrôle précis du débit de réfrigérant.											
+•	Ailettes du condenseur recouvertes d’un enduit hydrophile pour une plus grande résistance à la corrosion.											
+•	Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.											
+Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.												
+•	Couverture et technologie de préchauffage du compresseur.											
+•	Installation sur support mural ou au sol en aluminium en option.											
+ 												
+												
+												
+Tuyauterie de raccordement												
+•	Longueur minimale de la tuyauterie de 10 pi (3 m).											
+•	Raccords évasés.											
+Régulation												
+•	Télécommande sans fil incluse.											
+•	Contrôleur mural en option.											
+•	Wi-Fi en option.											
+•	Interface (options HP6000ZB-GE et GT130 requises).											
+•	Température de consigne : 16 à 30 °C (61 à 86 °F).											
+•	Format d’affichage de la température : °C ou °F.											
+Garantie												
+•	Garantie de base 10 ans pièces et 10 ans compresseur (main-d’œuvre non incluse).											
+•	Garantie main-d’œuvre (vendue séparément) de la 1ère à la 10e année, couvre pièces et main-d’œuvre avec remplacement du système si défaillance du compresseur.											
+Application												
+•	Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant.											
+												
+												
+# Produit1		Unité intérieure	PUD09KCH25S-I	PUD12KCH24S-I	PUD18KCH23S-I	PUD24KCH24S-I	PUD30KCH20S-I	PUD36KCH20S-I				
+		(Modèle intérieur Muse)										
+		Unité extérieure	PUD09KCH25S-O	PUD12KCH24S-O	PUD18KCH23S-O	PUD24KCH24S-O	PUD30KCH20S-O	PUD36KCH20S-O				
+Performance technique												
+Tension		Volts	230/208	230/208	230/208	230/208	230/208	230/208				
+	Nominale	W	2667.0	3517.0	5275.0	6450.0	8800.0	9850.0				
+Capacité en climatisation		(BTU/hr)	-9100.0	-12000.0	-18000.0	-22000.0	-30000.0	-33600.0				
+	Min. – max.	W	450 - 3150	900 - 4132	1500 - 6200	2600 - 8200	2280 – 10400	2200 – 10900				
+		(BTU/hr)	(1535 - 10748)	(3070 - 14100)	(5118 - 21154)	(8870 - 28000)	(7780 – 35500)	(7500 – 37200)				
+Capacité en chauffage	Nominale	W	3077.0	3517.0	5275.0	7040.0	8800.0	10140.0				
+		(BTU/hr)	-10500.0	-12000.0	-18000.0	-24000.0	-30000.0	-34600.0				
+	Min. – max.	W	1000 - 4300	900 - 4543	1500 - 6200	2100 - 9000	2670 – 10800	3000 – 11300				
+		(BTU/hr)	(3412 - 14671)	(3071 - 15500)	(5118 - 21154)	(7200 - 30708)	(9100 – 36850)	(10200 – 38500)				
+Puissance consommée en climatisation	Nominale	W	619.0	961.0	1384.0	1679.0	2667.0	3200.0				
+	Min. – max.	W	130 - 1013	220 - 1400	130 - 2300	290 - 2600	650 – 3600	670 – 4000				
+Puissance consommée en chauffage	Nominale	W	848.0	923.0	1384.0	1870.0	2588.0	3200.0				
+	Min. – max.	W	228 -1343	220 - 1500	250 - 2350	470 - 3100	650 – 3900	600 – 3950				
+Puissance consommée nominale		W	1343.0	1500.0	2350.0	3100.0	3900.0	4000.0				
+Courant nominal		A	4.73	6.30	11.50	15.30	19.0	20.0				
+MCA		A	10.0	10.0	14.0	16.0	20.0	23.0				
+Disjoncteur/fusible max. (MOCP)		A	15.0	15.0	20.0	25.0	30.0	35.0				
+SEER2 (SEER)		-	25.5 (25.5)	24 (24)	23.5 (23)	24.5 (24)	20 (19)	20 (20)				
+HSPF2 (HSPF)		-	10.2 (12)	9 (11)	9 (11)	9.5 (11)	8.5 (10)	8.5 (9)				
+TRÉ (EER)		W/W	4.31	3.66	3.81	3.85	3.30	3.08				
+COP		W/W	3.90	3.81	3.81	3.79	3.40	3.17				
+Numéro AHRI		-	210534142.0	210534143.0	211619266.0	210534144.0	211709659.0	211709660.0				
+ENERGY STAR		-	✓	✓	✓	✓	-	-				
+Unité intérieure												
+Déshumidification		pt/hr (l/hr)	1.69 (0.80)	2.96 (1.4)	3.80 (1.8)	5 (2.40)	7.4 (3.50)	7.4 (3.50)				
+Débit d’air volumique		pcm	353 / 323 / 294 / 264 /	400 / 364 / 329 / 288 /	589 / 500 / 441 / 412 /	736 / 588 / 530 / 471 /	912 / 736 / 706 / 647 /	912 / 736 / 706 / 647 /				
+			235 / 176 / 158	264 / 247 / 229	383 / 353 / 324	441 / 412 / 383	588 / 530 / 471	588 / 530 / 471				
+Niveau sonore		dB (A)	50 / 47 / 45 / 42 /	53 / 48 / 46 / 44 /	59 / 53 / 51 / 50 /	62 / 54 / 52 / 49 /	66 / 60 / 57 / 55 /	66 / 60 / 57 / 55 /				
+			39 / 36 / 35	42 / 40 / 37	47 / 43 / 39	48 / 46 / 44	52 / 50 / 47	52 / 50 / 47				
+Puissance du moteur du ventilateur		W	15.0	15.0	45.0	60.0	70.0	70.0				
+RLA du moteur du ventilateur		A	0.22	0.20	0.35	0.30	0.6	0.75				
+Puissance du moteur du déflecteur		W	1.5	1.5	1.5	1.5	1.5	1.5				
+Poids net		lb (kg)	21 (9.5)	21 (9.5)	29 (13.5)	35 (16)	44 (24.5)	44 (24.5)				
+Unité extérieure												
+Débit d’air volumique		m3/hr	2200.0	2200.0	3600.0	4500.0	4500.0	4500.0				
+Niveau sonore		dB (A)	52.0	52.0	59.0	62.0	72.0	72.0				
+Puissance du compresseur		W	800.0	784.0	1196.0	1350.0	2020.0	2294.0				
+LRA du compresseur		A	-	-	-	-	-	-				
+RLA du compresseur		A	6.50	6.80	9.25	11.0	14.2	16.0				
+Puissance du moteur du ventilateur		W	30.0	30.0	60.0	90.0	90.0	90.0				
+RLA du moteur du ventilateur		A	0.4	0.4	0.9	0.6	0.90	1.50				
+Volume de réfrigérant (R410A)		oz (g)	35.28 (1000)	42.33 (1200)	54.70 (1550)	60 (1700)	74.1 (2100)	84.7 (2400)				
+Poids		lb (kg)	70.5 (32)	70.5 (32)	98 (44.5)	108 (49)	113.6 (56.5)	127.9 (58)				
+Température ambiante de fonctionnement	Climatisation	°C (°F)			-29 à 50 (-20 à 122)							
+	Chauffage	°C (°F)			-30 à 30 (-22 à 86)							
+Tuyauterie de raccordement/réfrigérant												
+Longueur de préchargement		pi (m)	25 (7.5)	25 (7.5)	25 (7.5)	25 (7.5)	25 (7.5)	25 (7.5)				
+Volume additionnel de réfrigérant		oz/pi (g/m)	0.2 (20)	0.2 (20)	0.5 (50)	0.5 (50)	0.5 (50)	0.5 (50)				
+Diamètre externe tuyau liquide		po	45661.0	45661.0	45661.0	45661.0	45661.0	45661.0				
+Diamètre externe tuyau gaz		po	45724.0	45659.0	45785.0	45785.0	45785.0	45785.0				
+Différence de hauteur maximale		pi (m)	40 (12.2)	40 (12.2)	66 (20)	82 (25)	82 (25)	82 (25)				
+Longueur totale maximale		pi (m)	66 (20)	66 (20)	82 (25)	131 (40)	82 (25)	82 (25)				
+												
+												
+												
+												
+Unité intérieure (Modèle intérieur Muse)	L		H		P		A		B		C	
+	po	mm	po	mm	po	mm	po	mm	po	mm	po	mm
+PUD09KCH25S-I PUD12KCH24S-I	34.375	848.0	11.5	291.0	8.3125	211.0	5.875	149.0	21.3125	542.0	8.03125	204.0
+PUD18KCH23S-I	39.1875	995.0	12.25	311.0	8.6875	221.0	8.5	203.0	27.0	686.0	9.25	235.0
+PUD24KCH24S-I	43.5	1105.0	13.109375	333.0	9.6875	246.0	8.5	203.0	27.0	686.0	9.25	235.0
+PUD30KCH20S-I	53.15625	1350.0	12.8125	326.0	9.9375	253.0	13 ¾	350.0	29.375	746.0	10.0	254.0
+PUD36KCH20S-I												
+												
+Unité extérieure	L		H		P		A		B			
+	po	mm	po	mm	po	mm	po	mm	po	mm		
+PUD09KCH25S-O PUD12KCH24S-O	31.578125	802.0	21.84375	555.0	13.78125	350.0	20.15625	512.0	13.078125	332.0		
+PUD18KCH23S-O	37.71875	958.0	26.0	660.0	15.828125	402.0	24.0	610.0	15.5625	395.0		
+PUD24KCH24S-O PUD30KCH20S-O PUD36KCH20S-O	39.375	1000.0	29.375	746.0	16.8125	427.0	24.0	610.0	15.5625	395.0		

@@ -1,0 +1,57 @@
+ORF-R Câble chauffant à résistance fixe 120V préassemblé pour déglaçage de toitures et gouttières				
+				
+				
+caractéristiques				
+Tension nominale				
+•	120V.			
+Densité linéaire				
+•	5 Watts par pied.			
+Longueur de la liaison froide				
+•	30 po (0.76 m).			
+Surgaine				
+•	PVC.			
+Conducteur d’alimentation				
+•	Cuivre nickelé.			
+Rayon de courbure minimal				
+•	1/2 po (12 mm).			
+ 				
+				
+				
+Matériel inclus				
+•	Attaches de toiture pour câble et espaceurs.			
+•	Fiche à 3 bornes avec mise à la terre et témoin lumineux indiquant la mise sous tension du câble.			
+Installation				
+•	Ne jamais couper ni tenter de raccourcir le câble.			
+•	Pour applications extérieures seulement.			
+•	Température minimale d’installation : 0 °C (34 °F).			
+Garantie				
+•	Garantie de base de 1 an sur le câble chauffant.			
+Application				
+•	Déglaçage de toitures et gouttières.			
+				
+				
+				
+				
+Modèles				
+				
+		Longueur		
+# # Produit1	Prix			Watts
+		pi	m	
+ORF-R020	63.00	20.0	6.1	100.0
+ORF-R030	74.00	30.0	9.1	150.0
+ORF-R060	81.00	60.0	18.3	300.0
+ORF-R080	100.00	80.0	24.4	400.0
+ORF-R100	106.00	100.0	30.5	500.0
+ORF-R120	124.00	120.0	36.6	600.0
+ORF-R140	139.00	140.0	42.7	700.0
+ORF-R160	151.00	160.0	48.8	800.0
+ORF-R180	175.00	180.0	54.9	900.0
+ORF-R200	182.00	200.0	61.0	1000.0
+ORF-R240	195.00	240.0	73.2	1200.0
+1 Doit être branché dans une prise 120V munie d’un dispositif de détection de fuite à la terre (DDFT).				
+				
+Options				
+				
+# Produit En trousse	Prix	Description		
+KIT-RF-CLIP	9.00	Ensemble d’attaches de toit (25) et espaceurs (15) pour câbles chauffants à résistance fixe		
+RCR-U	138.00	Sonde automatique de câble chauffant pour déglaçage de toitures et gouttières avec détection d’humidité		

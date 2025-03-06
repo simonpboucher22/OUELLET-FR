@@ -1,0 +1,79 @@
+OTR Câble de plancher chauffant pour membrane												
+												
+tension 	•	120V, 240/208V, 1 phase.										
+ 												
+Longueur de la liaison froide												
+•	10' (3 m).											
+Régulation												
+•	Deux types de régulation possible (voir manuel d’installation pour les détails) :											
+-	Régulation de la température de la surface avec un thermostat électronique en mode plancher (F) et sonde de sol.											
+-	Régulation de la température ambiante avec un thermostat électronique en mode ambiant avec limite de plancher (A ou AF) et sonde de sol.											
+Note : Ce produit doit être utilisé avec un disjoncteur-détecteur de fuite à la terre (DDFT) sauf si exempté par le code national et/ou local en vigueur dans la région d’installation.												
+ 												
+•	Sonde de sol de 15’ (4.6 m).											
+•	Étiquette de tableau de mesures (à apposer au panneau électrique).											
+Installation												
+•	Ne jamais couper ou tenter de raccourcir le câble.											
+•	Pour applications intérieures seulement.											
+•	S’installe sur un sous-plancher de contreplaqué ou sur une chape de béton.											
+Application												
+•	Vestibule, salle d’eau, salle à manger-cuisine, salle de séjour, salle familiale.											
+Garantie												
+•	25 ans sur le câble chauffant.											
+												
+												
+Caractéristiques OTR												
+Construction												
+•	Câble chauffant de type double conducteur pour une installation plus simple et plus rapide, compatible avec les systèmes d’installation sur membrane de désolidarisation.											
+Densité												
+•	9.6W/pi2 (103W/m2), espacement aux 3 3/4’’ (95 mm).											
+•	10W/pi2 (108W/m2), espacement aux 3 5/8’’ (92 mm).											
+Installation												
+•	Sur membrane de désolidarisation vendue en option. 1, 2											
+•	Pour l’installation du câble sur membrane de désolidarisation, se référer aux instructions du manufacturier de la membrane afin de s’assurer qu’elle est compatible avec l’utilisation											
+d’un câble chauffant												
+												
+												
+												
+Options OTM et OTR												
+# Produit En trousse	Prix unitaire	Description										
+NADCM-M-80	31.00	Membrane de désolidarisation feutrée en feuille, 2’ 6-5/16’’ X 3’ 3’’, 8.16 pi2, vendue en boîte de 10 feuilles										
+NADCM-M-150	520.00	Membrane de désolidarisation feutrée en rouleau, 46' 9'' x 3' 3'', 150 pi2										
+NADCM-S-80	42.00	Membrane de désolidarisation autocollante en feuille, 2' 6-5/16'' X 3 '3'', 8.16 pi2, vendue en boîte de 10 feuilles										
+NADCM-S-150	666.00	Membrane de désolidarisation autocollante en rouleau, 46' 9'' x 3' 3'', 150 pi2										
+OTM-CC	41.00	CableCheck - Indicateur de défaillance électrique										
+OTM-SA	41.00	Colle en aérosol pour sécuriser le treillis sur le plancher de béton, 16.75 oz (474 g)										
+KIT-SP1	48.00	Trousse de réparation										
+KIT-CBL-SN	29.00	Sonde de sol 15 pi (4.6 m)										
+												
+					Surface couverte selon l'espacement1							
+Watts	# Produit 240/208V	# Produit 120V	Diamètre du câble (mm)		3 5/8" (92 mm)3		3 3/4" (95 mm)					
+				Prix	10W/pi2	108W/m2	9.6W/pi2	103W/m2	pi	m	lb	kg
+85.0	-	OTR0082	4.3	173.00	9.5	0.9	10.0	0.9	32.0	9.75	2.6	0.9
+120.0	-	OTR0122	4.3	186.00	12.0	1.1	12.5	1.2	40.0	12.19	2.6	0.9
+150.0	-	OTR0152	4.3	212.00	16.0	1.5	16.5	1.5	53.0	16.15	3.1	1.4
+170.0	OTR0170	OTR0172	4.3	222.00	18.5	1.7	19.0	1.8	61.0	18.59	3.1	1.4
+240.0	OTR0240	OTR0242	4.3	277.00	24.0	2.2	25.0	2.3	80.0	24.38	3.8	1.6
+300.0	OTR0300	OTR0302	4.3	320.00	30.5	2.8	31.5	2.9	101.0	30.78	4.0	1.8
+360.0	OTR0360	OTR0362	4.3	354.00	36.5	3.4	37.5	3.5	120.0	36.58	4.2	1.9
+420.0	OTR0420	OTR0422	4.3	366.00	42.5	4.0	44.0	4.1	141.0	42.98	4.9	2.2
+475.0	OTR0475	OTR0472	4.3	375.00	48.5	4.5	50.0	4.6	160.0	48.77	6.0	2.7
+600.0	OTR0600	OTR0602	4.3	440.00	60.5	5.6	62.5	5.8	200.0	60.96	6.9	3.1
+720.0	OTR0720	OTR0722	4.3	495.00	72.5	6.7	75.0	7.0	240.0	73.15	7.9	3.6
+840.0	OTR0840	OTR0842	4.3	513.00	84.5	7.9	87.5	8.1	280.0	85.34	8.7	4.0
+960.0	OTR0960	OTR0962	4.3	584.00	96.5	9.0	100.0	9.3	320.0	97.54	9.3	4.2
+1080.0	OTR1080	-	4.3	614.00	109.0	10.1	112.5	10.5	360.0	109.73	10.0	4.6
+1140.0	-	OTR1142	4.3	654.00	115.0	10.66	119.0	11.03	380.0	115.82	11.6	5.2
+1200.0	OTR1200	-	4.3	685.00	121.0	11.2	125.0	11.6	400.0	121.92	11.0	5.0
+1320.0	-	OTR1322	4.3	692.00	133.0	12.35	137.5	12.77	440.0	134.11	13.7	6.2
+1440.0	OTR1440	-	4.3	697.00	145.0	13.5	150.0	13.9	480.0	146.30	13.0	5.9
+1450.0	-	OTR1452	4.3	700.00	145.0	13.5	150.0	13.9	480.0	146.30	16.0	7.2
+1500.0	-	OTR1502	4.3	748.00	151.0	14.0	156.5	14.5	500.0	152.40	17.4	7.9
+1600.0	OTR1600	-	4.3	848.00	169.0	15.7	175.0	16.3	560.0	170.69	15.0	6.8
+1680.0	-	OTR1682	4.3	874.00	169.5	15.7	175.0	16.3	560.0	170.69	20.3	9.1
+1920.0	OTR1920	-	4.3	964.00	193.5	18.0	200.0	18.6	640.0	195.07	18.0	8.2
+2280.0	OTR2280	-	4.3	1102.00	229.5	21.3	237.5	22.1	760.0	231.65	22.0	10.0
+2640.0	OTR2640	-	4.3	1258.00	266.0	24.7	275.0	25.5	880.0	268.22	26.0	11.8
+2900.0	OTR2900	-	4.3	1371.00	292.5	27.2	302.5	28.1	968.0	295.04	30.0	13.6
+3000.0	OTR3000	-	4.3	1399.00	302.0	28.1	312.5	29.0	1000.0	304.80	31.0	14.0
+3360.0	OTR3360	-	4.3	1553.00	338.5	31.4	350.0	32.5	1120.0	341.38	36.9	16.8

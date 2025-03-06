@@ -1,0 +1,74 @@
+OPPM Mini plinthe électrique pour porte patio											
+											
+Caractéristiques											
+Couleur											
+•  Standards : blanc, amande.											
+•  Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.											
+•  Couleurs sur mesure disponibles sur demande.											
+Finition											
+•  Standard : peinture à la poudre d’époxy/polyester.											
+Tension											
+•  120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase.											
+Construction											
+•  Construction robuste en acier de calibre 18 permettant d’utiliser la plinthe comme une marche. 1											
+•  Protection thermique linéaire à réenclenchement automatique. 2											
+Élément											
+•  Élément tubulaire en acier inoxydable recouvert d’ailettes en aluminium. 3											
+•  Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.											
+Densité											
+•  Densité moyenne standard de 152W/pi.											
+											
+Régulation											
+•   Thermostat intégré en option, avec bouton de contrôle ou anti-vandale (installation du côté gauche seulement).											
+•   Relais mécanique et électronique en option (installation du côté droit seulement).											
+Ouellet recommande fortement l’installation d’un thermostat électronique mural pour un meilleur confort.											
+Installation											
+•   Usage non-résidentiel aux États-Unis.											
+•   2 rangées de trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.											
+•   Variété d’accessoires pour l’installation en continu en option.											
+•   Trousse de piédestals en option.											
+Garantie											
+•   3 ans contre tous vices.											
+•   10 ans sur l’élément.											
+Application											
+•   Porte patio, baie vitrée, édifice commercial, immeuble de bureaux, condos, restaurant.											
+											
+OPPM											
+Modèles à densité moyenne standard de 152W/pi											
+											
+Watts		# Produit			Watts 240/208V	# Produit	Prix	Longueur		Poids	
+	120V	208V	347V	600V		240/208V		po	mm	lb	kg
+300.0	OPPM0302	OPPM0308	-	-	300/225	OPPM0300	368.00	23.625	600.0	5.3	2.4
+450.0	OPPM0452	OPPM0458	OPPM0457	-	450/338	OPPM0450	394.00	35.4375	900.0	9.5	4.3
+600.0	OPPM0602	OPPM0608	OPPM0607	-	600/450	OPPM0600	427.00	47.25	1200.0	12.2	5.5
+750.0	OPPM0752	OPPM0758	OPPM0757	OPPM0756	750/563	OPPM0750	456.00	59.0625	1500.0	15.0	6.8
+900.0	OPPM0902	OPPM0908	OPPM0907	OPPM0906	900/675	OPPM0900	538.00	70.875	1800.0	17.8	8.1
+1050.0	OPPM1052	OPPM1058	OPPM1057	OPPM1056	1050/788	OPPM1050	570.00	82.6875	2100.0	20.6	9.3
+1200.0	OPPM1202	OPPM1208	OPPM1207	OPPM1206	1200/900	OPPM1200	603.00	94.5	2400.0	23.4	10.6
+1350.0	OPPM1352	OPPM1358	OPPM1357	OPPM1356	1350/1013	OPPM1350	636.00	106.3125	2700.0	26.2	11.9
+											
+Options											
+											
+# Produit En trousse	# Produit	Prix	Description								
+	Installée en usine*										
+-	BD	0.1	Finition unie du dos de l’appareil								
+KIT-OPPM-CE	-	222.00	Coin extérieur 3 po (76 mm)								
+KIT-OPPM-CI	-	222.00	Coin intérieur 3 po (76 mm)								
+KIT-OPPM-JT	-	102.00	Joint de finition, 2 po (51 mm)								
+KIT-OPPM-JT-PE	-	157.00	Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)								
+KIT-OPPM-PE	-	213.00	Trousse de piédestals ronds (2), 3 po (76 mm)								
+KIT-OPPM-PEC	-	213.00	Trousse de piédestals carrés (2), 2 po (51 mm)								
+KIT-OPPM-R-3471	R1	277.00	Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 19A à 277V - 18A à 347V								
+KIT-OPPM-R-6001	R1	277.00	Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V								
+KIT-OPPM-RT-2081	RT1	290.00	Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V								
+KIT-OPPM-RT-2401	RT1	290.00	Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V								
+KIT-OPPM-RT-2771	RT1	290.00	Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V								
+KIT-OPPM-RT-3471	RT1	290.00	Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V								
+OPPM-SV-XX	-	Sur demande	Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2700 mm)								
+KIT-OPPM-TB62	TB62	226.00	Thermostat bimétallique unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V								
+KIT-OPPM-TB262,3	TB262,3	235.00	Thermostat bimétallique bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V								
+KIT-OPPM-TB6-AV2	TB6AV2	226.00	Thermostat bimétallique unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V								
+KIT-OPPM-TB26-AV2,3	TB26AV2,3	235.00	Thermostat bimétallique bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V								
+KIT-OPPM-TRIAC-3471	TRIAC1	113.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 10A max. (sauf pour 1350W : 11,5A max.) à 347V max.								
+KIT-OPPM-TRIAC-347T1	TRIACT1	162.00	Relais électronique unipolaire, bobine 24V, avec transformateur, 10A max. (sauf pour 1350W : 11,5A max.) à 208V, 240V, 347V								
+KIT-OPPM-TRIAC-6001	TRIAC1	214.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.								

@@ -1,0 +1,53 @@
+ORC Appareil rayonnant											
+											
+Caractéristiques											
+Couleur et finition											
+•  Standards : blanc biscotti, noir mat et fini aluminium anodisé.											
+Tension											
+•  120V, 208V, 240V, 277V, 347V, 480V, 600V 50/60 Hz.											
+Construction											
+•  Devant fabriqué d’une extrusion d’aluminium afin d’accroître la surface de radiation. 1											
+•  Dos de l’appareil en acier de calibre 18.											
+•  Boîte de jonction à chaque extrémité.											
+•  Supports de fixation murale (fournis) qui ne requièrent pas l’ouverture du boîtier. KOE 7/8 po (22 mm) pour l’installation de câblage BX. 2											
+•  Fil de mise à la terre de 4 po (102 mm) à chaque extrémité. 3											
+•  Canalisation de câblage approuvé pour interconnexion des appareils											
+en utilisant le câblage installé en usine (lors d’une installation mur à mur). 3											
+•  Peinture haute émissivité appliquée sur l’échangeur afin d’augmenter l’efficacité.											
+Élément											
+•  Élément tubulaire en acier inoxydable inséré dans une extrusion d’aluminium afin de prévenir le bruit lors de l’expansion thermique.											
+											
+Densité											
+•  150W/pi.											
+Régulation											
+•  Thermostat intégré en option unipolaire ou bipolaire.											
+Ouellet recommande fortement l’utilisation d’un thermostat électronique mural pour un meilleur confort.											
+Installation											
+•  Installation au mur à 6 pi (1.83 m) minimum du plancher et 4 1/2 po (114 mm) minimum du plafond.											
+•  Variété d’accessoires pour l’installation en continu en option.											
+Garantie											
+•  10 ans contre tous vices.											
+Application											
+•  Vestibule, salle d’eau, salle à manger-cuisine, salle de séjour,											
+salle familiale, chambre à coucher, porte patio, baie vitrée, garderie, atelier.											
+											
+											
+Modèles											
+											
+Watts		# Produit		Prix	# Produit		Prix	Longueur		Poids	
+	120V	208V	240V		347V	600V		po	mm	lb	kg
+450.0	ORC0452	ORC0458	ORC0450	309.00	ORC0457	-	351.00	34.0	864.0	6.0	2.7
+600.0	ORC0602	ORC0608	ORC0600	404.00	ORC0607	-	468.00	47.0	1194.0	8.0	3.6
+750.0	ORC0752	ORC0758	ORC0750	473.00	ORC0757	ORC0756	547.00	59.0	1499.0	10.0	4.5
+900.0	ORC0902	ORC0908	ORC0900	531.00	ORC0907	ORC0906	612.00	71.0	1803.0	12.0	5.4
+1050.0	ORC1052	ORC1058	ORC1050	567.00	ORC1057	ORC1056	655.00	83.0	2108.0	13.0	5.9
+1200.0	ORC1202	ORC1208	ORC1200	651.00	ORC1207	ORC1206	747.00	94.0	2388.0	15.0	6.8
+15001.0	ORC1502	ORC1508	ORC1500	806.00	ORC1507	ORC1506	930.00	113.0	2870.0	18.0	8.2
+											
+Option 											
+											
+# Produit En trousse	# Produit Installée en usine*										
+		Prix	Description								
+KIT-ORC-JT	-	47.00	Joint de finition								
+KIT-ORC-TB62	TB62	110.00	Thermostat bimétallique, unipolaire								
+KIT-ORC-TB262, 3	TB262, 3	136.00	Section de 4 po (101 mm) avec thermostat bimétallique, bipolaire								

@@ -1,0 +1,129 @@
+OCB Plinthe coupe-brise robuste en aluminium											
+											
+											
+											
+Caractéristiques											
+Couleur											
+•	Standards : blanc, amande.										
+•	Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.										
+•	Couleurs sur mesure disponibles sur demande.										
+Finition											
+•	Standard : peinture à la poudre d’époxy/polyester.										
+•	Optionnelle : aluminium anodisé.										
+Tension											
+•	120V, 208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.										
+Construction											
+•	Devant en aluminium extrudé de calibre 14 (0.0787 po [2 mm]).										
+•	Boîtier en acier satiné de calibre 18.										
+•	Canalisation de câblage intégrée pleine longueur.										
+•	Canalisation de câblage 24V (-WW) en option.										
+•	Ouvertures inférieures à 1/4 po (6.4 mm) évitant l’intrusion de petits objets à l’intérieur.										
+•	Entrée d’air frais par l’avant; sortie d’air chaud par le dessus.										
+- Entrée d’air frais par le dessous (-BAI) en option.											
+•	Finition unie du dos de l’appareil (-BD) en option.										
+•	Protection thermique linéaire pleine longueur, à réenclenchement automatique.										
+•	Bouts inclus.										
+Élément											
+•	Élément tubulaire en acier inoxydable recouvert d’ailettes en aluminium.										
+•	Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.										
+ 											
+											
+											
+Densité											
+•	Densité moyenne standard de 275W/pi.										
+•	Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.										
+Régulation											
+•	Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale (installation du côté droit seulement).										
+•	Relais mécanique, relais électronique ou relais pneumatique en option (installation du côté droit seulement).										
+Ouellet recommande fortement l’installation d’un thermostat électronique mural pour un meilleur confort.											
+Installation											
+•	L’appareil doit être installé à 3 po (76 mm) au-dessus du plancher (pour l’option -BAI).										
+•	Trous de montage espacés de 1 po (25.4 mm) afin de faciliter la pose.										
+•	Installation au plancher ou au mur.										
+•	Variété d’accessoires pour l’installation en continu en option.										
+•	Trousse de piédestals en option.										
+Garantie											
+•	3 ans contre tous vices.										
+Application											
+•	Édifice commercial, immeuble de bureaux, hôpital, école, résidence privée.										
+											
+Modèles à densité moyenne standard de 275W/pi											
+											
+Watts			# Produit		Watts 240/208V2	# Produit 240/208V	Prix	Longueur		Poids	
+	120V	208V	347V	600V				po	mm	lb	kg
+500.0	OCB0502	OCB0508	OCB0507	-	500/375	OCB0500	597.00	28.0	711.0	8.0	3.6
+750.0	OCB0752	OCB0758	OCB0757	OCB0756	750/563	OCB0750	641.00	38.0	965.0	10.8	4.9
+1000.0	OCB1002	OCB1008	OCB1007	OCB1006	1000/750	OCB1000	683.00	48.1875	1224.0	13.7	6.2
+1250.0	OCB1252	OCB1258	OCB1257	OCB1256	1250/938	OCB1250	735.00	57.6875	1465.0	16.4	7.5
+1500.0	OCB1502	OCB1508	OCB1507	OCB1506	1500/1125	OCB1500	790.00	66.4375	1687.0	18.8	8.6
+1750.0	-	OCB1758	OCB1757	OCB1756	1750/1313	OCB1750	851.00	75.8125	1925.0	21.5	9.8
+2000.0	-	OCB2008	OCB2007	OCB2006	2000/1500	OCB2000	914.00	84.5625	2148.0	24.0	10.9
+2250.0	-	OCB2258	OCB2257	OCB2256	2250/1688	OCB2250	988.00	93.5	2375.0	26.5	12.1
+2500.0	-	OCB2508	OCB2507	OCB2506	2500/1875	OCB2500	1046.00	102.625	2606.0	29.1	13.2
+											
+Modèles à basse densité moyenne											
+											
+# Produit1	Prix	Longueur	Poids	Densité moyenne W/pi	Watts	Watts 240/208V2	120V	208V	240/208V	347V	600V
+OCB020X-711				100.0	200.0	200/150	✓	✓	✓	-	-
+	597.00	28"	8.0 lb								
+OCB030X-711		(711mm)	(3.6 kg)	150.0	300.0	300/225	✓	✓	✓	-	-
+OCB040X-711											
+				200.0	400.0	400/300	✓	✓	✓	✓	-
+OCB030X-965		38"	10.8 lb	100.0	300.0	300/225	✓	✓	✓	✓	-
+OCB045X-965	641.00	(965 mm)	(4.9 kg)	150.0	450.0	450/338	✓	✓	✓	✓	-
+OCB060X-965				200.0	600.0	600/450	✓	✓	✓	✓	-
+OCB040X-1224			13.7 lb	100.0	400.0	400/300	✓	✓	✓	✓	-
+OCB060X-1224	683.00	48 3/16"	(6.2 kg)	150.0	600.0	600/450	✓	✓	✓	✓	-
+OCB080X-1224		(1224 mm)		200.0	800.0	800/600	✓	✓	✓	✓	✓
+OCB050X-1465			16.4 lb	100.0	500.0	500/375	✓	✓	✓	✓	-
+OCB075X-1465	735.00	57 11/16"	(7.5 kg)	150.0	750.0	750/563	✓	✓	✓	✓	✓
+OCB100X-1465		(1465 mm)		200.0	1000.0	1000/750	✓	✓	✓	✓	✓
+OCB060X-1687			18.8 lb	100.0	600.0	600/450	✓	✓	✓	✓	✓
+OCB090X-1687	790.00	66 7/16"	(8.6 kg)	150.0	900.0	900/675	✓	✓	✓	✓	✓
+OCB120X-1687		(1687 mm)		200.0	1200.0	1200/900	✓	✓	✓	✓	✓
+OCB070X-1925			21.5 lb	100.0	700.0	700/525	✓	✓	✓	✓	✓
+OCB105X-1925	851.00	75 13/16"	(9.8 kg)	150.0	1050.0	1050/788	✓	✓	✓	✓	✓
+OCB140X-1925		(1925 mm)		200.0	1400.0	1400/1050	✓	✓	✓	✓	✓
+OCB080X-2148			24.0 lb	100.0	800.0	800/600	✓	✓	✓	✓	✓
+OCB120X-2148	914.00	84 9/16"	(10.9 kg)	150.0	1200.0	1200/900	✓	✓	✓	✓	✓
+OCB160X-2148		(2148 mm)		200.0	1600.0	1600/1200	✓	✓	✓	✓	✓
+OCB090X-2375			26.5 lb	100.0	900.0	900/675	✓	✓	✓	✓	✓
+OCB135X-2375	988.00	93 1/2"	(12.1 kg)	150.0	1350.0	1350/1013	-	✓	✓	✓	✓
+OCB180X-2375		(2375 mm)		200.0	1800.0	1800/1350	-	✓	✓	✓	✓
+OCB100X-2606		102 5/8"	29.1 lb	100.0	1000.0	1000/750	✓	✓	✓	✓	✓
+OCB150X-2606	1046.00	(2606 mm)	(13.2 kg)	150.0	1500.0	1500/1125	-	✓	✓	✓	✓
+OCB200X-2606				200.0	2000.0	2000/1500	-	✓	✓	✓	✓
+											
+Options											
+											
+# Produit En trousse	# Produit	Prix	Description								
+	Installée en usine*										
+Finition											
+-	BAI	Sans frais	Entrée d’air par le dessous								
+-	BD1	0.1	Finition unie du dos de l’appareil								
+KIT-OCB-CE	-	377.00	Coin extérieur, 6 po (152 mm)								
+KIT-OCB-CI	-	377.00	Coin intérieur, 6 po (152 mm)								
+KIT-OCB-JT	-	87.00	Joint de finition, 1 3/16 po (30 mm)								
+KIT-OCB-JT-PE	-	95.00	Joint contour de finition pour option BD et/ou unité avec piédestals, 1 3/16 po (30 mm)								
+KIT-OCB-PE	-	128.00	Trousse de piédestals ronds (2), 3 po (76 mm)								
+KIT-OCB-PEC	-	128.00	Trousse de piédestals carrés (2), 3 po (76 mm)								
+OCB-SV-XX	-	Sur demande	Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2606 mm)								
+Contrôles											
+KIT-OCB-DIS203	DIS203	172.00	Interrupteur principal, 20A à 277V max.								
+-	PM	410.00	Relais pneumatique, 20A à 600V max.								
+KIT-OCB-R-347	R	175.00	Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V								
+KIT-OCB-R-600	R	182.00	Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V								
+KIT-OCB-RT-120	RT	195.00	Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V								
+KIT-OCB-RT-208	RT	195.00	Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V								
+KIT-OCB-RT-240	RT	195.00	Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V								
+KIT-OCB-RT-277	RT	195.00	Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V								
+KIT-OCB-RT-347	RT	189.00	Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V								
+KIT-OCB-RT-6002	RT2	195.00	Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)								
+KIT-OCB-T	T	137.00	Thermostat unipolaire : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V								
+KIT-OCB-T24	T24	228.00	Thermostat bipolaire : 30A à 120, 208V, 240V - 15A à 277V, 347V, 600V								
+KIT-OCB-T-AV	TAV	137.00	Thermostat unipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V								
+KIT-OCB-T2-AV4	T2AV4	228.00	Thermostat bipolaire, anti-vandale : 30A à 120, 208V, 240V - 15A à 277V, 347V, 600V								
+KIT-OCB-TRIAC-347	TRIAC	77.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.								
+KIT-OCB-TRIAC-347T	TRIACT	105.00	Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V								
+KIT-OCB-TRIAC-600	TRIAC	135.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.								
+-	WW	46.00	Canalisation de câblage 24V								

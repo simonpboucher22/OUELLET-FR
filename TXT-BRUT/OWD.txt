@@ -1,0 +1,68 @@
+OWD Aérotherme lavable													
+													
+caractéristiques													
+Tension													
+• 208V, 240V, 277V, 480V, 600V, 1 ou 3 phases.													
+Construction													
+• Boîtier mécanique en acier inoxydable type 304 de calibre 16, résistant à la corrosion.*													
+• Volets de sortie d’air en acier inoxydable. 1													
+• Grille de protection en acier inoxydable, qui empêche les contacts accidentels avec le ventilateur. 2													
+• Protection thermique à réenclenchement automatique (ou manuel en option).													
+• Boîtier électrique non métallique NEMA 4X. 3													
+• Lampe témoin indiquant la mise sous tension des éléments en option.													
+• Interrupteur principal à poignée verrouillable en option.													
+Ventilateur													
+• Ventilateur à action différée en aluminium anodisé.													
+• Moteur fermé à roulement à billes recouvert d’époxy, parfaitement étanche et lubrifié en permanence. 4													
+• Ventilateur recouvert d’époxy.													
+• Conçu pour résister à l'humidité et à la corrosion.													
+													
+Élément													
+• Élément tubulaire scellé à ailettes en acier inoxydable de type 316*. 5													
+Régulation													
+• Circuit de commande à 24V avec transformateur et contacteur.													
+• Thermostat intégré à tube capillaire en option.													
+• Commande de ventilateur en option.													
+Installation													
+• Boîtier électrique placé sous l’unité, facilitant l’installation et l’entretien.													
+• Support pivotant en acier inoxydable inclus, permettant le montage au mur ou au plafond.													
+Garantie													
+• 1 an contre tous vices.													
+Application													
+Agroalimentaire, installations maritimes et côtières, lave-auto, laiterie													
+													
+													
+Modèles													
+													
+kW			# Produit				Prix	BTU/hr	pcm	Hausse de température		Portée	
+	208V (1 ph)	208V (3 ph)	240V (1 ph)	240V (3 ph)	480V (3 ph)	600V (3 ph)				°C	°F	pi	m
+3.0	OWD03008	OWD03038	OWD03000	OWD03030	OWD03034	OWD03036	5710.00	10236.0	700.0	8.0	14.0	26.0	8.0
+5.0	OWD05008	OWD05038	OWD05000	OWD05030	OWD05034	OWD05036	5779.00	17060.0	700.0	13.0	24.0	26.0	8.0
+7.5	OWD07508	OWD07538	OWD07500	OWD07530	OWD07534	OWD07536	5926.00	25590.0	700.0	19.0	35.0	26.0	8.0
+9.0	OWD09008	OWD09038	OWD09000	OWD09030	OWD09034	OWD09036	6076.00	30708.0	1450.0	11.0	20.0	43.0	13.0
+10.0	-	OWD10038	OWD10000	OWD10030	OWD10034	OWD10036	6376.00	34120.0	1450.0	12.0	22.0	43.0	13.0
+12.0	-	OWD12038	-	OWD12030	OWD12034	OWD12036	6429.00	40944.0	1450.0	14.0	26.0	43.0	13.0
+12.5	-	OWD12538	-	OWD12530	OWD12534	OWD12536	8169.00	42650.0	2400.0	9.0	17.0	50.0	15.0
+15.0	-	OWD15038	-	OWD15030	OWD15034	OWD15036	8261.00	51180.0	2400.0	12.0	21.0	50.0	15.0
+20.0	-	-	-	-	OWD20034	OWD20036	8524.00	68240.0	2400.0	16.0	28.0	50.0	15.0
+25.0	-	-	-	-	OWD25034	OWD25036	9570.00	85300.0	2400.0	19.0	35.0	50.0	15.0
+30.0	-	-	-	-	OWD30034	OWD30036	9903.00	102360.0	2400.0	23.0	42.0	50.0	15.0
+35.0	-	-	-	-	OWD35034	OWD35036	10308.00	119420.0	2400.0	27.0	48.0	50.0	15.0
+38.4	-	-	-	-	OWD38434	OWD38436	10332.00	131020.0	2400.0	30.0	54.0	50.0	15.0
+47.0	-	-	-	-	-	OWD47036	10480.00	160364.0	2400.0	36.0	64.0	50.0	15.0
+													
+Options													
+													
+# Produit En trousse	# Produit	Prix	Description										
+	Installée en usine*												
+-	120.0	257.00	Circuit de commande à 120V										
+-	EP	731.00	Finition à la peinture d'époxy pour une meilleure résistance à la corrosion selon l'environnement										
+-	I1	862.00	Interrupteur principal à poignée verrouillable										
+-	L	545.00	Lampe témoin «En marche»										
+-	ME1	1205.00	Éléments en monel pour appareil de 3 à 20kW pour une meilleure résistance à la corrosion selon l'environnement										
+-	ME2	3030.00	Éléments en monel pour appareil de 25 à 38.4kW pour une meilleure résistance à la corrosion selon l'environnement										
+-	PTM	545.00	Protection thermique à réenclenchement manuel										
+-	S	798.00	Interrupteur à trois positions : On/Mise en veille/Ventilateur										
+-	T	545.00	Thermostat										
+-	T2S	1366.00	Thermostat 2 stages										
+OWD-TM	-	611.00	Themostat mural NEMA 4X, plage de 4 °C à 43 °C (40 °F à 110 °F) : 25A à 120V, 208V, 240V - 22A à 277V (Compatible with 24VAC control circuit)										

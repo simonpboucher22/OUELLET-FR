@@ -1,0 +1,128 @@
+OHB Plinthe coupe-brise haute densité en aluminium										
+										
+										
+caractéristiques										
+Couleur										
+•	Standards : blanc, amande.									
+•	Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.									
+•	Couleurs sur mesure disponibles sur demande.									
+Finition										
+•	Standard : peinture à la poudre d’époxy/polyester.									
+•	Optionnelle : aluminium anodisé.									
+Tension										
+•	208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.									
+Construction										
+•	Devant et dessus en aluminium de calibre 14 (0.0787 po [2 mm]). 1									
+•	Boîtier en acier satiné de calibre 18.									
+•	Assemblage vissé pour une plus grande robustesse.									
+•	Canalisation de câblage intégrée pleine longueur.									
+•	Canalisation de câblage 24V (-WW) en option.									
+•	Ouvertures inférieures à 1/4 po (6.4 mm) évitant l’intrusion de petits objets à l’intérieur. 2									
+•	Entrée d’air frais par le dessous et sortie d’air chaud par le dessus.									
+•	Finition unie du dos de l’appareil (-BD) en option.									
+•	Protection thermique linéaire pleine longueur à réenclenchement automatique. 3									
+Protection thermique pour la haute altitude (-HA) en option.										
+•	Bouts inclus.									
+Élément										
+•	Deux éléments tubulaires en acier inoxydable recouverts d’ailettes en aluminium.									
+ 										
+										
+										
+•	Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique. 4									
+Densité										
+•	Densité moyenne standard de 355W/pi.									
+•	Basse densité moyenne de 175W/pi, 250W/pi.									
+•	Haute densité moyenne de 500W/pi.									
+Régulation										
+•	Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.									
+•	Relais mécanique, relais électronique ou relais pneumatique en option.									
+Ouellet recommande fortement l’installation d’un thermostat électronique mural pour un meilleur confort.										
+Installation										
+•	Usage non-résidentiel aux États-Unis.									
+•	L’appareil doit être installé à 3 po (76 mm) au-dessus du plancher.									
+•	Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.									
+•	Installation au plancher avec piédestals ou au mur. 5									
+•	Trousse de piédestals en option.									
+•	Variété d’accessoires pour l’installation en continu en option.									
+Garantie										
+•	3 ans contre tous vices.									
+Application										
+•	Édifice commercial, immeuble de bureaux, hôpital, école, résidence privée									
+										
+										
+										
+Modèles à densité moyenne standard de 355W/pi										
+										
+Watts		# Produit		Watts 240/208V1	# Produit 240/208V	Prix	Longueur		Poids	
+	208V	347V	600V				po	mm	lb	kg
+750.0	OHB0758	OHB0757	-	750/563	OHB0750	651.00	23.625	600.0	10.7	4.8
+1000.0	OHB1008	OHB1007	-	1000/750	OHB1000	737.00	35.4375	900.0	14.1	6.4
+1400.0	OHB1408	OHB1407	OHB1406	1400/1050	OHB1400	840.00	47.25	1200.0	17.6	8.0
+1750.0	OHB1758	OHB1757	OHB1756	1750/1313	OHB1750	950.00	59.0625	1500.0	21.1	9.6
+2100.0	OHB2108	OHB2107	OHB2106	2100/1577	OHB2100	1083.00	70.875	1800.0	24.6	11.1
+2450.0	OHB2458	OHB2457	OHB2456	2450/1840	OHB2450	1227.00	82.6875	2100.0	28.0	12.7
+2800.0	OHB2808	OHB2807	OHB2806	2800/2103	OHB2800	1394.00	94.5	2400.0	31.5	14.3
+										
+Modèles à basse densité moyenne										
+										
+# Produit2	Prix	Longueur	Poids	Densité moyenne W/pi	Watts	Watts 240/208V1	208V	240/208V	347V	600V
+OHB040X-600	651.00	23 5/8"	10.7 lb	175.0	375.0	375/281	✓	✓	-	-
+OHB050X-600		(600 mm)	(4.8 kg)	250.0	500.0	500/375	✓	✓	-	-
+  OHB050X-900 	737.00	35 7/16"	14.1 lb	175.0	500.0	500/375	✓	✓	✓	-
+OHB075X-900		(900 mm)	(6.4 kg)	250.0	750.0	750/563	✓	✓	✓	-
+ OHB070X-1200 	840.00	47 1/4"	17.6 lb	175.0	700.0	700/525	✓	✓	✓	✓
+OHB100X-1200		(1200 mm)	(8.0 kg)	250.0	1000.0	1000/750	✓	✓	✓	✓
+ OHB087X-1500 	950.00	59 1/16"	21.1 lb	175.0	875.0	875/656	✓	✓	✓	✓
+OHB125X-1500		(1500 mm)	(9.6 kg)	250.0	1250.0	1250/938	✓	✓	✓	✓
+ OHB105X-1800 	1083.00	70 7/8"	24.6 lb	175.0	1050.0	1050/788	✓	✓	✓	✓
+OHB150X-1800		(1800 mm)	(11.1 kg)	250.0	1500.0	1500/1125	✓	✓	✓	✓
+ OHB122X-2100 	1227.00	82 11/16"	28.0 lb	175.0	1225.0	1225/919	✓	✓	✓	✓
+OHB175X-2100		(2100 mm)	(12.7 kg)	250.0	1750.0	1750/1313	✓	✓	✓	✓
+ OHB140X-2400 	1394.00	94 1/2"	31.5 lb	175.0	1400.0	1400/1050	✓	✓	✓	✓
+OHB200X-2400		(2400 mm)	(14.3 kg)	250.0	2000.0	2000/1500	✓	✓	✓	✓
+										
+Modèles à haute densité moyenne de 500W/pi										
+										
+Watts		# Produit		Watts 240/208V1	# Produit 240/208V	Prix	Longueur		Poids	
+	208V	347V	600V				po	mm	lb	kg
+1000.0	OHBH1008	OHBH1007	-	1000/750	OHBH1000	651.00	23.625	600.0	10.7	4.8
+1500.0	OHBH1508	OHBH1507	OHBH1506	1500/1125	OHBH1500	737.00	35.4375	900.0	14.1	6.4
+2000.0	OHBH2008	OHBH2007	OHBH2006	2000/1500	OHBH2000	840.00	47.25	1200.0	17.6	8.0
+2500.0	OHBH2508	OHBH2507	OHBH2506	2500/1875	OHBH2500	950.00	59.0625	1500.0	21.1	9.6
+3000.0	OHBH3008	OHBH3007	OHBH3006	3000/2250	OHBH3000	1083.00	70.875	1800.0	24.6	11.1
+3500.0	OHBH35083	OHBH3507	OHBH3506	3500/2625	OHBH3500	1227.00	82.6875	2100.0	28.0	12.7
+4000.0	OHBH40083	OHBH4007	OHBH40063	4000/3000	OHBH40003	1394.00	94.5	2400.0	31.5	14.3
+										
+										
+Options										
+										
+# Produit En trousse	# Produit	Prix	Description							
+	Installée en usine*									
+Finition										
+-	BD1	0.1	Finition unie du dos de l’appareil							
+KIT-OHB-CE	-	617.00	Coin extérieur, 8 po (203 mm)							
+KIT-OHB-CI	-	617.00	Coin intérieur, 8 po (203 mm)							
+KIT-OHB-JT	-	145.00	Joint de finition, 2 po (51 mm)							
+KIT-OHB-JT-PE	-	154.00	Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)							
+KIT-OHB-PEC	-	148.00	Trousse de piédestals carrés (2), 3 po (76 mm)							
+OHB-SV-XX	-	Sur demande	Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2400 mm)							
+Contrôles										
+KIT-OHB-DIS203	DIS203	172.00	Interrupteur principal, 20A à 277V max.							
+KIT-OHB-DIS403	DIS403	211.00	Interrupteur principal, 40A à 600V max.							
+-	HA	Sans frais	Protection thermique pour la haute altitude (3000 pi à 8200 pi)							
+-	PM	410.00	Relais pneumatique, 20A à 600V max.							
+KIT-OHB-R-347	R	175.00	Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 19A à 277V - 18A à 347V							
+KIT-OHB-R-600	R	182.00	Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V							
+KIT-OHB-RT-208	RT	195.00	Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V							
+KIT-OHB-RT-240	RT	195.00	Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V							
+KIT-OHB-RT-277	RT	195.00	Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V							
+KIT-OHB-RT-347	RT	189.00	Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V							
+KIT-OHB-RT-6002	RT2	195.00	Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)							
+KIT-OHB-T	T	137.00	Thermostat unipolaire : 25A à 208V, 240V - 10A à 277V, 347V, 480V, 600V							
+KIT-OHB-T24	T24	228.00	Thermostat bipolaire : 30A à 208V, 240V - 15A à 277V, 347V, 600V							
+KIT-OHB-T-AV	TAV	137.00	Thermostat unipolaire, anti-vandale : 25A à 208V, 240V - 10A à 277V, 347V, 480V, 600V							
+KIT-OHB-T2-AV4	T2AV4	228.00	Thermostat bipolaire, anti-vandale : 30A à 208V, 240V - 15A à 277V, 347V, 600V							
+KIT-OHB-TRIAC-347	TRIAC	77.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.							
+KIT-OHB-TRIAC-347T	TRIACT	105.00	Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V							
+KIT-OHB-TRIAC-600	TRIAC	135.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.							
+-	WW	46.00	Canalisation de câblage 24V incluant fils haute température							

@@ -1,0 +1,43 @@
+ORA-PA15 Rideau d’air pour service à l’auto/Comptoir de service								
+								
+								
+								
+								
+caractéristiques								
+Modèle								
+• Chauffant électrique.								
+Couleur								
+• Devant blanc (RAL 9016, NCS S 0500-N).								
+• Grille, face arrière, côtés et supports : gris (RAL 7046).								
+• Couleurs sur mesure disponibles sur demande (Charte RAL).								
+Tension								
+• 208V, 60Hz, 1 phase.								
+Construction								
+• Boîtier anticorrosion zingué et panneaux en acier peints à la peinture en poudre.								
+• Accès rapide aux composantes internes par la trappe d’entretien.								
+• Cordon d’alimentation de 4.3 pi (1.3 m) sans fiche.								
+• Protection thermique à réenclenchement automatique.								
+Ventilateur								
+• Ventilateurs à cage d’écureuil.								
+								
+								
+Élément								
+• Élément produisant une chaleur instantanée.								
+Régulation								
+• Boutons de contrôle pour régler le ventilateur et les étapes du chauffage.								
+Installation								
+• L’unité peut être installé en angle sur le support, lequel est utilisé pour un montage mural ou au plafond.								
+Garantie								
+• 1 an contre tous vices.								
+Certification								
+• Certifié INTL selon les standards : CAN/CSA-E60335-2-30:13 (R2018).								
+• UL 2021 Ed. 4.0.								
+Application								
+• Petites ouvertures telles que le service à l’auto et les comptoirs de service.								
+								
+Modèles								
+								
+Volts (1 ph)	# Produit	Prix	kW Lo/Hi	FLA1	Débit d’air (m³/hr)	dBA2	Poids	
+							lb	kg
+208.0	PA1508E02NA	1460.00	1.7/2.4	13.0	380.0	50.0	17.0	7.7
+208.0	PA1508E04NA	1346.00	2.5/3.7	19.0	380.0	50.0	17.0	7.7

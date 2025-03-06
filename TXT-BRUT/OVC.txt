@@ -1,0 +1,61 @@
+OVC Ventilo-convecteur électronique compact						
+						
+Caractéristiques						
+Couleur						
+•  Standard : blanc.						
+•  Optionnelles (surcharge applicable) : amande, argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.						
+•  Couleurs sur mesure disponibles sur demande.						
+Finition						
+•  Standard : peinture à la poudre d’époxy/polyester.						
+Tension						
+•  120, 240/208V, 1 phase.						
+Construction						
+•  Devant en aluminium moulé résistant aux chocs.						
+•  Acier de calibre 20.						
+•  Protection thermique à réenclenchement automatique.						
+Ventilateur						
+•  Ventilateur à cage d’écureuil ultra silencieux.						
+•  Moteur 2 vitesses lubrifié à vie.						
+Élément						
+•  Fil tissé en alliage nickel-chrome protégé par des isolateurs en mica.						
+•  Élément produisant une chaleur instantanée.						
+Régulation						
+Modèle (-TH)						
+•  Modes de fonctionnement convenant à tous les besoins (confort, économie, hors gel, pleine puissance, veille).						
+						
+						
+•   Thermostat/minuterie digital électronique intégré avec écran rétro- éclairé servant de veilleuse.						
+•   Thermostat électronique pulsant à 2 triacs passant automatiquement de 750W à 1500W lorsque nécessaire.						
+•   Fonction de verrouillage du clavier qui élimine les ajustements de température indésirés et l’usage des différents modes du thermostat. Modèle (-PW)						
+•   Requiert un thermostat mural non pulsant (vendu séparément).						
+•   La puissance de l’appareil doit être sélectionnée au moment du raccordement (750W ou 1500W).						
+Installation						
+•   Installation au mur à 6 po (152 mm) minimum du plancher.						
+•   Montage en surface sans adaptateur ou encastré dans une structure de mur en 2 po X 3 po avec gypse.						
+•   Raccordement facile grâce aux débouchures et aux trous de montage (vis de fixation incluses).						
+•   Gabarit de pose inclus.						
+Garantie						
+•   5 ans contre tous vices.						
+Application						
+Vestibule, salle de bain, salle d'eau, salle à manger, cuisine, corridor						
+						
+						
+OVC						
+Modèles						
+						
+Watts		Volts	# Produit	Prix	Poids	
+min.	max.				lb	kg
+750.0	1500.0	120.0	OVC1502BL-TH	443.00	11.5	5.22
+750/563	1500/1125	240/208	OVC1500BL-TH	443.00	11.5	5.22
+750/563		240/208	OVC1500BL-PW1	358.00	12.2	5.53
+1500/1125						
+						
+Options						
+						
+# Produit Installée en usine*						
+	Prix	Description				
+DIS2	118.00	Interrupteur principal, 20A à 250V				
+R3	81.00	Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V				
+RT3	110.00	Relais unipolaire, bobine 24V, avec transformateur, 208V/24V, 240V/24V, 22A à 208V, 240V				
+TRIAC3	81.00	Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 240V max.				
+TRIACT3	110.00	Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V max.				

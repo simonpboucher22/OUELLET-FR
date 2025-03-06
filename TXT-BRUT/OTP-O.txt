@@ -1,0 +1,109 @@
+OTP-O Thermopompe simple zone Olympia sans conduit de ventilation												
+												
+Caractéristiques												
+Mode de fonctionnement												
+•	Climatisation, chauffage, déshumidification, ventilation et auto.											
+Capacité nominale												
+•	9000, 12000, 18000, 24000 BTU/hr.											
+Tension												
+•	230/208V, 60 Hz, 1 phase.											
+Unité intérieure												
+•	Installation en haut de mur, pouvant être raccordée de chaque côté.											
+•	Boîtier en plastique, standard blanc.											
+•	Ventilateur à courant transversal à 7 vitesses (turbo, élevée, moyenne-élevée, moyenne, moyenne-faible, faible et très faible).											
+•	Filtres lavables.											
+Unité extérieure												
+•	Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.											
+•	Soupape d’expansion électronique pour un contrôle précis du débit de réfrigérant.											
+•	Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.											
+•	Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.											
+•	Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.											
+ 												
+R410A												
+												
+												
+•	Couverture et technologie de préchauffage du compresseur.											
+•	Installation sur support mural ou au sol en aluminium en option.											
+Tuyauterie de raccordement												
+•	Longueur minimale de la tuyauterie de 10 pi (3 m).											
+•	Raccords évasés.											
+Régulation												
+•	Télécommande sans fil incluse.											
+•	Contrôleur mural en option.											
+•	Wi-Fi.											
+•	Interface (options HP6000ZB-GE et GT130 requises).											
+•	Température de consigne: 16 à 30 °C (61 à 86 °F).											
+•	Format d’affichage de la température : °C ou °F.											
+Garantie												
+•	Garantie de base 10 ans pièces et 10 ans compresseur (main-d’œuvre non incluse).											
+•	Garantie main-d’œuvre (vendue séparément) de la 1ère à la 10e année, couvre pièces et main-d’œuvre avec remplacement du système si défaillance du compresseur.											
+Application												
+•	Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant.											
+												
+# Produit1		Unité intérieure	UHD09KCH38SB-I	UHD12KCH31S-I	UHD18KCH25S-I	UHD24KCH22S-I						
+		Unité extérieure	UHD09KCH38SB-O	UHD12KCH31S-O	UHD18KCH25S-O	UHD24KCH22S-O						
+Performance technique												
+Tension		Volts	230/208	230/208	230/208	230/208						
+	Nominale	W (BTU/hr)	2638 (9000)	3517 (12000)	5276 (18000)	6450 (22000)						
+Capacité en climatisation	Min. – max.	W (BTU/hr)	450 - 3800	850 - 4500	1200 - 6400	2000 - 9000						
+			(1535 - 12966)	(2900 - 15354)	(4094 - 21837)	(6800 - 30700)						
+	Nominale	W (BTU/hr)	2638 (9000)	3575 (12200)	5276 (18000)	7000 (24000)						
+Capacité en chauffage	Min. – max.	W (BTU/hr)	700 - 4000	900 - 5500	1200 - 7200	2000 - 9500						
+			(2388 - 13648)	(3071 - 18766)	(4094 - 24566)	(6800 - 32000)						
+Puissance consommée en climatisation	Nominale	W	540.0	785.0	1330.0	1700.0						
+	Min. – max.	W	50 - 1400	75 - 1500	350 - 2500	450 - 3700						
+Puissance consommée en chauffage	Nominale	W	590.0	940.0	1500.0	2000.0						
+	Min. – max.	W	200-1500	250 - 1600	350 - 2500	380 - 3700						
+Puissance consommée nominale		W	1500.0	1600.0	2500.0	3700.0						
+Courant nominal		A	6.2	6.5	10.8	16.4						
+MCA		A	9.0	9.0	22.0	22.0						
+Disjoncteur/fusible max. (MOCP)		A	15.0	15.0	30.0	35.0						
+TRÉS (SEER)		-	38.0	30.5	24.5	21.5						
+CPSC (HSPF)		-	15.0	14.0	12.0	12.0						
+TRÉ (EER)		W/W	4.84	4.48	3.97	3.81						
+COP		W/W	4.47	3.8	3.52	3.5						
+Numéro AHRI		-	202110483.0	202110484.0	202110485.0	202132789.0						
+ENERGY STAR		-	✓	✓	✓	✓						
+Unité intérieure												
+Déshumidification		pt/hr (l/hr)	1.69 (0.80)	2.96 (1.40)	3.80 (1.80)	4.23 (2)						
+Débit d’air volumique	T / H / MH / M / ML / L / Q2	pcm	424 / 383 / 353 / 324 /	500 / 471 / 441 / 353 /	736 / 677 / 618 / 559 /	824 / 765 / 706 / 647 /						
+			294 / 265 / 206	324 / 265 / 235	500 / 457 / 353	589 / 500 / 383						
+Niveau sonore	T / H / MH / M / ML / L / Q2	dB (A)	43 / 40 / 38 / 36 /	49 / 46 / 43 / 40 /	51 / 48 / 45 / 42 /	52 / 49 / 46 / 43 /						
+			33 / 31 / 19	37 / 34 / 22	39 / 36 / 34	40 / 37 / 34						
+Puissance du moteur du ventilateur		W	60.0	60.0	60.0	70.0						
+RLA du moteur du ventilateur		A	0.09	0.09	0.24	0.38						
+Puissance du moteur du déflecteur		W	2.5 / 1.5	2.5 / 1.5	2.5 / 1.5	2.5						
+Poids net		lb (kg)	29.8 (13.5)	29.8 (13.5)	36.4 (16.5)	36.4 (16.5)						
+Unité extérieure												
+Débit d’air volumique		pcm	2400.0	2400.0	2354.0	4000.0						
+Niveau sonore		dB (A)	53.0	53.0	59.0	59.0						
+Puissance du compresseur		W	1070.0	1070.0	2443.0	2443.0						
+LRA du compresseur		A	35.0	35.0	30.0	30.0						
+RLA du compresseur		A	6.9	6.9	15.5	16.0						
+Puissance du moteur du ventilateur		W	30.0	30.0	90.0	90.0						
+RLA du moteur du ventilateur		A	0.24	0.24	0.65	0.65						
+Volume de réfrigérant (R410A)		oz (g)	45.9 (1301)	49.4 (1400)	70.6 (2101)	81.1 (2299)						
+Poids net		lb (kg)	99.2 (45)	99.2 (45)	141.1 (64)	147.7 (67)						
+Température ambiante de fonctionnement	Climatisation	°C (°F)		-18 à 54 (0 à 129)								
+	Chauffage	°C (°F)		-30 à 24 (-22 à 75)								
+Tuyauterie de raccordement/réfrigérant												
+Longueur de préchargement		pi (m)	25 (7.5)	25 (7.5)	25 (7.5)	25 (7.5)						
+Volume additionnel de réfrigérant		oz/pi (g/m)	0.2 (20)	0.2 (20)	0.5 (50)	0.5 (50)						
+Diamètre externe tuyau liquide		po	45661.0	45661.0	45661.0	45661.0						
+Diamètre externe tuyau gaz		po	45659.0	45659.0	45785.0	45785.0						
+Différence de hauteur maximale		pi (m)	49 (15)	49 (15)	66 (20)	98 (30)						
+Longueur totale maximale		pi (m)	98 (30)	98 (30)	100 (30)	164 (50)						
+												
+												
+												
+Unité intérieure	L		H		P		A		B		C	
+	po	mm	po	mm	po	mm	po	mm	po	mm	po	mm
+UHD09KCH38SB-I UHD12KCH31S-I	39.1875	970.0	11.875	302.0	8.875	225.0	4.625	117.0	27.0	685.0	7.625	194.0
+UHD18KCH25S-I UHD24KCH22S-I	43.375	1078.0	12.875	325.0	9.8125	246.0	8.5625	217.0	26.9375	684.0	7.875	199.0
+												
+Unité extérieure	L		H		P		A		B			
+	po	mm	po	mm	po	mm	po	mm	po	mm		
+UHD09KCH38SB-O	35.375	899.0	23.5	596.0	14.875	378.0	21.666666666666668	550.0	13.5	343.0		
+UHD12KCH31S-O												
+UHD18KCH25S-O	38.625	1000.0	31.125	790.0	16.8125	427.0	24.0	610.0	15.5625	395.0		
+UHD24KCH22S-O												

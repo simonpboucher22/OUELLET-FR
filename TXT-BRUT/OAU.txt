@@ -1,0 +1,50 @@
+OAU Aérotherme agricole lavable											
+											
+Caractéristiques											
+Certification											
+• CSA C22.2 46, UL2021.											
+• Exigences de corrosion CSA C22.2 94.											
+• Exigences d’étanchéité CSA C22.2 94 Type 4X.											
+Couleur											
+• Standard : blanc.											
+Finition											
+• Standard : peinture à la poudre d’époxy/polyester offrant une plus grande résistance à la corrosion.											
+Tension											
+• 240/208V,1 phase.											
+Construction											
+• Construction en acier satiné robuste de calibre 18.											
+• Volets ajustables afin de diriger l’air chaud.											
+• Protection thermique à réenclenchement automatique.											
+• Boitier électrique non métallique CSA C22.2 94 4X.											
+Ventilateur											
+• Moteur électrique à ventilation entièrement enfermé monté dans le compartiment froid.											
+• Moteur avec protection thermique intégrée.											
+• Moteur fermé à roulements à billes lubrifié à vie.											
+• Délais de ventilateur au départ et à l’arrêt.											
+											
+											
+Élément											
+• Éléments tubulaires en acier avec ailettes à basse densité très résistants; peints en noir pour une meilleure résistance à la corrosion.											
+Régulation											
+• Interrupteur principal 40A intégré.											
+• Circuit de commande à 240/208V intégré.											
+• Commande de ventilateur intégré.											
+• Témoin lumineux indiquant le déclenchement de la protection thermique intégré.											
+• Thermostat intégré avec bulbe et capillaire en acier inoxydable, de qualité supérieure, offrant une grande précision.											
+Installation											
+• Montage horizontal au mur ou au plafond avec un des 2 supports fournis, permettant de faire pivoter sur 360°.											
+• Vaste compartiment des commandes scellé et facile d’accès.											
+• Hauteur maximale recommandée de12 pi (3.7 m).											
+• Hauteur minimale de 8 pi (2.4 m).											
+• Température ambiante maximale de fonctionnement : 30 °C (85 °F).											
+Garantie											
+• 1 an contre tous vices											
+• 3 ans sur les éléments											
+Application											
+• Bâtiments agricoles (laiterie, grange, poulailler, porcherie, étable, chenil, etc.).											
+											
+Modèle											
+											
+Watts	Volts (ph)	# Produit	Prix	BTU/hr	pcm	Hausse de température		Moteur		Poids	
+						°C	°F	HP	rpm	lb	kg
+5000/3750	240/208 (1)	OAU05000BLLT-DIS40-IV-T1	2484.00	17060/12795	300.0	30.0	53.0	45661.0	1050.0	52.8	23.9

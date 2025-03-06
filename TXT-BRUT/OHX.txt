@@ -1,0 +1,83 @@
+OHX Aérotherme antidéflagrant														
+														
+Caractéristiques														
+Couleur														
+• Standard : rouge.														
+Finition														
+• Standard : peinture à la poudre d'époxy/polyester.														
+Tension														
+• 208V, 240V, 480V, 600V, 1 ou 3 phases.														
+Construction														
+• Boîtier en acier de calibre 14.														
+• Volets ajustables en aluminium anodisé.														
+• Couvercle du boîtier électrique en aluminium moulé avec joint torique NEMA de type 7 et 9. 1														
+• Grillage de protection en tiges métalliques. 2														
+Protection														
+• Dispositif de sûreté de pression haute température en acier inoxydable. 3														
+• Deux protections thermiques : une à réenclenchement automatique et une à réenclenchement manuel.														
+Ventilateur														
+• Moteur antidéflagrant à roulement à billes, lubrifié à vie et protégé thermiquement. 4														
+• 3 à 20kW : 1/4 HP, 1725 rpm.														
+• 25 à 35kW : 1/2 HP, 1725 rpm.														
+Codes de température														
+• Système de divisions : 5 à 30kW = T3B 165 °C (329 °F), 3kW/35kW = T3A 180 °C (356 °F).														
+• Système de zones T3 200 °C (392 °F).														
+														
+														
+Échangeur de chaleur														
+• Éléments à haute teneur d’acier remplis de glycol d’éthylène/solution d’eau.														
+• Longue durée, basse densité.														
+• Noyau en acier, scellé et vidé, avec 10 ailettes en aluminium par pouce.														
+Régulation														
+• Circuit de commande à 120VAC standard. 5														
+• Circuit de commande 24VAC en option (recommandé en raison														
+du voltage plus sécuritaire). Requis pour utilisation avec thermostat électronique.														
+• Thermostat intégré ou mural en option (bimétallique ou électronique).														
+• Interrupteur principal intégré ou mural en option.														
+Options														
+• Lumière témoin de chauffage.														
+• Fonctionnement continue du ventilateur.														
+• Revêtement phénolique cuit d’Heresite.														
+Installation														
+• Accessoires disponibles.														
+Garantie														
+• 3 ans contre tous vices.														
+Application														
+• Zone de stockage de peinture, usine de pétrochimie, raffinerie, mine, entrepôt de matières dangereuses, usine de sciage.														
+Consulter le Code de l’électricité de votre région avant de faire l’installation de ces unité														
+														
+Modèles														
+kW			# Produit				Prix	BTU/hr	pcm	Hausse T°		Code T°2	Poids1	
+	208V (1 ph)	208V (3 ph)	240V (1 ph)	240V (3 ph)	480V (3 ph)	600V (3 ph)				°C	°F		lb	kg
+3.0	OHX03008	OHX03038	OHX03000	OHX03030	OHX03034	OHX03036	7790.00	10236.0	350.0	18.0	32.2	T3A	188.0	85.3
+5.0	OHX05008	OHX05038	OHX05000	OHX05030	OHX05034	OHX05036	8206.00	17060.0	400.0	21.2	38.1	T3B	188.0	85.3
+7.5	OHX07508	OHX07538	OHX07500	OHX07530	OHX07534	OHX07536	8800.00	25590.0	600.0	22.4	40.4	T3B	188.0	85.3
+10.0	-	OHX10038	OHX10000	OHX10030	OHX10034	OHX10036	9394.00	34120.0	800.0	21.6	38.8	T3B	192.0	87.1
+15.0	-	OHX15038	-	OHX15030	OHX15034	OHX15036	9694.00	51180.0	1200.0	21.7	39.1	T3B	224.0	101.6
+20.0	-	-	-	-	OHX20034	OHX20036	10296.00	68240.0	1700.0	20.7	37.3	T3B	224.0	101.6
+25.0	-	-	-	-	OHX25034	OHX25036	11274.00	85300.0	2100.0	20.8	37.5	T3B	261.0	118.4
+30.0	-	-	-	-	OHX30034	OHX30036	11967.00	102360.0	3000.0	17.5	31.5	T3B	261.0	118.4
+35.0	-	-	-	-	OHX35034	OHX35036	12950.00	119420.0	3000.0	20.4	36.7	T3A	261.0	118.4
+Options														
+														
+# Produit En trousse	# Produit													
+	 Installée en usine* 			Prix		Description								
+	Ouellet	Référence												
+-	24.0	B		Sans frais		Transformateur et contacteur pour 24VAC (requis pour utilisation avec thermostat électronique intégré ou mural)								
+-	DIS	D		2638.00		Interrupteur principal								
+-	T1	-		810.00		Thermostat bimétallique intégré antidéflagrant, plage de 5 °C (40 °F) à 25 °C (80 °F)								
+-	T23	-		986.00		Thermostat électronique antidéflagrant (bas voltage), plage de 5 °C (40 °F) à 25 °C (80 °F) (utilisable avec circuit de contrôle à 24VAC seulement)								
+-	L	P		994.00		Témoin lumineux de chauffage								
+-	FC	F		Sans frais		Fonctionnement continue du ventilateur								
+OUE-BTX2-15A-W-N-A	-	-		810.00		Thermostat bimétallique mural antidéflagrant, plage de 5 °C (40 °F) à 25 °C (80 °F), (utilisable avec circuit de contrôle à 24VAC ou 120VAC)								
+OUE-XET1-1-W-N-A3	-	-		986.00		Thermostat électronique mural antidéflagrant (bas voltage), plage de 5 °C (40 °F) à 25 °C (80 °F), (utilisable avec circuit de contrôle à 24VAC seulement)								
+OUE-BLK1-W-N-A	-	-		321.00		Trousse de conversion permettant le remplacement aisé d’un thermostat intégré pour un thermostat mural								
+OUE-XDC-01	-	-		1939.00		Interrupteur principal mural antidéflagrant								
+OHX-MS	-	-		273.00		Trousse de montage suspendu, tous les modèles. Montage à l’aide de tuyaux filetés de 1/2 po (12.5 mm) (min. cédule 40) non fourni.								
+			3-10kW	15-20kW	25-35kW									
+OHX-MBX4	-	-	412.00	412.00	412.00	Trousse de montage de base. Peut être boulonné ou soudé directement à l’acier ou au béton de structure du bâtiment.								
+OHX-MMX4	-	-	495.00	495.00	495.00	Trousse de montage mural. Pour bâtiments avec des murs solides. Sections en Z fournissent un support additionnel,où nécessaire.								
+OHX-MTX4	-	-	495.00	495.00	495.00	Trousse de montage à un poteau. Installation murale lorsqu’un poteau de support doit être utilisé. Tuyau de 3 po (75 mm) (3 1/2 po [87.5 mm] O.D., min. cédule 40) non fourni.								
+-	HCCX4, 5	H1	2079.00	2263.00	2349.00	Revêtement phénolique cuit d’Heresite P-413 sur l’échangeur de chaleur seulement								
+-	HCBX4, 5	H2	3343.00	3796.00	4247.00	Revêtement phénolique cuit d’Heresite P-413 sur les volets, les pales du ventilateur, le grillage de protection et les panneaux du boîtier								
+-	HCUX4, 5	H3	4518.00	4972.00	5514.00	Revêtement phénolique cuit d’Heresite P-413 sur l’échangeur de chaleur, les volets, les pales du ventilateur, le grillage de protection et les panneaux du boitier								

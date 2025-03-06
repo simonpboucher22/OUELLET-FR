@@ -1,0 +1,72 @@
+OCL Convecteur standard									
+									
+									
+Caractéristiques									
+Couleur									
+•  Standard : blanc.									
+•  Optionnelles (surcharge applicable) : amande, argent étoilé, bronze, noir semi-lustré, aluminium, charcoal métallique, sable.									
+•  Couleurs sur mesure disponibles sur demande.									
+Finition									
+•  Standard : peinture à la poudre d’époxy/polyester.									
+Tension									
+•  120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 60 Hz, 1 phase.									
+Construction									
+•  Acier de calibre 20.									
+•  Sortie d’air chaud par le dessus assurant une diffusion rapide et homogène de la chaleur pour une efficacité optimale.									
+•  Ouvertures limitant l’insertion de petits objets.									
+•  Protection thermique à réenclenchement automatique.									
+Élément									
+•  2 éléments tubulaires en acier inoxydable recouverts d’ailettes en aluminium.									
+•  Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.									
+									
+Densité									
+•  700W/pi (2320W/m).									
+Régulation									
+•  Thermostat électronique non programmable intégré pour les modèles de 120V à 240V (modèles -TH).									
+•  Thermostat mural (non inclus).									
+Installation									
+•  Installation au mur à 4 po (102 mm) minimum du plancher et d’un mur adjacent.									
+•  Montage en surface rapide avec support mural de fixation inclus.									
+•  Serre-fils à une vis permettant un accès rapide à la boîte de raccordement.									
+•  Trousse de 10 plaques serre-fils BX, pour installation d’un câble électrique de type AC90, en option.									
+Garantie									
+•  5 ans contre tous vices.									
+Ouellet recommande fortement l’installation d’un thermostat électronique mural pour un meilleur confort.									
+Application									
+•  Salle à manger-cuisine, salle de séjour, salle familiale, bureau, chambre à coucher, sous-sol, hall d’entrée.									
+									
+									
+									
+OCL									
+Modèles									
+									
+Volts	Watts	# Produit	Prix	# Produit	Prix	Longueur		Poids	
+		Sans thermostat		Thermostat intégré		po	mm	lb	kg
+120.0	500.0	OCL0502BL	173.00	OCL0502BL-TH	238.00	18.0	457.0	13.0	6.0
+120.0	1000.0	OCL1002BL	222.00	OCL1002BL-TH	287.00	23.5625	598.0	16.7	7.6
+120.0	1500.0	OCL1502BL	250.00	OCL1502BL-TH	315.00	29.0625	739.0	20.0	9.12
+208.0	500.0	OCL0508BL	173.00	OCL0508BL-TH	238.00	18.0	457.0	13.0	6.0
+208.0	1000.0	OCL1008BL	222.00	OCL1008BL-TH	287.00	23.5625	598.0	16.7	7.6
+208.0	1500.0	OCL1508BL	250.00	OCL1508BL-TH	315.00	29.0625	739.0	20.0	9.12
+208.0	2000.0	OCL2008BL	288.00	OCL2008BL-TH	353.00	34.625	880.0	24.0	10.9
+240/208	500/375	OCL0500BL	188.00	OCL0500BL-TH	253.00	18.0	457.0	13.0	6.0
+240/208	1000/750	OCL1000BL	208.00	OCL1000BL-TH	273.00	23.5625	598.0	16.7	7.6
+240/208	1500/1125	OCL1500BL	238.00	OCL1500BL-TH	303.00	29.0625	739.0	20.0	9.12
+240/208	2000/1875	OCL2000BL	273.00	OCL2000BL-TH	338.00	34.625	880.0	24.0	10.9
+347.0	500.0	OCL0507BL	221.00	-	-	18.0	457.0	13.0	6.0
+347.0	1000.0	OCL1007BL	271.00	-	-	23.5625	598.0	16.7	7.6
+347.0	1500.0	OCL1507BL	299.00	-	-	29.0625	739.0	20.0	9.12
+347.0	2000.0	OCL2007BL	337.00	-	-	34.625	880.0	24.0	10.9
+600.0	1000.0	OCL1006BL	271.00	-	-	23.5625	598.0	16.7	7.6
+600.0	1500.0	OCL1506BL	299.00	-	-	29.0625	739.0	20.0	9.12
+600.0	2000.0	OCL2006BL	337.00	-	-	34.625	880.0	24.0	10.9
+									
+									
+Options									
+									
+# Produit En trousse	# Produit	Prix	Description						
+	Installée en usine*								
+KIT-SERF-BX	-	144.00	Trousse de 10 plaques serre-fils BX, pour installation d’un câble électrique de type AC90						
+KIT-OCL-TRIAC-347	TRIAC	77.00	Relais électronique unipolaire, bobine 24V, sans transformateur : 15A à 347V max.						
+KIT-OCL-TRIAC-347T	TRIACT	103.00	Relais électronique unipolaire, bobine 24V, avec transformateur : 15A à 208V, 240V, 277V, 347V						
+KIT-OCL-TRIAC-600	TRIAC	139.00	Relais électronique unipolaire, bobine 24V, sans transformateur : 6A à 600V max.						
