@@ -1,0 +1,3 @@
+Tableau OCC-WB - Chaufferette avec support
+Watts;Volts;# Produit;Prix;Type de moteur;Prise à 3 bornes avec mise à la terre;Poids lb;Poids kg/4800/3600;240/208;OCC4800AMWB-MO-TB61;252.00;Ouvert;30A, 250VAC;16.0;7.3
+-------

@@ -1,0 +1,4 @@
+## Calibre des liaisons froides
+
+Tableau ELK-MI - Câble à isolation minérale (M.I.) en alliage 825
+Calibre;Courant max. (A);;Diamètre du connecteur (NPT);;Calibre;Courant max. (A);;Diamètre du connecteur (NPT)/AWG;CEC;NEC;CEC;NEC;AWG;CEC;NEC;CEC;NEC/14.0;15.0;25.0;;;14.0;20.0;30.0;;/12.0;20.0;30.0;1/2'' (12.7 mm);1/2'' (12.7 mm);12.0;25.0;40.0;1/2'' (12.7 mm);1/2'' (12.7 mm)/10.0;30.0;40.0;;;10.0;40.0;55.0;;/8.0;50.0;55.0;;;8.0;70.0;75.0;;

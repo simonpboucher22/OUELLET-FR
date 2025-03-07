@@ -1,0 +1,5 @@
+## Modèle
+
+Tableau OAU05000BLLT-DIS40-IV-T1 - Aérotherme agricole lavable
+Watts;Volts (ph);# Produit;Prix;BTU/hr;pcm;Hausse de température;Hausse de température;Moteur;Moteur;Poids;Poids/5000/3750;240/208 (1);OAU05000BLLT-DIS40-IV-T1;2484.00;17060/12795;300.0;30.0;53.0;45661.0;1050.0;52.8;23.9
+-------

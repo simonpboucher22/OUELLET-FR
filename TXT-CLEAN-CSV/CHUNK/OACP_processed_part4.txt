@@ -1,0 +1,5 @@
+## Options
+
+Tableau OACP - Options
+# Produit En trousse;# Produit Installée en usine*;Prix;Description/KIT-OAWH-BSA;-;132.00;Boîtier pour montage en surface pour devant en aluminium extrudé, unité simple/KIT-OAWH-BSA2;-;264.00;Boîtier pour montage en surface pour devant en aluminium extrudé, unité double/KIT-OAC-BS1;-;95.00;Boîtier pour montage en surface, unité simple/KIT-OAC-BS2;-;190.00;Boîtier pour montage en surface, unité double/KIT-OAC-DVA;-;332.00;Devant en aluminium extrudé, unité simple/KIT-OAC-DVA2;-;670.00;Devant en aluminium extrudé, unité double/KIT-OACP-DIS202;DIS202;184.00;Interrupteur principal, bipolaire, 20A à 240V/KIT-OACP-DIS402;DIS402;212.00;Interrupteur principal, tripolaire, 40A à 600V/KIT-OACP-R;R;193.00;Relais de contrôle 24V, sans transformateur/-;RT;204.00;Relais de contrôle 24V, avec transformateur/KIT-OACP-T;T;153.00;Thermostat/KIT-OACP-T-BAR;-;95.00;Cadre d'installation pour plafond suspendu, 23 3/4 po X 23 3/4 po (602 mm X 602 mm), unité simple/KIT-OACP-T-BAR2;-;190.00;Cadre d'installation pour plafond suspendu, 23 3/4 po X 47 11/16 po (602 mm X 1211 mm), unité double
+-------

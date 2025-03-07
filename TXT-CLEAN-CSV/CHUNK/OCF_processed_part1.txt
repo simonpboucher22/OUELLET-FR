@@ -1,0 +1,27 @@
+# OCF Chauffe-terrasse infrarouge
+
+## Caractéristiques
+
+### Finition
+• Aluminium anodisé noir.
+
+### Tension
+• 120V, 240/208V, 60 Hz, 1 phase.
+
+### Construction
+• Construction certifiée IP65 pour utilisation extérieure.
+• Boîtier en extrusion d'aluminium de 2 mm d'épaisseur.
+• Réflecteur optique en aluminium de haute qualité.
+• Cordon d'alimentation de haute qualité :
+  Modèle 120V : 7.5 pi (2.25 m) avec fiche NEMA 5-15P. Modèles 240/208V : 6 pi (1.8 m) avec raccordement fixe.
+
+### Élément
+• Filament en fibre de carbone dans un tubulaire de 15 mm au Quartz.
+• Longévité de l'élément ± 5000h.
+
+### Longueur d'onde
+• Onde moyenne (2 µm).
+
+### Régulation
+• Modèles 1500W et 3000W : Régulateur intégré On/Off et télécommande à 6 réglages de chaleur.
+• Modèles 4000W et 6000W : Deux niveaux de chauffage, 50% et 100%. L'appareil peut être câblé pour contourner la télécommande si nécessaire.

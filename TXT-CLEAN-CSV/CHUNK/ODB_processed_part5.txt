@@ -1,0 +1,31 @@
+Tableau ODB - Options
+# Produit En trousse;# Produit Installée en usine*;Prix;Description
+-;BAI;Sans frais;Entrée d'air par le dessous
+-;BD1;0.1;Finition unie du dos de l'appareil
+KIT-ODB-CE;-;479.00;Coin extérieur, 4 po (102 mm)
+KIT-ODB-CI;-;479.00;Coin intérieur, 4 po (102 mm)
+KIT-ODB-JT;-;111.00;Joint de finition, 2 po (51 mm)
+KIT-ODB-JT-PE;-;123.00;Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)
+KIT-ODB-PE;-;161.00;Trousse de piédestals ronds (2), 3 po (76 mm)
+KIT-ODB-PEC;-;161.00;Trousse de piédestals carrés (2), 2 po (51 mm)
+ODB-SV-XX;-;Sur demande;Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2632 mm)
+KIT-ODB-DIS204;DIS204;172.00;Interrupteur principal, 20A à 277V max.
+KIT-ODB-DIS404;DIS404;211.00;Interrupteur principal, 40A à 600V max.
+-;HA;Sans frais;Protection thermique pour la haute altitude (3000 pi à 8200 pi)
+-;PM;410.00;Relais pneumatique, 20A à 600V max.
+KIT-ODB-R-347;R;175.00;Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V
+KIT-ODB-R-600;R;182.00;Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V
+KIT-ODB-RT-120;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V
+KIT-ODB-RT-208;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V
+KIT-ODB-RT-240;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V
+KIT-ODB-RT-277;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V
+KIT-ODB-RT-347;RT;189.00;Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V
+KIT-ODB-RT-6002;RT2;195.00;Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)
+KIT-ODB-TB6;TB6;154.00;Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODB-TB263;TB263;250.00;Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODB-TB6-AV;TB6AV;154.00;Thermostat bimétallique, unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODB-TB26-AV3;TB26AV3;250.00;Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODB-TRIAC-347;TRIAC;77.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.
+KIT-ODB-TRIAC-347T;TRIACT;105.00;Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V
+KIT-ODB-TRIAC-600;TRIAC;135.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.
+-------

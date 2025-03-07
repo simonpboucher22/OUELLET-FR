@@ -1,0 +1,10 @@
+## Configurations
+
+### Design B
+Câble à isolation minérale (M.I.) à conducteur simple muni de liaisons froides avec usinage précis au laser de la partie chaude à la partie froide aux deux extrémités.
+
+### Design D
+Câble à isolation minérale (M.I.) à conducteur double muni de liaisons froides aux extrémités avec usinage précis au laser de la partie chaude à la partie froide sur une extrémité et de chaude à chaude sur les extrémités opposées.
+
+### Design E
+Câble à isolation minérale (M.I.) à conducteur double muni d'une liaison froide avec usinage précis au laser de la partie chaude à la partie froide aux deux extrémités.

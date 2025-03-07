@@ -1,0 +1,4 @@
+## Modèle
+
+Tableau DECOR - Chauffe-terrasse infrarouge architectural en vitrocéramique
+watts;volts;#produit;prix;L (po);L (mm);H(po);H (mm);P(po);P(mm);poids (lb);poids (kg)/15;-;-;-;po;mm;po;mm;po;mm;lb;kg/3000/2250;240/208;ADGLASS-30240B;1098.00;42.6;1082.0;6.0;152.4;5.0;127.0;17.0;7.7

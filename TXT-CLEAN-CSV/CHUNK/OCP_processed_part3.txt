@@ -1,0 +1,2 @@
+Tableau OCP - Ventilo-convecteur coup-de-pied
+Watts;Volts;# Produit;Prix;Poids lb;Poids kg/500.0;120.0;OCPU1002;483.00;13.0;5.9/1000.0;-;-;-;-;-/500/375;240/208;OCPU1000;459.00;13.0;5.9/1000/750;-;-;-;-;-

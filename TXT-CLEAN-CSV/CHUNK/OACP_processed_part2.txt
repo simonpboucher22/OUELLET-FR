@@ -1,0 +1,18 @@
+### Régulation
+• Circuit de commande à 240/208V standard avec contacteur si nécessaire (sauf modèle 120V).
+• Relais 24V en option avec ou sans transformateur.
+• Thermostat intégré en option.
+• Note : Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+• Tout dispositif de contrôle (thermostat ou relais) doit être connecté au bornier de contrôle de l'appareil.
+
+### Installation
+• Hauteur maximale d'installation recommandée : 10 pi (3 m).
+• Distance minimale des murs adjacents : 10 po (25.4 cm).
+• Boîtier pour montage en surface en option.
+• Cadre d'installation pour plafond suspendu en option.
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+Immeuble d'appartements, édifice commercial, cage d'escalier, garage

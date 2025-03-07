@@ -1,0 +1,25 @@
+# OAV Aérotherme vertical
+
+## Caractéristiques
+
+### Couleur
+• Standard : amande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 208V, 240V, 347V, 480V, 600V, 1 ou 3 phases.
+
+### Construction
+• Construction en acier calibre 18.
+• Protection thermique linéaire à réenclenchement automatique.
+• Bornier de commande du ventilateur permettant le contrôle à distance. 1
+
+### Ventilateur
+• Commande à retardement du ventilateur; retarde le départ du ventilateur pour permettre aux éléments de se réchauffer et laisse continuer le ventilateur quelques secondes après l'arrêt du chauffage pour éliminer la chaleur résiduelle.
+• Moteur fermé à roulement à billes. 2
+• Moteur avec protection thermique intégrée.
+
+### Élément
+• Élément tubulaire, mise à la terre pour plus de sécurité. 3

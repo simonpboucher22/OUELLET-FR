@@ -1,0 +1,3 @@
+Tableau OCL - Options
+# Produit En trousse;# Produit;Prix;Description/;Installée en usine*/KIT-SERF-BX;-;144.00;Trousse de 10 plaques serre-fils BX, pour installation d'un câble électrique de type AC90/KIT-OCL-TRIAC-347;TRIAC;77.00;Relais électronique unipolaire, bobine 24V, sans transformateur : 15A à 347V max./KIT-OCL-TRIAC-347T;TRIACT;103.00;Relais électronique unipolaire, bobine 24V, avec transformateur : 15A à 208V, 240V, 277V, 347V/KIT-OCL-TRIAC-600;TRIAC;139.00;Relais électronique unipolaire, bobine 24V, sans transformateur : 6A à 600V max.
+-------

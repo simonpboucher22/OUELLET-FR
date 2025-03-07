@@ -1,0 +1,18 @@
+## Régulation
+• Contacteur intégré standard. 4
+• Circuit de commande à 240V standard (avec transformateur si nécessaire).
+• Relais 24V en option avec ou sans transformateur.
+• Circuit de commande à 120V en option.
+• Température ambiante maximale de fonctionnement : 30 °C (85 °F).
+• Tout dispositif de contrôle [thermostat ou relais] doit être connecté au bornier de contrôle de l'appareil.
+
+### Installation
+• Montage 10kW et moins : 4 trous filetés (1/2 po - 13 UNC).
+• Montage 15kW et plus : 4 crochets.
+• Cônes disponibles en option. 5
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Usine, entrepôt, centre commercial, garage.

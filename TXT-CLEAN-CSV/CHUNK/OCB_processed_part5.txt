@@ -1,0 +1,30 @@
+Tableau OCB - Options
+# Produit En trousse;# Produit Installée en usine*;Prix;Description
+-;BAI;Sans frais;Entrée d'air par le dessous
+-;BD1;0.1;Finition unie du dos de l'appareil
+KIT-OCB-CE;-;377.00;Coin extérieur, 6 po (152 mm)
+KIT-OCB-CI;-;377.00;Coin intérieur, 6 po (152 mm)
+KIT-OCB-JT;-;87.00;Joint de finition, 1 3/16 po (30 mm)
+KIT-OCB-JT-PE;-;95.00;Joint contour de finition pour option BD et/ou unité avec piédestals, 1 3/16 po (30 mm)
+KIT-OCB-PE;-;128.00;Trousse de piédestals ronds (2), 3 po (76 mm)
+KIT-OCB-PEC;-;128.00;Trousse de piédestals carrés (2), 3 po (76 mm)
+OCB-SV-XX;-;Sur demande;Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2606 mm)
+KIT-OCB-DIS203;DIS203;172.00;Interrupteur principal, 20A à 277V max.
+-;PM;410.00;Relais pneumatique, 20A à 600V max.
+KIT-OCB-R-347;R;175.00;Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V
+KIT-OCB-R-600;R;182.00;Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V
+KIT-OCB-RT-120;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V
+KIT-OCB-RT-208;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V
+KIT-OCB-RT-240;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V
+KIT-OCB-RT-277;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V
+KIT-OCB-RT-347;RT;189.00;Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V
+KIT-OCB-RT-6002;RT2;195.00;Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)
+KIT-OCB-T;T;137.00;Thermostat unipolaire : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V
+KIT-OCB-T24;T24;228.00;Thermostat bipolaire : 30A à 120, 208V, 240V - 15A à 277V, 347V, 600V
+KIT-OCB-T-AV;TAV;137.00;Thermostat unipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V
+KIT-OCB-T2-AV4;T2AV4;228.00;Thermostat bipolaire, anti-vandale : 30A à 120, 208V, 240V - 15A à 277V, 347V, 600V
+KIT-OCB-TRIAC-347;TRIAC;77.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.
+KIT-OCB-TRIAC-347T;TRIACT;105.00;Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V
+KIT-OCB-TRIAC-600;TRIAC;135.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.
+-;WW;46.00;Canalisation de câblage 24V
+-------

@@ -1,0 +1,5 @@
+## Options
+
+Tableau OAV - Aérotherme vertical
+# Produit En trousse;# Produit Installée en usine*;Prix;Description/-;120.0;205.00;Circuit de commande à 120V/-;3P;93.00;Contacteur 3 pôles/KIT-OAV-CJ-1AM;-;110.00;Cône jet, unités de 5 à 10kW/KIT-OAV-CJ-2AM;-;129.00;Cône jet, unités de 15 à 30kW/KIT-OAV-CJ-3AM;-;152.00;Cône jet, unités de 40 à 60kW/KIT-OAV-CS-1AM;-;129.00;Cône simple, unités de 5 à 10kW/KIT-OAV-CS-2AM;-;152.00;Cône simple, unités de 15 à 30kW/KIT-OAV-CS-3AM;-;171.00;Cône simple, unités de 40 à 60kW/KIT-OAV-CT-1AM;-;216.00;Cône triple, unités de 5 à 10kW/KIT-OAV-CT-2AM;-;432.00;Cône triple, unités de 15 à 30kW/KIT-OAV-CT-3AM;-;648.00;Cône triple, unités de 40 à 60kW/-;DIS40;221.00;Interrupteur principal, tripolaire, 40A à 600V/-;DIS80;270.00;Interrupteur principal, tripolaire, 80A à 600V/-;DIS100;840.00;Interrupteur principal, tripolaire, 100A à 600V/KIT-OAV-R;R;193.00;Relais 24V, sans transformateur/KIT-OAV-RT;RT;214.00;Relais 24V, avec transformateur
+-------

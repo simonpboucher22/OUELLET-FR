@@ -1,0 +1,58 @@
+# OAS - Aérotherme suspendu commercial industriel
+
+## Caractéristiques
+
+### Couleur
+• Standard : amande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 208V, 240V, 277V, 347V, 480V, 600V, 1 ou 3 phases.
+• Certains appareils peuvent être convertis de 3 à 1 phase sur place.
+
+### Construction
+• Construction en acier de calibres 18 et 20.
+• Volets ajustables afin de diriger l'air chaud.
+• Protection thermique à réenclenchement automatique.
+
+### Ventilateur
+• Moteur fermé à roulements à billes lubrifié à vie (sauf 15 à 25kW, 208/240V).
+• Ventilateur de 58 dBA (2 à 10kW), 67 dBA (15 à 30kW) et 77 dBA (40 à 60kW).
+• Moteur monté dans le compartiment froid avec protection thermique intégrée.
+• Dispositif éliminant la chaleur résiduelle.
+
+### Élément
+• Élément tubulaire; acier inoxydable (2 à 10kW), acier avec ailettes (15 à 60kW).
+• Disposition concentrique des éléments.
+• Élément scellé en usine sur demande.
+
+### Régulation
+• Contacteur intégré et circuit de commande à 240/208V standard (avec transformateur si nécessaire).
+• Relais 24V avec ou sans transformateur en option.
+• Circuit de commande à 120V en option.
+• Thermostat intégré en option.
+• Ouellet recommande l'usage d'un thermostat mural pour un meilleur confort.
+• Tout dispositif de contrôle [thermostat ou relais] doit être connecté au bornier de contrôle de l'appareil.
+
+### Installation
+• Usage non-résidentiel aux États-Unis.
+• Montage horizontal :
+-  2 à 30kW : au mur ou au plafond avec les supports fournis permettant de faire pivoter sur 360°.
+-  40 à 60kW : au plafond seulement à l'aide des 4 crochets fournis.
+• Montage vertical (sauf option -MD) :
+-  2 à 60kW : à l'aide de 4 tiges filetées 1/2 po X 13 UNC (non fournies).
+-  Cône diffuseur en option.
+• Hauteur maximale recommandée (horizontale) :
+- 2 à 10kW : 8 pi (2,4 m), 15 à 30kW : 10 pi (3,0 m), 40 à 60kW : 15 pi (4,5 m).
+• Grillage de protection permettant le montage horizontal à une hauteur minimale :
+- Canada 2 à 30 kW : 24 po (610 mm), 40 à 60 kW : 8 pi (2,4 m).
+- États-Unis 2 à 30 kW : 6 pi (1,8 m), 40 à 60 kW : 8 pi (2,4 m).
+• Température ambiante maximale de fonctionnement : 30 °C (85 °F).
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+Hall d'entrée commercial, entrepôt, cage d'escalier, usine

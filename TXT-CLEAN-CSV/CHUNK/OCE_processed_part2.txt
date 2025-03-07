@@ -1,0 +1,20 @@
+Densité
+• OCEH : 850W/pi (2800W/m).
+• OCEM : 700W/pi (2320W/m).
+• OCEB : 500W/pi (1700W/m).
+
+Régulation
+• Thermostat électronique intégré (modèle -TH) ou relais 24V électronique intégré (modèles -TRIAC et -TRIACT).
+• Thermostat électronique mural (modèles -OTH et -T600).
+
+Installation
+• Installation au mur à 2 po (51 mm) minimum du plancher.
+• Placer le convecteur sur le support mural pour le rendre fonctionnel.
+• Support mural du convecteur branché sur le circuit électrique, sert de bloc d'alimentation.
+
+Garantie
+• 5 ans contre tous vices.
+(La garantie est valide seulement si l'appareil est contrôlé par un thermostat électronique pulsant proportionnel avec un cycle maximum de 15 secondes et que la boîte de jonction est fixée au mur avec l'ancrage fourni.)
+
+Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, baie vitrée.

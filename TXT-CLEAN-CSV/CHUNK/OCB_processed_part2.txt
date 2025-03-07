@@ -1,0 +1,21 @@
+- **Densité**
+  • Densité moyenne standard de 275W/pi.
+  • Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.
+
+- **Régulation**
+  • Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale (installation du côté droit seulement).
+  • Relais mécanique, relais électronique ou relais pneumatique en option (installation du côté droit seulement).
+  • Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+- **Installation**
+  • L'appareil doit être installé à 3 po (76 mm) au-dessus du plancher (pour l'option -BAI).
+  • Trous de montage espacés de 1 po (25.4 mm) afin de faciliter la pose.
+  • Installation au plancher ou au mur.
+  • Variété d'accessoires pour l'installation en continu en option.
+  • Trousse de piédestals en option.
+
+- **Garantie**
+  • 3 ans contre tous vices.
+
+- **Application**
+  • Édifice commercial, immeuble de bureaux, hôpital, école, résidence privée.

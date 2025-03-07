@@ -1,0 +1,30 @@
+# ELK-MI Câble à isolation minérale (M.I.) en alliage 825
+
+## Caractéristiques
+
+### Surgaine
+• Alliage 825.
+
+### Composants de l'assemblage
+• Alliage 825.
+
+### Conducteur d'alimentation
+• Le type de conducteur peut varier selon le modèle (Nichrome, KP, Constantan, Alliage (30, 60, 90), Cuivre).
+
+### Longueur de la liaison froide
+• Liaison froide de 6 pi (1.8 m) comprend un cordon flexible de 18 po (45 cm).
+
+### Température ambiante
+• -60 °C à +60 °C (-76 °F à +140 °F).
+
+### Température maximale maintenue (sous tension)
+• 700 °C (1292 °F).
+
+### Tension nominale
+• Jusqu'à 600V.
+
+### Rayon de courbure minimal
+• Diamètre x 6.
+
+### Température minimale d'installation
+• -60 °C (-76 °F).

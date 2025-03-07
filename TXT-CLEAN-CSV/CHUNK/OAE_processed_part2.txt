@@ -1,0 +1,3 @@
+Tableau OAE - Aérotherme économique
+Watts;Volts;# Produit1;Prix;BTU/hr;Type d'élément;Poids;/2000/1500;240/208;OAE2000AM-EO-TB6;644.00;6824/5118;Ouvert;20.0;9.1/3000/2250;240/208;OAE3000AM-EO-TB6;649.00;10236/7677;Ouvert;20.0;9.1/5000/3750;240/208;OAE5000AM-EO-TB6;682.00;17060/12795;Ouvert;20.0;9.1
+-------
