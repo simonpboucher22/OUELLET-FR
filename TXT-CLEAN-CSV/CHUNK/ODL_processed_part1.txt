@@ -1,0 +1,28 @@
+# ODL - Plinthe électrique haut de gamme
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, charcoal métallique.
+• Optionnelles (surcharge applicable) : amande, argent étoilé, bronze, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase.
+
+### Construction
+• Devant robuste en aluminium.
+• Boîtier en acier satiné de calibre 20.
+• Protection thermique linéaire à réenclenchement automatique.
+• Protection thermique pour la haute altitude (-HA) en option.
+
+### Élément
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+### Densité
+• Densité moyenne standard de 275W/pi.
+• Basse densité moyenne de 200W/pi.

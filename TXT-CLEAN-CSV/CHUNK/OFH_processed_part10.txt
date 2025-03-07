@@ -1,0 +1,2 @@
+### Note
+Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.

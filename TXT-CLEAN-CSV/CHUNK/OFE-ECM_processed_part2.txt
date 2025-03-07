@@ -1,0 +1,4 @@
+## OFE-ECM Modèles avec moteur à vitesse variable (ECM)
+
+Tableau OFE-ECM - Fournaise électrique Nortron écoénergétique
+# Produit;Volts (1 ph);kW (BTU/hr);Amp. incluant moteur;Moteur HP;Pression statique à 0.2" C.E.;pcm2;Poids;Poids/21ECM10-A;240.0;10.0 (34152);43.0;45660.0;Basse;740.0;108.0;50.0/21ECM15-A;240.0;15.0 (51228);64.0;45660.0;Moyenne;1040.0;108.0;50.0/21ECM18-A;240.0;18.0 (61473);76.0;45660.0;Moyenne;1040.0;110.0;49.9/21ECM20-A;240.0;20.0 (68304);84.0;45660.0;Moyenne;1040.0;110.0;49.9/21ECM23-A;240.0;22.5 (76842);94.0;45660.0;Moyenne;1040.0;115.0;49.9

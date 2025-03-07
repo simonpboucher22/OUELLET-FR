@@ -1,0 +1,31 @@
+# OHX Aérotherme antidéflagrant
+
+## Caractéristiques
+
+Couleur
+• Standard : rouge.
+
+Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+Tension
+• 208V, 240V, 480V, 600V, 1 ou 3 phases.
+
+Construction
+• Boîtier en acier de calibre 14.
+• Volets ajustables en aluminium anodisé.
+• Couvercle du boîtier électrique en aluminium moulé avec joint torique NEMA de type 7 et 9.
+• Grillage de protection en tiges métalliques.
+
+Protection
+• Dispositif de sûreté de pression haute température en acier inoxydable.
+• Deux protections thermiques : une à réenclenchement automatique et une à réenclenchement manuel.
+
+Ventilateur
+• Moteur antidéflagrant à roulement à billes, lubrifié à vie et protégé thermiquement.
+• 3 à 20kW : 1/4 HP, 1725 rpm.
+• 25 à 35kW : 1/2 HP, 1725 rpm.
+
+Codes de température
+• Système de divisions : 5 à 30kW = T3B 165 °C (329 °F), 3kW/35kW = T3A 180 °C (356 °F).
+• Système de zones T3 200 °C (392 °F).

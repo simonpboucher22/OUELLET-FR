@@ -1,0 +1,13 @@
+## Options
+
+Tableau ODIA - Options
+# Produit En trousse;# Produit Installée en usine*;Prix;Description
+-;BAI;Sans frais;Entrée d'air par le dessous
+-;BD;0.1;Finition unie du dos de l'appareil
+KIT-ODIA-CE;-;362.00;Coin extérieur, 4 po (102 mm)
+KIT-ODIA-CI;-;362.00;Coin intérieur, 4 po (102 mm)
+KIT-ODIA-JT;-;108.00;Joint de finition, 2 po (51 mm)
+KIT-ODIA-JT-PE;-;120.00;Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)
+KIT-ODIA-PE;-;155.00;Trousse de piédestals ronds (2), 3 po (76 mm)
+KIT-ODIA-PEC;-;155.00;Trousse de piédestals carrés (2), 2 po (51 mm)
+ODIA-SV-XX;-;Sur demande;Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2625 mm)

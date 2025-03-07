@@ -1,0 +1,22 @@
+Tableau ODIA - Options de contrôles
+# Produit En trousse;# Produit Installée en usine*;Prix;Description
+KIT-ODIA-DIS203;DIS203;172.00;Interrupteur principal, 20A à 277V max.
+KIT-ODIA-DIS403;DIS403;211.00;Interrupteur principal, 40A à 600V max.
+-;HA;Sans frais;Protection thermique pour la haute altitude (3000 pi à 8200 pi)
+-;PM;410.00;Relais pneumatique, 20A à 600V max.
+KIT-ODIA-R-347;R;175.00;Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V
+KIT-ODIA-R-600;R;182.00;Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V
+KIT-ODIA-RT-120;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V
+KIT-ODIA-RT-208;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V
+KIT-ODIA-RT-240;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V
+KIT-ODIA-RT-277;RT;195.00;Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V
+KIT-ODIA-RT-347;RT;189.00;Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V
+KIT-ODIA-RT-6001;RT1;195.00;Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)
+KIT-ODIA-TB6;TB6;154.00;Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODIA-TB262;TB262;250.00;Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODIA-TB6-AV;TB6AV;154.00;Thermostat bimétallique, unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODIA-TB26-AV2;TB26AV2;250.00;Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V
+KIT-ODIA-TRIAC-347;TRIAC;77.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.
+KIT-ODIA-TRIAC-347T;TRIACT;105.00;Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V
+KIT-ODIA-TRIAC-600;TRIAC;135.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.
+-------

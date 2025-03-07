@@ -1,0 +1,25 @@
+# OFE-B Fournaise électrique Nortron première génération
+
+## Caractéristiques
+
+### Couleur
+• Standard : gris.
+
+### Tension
+• 208V, 3 phases.
+
+### Construction
+• Un seul panneau donnant accès à toutes les composantes internes.
+
+### Ventilateur
+• Ventilateur de qualité supérieure, équilibré pour un fonctionnement optimal et silencieux.
+
+### Moteur
+• Moteur standard (PSC), lubrifié à vie et monté sur des supports en caoutchouc afin de réduire au maximum les risques de bruits et de vibrations.
+• Ensemble de synchronisation pour un fonctionnement avec un système de ventilation de salle de bain et un ventilateur récupérateur de chaleur (en option).
+
+### Élément
+• Fils hélicoïdaux en alliage nickel-chrome robustes, fiables et assurant un meilleur transfert de chaleur et moins de restriction au passage de l'air.
+• Éléments chauffants remplaçables individuellement.
+• Protection thermique à réenclenchement automatique.
+• Éléments activés par des séquenceurs électromécaniques.

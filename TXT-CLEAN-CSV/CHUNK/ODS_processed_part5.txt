@@ -1,0 +1,5 @@
+## Options
+
+Tableau ODS - Options
+# Produit En trousse;# Produit;Prix;Description/-;120.0;144.00;Circuit de commande, 120V/-;CV;16.00;Interrupteur de ventilateur et lumière témoin/KIT-ODS-DIS202;DIS202;162.00;Interrupteur principal, bipolaire, 20A à 277V et moins/KIT-ODS-DIS402;DIS402;190.00;Interrupteur principal, tripolaire, 40A à 600V max./-;DIS802;232.00;Interrupteur principal, tripolaire, 80A à 600V/KIT-ODS-R;R;170.00;Relais de contrôle 24V, sans transformateur/-;RCV24;352.00;Relais de ventilateur 24V, pour contrôle à distance et lumière témoin (interrupteur non inclus)/-;RCV240;114.00;Relais de ventilateur 240V, pour contrôle à distance et lumière témoin (interrupteur non inclus)/-;RT;183.00;Relais de contrôle 24V, avec transformateur/KIT-ODS-T-AV;TAV;138.00;Thermostat anti-vandale/KIT-ODSA-T-BAR;-;144.00;Adaptateur de plafond suspendu, pour ODSA seulement/KIT-ODSB-T-BAR;-;144.00;Adaptateur de plafond suspendu, pour ODSB seulement
+-------

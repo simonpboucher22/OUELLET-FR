@@ -1,0 +1,4 @@
+## OFE-C Modèles avec moteur standard (PSC)1
+
+Tableau OFE-C - Fournaise électrique Confort
+# Produit;Volts (1 ph);kW (BTU/hr);Amp. incluant moteur;Moteur HP;Pression statique à 0.5" C.E.;pcm3;Poids;kg/OFEC10000;240/208;10.0 (34120)/7.5 (25628);44.0/38.2;45660.0;Basse;595.0;105.0;48.0/OFEC15000;240/208;15.0 (51180)/11.3 (38442);64.7/56.1;45660.0;Basse;595.0;105.0;48.0/OFEC18000;240/208;18.0 (61420)/13.5 (46130);78.4/68.0;45660.0;Basse;595.0;105.0;48.0/OFEC20000;240/208;20.0 (68240)/15.0 (51256);85.4/74.1;45660.0;Basse;595.0;105.0;48.0

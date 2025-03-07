@@ -1,0 +1,47 @@
+# ODS - Aérotherme de plafond
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 208V, 240V, 277V, 347V, 480V, 600V, 1 ou 3 phases.
+
+### Construction
+• Grilles de sortie d'air fait de lamelles d'aluminium entrecroisées.
+• Protection thermique à réenclenchement automatique.
+
+### Ventilateur
+• Moteur fermé lubrifié à vie.
+• Dispositif éliminant la chaleur résiduelle.
+
+### Élément
+• Trois éléments tubulaires résistants en acier inoxydable recouverts d'ailettes d'aluminium.
+
+### Régulation
+• Circuit de commande à 240/208V standard (à l'exception des appareils de 2 à 5kW à 277V qui ont un contrôle standard à 277V).
+• Contacteur 240V intégré pour certain modèles (voir tableau).
+• Circuit de commande à 24V et 120V en option.
+• Thermostat intégré anti-vandale en option.
+• Relais 24V en option avec ou sans transformateur.
+• Mode « circulation continue » contrôlé par un interrupteur intégré et mode « chauffage » en fonction confirmé par un témoin lumineux en option (-CV).
+• Tout dispositif de contrôle (thermostat ou relais) doit être connecté au bornier de contrôle de l'appareil.
+
+### Installation
+• Hauteur recommandée : entre 8 pi (2.4 m) et 12 pi (3.6 m).
+• Encastré dans un plafond suspendu ou isolé (ODSR).
+• Installation en surface (ODSA et ODSB), adaptateur T-BAR en option.
+• Note : Nous conseillons d'installer ce produit sur un plafond extérieur afin d'éviter que des vibrations se propagent dans une pièce adjacente.
+
+### Garantie
+• 3 ans contre tous vices.
+• 10 ans sur les éléments.
+
+### Application
+Immeuble d'appartements, édifice commercial, cage d'escalier, garage

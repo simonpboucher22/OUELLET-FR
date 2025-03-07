@@ -1,0 +1,43 @@
+# OFE-ECM Fournaise électrique Nortron écoénergétique
+
+## Caractéristiques
+
+### Couleur
+• Standard : gris.
+
+### Tension
+• 240V, 1 phase.
+
+### Construction
+• Boîtier en acier complètement isolé pour une diminution des pertes de chaleur et du bruit.
+• Un seul panneau donnant accès à toutes les composantes internes.
+
+### Ventilateur
+• Ventilateur de qualité supérieure, équilibré pour un fonctionnement optimal et silencieux.
+
+### Moteur
+• Moteur à vitesse variable (ECM) à commande électronique, lubrifié à vie et monté sur des supports en caoutchouc afin de réduire au maximum les risques de bruits et de vibrations.
+• Relais et carte de circuits imprimés contrôlant le fonctionnement automatique du moteur et permettant l'ajout d'un climatiseur ou d'une pompe à chaleur.
+
+### Élément
+• Fils hélicoïdaux en alliage nickel-chrome robustes et fiables et assurant un meilleur transfert de chaleur et moins de restriction au passage de l'air.
+• Éléments chauffants remplaçables individuellement.
+• Protection thermique à réenclenchement automatique.
+• Éléments activés à intervalles progressifs par une carte de circuits imprimés bas voltage muni de carte redresseur de courant et temporisateur afin d'éviter les surcharges électriques.
+
+### Régulation
+• Transformateur robuste de 24VAC qui alimente les relais et contrôles.
+• Disjoncteurs intégrés à réenclenchement manuel en façade (sauf le modèle de 10kW).
+• Interrupteur «Sélecteur de vitesse» : «Basse» ou «Haute».
+• Interrupteur «Activation de chauffage» : «Lente» ou «Rapide».
+• Compatible avec un thermostat à 1 ou 2 stages avec ou sans unité externe.
+
+### Installation
+• Installation multi-positions avec retour d'air sur les côtés, l'arrière ou le dessous.
+• Approuvée pour une installation contre les surfaces combustibles sans aucun dégagement.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Pour la maison, le bureau ou le chalet, aussi approuvée pour installation dans les maisons mobiles. S'installe n'importe où : sous-sol, placard, vide sanitaire ou tout autre espace libre.

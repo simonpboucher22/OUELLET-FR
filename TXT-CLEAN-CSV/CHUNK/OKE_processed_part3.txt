@@ -1,0 +1,4 @@
+## Modèles
+
+Tableau OKB - Appareil radiant infrarouge
+Watts;# Produit;Prix;Longueur hors-tout;Section chauffante;Poids/;120V;208V;240V;600V;;po;mm;po;mm;lb;kg

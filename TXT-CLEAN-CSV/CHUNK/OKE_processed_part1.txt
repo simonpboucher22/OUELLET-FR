@@ -1,0 +1,19 @@
+# OKB Appareil radiant infrarouge
+
+## Caractéristiques
+
+### Finition
+• Aluminium anodisé.
+
+### Tension
+• 120V, 208V, 240V, 480V, 600V, 1 phase.
+• Autres voltages disponibles sur demande.
+
+### Construction
+• Aucune lumière n'est émise par l'appareil.
+• Système de réglage directionnel intégré.
+• Angle de rayonnement standard de 60° (45° en option).
+
+### Élément
+• Élément tubulaire en acier inoxydable «Incoloy» avec angle de rayonnement standard de 60° (45° en option).
+• Élément au Quartz avec angle de rayonnement standard de 60°.

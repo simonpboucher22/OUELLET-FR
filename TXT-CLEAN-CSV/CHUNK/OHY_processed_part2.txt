@@ -1,0 +1,2 @@
+Tableau OHY - Combiné convection et air forcé
+Watts;Volts;# Produit;Prix;Poids lb;Poids kg/2000.0;240.0;OHY2000-TH1;796.00;22.75;10.3

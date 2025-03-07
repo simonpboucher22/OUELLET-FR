@@ -1,0 +1,4 @@
+## OFE-B Modèles 208V avec moteur standard (PSC)
+
+Tableau OFE-B - Fournaise électrique Nortron première génération
+# Produit;Volts (3 ph);kW (BTU/hr);Amp. incluant moteur;Moteur HP;Pression statique à 0.2" C.E.;pcm2;Poids;/;;;;;;;lb;kg/83B13-A;208.0;13.5 (46105);42.0;45660.0;Moyenne;1126.0;105.0;47.6/83B24-A;208.0;24.0 (81964);70.0;45660.0;Moyenne;1126.0;115.0;52.2
