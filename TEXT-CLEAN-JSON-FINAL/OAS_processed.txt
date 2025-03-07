@@ -1,0 +1,1003 @@
+# OAS - Aérotherme suspendu commercial industriel
+
+-------
+
+## Caractéristiques
+
+**Couleur**
+• Standard : amande.
+
+**Finition**
+• Standard : peinture à la poudre d'époxy/polyester.
+
+**Tension**
+• 208V, 240V, 277V, 347V, 480V, 600V, 1 ou 3 phases.
+• Certains appareils peuvent être convertis de 3 à 1 phase sur place.
+
+**Construction**
+• Construction en acier de calibres 18 et 20.
+• Volets ajustables afin de diriger l'air chaud.
+• Protection thermique à réenclenchement automatique.
+
+**Ventilateur**
+• Moteur fermé à roulements à billes lubrifié à vie (sauf 15 à 25kW, 208/240V).
+• Ventilateur de 58 dBA (2 à 10kW), 67 dBA (15 à 30kW) et 77 dBA (40 à 60kW).
+• Moteur monté dans le compartiment froid avec protection thermique intégrée.
+• Dispositif éliminant la chaleur résiduelle.
+
+**Élément**
+• Élément tubulaire; acier inoxydable (2 à 10kW), acier avec ailettes (15 à 60kW).
+• Disposition concentrique des éléments.
+• Élément scellé en usine sur demande.
+
+**Régulation**
+• Contacteur intégré et circuit de commande à 240/208V standard (avec transformateur si nécessaire).
+• Relais 24V avec ou sans transformateur en option.
+• Circuit de commande à 120V en option.
+• Thermostat intégré en option.
+• Ouellet recommande l'usage d'un thermostat mural pour un meilleur confort.
+• Tout dispositif de contrôle [thermostat ou relais] doit être connecté au bornier de contrôle de l'appareil.
+
+**Installation**
+• Usage non-résidentiel aux États-Unis.
+• Montage horizontal :
+  -  2 à 30kW : au mur ou au plafond avec les supports fournis permettant de faire pivoter sur 360°.
+  -  40 à 60kW : au plafond seulement à l'aide des 4 crochets fournis.
+• Montage vertical (sauf option -MD) :
+  -  2 à 60kW : à l'aide de 4 tiges filetées 1/2 po X 13 UNC (non fournies).
+  -  Cône diffuseur en option.
+• Hauteur maximale recommandée (horizontale) :
+  - 2 à 10kW : 8 pi (2,4 m), 15 à 30kW : 10 pi (3,0 m), 40 à 60kW : 15 pi (4,5 m).
+• Grillage de protection permettant le montage horizontal à une hauteur minimale :
+  - Canada 2 à 30 kW : 24 po (610 mm), 40 à 60 kW : 8 pi (2,4 m).
+  - États-Unis 2 à 30 kW : 6 pi (1,8 m), 40 à 60 kW : 8 pi (2,4 m).
+• Température ambiante maximale de fonctionnement : 30 °C (85 °F).
+
+**Garantie**
+• 3 ans contre tous vices.
+
+**Application**
+Hall d'entrée commercial, entrepôt, cage d'escalier, usine
+
+-------
+
+## Tableau OAS - Aérotherme suspendu commercial industriel - Modèles
+
+```json
+[
+  {
+    "#Produit": "OAS02008AM",
+    "kW": "2.0",
+    "BTU/hr": "6824",
+    "Volts": "208",
+    "Phase": "1",
+    "Prix": "1511.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "7.0",
+    "Hausse_temperature_F": "13.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS02038AM",
+    "kW": "2.0",
+    "BTU/hr": "6824",
+    "Volts": "208",
+    "Phase": "3/11",
+    "Prix": "1511.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "7.0",
+    "Hausse_temperature_F": "13.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS03008AM",
+    "kW": "3.0",
+    "BTU/hr": "10236",
+    "Volts": "208",
+    "Phase": "1",
+    "Prix": "1511.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "10.0",
+    "Hausse_temperature_F": "18.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS03038AM",
+    "kW": "3.0",
+    "BTU/hr": "10236",
+    "Volts": "208",
+    "Phase": "3/11",
+    "Prix": "1511.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "10.0",
+    "Hausse_temperature_F": "18.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS04008AM",
+    "kW": "4.0",
+    "BTU/hr": "13648",
+    "Volts": "208",
+    "Phase": "1",
+    "Prix": "1531.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "14.0",
+    "Hausse_temperature_F": "25.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS04038AM",
+    "kW": "4.0",
+    "BTU/hr": "13648",
+    "Volts": "208",
+    "Phase": "3/11",
+    "Prix": "1531.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "14.0",
+    "Hausse_temperature_F": "25.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS05008AM",
+    "kW": "5.0",
+    "BTU/hr": "17060",
+    "Volts": "208",
+    "Phase": "1",
+    "Prix": "1766.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "13.0",
+    "Hausse_temperature_F": "23.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS05038AM",
+    "kW": "5.0",
+    "BTU/hr": "17060",
+    "Volts": "208",
+    "Phase": "3/11",
+    "Prix": "1766.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "13.0",
+    "Hausse_temperature_F": "23.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS07538AM",
+    "kW": "7.5",
+    "BTU/hr": "25590",
+    "Volts": "208",
+    "Phase": "3/11",
+    "Prix": "2538.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "19.0",
+    "Hausse_temperature_F": "34.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS10008AM",
+    "kW": "10.0",
+    "BTU/hr": "34120",
+    "Volts": "208",
+    "Phase": "1",
+    "Prix": "2680.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "25.0",
+    "Hausse_temperature_F": "45.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS10038AM",
+    "kW": "10.0",
+    "BTU/hr": "34120",
+    "Volts": "208",
+    "Phase": "3",
+    "Prix": "2680.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "25.0",
+    "Hausse_temperature_F": "45.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS15038AM",
+    "kW": "15.0",
+    "BTU/hr": "51180",
+    "Volts": "208",
+    "Phase": "3/11",
+    "Prix": "3655.00",
+    "pcm": "1300.0",
+    "Hausse_temperature_C": "20.0",
+    "Hausse_temperature_F": "36.0",
+    "Moteur_HP": "45665.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS20038AM",
+    "kW": "20.0",
+    "BTU/hr": "68240",
+    "Volts": "208",
+    "Phase": "3/11",
+    "Prix": "4024.00",
+    "pcm": "1300.0",
+    "Hausse_temperature_C": "27.0",
+    "Hausse_temperature_F": "49.0",
+    "Moteur_HP": "45665.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS25038AM",
+    "kW": "25.0",
+    "BTU/hr": "85300",
+    "Volts": "208",
+    "Phase": "3/11",
+    "Prix": "4559.00",
+    "pcm": "1300.0",
+    "Hausse_temperature_C": "34.0",
+    "Hausse_temperature_F": "61.0",
+    "Moteur_HP": "45665.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS02000AM",
+    "kW": "2.0",
+    "BTU/hr": "6824",
+    "Volts": "240",
+    "Phase": "1",
+    "Prix": "1511.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "7.0",
+    "Hausse_temperature_F": "13.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS03000AM",
+    "kW": "3.0",
+    "BTU/hr": "10236",
+    "Volts": "240",
+    "Phase": "1",
+    "Prix": "1511.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "10.0",
+    "Hausse_temperature_F": "18.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS04000AM",
+    "kW": "4.0",
+    "BTU/hr": "13648",
+    "Volts": "240",
+    "Phase": "1",
+    "Prix": "1531.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "14.0",
+    "Hausse_temperature_F": "25.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS05000AM",
+    "kW": "5.0",
+    "BTU/hr": "17060",
+    "Volts": "240",
+    "Phase": "1",
+    "Prix": "1766.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "13.0",
+    "Hausse_temperature_F": "23.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS07500AM",
+    "kW": "7.5",
+    "BTU/hr": "25590",
+    "Volts": "240",
+    "Phase": "1",
+    "Prix": "2538.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "19.0",
+    "Hausse_temperature_F": "34.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS10000AM",
+    "kW": "10.0",
+    "BTU/hr": "34120",
+    "Volts": "240",
+    "Phase": "1",
+    "Prix": "2680.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "25.0",
+    "Hausse_temperature_F": "45.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS15000AM",
+    "kW": "15.0",
+    "BTU/hr": "51180",
+    "Volts": "240",
+    "Phase": "1",
+    "Prix": "3655.00",
+    "pcm": "1300.0",
+    "Hausse_temperature_C": "20.0",
+    "Hausse_temperature_F": "36.0",
+    "Moteur_HP": "45665.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS20000AM",
+    "kW": "20.0",
+    "BTU/hr": "68240",
+    "Volts": "240",
+    "Phase": "1",
+    "Prix": "4024.00",
+    "pcm": "1300.0",
+    "Hausse_temperature_C": "27.0",
+    "Hausse_temperature_F": "49.0",
+    "Moteur_HP": "45665.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS25000AM",
+    "kW": "25.0",
+    "BTU/hr": "85300",
+    "Volts": "240",
+    "Phase": "1",
+    "Prix": "4559.00",
+    "pcm": "1300.0",
+    "Hausse_temperature_C": "34.0",
+    "Hausse_temperature_F": "61.0",
+    "Moteur_HP": "45665.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS02007AM",
+    "kW": "2.0",
+    "BTU/hr": "6824",
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": "1796.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "7.0",
+    "Hausse_temperature_F": "13.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS03007AM",
+    "kW": "3.0",
+    "BTU/hr": "10236",
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": "1855.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "10.0",
+    "Hausse_temperature_F": "18.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS04007AM",
+    "kW": "4.0",
+    "BTU/hr": "13648",
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": "1903.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "14.0",
+    "Hausse_temperature_F": "25.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS05007AM",
+    "kW": "5.0",
+    "BTU/hr": "17060",
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": "1967.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "13.0",
+    "Hausse_temperature_F": "23.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS07507AM",
+    "kW": "7.5",
+    "BTU/hr": "25590",
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": "2874.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "19.0",
+    "Hausse_temperature_F": "34.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS10007AM",
+    "kW": "10.0",
+    "BTU/hr": "34120",
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": "2926.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "25.0",
+    "Hausse_temperature_F": "45.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS02034AM",
+    "kW": "2.0",
+    "BTU/hr": "6824",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "1796.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "7.0",
+    "Hausse_temperature_F": "13.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS03034AM",
+    "kW": "3.0",
+    "BTU/hr": "10236",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "1855.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "10.0",
+    "Hausse_temperature_F": "18.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS04034AM",
+    "kW": "4.0",
+    "BTU/hr": "13648",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "1903.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "14.0",
+    "Hausse_temperature_F": "25.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS05034AM",
+    "kW": "5.0",
+    "BTU/hr": "17060",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "1967.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "13.0",
+    "Hausse_temperature_F": "23.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS07534AM",
+    "kW": "7.5",
+    "BTU/hr": "25590",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "2874.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "19.0",
+    "Hausse_temperature_F": "34.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS10034AM",
+    "kW": "10.0",
+    "BTU/hr": "34120",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "2926.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "25.0",
+    "Hausse_temperature_F": "45.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS15034AM",
+    "kW": "15.0",
+    "BTU/hr": "51180",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "3655.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "19.0",
+    "Hausse_temperature_F": "34.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS20034AM",
+    "kW": "20.0",
+    "BTU/hr": "68240",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "4024.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "25.0",
+    "Hausse_temperature_F": "45.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS25034AM",
+    "kW": "25.0",
+    "BTU/hr": "85300",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "4652.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "31.0",
+    "Hausse_temperature_F": "56.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS30034AM",
+    "kW": "30.0",
+    "BTU/hr": "102360",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "4736.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "38.0",
+    "Hausse_temperature_F": "68.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS40034AM2",
+    "kW": "40.0",
+    "BTU/hr": "136480",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "6245.00",
+    "pcm": "2000.0",
+    "Hausse_temperature_C": "35.0",
+    "Hausse_temperature_F": "63.0",
+    "Moteur_HP": "45720.0",
+    "Moteur_rpm": "1140.0"
+  },
+  {
+    "#Produit": "OAS50034AM2",
+    "kW": "50.0",
+    "BTU/hr": "170600",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "6645.00",
+    "pcm": "2000.0",
+    "Hausse_temperature_C": "44.0",
+    "Hausse_temperature_F": "79.0",
+    "Moteur_HP": "45720.0",
+    "Moteur_rpm": "1140.0"
+  },
+  {
+    "#Produit": "OAS60034AM2",
+    "kW": "60.0",
+    "BTU/hr": "204720",
+    "Volts": "480",
+    "Phase": "3",
+    "Prix": "7309.00",
+    "pcm": "2000.0",
+    "Hausse_temperature_C": "53.0",
+    "Hausse_temperature_F": "95.0",
+    "Moteur_HP": "45720.0",
+    "Moteur_rpm": "1140.0"
+  },
+  {
+    "#Produit": "OAS02006AM",
+    "kW": "2.0",
+    "BTU/hr": "6824",
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": "1796.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "7.0",
+    "Hausse_temperature_F": "13.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS02036AM",
+    "kW": "2.0",
+    "BTU/hr": "6824",
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": "1796.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "7.0",
+    "Hausse_temperature_F": "13.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS03006AM",
+    "kW": "3.0",
+    "BTU/hr": "10236",
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": "1855.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "10.0",
+    "Hausse_temperature_F": "18.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS03036AM",
+    "kW": "3.0",
+    "BTU/hr": "10236",
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": "1855.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "10.0",
+    "Hausse_temperature_F": "18.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS04006AM",
+    "kW": "4.0",
+    "BTU/hr": "13648",
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": "1903.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "14.0",
+    "Hausse_temperature_F": "25.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS04036AM",
+    "kW": "4.0",
+    "BTU/hr": "13648",
+    "Volts": "600",
+    "Phase": "3/11",
+    "Prix": "1903.00",
+    "pcm": "510.0",
+    "Hausse_temperature_C": "14.0",
+    "Hausse_temperature_F": "25.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS05006AM",
+    "kW": "5.0",
+    "BTU/hr": "17060",
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": "1967.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "13.0",
+    "Hausse_temperature_F": "23.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS05036AM",
+    "kW": "5.0",
+    "BTU/hr": "17060",
+    "Volts": "600",
+    "Phase": "3/11",
+    "Prix": "1967.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "13.0",
+    "Hausse_temperature_F": "23.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS07536AM",
+    "kW": "7.5",
+    "BTU/hr": "25590",
+    "Volts": "600",
+    "Phase": "3/11",
+    "Prix": "2874.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "19.0",
+    "Hausse_temperature_F": "34.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS10036AM",
+    "kW": "10.0",
+    "BTU/hr": "34120",
+    "Volts": "600",
+    "Phase": "3/11",
+    "Prix": "2926.00",
+    "pcm": "700.0",
+    "Hausse_temperature_C": "25.0",
+    "Hausse_temperature_F": "45.0",
+    "Moteur_HP": "45687.0",
+    "Moteur_rpm": "1550.0"
+  },
+  {
+    "#Produit": "OAS15006AM",
+    "kW": "15.0",
+    "BTU/hr": "51180",
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": "3655.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "19.0",
+    "Hausse_temperature_F": "34.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS15036AM",
+    "kW": "15.0",
+    "BTU/hr": "51180",
+    "Volts": "600",
+    "Phase": "3/11",
+    "Prix": "3655.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "19.0",
+    "Hausse_temperature_F": "34.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS20006AM",
+    "kW": "20.0",
+    "BTU/hr": "68240",
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": "4024.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "25.0",
+    "Hausse_temperature_F": "45.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS20036AM",
+    "kW": "20.0",
+    "BTU/hr": "68240",
+    "Volts": "600",
+    "Phase": "3/11",
+    "Prix": "4024.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "25.0",
+    "Hausse_temperature_F": "45.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS25006AM",
+    "kW": "25.0",
+    "BTU/hr": "85300",
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": "4652.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "31.0",
+    "Hausse_temperature_F": "56.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS25036AM",
+    "kW": "25.0",
+    "BTU/hr": "85300",
+    "Volts": "600",
+    "Phase": "3/11",
+    "Prix": "4652.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "31.0",
+    "Hausse_temperature_F": "56.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS30036AM",
+    "kW": "30.0",
+    "BTU/hr": "102360",
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": "4736.00",
+    "pcm": "1400.0",
+    "Hausse_temperature_C": "38.0",
+    "Hausse_temperature_F": "68.0",
+    "Moteur_HP": "45660.0",
+    "Moteur_rpm": "1725.0"
+  },
+  {
+    "#Produit": "OAS40036AM",
+    "kW": "40.0",
+    "BTU/hr": "136480",
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": "6245.00",
+    "pcm": "2000.0",
+    "Hausse_temperature_C": "35.0",
+    "Hausse_temperature_F": "63.0",
+    "Moteur_HP": "45720.0",
+    "Moteur_rpm": "1140.0"
+  },
+  {
+    "#Produit": "OAS50036AM2",
+    "kW": "50.0",
+    "BTU/hr": "170600",
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": "6645.00",
+    "pcm": "2000.0",
+    "Hausse_temperature_C": "44.0",
+    "Hausse_temperature_F": "79.0",
+    "Moteur_HP": "45720.0",
+    "Moteur_rpm": "1140.0"
+  },
+  {
+    "#Produit": "OAS60036AM2",
+    "kW": "60.0",
+    "BTU/hr": "204720",
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": "7309.00",
+    "pcm": "2000.0",
+    "Hausse_temperature_C": "53.0",
+    "Hausse_temperature_F": "95.0",
+    "Moteur_HP": "45720.0",
+    "Moteur_rpm": "1140.0"
+  }
+]
+```
+
+-------
+
+## Tableau OAS - Aérotherme suspendu commercial industriel - Options
+
+```json
+[
+  {
+    "#Produit": "120.0",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "196.00",
+    "Description": "Circuit de commande à 120V"
+  },
+  {
+    "#Produit": "3P",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "96.00",
+    "Description": "Contacteur 3 pôles"
+  },
+  {
+    "#Produit": "-",
+    "En_trousse": "KIT-OAS-CD1AM",
+    "Installée_en_usine": "-",
+    "Prix": "187.00",
+    "Description": "Cône diffuseur, unités de 2 à 10kW"
+  },
+  {
+    "#Produit": "-",
+    "En_trousse": "KIT-OAS-CD2AM",
+    "Installée_en_usine": "-",
+    "Prix": "230.00",
+    "Description": "Cône diffuseur, unités de 15 à 30kW"
+  },
+  {
+    "#Produit": "-",
+    "En_trousse": "KIT-OAS-CD3AM",
+    "Installée_en_usine": "-",
+    "Prix": "287.00",
+    "Description": "Cône diffuseur, unités de 40 à 60kW"
+  },
+  {
+    "#Produit": "CV",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "87.00",
+    "Description": "Interrupteur de ventilateur, avec moteur 240V et 277V"
+  },
+  {
+    "#Produit": "CV",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "125.00",
+    "Description": "Interrupteur de ventilateur, avec moteur 480V et 600V"
+  },
+  {
+    "#Produit": "DIS403",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "217.00",
+    "Description": "Interrupteur principal, 40A"
+  },
+  {
+    "#Produit": "DIS803",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "260.00",
+    "Description": "Interrupteur principal, 80A"
+  },
+  {
+    "#Produit": "DIS1003",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "894.00",
+    "Description": "Interrupteur principal, 100A"
+  },
+  {
+    "#Produit": "ES1",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "102.00",
+    "Description": "Élément scellé en usine"
+  },
+  {
+    "#Produit": "FANAM",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "62.00",
+    "Description": "Ventilateur peinturé à la poudre d'époxy/polyester amande"
+  },
+  {
+    "#Produit": "MD2",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "524.00",
+    "Description": "Exploitation minière"
+  },
+  {
+    "#Produit": "R",
+    "En_trousse": "KIT-OAS-R",
+    "Installée_en_usine": "Oui",
+    "Prix": "190.00",
+    "Description": "Relais 24V, sans transformateur"
+  },
+  {
+    "#Produit": "RCV240",
+    "En_trousse": "-",
+    "Installée_en_usine": "Oui",
+    "Prix": "129.00",
+    "Description": "Relais de ventilateur 240V, pour contrôle à distance (interrupteur non inclus)"
+  },
+  {
+    "#Produit": "RT",
+    "En_trousse": "KIT-OAS-RT",
+    "Installée_en_usine": "Oui",
+    "Prix": "209.00",
+    "Description": "Relais 24V, avec transformateur"
+  },
+  {
+    "#Produit": "T",
+    "En_trousse": "KIT-OAS-T",
+    "Installée_en_usine": "Oui",
+    "Prix": "154.00",
+    "Description": "Thermostat"
+  }
+]
+```

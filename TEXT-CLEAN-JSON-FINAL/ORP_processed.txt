@@ -1,0 +1,435 @@
+# ORP - Panneau Radiant Architectural
+
+## Caractéristiques
+
+**Couleur**
+• Standard : blanc polaire PW.
+• Optionnelle (surcharge applicable) : Noir Therma Ray PB-0218-HT-ST.
+
+**Finition**
+• Peinture en poudre de polyester haute température.
+
+**Tension**
+• 120V, 208V, 240V, 277V, 347V.
+
+**Construction**
+• Feuille réfléchissante utilisée pour adhérer aux éléments chauffants du panneau.
+• Isolation en laine minérale haute température, densité 4 PSF, 2 po (50.8 mm) d'épaisseur.
+• Devant et cadre du panneau en acier galvanisé de calibre 22.
+• Boîte de jonction interne avec couvercle.
+• Boîte de jonction externe en option.
+• Attache de suspension aux quatre coins du panneau (câble de suspension non-inclus).
+• Dimensions personnalisées disponibles sur demande.
+
+**Élément**
+• Fil de résistance en alliage nickel-chrome, isolation PTFE répartie uniformément sur le panneau.
+
+**Densité**
+• 65 à 95W/pi² à la tension nominale.
+
+-------
+
+**Régulation**
+• Circuit de commande à tension de ligne pour thermostat, minuterie ou interrupteur (non inclus, doit être compatible avec le voltage et la puissance de l'appareil).
+• Ouellet recommande fortement l'utilisation d'un thermostat électronique mural pour un meilleur confort.
+
+**Certification**
+• CSA STD C22.2 No.46.
+
+**Installation**
+• Suspendu au plafond ou inséré à un plafond suspendu de type «T-Bar».
+• Variété d'accessoires en option pour l'installation en surface avec un cadre SF à un plafond de gypse ou encastré avec un cadre PF.
+• Dégagement minimum de 2 po (50.8 mm) au-dessus du panneau.
+• Hauteur minimale d'installation de 7 pi (2.13 m) du plancher.
+• Relocalisation possible.
+
+**Garantie**
+• 1 an sur la peinture.
+• 10 ans sur l'élément.
+
+**Application**
+• Édifice commercial, immeuble de bureau, hôpital, école, garderie, résidence privée.
+
+-------
+
+## Tableau ORP - Panneau Radiant Architectural (Modèles)
+
+```json
+[
+  {
+    "#Produit": "AS2424-250-120PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "250.0",
+    "Tension": "120V",
+    "Prix": "471.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2424-250-240PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "250.0",
+    "Tension": "240V",
+    "Prix": "471.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2424-250-347PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "250.0",
+    "Tension": "347V",
+    "Prix": "471.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2424-300-347PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "300.0",
+    "Tension": "347V",
+    "Prix": "484.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2424-310-208PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "310.0",
+    "Tension": "208V",
+    "Prix": "484.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2424-310-240PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "310.0",
+    "Tension": "240V",
+    "Prix": "484.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2424-335-120PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "335.0",
+    "Tension": "120V",
+    "Prix": "484.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2424-375-120PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "375.0",
+    "Tension": "120V",
+    "Prix": "484.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2424-375-208PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "375.0",
+    "Tension": "208V",
+    "Prix": "484.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2424-375-347PW",
+    "Description": "Panneau de 23-3/4\" x 23-3/4\"",
+    "Watts": "375.0",
+    "Tension": "347V",
+    "Prix": "484.00",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "AS2448-500-120PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "500.0",
+    "Tension": "120V",
+    "Prix": "685.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-500-240PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "500.0",
+    "Tension": "240V",
+    "Prix": "685.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-500-347PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "500.0",
+    "Tension": "347V",
+    "Prix": "685.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-535-208PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "535.0",
+    "Tension": "208V",
+    "Prix": "685.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-625-120PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "625.0",
+    "Tension": "120V",
+    "Prix": "693.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-625-208PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "625.0",
+    "Tension": "208V",
+    "Prix": "693.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-625-240PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "625.0",
+    "Tension": "240V",
+    "Prix": "693.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-650-347PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "650.0",
+    "Tension": "347V",
+    "Prix": "693.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-700-347PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "700.0",
+    "Tension": "347V",
+    "Prix": "693.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-725-240PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "725.0",
+    "Tension": "240V",
+    "Prix": "693.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-750-120PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "750.0",
+    "Tension": "120V",
+    "Prix": "693.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-750-208PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "750.0",
+    "Tension": "208V",
+    "Prix": "693.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS2448-750-347PW",
+    "Description": "Panneau de 23-3/4\" x 47-3/4\"",
+    "Watts": "750.0",
+    "Tension": "347V",
+    "Prix": "693.00",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "AS1448-300-240PW",
+    "Description": "Panneau de 13-3/4\" x 47-3/4\"",
+    "Watts": "300.0",
+    "Tension": "240V",
+    "Prix": "471.00",
+    "Poids_lb": "18.0",
+    "Poids_kg": "8.2"
+  },
+  {
+    "#Produit": "AS1448-350-120PW",
+    "Description": "Panneau de 13-3/4\" x 47-3/4\"",
+    "Watts": "350.0",
+    "Tension": "120V",
+    "Prix": "471.00",
+    "Poids_lb": "18.0",
+    "Poids_kg": "8.2"
+  },
+  {
+    "#Produit": "AS1448-400-208PW",
+    "Description": "Panneau de 13-3/4\" x 47-3/4\"",
+    "Watts": "400.0",
+    "Tension": "208V",
+    "Prix": "471.00",
+    "Poids_lb": "18.0",
+    "Poids_kg": "8.2"
+  },
+  {
+    "#Produit": "AS1448-400-347PW",
+    "Description": "Panneau de 13-3/4\" x 47-3/4\"",
+    "Watts": "400.0",
+    "Tension": "347V",
+    "Prix": "471.00",
+    "Poids_lb": "18.0",
+    "Poids_kg": "8.2"
+  },
+  {
+    "#Produit": "AS1448-435-208PW",
+    "Description": "Panneau de 13-3/4\" x 47-3/4\"",
+    "Watts": "435.0",
+    "Tension": "208V",
+    "Prix": "484.00",
+    "Poids_lb": "18.0",
+    "Poids_kg": "8.2"
+  },
+  {
+    "#Produit": "AS1448-435-240PW",
+    "Description": "Panneau de 13-3/4\" x 47-3/4\"",
+    "Watts": "435.0",
+    "Tension": "240V",
+    "Prix": "484.00",
+    "Poids_lb": "18.0",
+    "Poids_kg": "8.2"
+  },
+  {
+    "#Produit": "AS1460-350-120PW",
+    "Description": "Panneau de 13-3/4\" x 59-3/4\"",
+    "Watts": "350.0",
+    "Tension": "120V",
+    "Prix": "568.00",
+    "Poids_lb": "22.0",
+    "Poids_kg": "10.0"
+  },
+  {
+    "#Produit": "AS1460-375-240PW",
+    "Description": "Panneau de 13-3/4\" x 59-3/4\"",
+    "Watts": "375.0",
+    "Tension": "240V",
+    "Prix": "568.00",
+    "Poids_lb": "22.0",
+    "Poids_kg": "10.0"
+  },
+  {
+    "#Produit": "AS1460-450-208PW",
+    "Description": "Panneau de 13-3/4\" x 59-3/4\"",
+    "Watts": "450.0",
+    "Tension": "208V",
+    "Prix": "582.00",
+    "Poids_lb": "22.0",
+    "Poids_kg": "10.0"
+  },
+  {
+    "#Produit": "AS1460-540-347PW",
+    "Description": "Panneau de 13-3/4\" x 59-3/4\"",
+    "Watts": "540.0",
+    "Tension": "347V",
+    "Prix": "582.00",
+    "Poids_lb": "22.0",
+    "Poids_kg": "10.0"
+  },
+  {
+    "#Produit": "AS1460-550-240PW",
+    "Description": "Panneau de 13-3/4\" x 59-3/4\"",
+    "Watts": "550.0",
+    "Tension": "240V",
+    "Prix": "582.00",
+    "Poids_lb": "22.0",
+    "Poids_kg": "10.0"
+  }
+]
+```
+
+-------
+
+## Tableau ORP - Panneau Radiant Architectural (Options)
+
+```json
+[
+  {
+    "#Produit": "FC48",
+    "En_trousse": "Installée en usine*",
+    "Prix": "128.00",
+    "Description": "Conduit flexible de 48 po (121.92 cm)"
+  },
+  {
+    "#Produit": "PF-1448PW",
+    "En_trousse": "-",
+    "Prix": "138.00",
+    "Description": "Cadre pour installation encastré à un plafond de gypse, 14 1/8'' x 48 1/8''"
+  },
+  {
+    "#Produit": "PF-1460PW",
+    "En_trousse": "-",
+    "Prix": "142.00",
+    "Description": "Cadre pour installation encastré à un plafond de gypse, 14 1/8'' x 60 1/8''"
+  },
+  {
+    "#Produit": "PF-22PW",
+    "En_trousse": "-",
+    "Prix": "109.00",
+    "Description": "Cadre pour installation encastré à un plafond de gypse, 24 1/8'' x 24 1/8''"
+  },
+  {
+    "#Produit": "PF-24PW",
+    "En_trousse": "-",
+    "Prix": "117.00",
+    "Description": "Cadre pour installation encastré à un plafond de gypse, 24 1/8'' x 48 1/8''"
+  },
+  {
+    "#Produit": "WT",
+    "En_trousse": "-",
+    "Prix": "Sur demande",
+    "Description": "Joints en silicone incluant un conduit Sealtite® de 36 po (91.44 cm)"
+  },
+  {
+    "#Produit": "SF-1448PW",
+    "En_trousse": "-",
+    "Prix": "139.00",
+    "Description": "Cadre pour installation en surface à un plafond de gypse, 14'' x 48''"
+  },
+  {
+    "#Produit": "SF-1460PW",
+    "En_trousse": "-",
+    "Prix": "145.00",
+    "Description": "Cadre pour installation en surface à un plafond de gypse, 14'' x 60''"
+  },
+  {
+    "#Produit": "SF-22PW",
+    "En_trousse": "-",
+    "Prix": "108.00",
+    "Description": "Cadre pour installation en surface à un plafond de gypse, 24'' x 24''"
+  },
+  {
+    "#Produit": "SF-24PW",
+    "En_trousse": "-",
+    "Prix": "117.00",
+    "Description": "Cadre pour installation en surface à un plafond de gypse, 24'' x 48''"
+  }
+]
+```
