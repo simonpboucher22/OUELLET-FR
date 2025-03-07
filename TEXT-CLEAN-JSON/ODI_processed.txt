@@ -1,0 +1,157 @@
+# ODI - Plinthe coupe-brise en aluminium à dessus incliné
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+• Optionnelle : aluminium anodisé.
+
+### Tension
+• 120V, 208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.
+
+### Construction
+• Devant en aluminium de calibre 14 (0.0787 po [2 mm]).
+• Boîtier en acier satiné de calibre 18.
+• Assemblage vissé pour une plus grande robustesse.
+• Canalisation de câblage intégrée pleine longueur.
+• Ouvertures inférieures à 1/4 po (6.4 mm) évitant l'intrusion de petits objets à l'intérieur.
+• Entrée d'air frais par l'avant; sortie d'air chaud par le dessus.
+- Entrée d'air frais par le dessous (-BAI) en option.
+• Finition unie du dos de l'appareil (-BD) en option.
+• Protection thermique linéaire pleine longueur, à réenclenchement automatique.
+• Protection thermique pour la haute altitude (-HA) en option.
+• Bouts inclus.
+
+### Élément
+• Élément tubulaire en acier recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+-------
+
+### Densité
+• Densité moyenne standard de 275W/pi.
+• Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.
+
+### Régulation
+• Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+• Relais mécanique, relais électronique ou relais pneumatique en option (installation du côté droit seulement).
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+• L'appareil doit être installé à 2 po (51 mm) au-dessus du plancher (pour l'option -BAI).
+• Trous de montage espacés de 4 po (102 mm) afin de faciliter la pose.
+• Installation au plancher ou au mur.
+• Variété d'accessoires pour l'installation en continu en option.
+• Trousse de piédestals en option.
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Édifice commercial, immeuble de bureaux, hôpital, école, résidence privée.
+
+-------
+
+Tableau ODI - Plinthe coupe-brise en aluminium à dessus incliné
+```
+{
+  "title": "ODI - Plinthe coupe-brise en aluminium à dessus incliné",
+  "headers": ["Watts", "# Produit 120V", "# Produit 208V", "# Produit 347V", "# Produit 600V", "Watts 240/208V", "# Produit 240/208V", "Prix", "Longueur po", "Longueur mm", "Poids lb", "Poids kg"],
+  "data": [
+    [500.0, "ODI0502", "ODI0508", "ODI0507", null, "500/375", "ODI0500", 567.00, 29.0625, 738.0, 9.1, 4.1],
+    [750.0, "ODI0752", "ODI0758", "ODI0757", "ODI0756", "750/563", "ODI0750", 618.00, 39.0625, 992.0, 11.9, 5.4],
+    [1000.0, "ODI1002", "ODI1008", "ODI1007", "ODI1006", "1000/750", "ODI1000", 679.00, 49.3125, 1253.0, 14.7, 6.6],
+    [1250.0, "ODI1252", "ODI1258", "ODI1257", "ODI1256", "1250/938", "ODI1250", 746.00, 58.8125, 1494.0, 17.3, 7.9],
+    [1500.0, "ODI1502", "ODI1508", "ODI1507", "ODI1506", "1500/1125", "ODI1500", 824.00, 67.5, 1715.0, 19.7, 9.0],
+    [1750.0, null, "ODI1758", "ODI1757", "ODI1756", "1750/1313", "ODI1750", 910.00, 76.875, 1952.0, 22.3, 10.1],
+    [2000.0, null, "ODI2008", "ODI2007", "ODI2006", "2000/1500", "ODI2000", 1007.00, 85.625, 2175.0, 24.7, 11.2],
+    [2250.0, null, "ODI2258", "ODI2257", "ODI2256", "2250/1688", "ODI2250", 1117.00, 94.5, 2400.0, 27.2, 12.3],
+    [2500.0, null, "ODI2508", "ODI2507", "ODI2506", "2500/1875", "ODI2500", 1173.00, 103.625, 2632.0, 29.7, 13.5]
+  ]
+}
+```
+
+-------
+
+Tableau ODI - Plinthe coupe-brise en aluminium à dessus incliné (Modèles à basse densité moyenne)
+```
+{
+  "title": "ODI - Plinthe coupe-brise en aluminium à dessus incliné (Modèles à basse densité moyenne)",
+  "headers": ["# Produit", "Prix", "Longueur", "Poids", "Densité moyenne W/pi", "Watts", "Watts 240/208V", "120V", "208V", "240/208V", "347V", "600V"],
+  "data": [
+    ["ODI020X-738", null, "29 1/16\" (738 mm)", "9.1 lb (4.1 kg)", 100.0, 200.0, "200/150", "✓", "✓", "✓", null, null],
+    ["ODI030X-738", 567.00, "29 1/16\" (738 mm)", "9.1 lb (4.1 kg)", 150.0, 300.0, "300/225", "✓", "✓", "✓", null, null],
+    ["ODI040X-738", null, "29 1/16\" (738 mm)", "9.1 lb (4.1 kg)", 200.0, 400.0, "400/300", "✓", "✓", "✓", "✓", null],
+    ["ODI030X-992", null, "39 1/16\" (992 mm)", "11.9 lb (5.4kg)", 100.0, 300.0, "300/225", "✓", "✓", "✓", "✓", null],
+    ["ODI045X-992", 618.00, "39 1/16\" (992 mm)", "11.9 lb (5.4kg)", 150.0, 450.0, "450/338", "✓", "✓", "✓", "✓", null],
+    ["ODI060X-992", null, "39 1/16\" (992 mm)", "11.9 lb (5.4kg)", 200.0, 600.0, "600/450", "✓", "✓", "✓", "✓", null],
+    ["ODI040X-1253", null, "49 5/16\" (1253 mm)", "14.7 lb (6.6 kg)", 100.0, 400.0, "400/300", "✓", "✓", "✓", "✓", null],
+    ["ODI060X-1253", 679.00, "49 5/16\" (1253 mm)", "14.7 lb (6.6 kg)", 150.0, 600.0, "600/450", "✓", "✓", "✓", "✓", null],
+    ["ODI080X-1253", null, "49 5/16\" (1253 mm)", "14.7 lb (6.6 kg)", 200.0, 800.0, "800/600", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI050X-1494", null, "58 13/16\" (1494 mm)", "17.3 lb (7.9 kg)", 100.0, 500.0, "500/375", "✓", "✓", "✓", "✓", null],
+    ["ODI075X-1494", 746.00, "58 13/16\" (1494 mm)", "17.3 lb (7.9 kg)", 150.0, 750.0, "750/563", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI100X-1494", null, "58 13/16\" (1494 mm)", "17.3 lb (7.9 kg)", 200.0, 1000.0, "1000/750", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI060X-1715", null, "67 1/2\" (1715 mm)", "19.7 lb (9.0 kg)", 100.0, 600.0, "600/450", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI090X-1715", 824.00, "67 1/2\" (1715 mm)", "19.7 lb (9.0 kg)", 150.0, 900.0, "900/675", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI120X-1715", null, "67 1/2\" (1715 mm)", "19.7 lb (9.0 kg)", 200.0, 1200.0, "1200/900", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI070X-1952", null, "76 7/8\" (1952 mm)", "22.3lb (10.1kg)", 100.0, 700.0, "700/525", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI105X-1952", 910.00, "76 7/8\" (1952 mm)", "22.3lb (10.1kg)", 150.0, 1050.0, "1050/788", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI140X-1952", null, "76 7/8\" (1952 mm)", "22.3lb (10.1kg)", 200.0, 1400.0, "1400/1050", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI080X-2175", null, "85 5/8\" (2175 mm)", "24.7 lb (11.2 kg)", 100.0, 800.0, "800/600", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI120X-2175", 1007.00, "85 5/8\" (2175 mm)", "24.7 lb (11.2 kg)", 150.0, 1200.0, "1200/900", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI160X-2175", null, "85 5/8\" (2175 mm)", "24.7 lb (11.2 kg)", 200.0, 1600.0, "1600/1200", null, "✓", "✓", "✓", "✓"],
+    ["ODI090X-2400", null, "94 1/2\" (2400 mm)", "27.2 lb (12.3 kg)", 100.0, 900.0, "900/675", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI135X-2400", 1117.00, "94 1/2\" (2400 mm)", "27.2 lb (12.3 kg)", 150.0, 1350.0, "1350/1013", null, "✓", "✓", "✓", "✓"],
+    ["ODI180X-2400", null, "94 1/2\" (2400 mm)", "27.2 lb (12.3 kg)", 200.0, 1800.0, "1800/1350", null, "✓", "✓", "✓", "✓"],
+    ["ODI100X-2632", null, "103 5/8\" (2632 mm)", "29.7 lb (13.5 kg)", 100.0, 1000.0, "1000/750", "✓", "✓", "✓", "✓", "✓"],
+    ["ODI150X-2632", 1173.00, "103 5/8\" (2632 mm)", "29.7 lb (13.5 kg)", 150.0, 1500.0, "1500/1125", null, "✓", "✓", "✓", "✓"],
+    ["ODI200X-2632", null, "103 5/8\" (2632 mm)", "29.7 lb (13.5 kg)", 200.0, 2000.0, "2000/1500", null, "✓", "✓", "✓", "✓"],
+    ["ODI225X-2632", null, "103 5/8\" (2632 mm)", "29.7 lb (13.5 kg)", 200.0, 2250.0, "2250/1688", null, "✓", "✓", "✓", "✓"]
+  ]
+}
+```
+
+-------
+
+Tableau ODI - Plinthe coupe-brise en aluminium à dessus incliné (Options)
+```
+{
+  "title": "ODI - Plinthe coupe-brise en aluminium à dessus incliné (Options)",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine", "Prix", "Description"],
+  "data": [
+    [null, "BAI", "Sans frais", "Entrée d'air par le dessous"],
+    [null, "BD", 0.1, "Finition unie du dos de l'appareil"],
+    ["KIT-ODI-CE", null, 497.00, "Coin extérieur, 4 po (102 mm)"],
+    ["KIT-ODI-CI", null, 497.00, "Coin intérieur, 4 po (102 mm)"],
+    ["KIT-ODI-JT", null, 119.00, "Joint de finition, 2 po (51 mm)"],
+    ["KIT-ODI-JT-PE", null, 126.00, "Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)"],
+    ["KIT-ODI-PE", null, 168.00, "Trousse de piédestals ronds (2), 3 po (76 mm)"],
+    ["KIT-ODI-PEC", null, 168.00, "Trousse de piédestals carrés (2), 2 po (51 mm)"],
+    ["ODI-SV-XX", null, "Sur demande", "Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2632 mm)"],
+    ["KIT-ODI-DIS204", "DIS204", 172.00, "Interrupteur principal, 20A à 277V max."],
+    ["KIT-ODI-DIS404", "DIS404", 211.00, "Interrupteur principal, 40A à 600V max."],
+    [null, "HA", "Sans frais", "Protection thermique pour la haute altitude (3000 pi à 8200 pi)"],
+    [null, "PM", 410.00, "Relais pneumatique, 20A à 600V max."],
+    ["KIT-ODI-R-347", "R", 175.00, "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V"],
+    ["KIT-ODI-R-600", "R", 182.00, "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V"],
+    ["KIT-ODI-RT-120", "RT", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V"],
+    ["KIT-ODI-RT-208", "RT", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"],
+    ["KIT-ODI-RT-240", "RT", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"],
+    ["KIT-ODI-RT-277", "RT", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V"],
+    ["KIT-ODI-RT-347", "RT", 189.00, "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"],
+    ["KIT-ODI-RT-6002", "RT2", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)"],
+    ["KIT-ODI-TB6", "TB6", 154.00, "Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"],
+    ["KIT-ODI-TB263", "TB26", 250.00, "Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"],
+    ["KIT-ODI-TB6-AV", "TB6AV", 154.00, "Thermostat bimétallique, unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"],
+    ["KIT-ODI-TB26-AV3", "TB26AV", 250.00, "Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"],
+    ["KIT-ODI-TRIAC-347", "TRIAC", 77.00, "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."],
+    ["KIT-ODI-TRIAC-347T", "TRIACT", 105.00, "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V"],
+    ["KIT-ODI-TRIAC-600", "TRIAC", 135.00, "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."]
+  ]
+}
+```

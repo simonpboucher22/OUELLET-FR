@@ -1,0 +1,169 @@
+# OTP-C Thermopompe simple zone Champagne sans conduit de ventilation
+
+## Caractéristiques
+
+### Mode de fonctionnement
+• Climatisation, chauffage, déshumidification, ventilation et auto.
+
+### Capacité nominale
+• 9000, 12000, 15000, 18000, 24000, 30000, 36000 BTU/hr.
+
+### Tension
+• 230/208V, 60 Hz, 1 phase.
+
+### Unité intérieure
+• Installation en haut de mur, pouvant être raccordée de chaque côté.
+• Boîtier en plastique, standard blanc.
+• Ventilateur à courant transversal à 4 vitesses (turbo, élevée, moyenne et faible).
+• Filtres lavables.
+
+### Unité extérieure
+• Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.
+• Soupape d'expansion électronique pour un contrôle précis du débit de réfrigérant.
+• Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.
+• Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.
+• Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.
+• Couverture et technologie de préchauffage du compresseur.
+• Installation sur support mural ou au sol en aluminium en option.
+
+-------
+
+### Tuyauterie de raccordement
+• Longueur minimale de la tuyauterie de 10 pi (3 m).
+• Raccords évasés.
+• R410A
+• (sauf OCD30 & OCD36)
+
+### Régulation
+• Télécommande sans fil incluse.
+• Contrôleur mural en option.
+• Wi-Fi (option KIT-WIFI requise).
+• Interface (options HP6000ZB-GE et GT130 requises).
+• Température de consigne : 16 à 30 °C (61 à 86 °F).
+• Format d'affichage de la température : °C ou °F.
+
+### Garantie
+• Garantie de base 10 ans pièces et 10 ans compresseur (main-d'œuvre non incluse).
+• Garantie main-d'œuvre (vendue séparément) de la 1ère à la 10e année, couvre pièces et main-d'œuvre avec remplacement du système si défaillance du compresseur.
+
+### Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant.
+
+-------
+
+Tableau OTP-C - Thermopompe simple zone Champagne sans conduit de ventilation
+```json
+{
+  "title": "OTP-C - Thermopompe simple zone Champagne sans conduit de ventilation",
+  "headers": ["", "Unité intérieure", "OCD09KCH23S-I", "OCD12KCH22S-I", "OCD15KCH20S-I", "OCD18KCH20S-I", "OCD24KCH20S-I", "OCD30KCH18S-I", "OCD36KCH18S-I", "", ""],
+  "data": [
+    ["", "Unité extérieure", "OCD09KCH23S-O", "OCD12KCH22S-O", "OCD15KCH20S-O", "OCD18KCH20S-O", "OCD24KCH20S-O", "OCD30KCH18S-O", "OCD36KCH18S-O", "", ""]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-C - Thermopompe simple zone Champagne sans conduit de ventilation
+```json
+{
+  "title": "OTP-C - Thermopompe simple zone Champagne sans conduit de ventilation",
+  "headers": ["Performance technique", "", "", "", "", "", "", "", "", "", ""],
+  "data": [
+    ["Tension", "", "Volts", "230/208", "230/208", "230/208", "230/208", "230/208", "230/208", "230/208", "", ""],
+    ["", "Nominale", "W", "2638.0", "3517.0", "4400.0", "5275.0", "6448.0", "8200.0", "9850.0", "", ""],
+    ["Capacité en climatisation", "", "(BTU/hr)", "-9000.0", "-12000.0", "-15000.0", "-18000.0", "-22000.0", "-28000.0", "-33600.0", "", ""],
+    ["", "Min. – max.", "W", "909 - 2813", "909 - 3810", "2000 - 5860", "1993 - 5861", "2000 - 8000", "2780 - 8800", "2170 - 10550", "", ""],
+    ["", "", "(BTU/hr)", "(3100 - 9600)", "(3100 - 13000)", "(6800 - 20000)", "(6800 - 20000)", "(6824 - 27296)", "(9485 - 30026)", "(7404 - 35997)", "", ""],
+    ["", "Nominale", "W", "3224.0", "3810.0", "4700.0", "5803.0", "6741.0", "8320.0", "10140.0", "", ""],
+    ["Capacité en chauffage", "", "(BTU/hr)", "-11000.0", "-13000.0", "-16000.0", "-19800.0", "-23000.0", "-28400.0", "-34600.0", "", ""],
+    ["", "Min. – max.", "W", "560 - 3517", "703 - 4103", "2150 - 6890", "2151 - 6887", "2000 - 9000", "2930 - 9670", "4390 - 10550", "", ""],
+    ["", "", "(BTU/hr)", "(1911 - 12000)", "(2400 - 14000)", "(7340 - 23500)", "(7340 - 23500)", "(6824 - 30708)", "(9997 - 32994)", "(14979 - 35997)", "", ""],
+    ["Puissance consommée en climatisation", "Nominale", "W", "630.0", "960.0", "1189.0", "1435.0", "1760.0", "2700.0", "4100.0", "", ""],
+    ["", "Min. – max.", "W", "160 - 1300", "200 - 1350", "750 - 2150", "450 - 2150", "450 - 3000", "600 - 3900", "450 - 4300", "", ""],
+    ["Puissance consommée en chauffage", "Nominale", "W", "1020.0", "1100.0", "1382.0", "1730.0", "2000.0", "2800.0", "3800.0", "", ""],
+    ["", "Min. – max.", "W", "160-1350", "400 - 1400", "580 - 2600", "580 - 2600", "450 - 3000", "650 - 4000", "560 - 4300", "", ""],
+    ["Puissance consommée nominale", "", "W", "1350.0", "1400.0", "3000.0", "3000.0", "3000.0", "4000.0", "4300.0", "", ""],
+    ["Courant nominal", "", "A", "6.0", "6.3", "12.56", "12.56", "14.5", "17.0", "20.0", "", ""],
+    ["MCA", "", "A", "9.0", "9.0", "16.0", "16.0", "20.0", "20.0", "24.0", "", ""],
+    ["Disjoncteur/fusible max. (MOCP)", "", "A", "15.0", "15.0", "25.0", "25.0", "30.0", "30.0", "40.0", "", ""],
+    ["TRÉS (SEER)", "", "-", "23.0", "22.0", "20.0", "20.0", "20.0", "18.0", "18.0", "", ""],
+    ["CPSC (HSPF)", "", "-", "10.5", "11.0", "11.0", "10.0", "10.0", "9.0", "9.0", "", ""],
+    ["TRÉ (EER)", "", "W/W", "4.19", "3.66", "3.7", "3.68", "3.66", "3.04", "2.4", "", ""],
+    ["COP", "", "W/W", "3.16", "3.46", "3.4", "3.35", "3.37", "2.97", "2.67", "", ""],
+    ["Numéro AHRI", "", "-", "201863350.0", "201863351.0", "-", "201863352.0", "201863353.0", "202110509.0", "202110510.0", "", ""],
+    ["ENERGY STAR", "", "-", "✓", "✓", "✓", "✓", "✓", "-", "-", "", ""],
+    ["Unité intérieure", "", "", "", "", "", "", "", "", "", "", ""],
+    ["Déshumidification", "", "pt/hr (l/hr)", "1.69", "2.96", "3.8", "3.8", "4.23", "6.34", "7.4", "", ""],
+    ["", "", "", "(0.80)", "(1.4)", "(1.8)", "(1.80)", "(2.00)", "(3.00)", "(3.5)", "", ""],
+    ["Débit d'air volumique", "T / H / M / L2", "pcm", "377 / 288 /", "400 / 288 /", "559 / 488 /", "559 / 488 /", "706 / 647 /", "706 / 618 /", "736 / 647 /", "", ""],
+    ["", "", "", "241 / 170", "241 / 171", "412 / 335", "412 / 335", "589 / 530", "530 / 412", "530 / 412", "", ""],
+    ["Niveau sonore", "T / H / M / L2", "dB (A)", "43 / 39 /", "45 / 39 /", "49 / 44 /", "47 / 43 /", "48 / 44 /", "-", "-", "", ""],
+    ["", "", "", "35 / 29", "35 / 29", "41 / 36", "40 / 39", "40 / 36", "", "", "", ""],
+    ["Puissance du moteur du ventilateur", "", "W", "20.0", "20.0", "60.0", "60.0", "60.0", "70.0", "70.0", "", ""],
+    ["RLA du moteur du ventilateur", "", "A", "0.09", "0.09", "0.24", "0.24", "0.38", "0.4", "0.4", "", ""],
+    ["Puissance du moteur du déflecteur", "", "W", "1.5", "1.5", "2.5", "2.5", "2.5", "1.5", "1.5", "", ""],
+    ["Poids net", "", "lb (kg)", "22 (10)", "22 (10)", "30 (13.5)", "28 (12.5)", "34 (15.5)", "42 (19)", "42 (19)", "", ""],
+    ["Unité extérieure", "", "", "", "", "", "", "", "", "", "", ""],
+    ["Débit d'air volumique", "", "cfm", "1800.0", "2000.0", "3200.0", "3200.0", "4000.0", "4000.0", "4400.0", "", ""],
+    ["Niveau sonore", "", "dB (A)", "53.0", "54.0", "58.0", "55.0", "59.0", "62.0", "65.0", "", ""],
+    ["Puissance du compresseur", "", "W", "845.0", "845.0", "1440.0", "1440.0", "2550.0", "2450.0", "3010.0", "", ""],
+    ["LRA du compresseur", "", "A", "-", "-", "25.0", "25.0", "25.0", "4.0", "67.0", "", ""],
+    ["RLA du compresseur", "", "A", "4.0", "4.0", "12.08", "12.08", "11.5", "13.45", "17.5", "", ""],
+    ["Puissance du moteur du ventilateur", "", "W", "30.0", "30.0", "60.0", "60.0", "92.0", "120.0", "170.0", "", ""],
+    ["RLA du moteur du ventilateur", "", "A", "-", "0.36", "0.49", "0.49", "0.65", "0.45", "0.73", "", ""],
+    ["Volume de réfrigérant (R410A)", "", "oz (g)", "45.9 (1301)", "47.6 (1349)", "56.44 (1600)", "56.44 (1600)", "77.6 (2200)", "84.66 (2.4)", "91.71 (2.6)", "", ""],
+    ["Poids", "", "lb (kg)", "78 (35.5)", "86 (39)", "106 (48)", "106 (48)", "142 (65.5)", "154.5 (70)", "161 (73)", "", ""],
+    ["Température ambiante de fonctionnement", "Climatisation", "°C (°F)", "", "", "", "-18 à 46 (0 à 115)", "", "", "", "", ""],
+    ["", "Chauffage", "°C (°F)", "", "", "", "-25 à 24 (-13 à 75)", "", "", "", "", ""],
+    ["Tuyauterie de raccordement/réfrigérant", "", "", "", "", "", "", "", "", "", "", ""],
+    ["Longueur de préchargement", "", "pi (m)", "25 (7.5)", "25 (7.5)", "25 (7.5)", "25 (7.5)", "25 (7.5)", "25 (7.5)", "25 (7.5)", "", ""],
+    ["Volume additionnel de réfrigérant", "", "oz/pi (g/m)", "0.2", "0.2", "0.2", "0.2", "0.5", "0.5", "0.5", "", ""],
+    ["", "", "", "-20.0", "-20.0", "-20.0", "-20.0", "-50.0", "-50.0", "-50.0", "", ""],
+    ["Diamètre externe tuyau liquide", "", "po", "45661.0", "45661.0", "45661.0", "45661.0", "45661.0", "45661.0", "45661.0", "", ""],
+    ["Diamètre externe tuyau gaz", "", "po", "45724.0", "45659.0", "45785.0", "45785.0", "45785.0", "45785.0", "45785.0", "", ""],
+    ["Différence de hauteur maximale", "", "pi (m)", "33 (10)", "33 (10)", "33 (10)", "33 (10)", "33 (10)", "33 (10)", "33 (10)", "", ""],
+    ["Longueur totale maximale", "", "pi (m)", "49 (15)", "66 (20)", "82 (25)", "82 (25)", "82 (25)", "98 (30)", "98 (30)", "", ""],
+    ["1 1", "", "", "", "", "", "", "", "", "", "", ""]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-C - Thermopompe simple zone Champagne sans conduit de ventilation
+```json
+{
+  "title": "OTP-C - Thermopompe simple zone Champagne sans conduit de ventilation",
+  "headers": ["Unité intérieure", "L", "", "H", "", "P", "", "A", "", "B", "", "C", ""],
+  "data": [
+    ["", "po", "mm", "po", "mm", "po", "mm", "po", "mm", "po", "mm", "po", "mm"],
+    ["OCD09KCH23S-I OCD12KCH22S-I", "33.25", "845.0", "11.375", "289.0", "8.25", "209.0", "4.6875", "119.0", "21.3125", "542.0", "7.25", "184.0"],
+    ["OCD15KCH20S-I", "38.1875", "970.0", "11.8125", "300.0", "8.8125", "224.0", "4.0", "102.0", "27.0", "686.0", "7.1875", "183.0"],
+    ["OCD18KCH20S-I", "38.1875", "970.0", "11.8125", "300.0", "8.8125", "224.0", "4.0", "102.0", "27.0", "686.0", "7.1875", "183.0"],
+    ["OCD24KCH20S-I", "42.4375", "1078.0", "12.8125", "325.0", "9.6875", "246.0", "8.125", "206.0", "27.0", "686.0", "7.3125", "186.0"],
+    ["OCD30KCH18S-I", "53.125", "1350.0", "12.8125", "325.0", "9.96875", "253.0", "8.125", "206.0", "27.0", "686.0", "7 5/16", "186.0"],
+    ["OCD36KCH18S-I", "53.125", "1350.0", "12.8125", "325.0", "9.96875", "253.0", "8.125", "206.0", "27.0", "686.0", "7 5/16", "186.0"]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-C - Thermopompe simple zone Champagne sans conduit de ventilation
+```json
+{
+  "title": "OTP-C - Thermopompe simple zone Champagne sans conduit de ventilation",
+  "headers": ["Unité extérieure", "L", "", "H", "", "P", "", "A", "", "B", "", "", ""],
+  "data": [
+    ["", "po", "mm", "po", "mm", "po", "mm", "po", "mm", "po", "mm", "", ""],
+    ["OCD09KCH23S-O", "33.375", "848.0", "21.25", "540.0", "12.625", "320.0", "21.25", "540.0", "11.25", "286.0", "", ""],
+    ["OCD12KCH22S-O", "33.375", "848.0", "23.3125", "592.0", "12.625", "320.0", "21.25", "540.0", "11.25", "286.0", "", ""],
+    ["OCD15KCH20S-O", "37.625", "955.0", "27.5625", "700.0", "15.5625", "396.0", "22.0", "559.0", "14.3125", "364.0", "", ""],
+    ["OCD18KCH20S-O", "37.625", "955.0", "27.5625", "700.0", "15.5625", "396.0", "22.0", "559.0", "14.3125", "364.0", "", ""],
+    ["OCD24KCH20S-O", "38.5625", "980.0", "31.125", "790.0", "16.8125", "427.0", "24.0", "610.0", "15.5625", "395.0", "", ""],
+    ["OCD30KCH18S-O", "38.5625", "980.0", "31.125", "790.0", "16.8125", "427.0", "24.0", "610.0", "15.5625", "395.0", "", ""],
+    ["OCD36KCH18S-O", "38.5625", "980.0", "31.125", "790.0", "16.8125", "427.0", "24.0", "610.0", "15.5625", "395.0", "", ""]
+  ]
+}
+```

@@ -1,0 +1,78 @@
+# OFH - Ventilo-convecteur de plancher
+
+## Caractéristiques
+
+### Couleur
+• Standards : bronze, blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+-------
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+-------
+
+### Tension
+• 120V, 240/208V, 1 phase.
+
+-------
+
+### Construction
+• Construction en acier soudé de calibre 20.
+• Grillage à lames robustes de calibre 14.
+• Grillage de protection empêchant les corps étrangers de pénétrer à l'intérieur de l'appareil.
+• Protection thermique à réenclenchement manuel pour plus de sécurité.
+
+-------
+
+### Ventilateur
+• Ventilateur silencieux de 43.9 dBA à 80 pcm, à grand diamètre.
+• Moteur lubrifié à vie.
+
+-------
+
+### Élément
+• Élément tubulaire à ailettes très robuste.
+
+-------
+
+### Installation
+• Distance minimale des murs adjacents : 6 po (15.2 cm).
+• Vaste compartiment de câblage.
+
+-------
+
+### Garantie
+• 5 ans contre tous vices.
+
+-------
+
+### Application
+• Porte patio, baie vitrée.
+
+-------
+
+### Note
+Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+
+-------
+
+## Modèles
+
+Tableau OFH - Ventilo-convecteur de plancher
+{
+  "title": "OFH - Ventilo-convecteur de plancher",
+  "headers": ["Watts", "Volts", "# Produit", "Prix", "Poids lb", "Poids kg"],
+  "data": [
+    [500.0, 120.0, "OFH0502", 723.00, 16.0, 7.3],
+    [1000.0, 120.0, "OFH1002", 746.00, 16.0, 7.3],
+    [1500.0, 120.0, "OFH1502", 760.00, 16.0, 7.3],
+    [500.0, 240.0, "OFH0500", 723.00, 16.0, 7.3],
+    [1000.0, 240.0, "OFH1000", 746.00, 16.0, 7.3],
+    [1500.0, 240.0, "OFH1500", 760.00, 16.0, 7.3]
+  ]
+}
+
+-------

@@ -1,0 +1,72 @@
+# OCP - Ventilo-convecteur coup-de-pied
+
+## Caractéristiques
+
+### Couleur
+• Standards : noir semi-lustré, blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 120V, 240/208V, 1 phase.
+
+### Construction
+• Construction en acier de calibre 20.
+• 1000W standard. La puissance de l'appareil peut être convertie en 500W au moment du raccordement (voir instructions d'installation).
+• Protection thermique à réenclenchement automatique (premier niveau).
+• Protection thermique à réenclenchement manuel pour plus de sécurité (second niveau).
+
+### Ventilateur
+• Ventilateur de 80 pcm (44.5 dBA).
+• Moteur lubrifié à vie.
+
+-------
+
+### Élément
+• Deux éléments de 500W (1000W en parallèle).
+• Éléments tubulaires à ailettes très robustes.
+
+### Régulation
+• Thermostat intégré en option.
+Note : Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+
+### Installation
+• Ne pas installer l'appareil à proximité de matériaux thermosensibles.
+• Cadre d'installation murale inclus.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Salle d'eau, salle à manger-cuisine, cage d'escalier.
+
+-------
+
+Tableau OCP - Ventilo-convecteur coup-de-pied
+```json
+{
+  "title": "OCP - Ventilo-convecteur coup-de-pied",
+  "headers": ["Watts", "Volts", "# Produit", "Prix", "Poids lb", "Poids kg"],
+  "data": [
+    ["500.0/1000.0", "120.0", "OCPU1002", "483.00", "13.0", "5.9"],
+    ["500/375/1000/750", "240/208", "OCPU1000", "459.00", "13.0", "5.9"]
+  ]
+}
+```
+
+-------
+
+Tableau OCP - Ventilo-convecteur coup-de-pied (Options)
+```json
+{
+  "title": "OCP - Ventilo-convecteur coup-de-pied (Options)",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    ["KIT-OCP-TB6", "TB6", "94.00", "Thermostat bimétallique, unipolaire"],
+    ["KIT-OCP-TB261", "TB261", "107.00", "Thermostat bimétallique, bipolaire"]
+  ]
+}
+```

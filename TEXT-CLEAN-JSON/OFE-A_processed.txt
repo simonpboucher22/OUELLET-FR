@@ -1,0 +1,100 @@
+# OFE-A - Fournaise électrique Avantage
+
+## Caractéristiques
+
+### Couleur
+• Standard : gris.
+
+### Tension
+• 240/208V, 1 phase.
+
+### Construction
+• Boîtier en acier complètement isolé pour une diminution des pertes de chaleur et du bruit.
+• Panneaux d'accès en deux sections facilitant l'accessibilité aux composantes.
+
+### Ventilateur
+• Ventilateur de qualité supérieure, équilibré pour un fonctionnement optimal et silencieux.
+
+### Moteur
+• Moteur standard (PSC), lubrifié à vie.
+• Moteur à vitesse variable (ECM) à commande électronique, lubrifié à vie.
+• Les deux types de moteurs sont montés sur des supports en caoutchouc afin de réduire au maximum les risques de bruits et de vibrations.
+• Relais et carte de circuits imprimés contrôlant le fonctionnement automatique du moteur et permettant l'ajout d'un climatiseur ou d'une pompe à chaleur.
+
+### Élément
+• Fils hélicoïdaux en alliage nickel-chrome 4kW et 5kW robustes, fiables et assurant un meilleur transfert de chaleur et moins de restriction au passage de l'air.
+• Éléments chauffants remplaçables individuellement.
+• Protection thermique à réenclenchement automatique.
+• Éléments activés à intervalles progressifs par une carte de circuits imprimés bas voltage muni de carte redresseur de courant et temporisateur afin d'éviter les surcharges électriques.
+
+### Régulation
+• Transformateur robuste de 24VAC qui alimente les relais et contrôles.
+• Disjoncteurs intégrés à réenclenchement manuel en façade.
+• Témoin lumineux indiquant une demande de chauffage du thermostat.
+• Interrupteur «Sélecteur de puissance» : «Basse» ou «Haute».
+• Interrupteur «Sélecteur de ventilateur» : «Marche» ou «Arrêt».
+• Compatible avec un thermostat à 1 ou 2 stages avec ou sans unité externe.
+• Bornier d'alimentation 120V permettant l'ajout d'accessoires tels qu'un humidificateur et un filtre électronique (jusqu'à un maximum de 2A).
+
+### Installation
+• Installation multi-positions avec retour d'air sur les côtés, l'arrière ou le dessous.
+• Approuvée pour une installation contre les surfaces combustibles sans aucun dégagement.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Pour la maison, le bureau ou le chalet, aussi approuvée pour installation dans les maisons mobiles. S'installe n'importe où : sous-sol, placard, vide sanitaire ou tout autre espace libre.
+
+-------
+
+Tableau OFE-A - Modèles avec moteur standard (PSC)
+```
+{
+  "title": "OFE-A - Modèles avec moteur standard (PSC)",
+  "headers": ["# Produit", "Volts (1 ph)", "kW (BTU/hr)", "Amp. incluant moteur", "Moteur HP", "Pression statique à 0.5\" C.E.", "pcm", "Poids lb", "Poids kg"],
+  "data": [
+    ["OFEA10000", "240/208", "10.0 (34120)/7.5 (25628)", "44.0/38.2", "45660.0", "Basse", "595.0", "105.0", "48.0"],
+    ["OFEA15000", "240/208", "15.0 (51180)/11.3 (38442)", "64.7/56.1", "45660.0", "Basse", "595.0", "105.0", "48.0"],
+    ["OFEA18000", "240/208", "18.0 (61420)/13.5 (46130)", "78.4/68.0", "45660.0", "Basse", "595.0", "105.0", "48.0"],
+    ["OFEA20000", "240/208", "20.0 (68240)/15.0 (51256)", "85.4/74.1", "45660.0", "Basse", "595.0", "105.0", "48.0"],
+    ["OFEA23000-1H", "240/208", "23.0 (78480)/17.3 (58944)", "102.4/88.7", "1.0", "Moyenne/Basse", "1275.0", "105.0", "48.0"],
+    ["OFEA25000-1H", "240/208", "25.0 (85360)/18.8 (64070)", "109.4/94.8", "1.0", "Moyenne/Basse", "1275.0", "105.0", "48.0"],
+    ["OFEA27000-1H", "240/208", "27.0 (92130)/20.3 (69195)", "119.5/103.6", "1.0", "Moyenne/Basse", "1275.0", "105.0", "48.0"],
+    ["OFEA30000-1H", "240/208", "30.0 (102432)/22.5 (76884)", "130.2/112.8", "1.0", "Moyenne/Basse", "1275.0", "105.0", "48.0"]
+  ]
+}
+```
+-------
+
+Tableau OFE-A - Modèles avec moteur à vitesse variable (ECM)
+```
+{
+  "title": "OFE-A - Modèles avec moteur à vitesse variable (ECM)",
+  "headers": ["# Produit", "Volts (1 ph)", "kW (BTU/hr)", "Amp. incluant moteur", "Moteur HP", "Vitesse du moteur", "Poids lb", "Poids kg"],
+  "data": [
+    ["OFEA10000-VV", "240/208", "10.0 (34120)/7.5 (25628)", "43.7/38.6", "45659.0", "Variable", "105.0", "48.0"],
+    ["OFEA15000-VV", "240/208", "15.0 (51180)/11.3 (38442)", "64.4/56.5", "45659.0", "Variable", "105.0", "48.0"],
+    ["OFEA18000-VV", "240/208", "18.0 (61420)/13.5 (46130)", "78.1/68.4", "45659.0", "Variable", "105.0", "48.0"],
+    ["OFEA20000-VV", "240/208", "20.0 (68240)/15.0 (51256)", "85.1/74.5", "45659.0", "Variable", "105.0", "48.0"],
+    ["OFEA23000-1HVV", "240/208", "23.0 (78480)/17.3 (58944)", "101.7/89.6", "1.0", "Variable", "105.0", "48.0"],
+    ["OFEA25000-1HVV", "240/208", "25.0 (85360)/18.8 (64070)", "108.7/95.7", "1.0", "Variable", "105.0", "48.0"],
+    ["OFEA27000-1HVV4", "240/208", "27.0 (92130)/20.3 (69195)", "118.8/104.5", "1.0", "Variable", "105.0", "48.0"],
+    ["OFEA30000-1HVV4", "240/208", "30.0 (102432)/22.5 (76884)", "129.5/113.7", "1.0", "Variable", "105.0", "48.0"]
+  ]
+}
+```
+-------
+
+Tableau OFE-A - Options
+```
+{
+  "title": "OFE-A - Options",
+  "headers": ["# Produit En trousse", "Description"],
+  "data": [
+    ["OFE-SO2", "Socle de fournaise pour installation en débit descendant"],
+    ["OFE-AK2", "Raccord d'installation pour conduit 17 po X 17 po"],
+    ["OFE-TM", "Outil de diagnostic pour moteur ECM"]
+  ]
+}
+```

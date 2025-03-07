@@ -1,0 +1,86 @@
+# OTM - Câble de plancher chauffant sur treillis
+
+## Caractéristiques générales
+
+**Tension**
+• 120V, 240/208V, 1 phase.
+
+**Longueur de la liaison froide**
+• 10' (3 m).
+
+**Régulation**
+• Deux types de régulation possible (voir manuel d'installation pour les détails) :
+- Régulation de la température de la surface avec un thermostat électronique en mode plancher (F) et sonde de sol.
+- Régulation de la température ambiante avec un thermostat électronique en mode ambiant avec limite de plancher (A ou AF) et sonde de sol.
+
+Note : Ce produit doit être utilisé avec un disjoncteur-détecteur de fuite à la terre (DDFT) sauf si exempté par le code national et/ou local en vigueur dans la région d'installation.
+
+• Sonde de sol de 15' (4.6 m).
+• Étiquette de tableau de mesures (à apposer au panneau électrique).
+
+**Installation**
+• Ne jamais couper ou tenter de raccourcir le câble.
+• Pour applications intérieures seulement.
+• S'installe sur un sous-plancher de contreplaqué ou sur une chape de béton.
+
+**Application**
+• Vestibule, salle d'eau, salle à manger-cuisine, salle de séjour, salle familiale.
+
+**Garantie**
+• 25 ans sur le câble chauffant.
+
+-------
+
+## Caractéristiques OTM
+
+**Construction**
+• Câble chauffant de type double conducteur fixé sur un treillis de fibre de verre autocollant pour une installation plus simple et plus rapide, à émission magnétique négligeable.
+
+**Densité**
+• 12W/pi² (130W/m²), installation aux 3'' (76 mm).
+
+**Dimension**
+• Rouleaux de 18 po (0.46 m) de largeur offerts en plusieurs longueurs.
+
+-------
+
+Tableau OTM - Options OTM et OTR
+{
+  "title": "OTM - Options OTM et OTR",
+  "headers": ["# Produit En trousse", "Prix unitaire", "Description"],
+  "data": [
+    ["NADCM-M-80", "31.00", "Membrane de désolidarisation feutrée en feuille, 2' 6-5/16'' X 3' 3'', 8.16 pi2, vendue en boîte de 10 feuilles"],
+    ["NADCM-M-150", "520.00", "Membrane de désolidarisation feutrée en rouleau, 46' 9'' x 3' 3'', 150 pi2"],
+    ["NADCM-S-80", "42.00", "Membrane de désolidarisation autocollante en feuille, 2' 6-5/16'' X 3 '3'', 8.16 pi2, vendue en boîte de 10 feuilles"],
+    ["NADCM-S-150", "666.00", "Membrane de désolidarisation autocollante en rouleau, 46' 9'' x 3' 3'', 150 pi2"],
+    ["OTM-CC", "41.00", "CableCheck - Indicateur de défaillance électrique"],
+    ["OTM-SA", "41.00", "Colle en aérosol pour sécuriser le treillis sur le plancher de béton, 16.75 oz (474 g)"],
+    ["KIT-SP1", "48.00", "Trousse de réparation"],
+    ["KIT-CBL-SN", "29.00", "Sonde de sol 15 pi (4.6 m)"]
+  ]
+}
+-------
+
+Tableau OTM - Spécifications des produits
+{
+  "title": "OTM - Spécifications des produits",
+  "headers": ["Watts", "# Produit2 240/208V", "# Produit2 120V", "Diamètre du câble (mm)", "Prix", "Surface couverte1 Espacement 3\" (76 mm) pi2", "Surface couverte1 Espacement 3\" (76 mm) m2", "Longueur (x) pi po", "Longueur (x) m", "Poids lb", "Poids kg"],
+  "data": [
+    ["60.0", null, "FHM120-60", "3.2", "133.00", "5.0", "0.5", "3' 4''", "0.9", "2.0", "0.9"],
+    ["120.0", "FHM240-120", "FHM120-120", "3.2", "160.00", "10.0", "0.9", "6' 8''", "1.8", "2.0", "0.9"],
+    ["180.0", null, "FHM120-180", "3.2", "196.00", "15.0", "1.4", "10'", "3.0", "3.0", "1.4"],
+    ["240.0", "FHM240-240", "FHM120-240", "3.2", "206.00", "20.0", "1.9", "13' 4''", "4.0", "3.0", "1.4"],
+    ["300.0", null, "FHM120-300", "3.2", "256.00", "25.0", "2.4", "16' 8''", "4.9", "4.0", "1.8"],
+    ["360.0", "FHM240-360", "FHM120-360", "3.2", "296.00", "30.0", "2.8", "20'", "6.1", "4.0", "1.8"],
+    ["420.0", null, "FHM120-420", "3.2", "328.00", "35.0", "3.3", "23' 4''", "7.0", "5.0", "2.3"],
+    ["480.0", "FHM240-480", "FHM120-480", "3.2", "338.00", "40.0", "3.8", "26' 8''", "7.9", "5.0", "2.3"],
+    ["540.0", null, "FHM120-540", "3.2", "347.00", "45.0", "4.2", "30'", "9.2", "6.0", "2.7"],
+    ["600.0", "FHM240-600", "FHM120-600", "3.2", "347.00", "50.0", "4.7", "33' 4''", "10.1", "7.0", "3.2"],
+    ["720.0", "FHM240-720", "FHM120-720", "3.2", "407.00", "60.0", "5.6", "40'", "12.2", "8.0", "3.6"],
+    ["840.0", "FHM240-840", "FHM120-840", "3.2", "458.00", "70.0", "6.5", "46' 8''", "14.0", "9.0", "4.1"],
+    ["960.0", "FHM240-960", "FHM120-960", "3.2", "474.00", "80.0", "7.4", "53' 4''", "16.2", "10.0", "4.5"],
+    ["1080.0", "FHM240-1080", null, "3.2", "540.00", "90.0", "8.4", "60.0", "18.3", "11.0", "5.0"],
+    ["1200.0", "FHM240-1200", null, "3.2", "568.00", "100.0", "9.3", "66.0", "20.1", "12.8", "5.8"],
+    ["1440.0", "FHM240-1440", null, "3.2", "633.00", "120.0", "11.2", "80.0", "24.4", "13.0", "5.9"]
+  ]
+}

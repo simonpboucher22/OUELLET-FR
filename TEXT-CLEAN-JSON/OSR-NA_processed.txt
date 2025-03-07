@@ -1,0 +1,142 @@
+# OSR-NA - Câble chauffant autorégulant tout usage ELSR-NA
+
+## Caractéristiques
+- **Surgaine**: Thermoplastique (AO, BO), Fluoropolymère (BOT)
+- **Conducteur d'alimentation**: Cuivre nickelé, 16 AWG
+- **Température minimale de démarrage**: -30 °C (-22 °F)
+- **Température maximale maintenue (sous tension)**: 60 °C (140 °F)
+- **Température d'exposition continue maximale (hors tension)**: 80 °C (176 °F)
+- **Tension nominale**: 120V, 240/208V
+- **Rayon de courbure minimal**: 25 mm (1 po)
+- **Température minimale d'installation**:
+  - AO, BO: -45 °C (-45 °F)
+  - BOT: -25 °C (-13 °F)
+
+## Classifications
+- II 2G Ex e IIC T6 Gb II 2D Ex tb IIIC
+- T 80 °C Db
+- Classe I, Division 2, Groupes A, B, C, D
+- Classe II, Division 2, Groupes E, F, G
+- Classe III, T6
+- Classe I, Zone 1, AEx / Exe II, T6
+- Classe 1, Division 1, Groupes B, C, D (Contacter le manufacturier)
+
+## Normes
+- CSA C22.2.130.03; -WS
+- CAN/CSA 60079-7:12, 60079-0-11
+- ANSI/IEEE 515, 515
+
+## Certifications
+- IECEx EPS 12.0006U
+- 12ATEX1431U
+- CSA C US 2547790
+
+## Classement
+- Applications extérieures et endroits humides (WS)
+
+## Garantie
+- Garantie de base de 1 an sur le câble chauffant
+
+## Application
+- Protection contre le gel, toiture et gouttière, réservoir, tuyaux, canalisations, industrie chimique et pétrochimique, automobile, traçage d'instrumentation, industrie alimentaire, système de gicleurs
+
+-------
+
+## Modèles
+
+Tableau OSR-NA - Câble chauffant autorégulant tout usage ELSR-NA
+{
+  "title": "OSR-NA - Câble chauffant autorégulant tout usage ELSR-NA",
+  "headers": ["Puissance nominale W/pi", "# Produit1, 3", "120V", "AO", "Prix/pi", "BO", "Prix/pi", "BOT", "Prix/pi", "Puissance nominale W/pi", "Product #1, 2, 3", "240V", "AO", "Prix/pi", "BO", "Prix/pi", "BOT", "Prix/pi", "Dimensions approx. du câble (mm)"],
+  "data": [
+    ["3.0", "ELSR-NA-3-1-XX", "✓", "7.00", "✓", "8.50", "✓", "11.50", "4.0", "ELSR-NA-4-2-XX", null, null, null, null, "✓", "11.50", "13.8 x 5.6"],
+    ["5.0", "ELSR-NA-5-1-XX", "✓", "7.00", "✓", "8.50", "✓", "11.50", "6.0", "ELSR-NA-6-2-XX", "✓", "7.00", "✓", "8.50", "✓", "11.50", "13.8 x 5.6"],
+    ["7.0", "ELSR-NA-7-1-XX", "✓", "7.00", "✓", "8.50", "✓", "11.50", "8.0", "ELSR-NA-8-2-XX", "✓", "7.00", "✓", "8.50", "✓", "11.50", "14.1 x 5.6"],
+    [null, null, null, null, null, null, null, null, "10.0", "ELSR-NA-10-2-XX", "✓", "7.00", "✓", "8.50", "✓", "11.50", "14.1 x 5.6"]
+  ]
+}
+
+1 XX = Surgaine/Protection mécanique.
+AO Feuille d'aluminium avec surgaine en thermoplastique. BO Tresse de protection avec surgaine en thermoplastique. BOT Tresse de protection avec surgaine en fluoropolymère.
+2 Pour branchement à 208V, voir le tableau Multiplicateur/facteurs de correction à la page suivante.
+3 Pour passer une commande, veuillez indiquer la quantité requise en pieds sur le bon de commande. Ex : Pour commander un câble de 500 pi, inscrivez 500 comme quantité avec le code de produit.
+Service de coupe sur mesure offert pour toutes longueurs autres que 500 pi et 1000 pi (minimum de 25 pi).
+
+-------
+
+## Longueur de circuit chauffant pour le modèle ELSR-NA
+
+Tableau OSR-NA - Longueur de circuit chauffant pour le modèle ELSR-NA
+{
+  "title": "OSR-NA - Longueur de circuit chauffant pour le modèle ELSR-NA",
+  "headers": ["Température de démarrage", "Disjoncteur Valeur nominale (A)", "Longueur maximale du circuit chauffant (pi) pour", "ELSR-NA- 3-1", "ELSR-NA- 5-1", "ELSR-NA- 7-1", "Température de démarrage", "Disjoncteur Valeur nominale (A)", "Longueur maximale du circuit chauffant (pi) pour", "ELSR-NA- 4-2", "ELSR-NA- 6-2", "ELSR-NA- 8-2", "ELSR-NA- 10-2"],
+  "data": [
+    ["10 °C (50 °F)", "10.0", "159.0", "125.0", "82.0", "10 °C (50 °F)", "10.0", "273.0", "170.0", "127.0", "66.0"],
+    ["", "15.0", "238.0", "187.0", "123.0", "", "15.0", "410.0", "255.0", "191.0", "99.0"],
+    ["", "20.0", "317.0", "249.0", "164.0", "", "20.0", "547.0", "340.0", "255.0", "132.0"],
+    ["", "25.0", "397.0", "312.0", "205.0", "", "25.0", "683.0", "425.0", "318.0", "165.0"],
+    ["", "30.0", "476.0", "374.0", "246.0", "", "30.0", "820.0", "510.0", "382.0", "198.0"],
+    ["", "35.0", "555.0", "436.0", "287.0", "", "35.0", "957.0", "595.0", "446.0", "231.0"],
+    ["", "40.0", "612.0", "499.0", "328.0", "", "40.0", "1087.0", "857.0", "509.0", "264.0"],
+    ["0 °C (32 °F)", "10.0", "143.0", "112.0", "75.0", "0 °C (32 °F)", "10.0", "245.0", "154.0", "117.0", "61.0"],
+    ["", "15.0", "215.0", "168.0", "113.0", "", "15.0", "367.0", "231.0", "175.0", "91.0"],
+    ["", "20.0", "287.0", "224.0", "151.0", "", "20.0", "489.0", "308.0", "233.0", "121.0"],
+    ["", "25.0", "358.0", "280.0", "188.0", "", "25.0", "612.0", "385.0", "292.0", "152.0"],
+    ["", "30.0", "430.0", "336.0", "226.0", "", "30.0", "734.0", "462.0", "350.0", "182.0"],
+    ["", "35.0", "502.0", "392.0", "264.0", "", "35.0", "856.0", "539.0", "408.0", "212.0"],
+    ["", "40.0", "573.0", "448.0", "301.0", "", "40.0", "979.0", "616.0", "467.0", "243.0"],
+    ["-10 °C (14 °F)", "10.0", "130.0", "102.0", "69.0", "-10 °C (14 °F)", "10.0", "222.0", "141.0", "108.0", "57.0"],
+    ["", "15.0", "195.0", "153.0", "104.0", "", "15.0", "333.0", "211.0", "162.0", "85.0"],
+    ["", "20.0", "260.0", "204.0", "139.0", "", "20.0", "444.0", "281.0", "216.0", "113.0"],
+    ["", "25.0", "325.0", "255.0", "173.0", "", "25.0", "555.0", "352.0", "270.0", "142.0"],
+    ["", "30.0", "390.0", "306.0", "208.0", "", "30.0", "666.0", "422.0", "324.0", "170.0"],
+    ["", "35.0", "455.0", "357.0", "243.0", "", "35.0", "777.0", "492.0", "378.0", "198.0"],
+    ["", "40.0", "520.0", "408.0", "277.0", "", "40.0", "888.0", "563.0", "432.0", "227.0"],
+    ["-30 °C (-22 °F)", "10.0", "110.0", "87.0", "60.0", "-30 °C (-22 °F)", "10.0", "187.0", "120.0", "93.0", "50.0"],
+    ["", "15.0", "165.0", "130.0", "90.0", "", "15.0", "280.0", "180.0", "140.0", "75.0"],
+    ["", "20.0", "220.0", "173.0", "120.0", "", "20.0", "373.0", "240.0", "187.0", "100.0"],
+    ["", "25.0", "275.0", "217.0", "150.0", "", "25.0", "467.0", "300.0", "233.0", "125.0"],
+    ["", "30.0", "330.0", "260.0", "180.0", "", "30.0", "560.0", "360.0", "280.0", "150.0"],
+    ["", "35.0", "385.0", "303.0", "210.0", "", "35.0", "653.0", "420.0", "327.0", "175.0"],
+    ["", "40.0", "440.0", "347.0", "240.0", "", "40.0", "747.0", "480.0", "373.0", "200.0"]
+  ]
+}
+
+Longueurs maximales des circuits ELSR-NA-XX établies en fonction de :
+- Tension nominale de 120/240V.
+- Disjoncteur de circuit type QO (utilisation 100%).
+- Chute de tension max. de 10% sur le câble.
+- Un (1) seul câble chauffant, alimentation d'un seul côté.
+
+-------
+
+## Multiplicateur/facteurs de correction Eltherm® pour utilisation des câbles chauffants à 208V
+
+Pour calculer la puissance générée pour une installation à 208V, multiplier la puissance nominale au catalogue à 240V (Watt/pi) par le facteur de correction de la table pour le modèle de câble utilisé.
+
+Pour calculer la longueur maximale de circuit pour une installation à 208V (Tableau disponible sur le Web ou dans les dessins d'ateliers), multiplier la longueur maximale du circuit chauffant à 240V publié par le facteur de correction pour le modèle de câble utilisé.
+
+Tableau OSR-NA - Multiplicateur/facteurs de correction
+{
+  "title": "OSR-NA - Multiplicateur/facteurs de correction",
+  "headers": ["Câble chauffant Multiplicateur/facteurs de correction", "Puissance nominale 208V vs. 240V", "Longueur de circuit chauffant 208V vs. 240V"],
+  "data": [
+    ["ELSR-NA-XX-2", "0.88", "0.93"]
+  ]
+}
+
+-------
+
+## Puissances émises du câble selon l'environnement
+
+### Dans la neige et la glace (120V)
+- 11 W/pi @ 50 °F (36W/m @ 10 °C)
+
+### À l'air sec
+- 7 W/pi @ 50 °F (23W/m @ 10 °C)
+
+### Dans la neige et la glace (240/208V)
+- 13 W/pi @ 50 °F (42W/m @ 10 °C)
+
+### À l'air sec
+- 8 W/pi @ 50 °F (26W/m @ 10 °C)

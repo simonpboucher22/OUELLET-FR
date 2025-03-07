@@ -1,0 +1,186 @@
+# OTP-E Thermopompe simple zone Eagle sans conduit de ventilation
+
+## Caractéristiques
+
+### Mode de fonctionnement
+• Climatisation, chauffage, déshumidification, ventilation et auto.
+
+### Capacité nominale
+• 9000, 12000, 18000, 24000 BTU/hr.
+
+### Tension
+• 230/208V, 60 Hz, 1 phase.
+
+### Unité intérieure
+• Installation en haut de mur, pouvant être raccordée de chaque côté.
+• Boîtier en plastique, standard blanc.
+• Ventilateur à courant transversal à 4 vitesses (auto, élevée, moyenne et faible).
+• Filtres lavables.
+
+### Unité extérieure
+• Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.
+• Soupape d'expansion électronique pour un contrôle précis du débit de réfrigérant.
+• Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.
+• Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.
+• Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.
+• Installation sur support mural ou au sol en aluminium en option.
+
+-------
+
+### Tuyauterie de raccordement
+• Longueur minimale de la tuyauterie de 10 pi (3 m).
+• Diamètre externe tuyau gaz : 3/8'' à 5/8''.
+• Raccords évasés.
+
+### Régulation
+• Télécommande sans fil incluse.
+• Contrôleur mural en option.
+• Wi-Fi (option KIT-WIFI requise).
+• Interface (options HP6000ZB-GE et GT130 requises).
+• Température de consigne : 16 à 30 °C (61 à 86 °F).
+• Format d'affichage de la température : °C ou °F.
+
+### Garantie
+• Garantie de base 10 ans pièces et 10 ans compresseur (main-d'œuvre non incluse).
+
+### Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant.
+
+-------
+
+Tableau OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation
+```json
+{
+  "title": "OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation",
+  "headers": ["Produit1", "", "Unité intérieure", "SED09KCH17S-I", "SED12KCH17S-I", "SED18KCH16S-I", "SED24KCH19S-I", "", "", ""],
+  "data": [
+    ["", "", "Unité extérieure", "SED09KCH17S-O", "SED12KCH17S-O", "SED18KCH16S-O", "SED24KCH19S-O", "", "", ""]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation
+```json
+{
+  "title": "OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation",
+  "headers": ["Performance technique", "", "", "", "", "", "", "", "", ""],
+  "data": [
+    ["Tension", "", "Volts", "230/208", "230/208", "230/208", "230/208", "", "", ""],
+    ["", "Nominale", "W (BTU/hr)", "2667 (9100)", "3517 (12000)", "5100 (17400)", "6450 (22000)", "", "", ""],
+    ["Capacité en climatisation", "Min. – max.", "W (BTU/hr)", "720 - 2814", "300 - 3700", "1200 - 5800", "1730 - 7400", "", "", ""],
+    ["", "", "", "(2457 - 9600)", "(1024 - 12624)", "(4094 - 20000)", "(5900 - 25200)", "", "", ""],
+    ["", "Nominale", "W (BTU/hr)", "2784 (9500)", "3810 (13000)", "5275 (18000)", "7034 (24000)", "", "", ""],
+    ["Capacité en chauffage", "Min. – max.", "W (BTU/hr)", "720 - 3371", "700 - 4000", "1200 - 6200", "1310 - 7600", "", "", ""],
+    ["", "", "", "(2457 - 11500)", "(2388 - 13648)", "(4100 - 21000)", "(4500 - 25900)", "", "", ""],
+    ["Puissance consommée en climatisation", "Nominale", "W", "889.0", "1297.0", "2040.0", "1950.0", "", "", ""],
+    ["", "Min. – max.", "W", "185 - 1100", "180 - 1500", "200 - 2300", "360 - 3000", "", "", ""],
+    ["Puissance consommée en chauffage", "Nominale", "W", "774.0", "1172.0", "1758.0", "2070.0", "", "", ""],
+    ["", "Min. – max.", "W", "170-1350", "260 - 1450", "300 - 2400", "330 - 2900", "", "", ""],
+    ["Puissance consommée nominale", "", "W", "1350.0", "1500.0", "2400.0", "2900.0", "", "", ""],
+    ["Courant nominal", "", "A", "6.3", "6.5", "10.0", "11.0", "", "", ""],
+    ["MCA", "", "A", "10.0", "9.0", "15.0", "19.0", "", "", ""],
+    ["Disjoncteur/fusible max. (MOCP)", "", "A", "15.0", "15.0", "20.0", "30.0", "", "", ""],
+    ["TRÉS (SEER)", "", "-", "17.0", "17.0", "16.0", "19.0", "", "", ""],
+    ["CPSC (HSPF)", "", "-", "9.0", "9.0", "9.0", "10.0", "", "", ""],
+    ["TRÉ (EER)", "", "W/W", "3.0", "2.71", "2.5", "3.31", "", "", ""],
+    ["COP", "", "W/W", "3.6", "3.25", "3.0", "3.4", "", "", ""],
+    ["Numéro AHRI", "", "-", "205782700.0", "205782701.0", "205782702.0", "205782703.0", "", "", ""]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation
+```json
+{
+  "title": "OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation",
+  "headers": ["Unité intérieure", "", "", "", "", "", "", "", "", ""],
+  "data": [
+    ["Déshumidification", "", "pt/hr (l/hr)", "1.69 (0.80)", "2.96 (1.4)", "3.8 (1.80)", "4.23 (2.00)", "", "", ""],
+    ["Débit d'air volumique", "T / H / M / L2", "pcm", "294 / 271 / 235 / 182", "371 / 294 / 235 / 182", "471 / 412 / 383 / 335", "677 / 588 / 471 / 412", "", "", ""],
+    ["Niveau sonore", "T / H / M / L2", "dB (A)", "49 / 47 / 43 / 36", "52 / 49 / 44 / 38", "57 / 54 / 50 / 45", "59 / 55 / 51 / 47", "", "", ""],
+    ["Puissance du moteur du ventilateur", "", "W", "20.0", "20.0", "60.0", "30.0", "", "", ""],
+    ["RLA du moteur du ventilateur", "", "A", "0.22", "0.31", "0.4", "0.55", "", "", ""],
+    ["Puissance du moteur du déflecteur", "", "W", "1.5", "1.5", "2.5", "2.5", "", "", ""],
+    ["Poids net", "", "lb (kg)", "19.8 (9)", "22 (10)", "30 (13.5)", "37.5 (17)", "", "", ""]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation
+```json
+{
+  "title": "OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation",
+  "headers": ["Unité extérieure", "", "", "", "", "", "", "", "", ""],
+  "data": [
+    ["Débit d'air volumique", "", "cfm", null, null, null, null, "", "", ""],
+    ["Niveau sonore", "", "dB (A)", "60.0", "60.0", "66.0", "69.0", "", "", ""],
+    ["Puissance du compresseur", "", "W", "790.0", "1023.0", "1440.0", "1635.0", "", "", ""],
+    ["LRA du compresseur", "", "A", "18.0", "18.0", "25.0", "25.0", "", "", ""],
+    ["RLA du compresseur", "", "A", "6.6", "6.6", "10.2", "13.0", "", "", ""],
+    ["Puissance du moteur du ventilateur", "", "W", "30.0", "30.0", "60.0", "60.0", "", "", ""],
+    ["RLA du moteur du ventilateur", "", "A", "0.37", "0.37", "0.7", "0.65", "", "", ""],
+    ["Volume de réfrigérant (R410A)", "", "oz (g)", "24 (680)", "28.2 (800)", "42.3 (1200)", "52.9 (1500)", "", "", ""],
+    ["Poids", "", "lb (kg)", "58.4 (26.5)", "63 (28.5)", "87 (39.5)", "97 (44)", "", "", ""],
+    ["Température ambiante de fonctionnement", "Climatisation", "°C (°F)", "", "-18 to 46 (0 to 115)", "", "", "", "", ""],
+    ["", "Chauffage", "°C (°F)", "", "-20 to 24 (-4 to 75)", "", "", "", "", ""]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation
+```json
+{
+  "title": "OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation",
+  "headers": ["Tuyauterie de raccordement/réfrigérant", "", "", "", "", "", "", "", "", ""],
+  "data": [
+    ["Longueur de préchargement", "", "pi (m)", "25 (7.5)", "25 (7.5)", "25 (7.5)", "25 (7.5)", "", "", ""],
+    ["Volume additionnel de réfrigérant", "", "oz/pi (g/m)", "0.2 (20)", "0.2 (20)", "0.2 (20)", "0.5 (50)", "", "", ""],
+    ["Diamètre externe tuyau liquide", "", "po", "45661.0", "45661.0", "45661.0", "45661.0", "", "", ""],
+    ["Diamètre externe tuyau gaz", "", "po", "45724.0", "45724.0", "45659.0", "45785.0", "", "", ""],
+    ["Différence de hauteur maximale", "", "pi (m)", "33 (10)", "33 (10)", "33 (10)", "33 (10)", "", "", ""],
+    ["Longueur totale maximale", "", "pi (m)", "49 (15)", "66 (20)", "82 (25)", "82 (25)", "", "", ""]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation
+```json
+{
+  "title": "OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation",
+  "headers": ["Unité intérieure", "L", "", "H", "", "P", "", "", "", ""],
+  "data": [
+    ["", "po", "mm", "po", "mm", "po", "mm", "", "", ""],
+    ["SED09KCH17S-I", "31.125", "790.0", "10.8125", "275.0", "7.875", "200.0", "", "", ""],
+    ["SED12KCH17S-I", "33.25", "845.0", "11.375", "289.0", "7.875", "209.0", "", "", ""],
+    ["SED18KCH16S-I", "38.1875", "970.0", "11.8125", "300.0", "8.8125", "224.0", "", "", ""],
+    ["SED24KCH19S-I", "42.4375", "1078.0", "12.8125", "325.0", "9.6875", "246.0", "", "", ""]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation
+```json
+{
+  "title": "OTP-E - Thermopompe simple zone Eagle sans conduit de ventilation",
+  "headers": ["Unité extérieure", "L", "", "H", "", "P", "", "A", "", "B", ""],
+  "data": [
+    ["", "po", "mm", "po", "mm", "po", "mm", "po", "mm", "po", "mm"],
+    ["SED09KCH17S-O", "30.8125", "782.0", "21.25", "540.0", "12.625", "320.0", "21.25", "540.0", "11.25", "286.0"],
+    ["SED12KCH17S-O", "30.8125", "782.0", "21.25", "540.0", "12.625", "320.0", "21.25", "540.0", "11.25", "286.0"],
+    ["SED18KCH16S-O", "35.9375", "912.0", "25.4375", "646.0", "14.6875", "373.0", "22.0", "559.0", "14.3125", "364.0"],
+    ["SED24KCH19S-O", "38.5625", "980.0", "31.125", "790.0", "16.8125", "427.0", "24.0", "610.0", "15.5625", "395.0"]
+  ]
+}
+```

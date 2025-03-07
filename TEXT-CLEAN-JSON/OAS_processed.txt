@@ -1,0 +1,163 @@
+# OAS - Aérotherme suspendu commercial industriel
+
+-------
+
+## Caractéristiques
+
+### Couleur
+• Standard : amande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 208V, 240V, 277V, 347V, 480V, 600V, 1 ou 3 phases.
+• Certains appareils peuvent être convertis de 3 à 1 phase sur place.
+
+### Construction
+• Construction en acier de calibres 18 et 20.
+• Volets ajustables afin de diriger l'air chaud.
+• Protection thermique à réenclenchement automatique.
+
+### Ventilateur
+• Moteur fermé à roulements à billes lubrifié à vie (sauf 15 à 25kW, 208/240V).
+• Ventilateur de 58 dBA (2 à 10kW), 67 dBA (15 à 30kW) et 77 dBA (40 à 60kW).
+• Moteur monté dans le compartiment froid avec protection thermique intégrée.
+• Dispositif éliminant la chaleur résiduelle.
+
+### Élément
+• Élément tubulaire; acier inoxydable (2 à 10kW), acier avec ailettes (15 à 60kW).
+• Disposition concentrique des éléments.
+• Élément scellé en usine sur demande.
+
+### Régulation
+• Contacteur intégré et circuit de commande à 240/208V standard (avec transformateur si nécessaire).
+• Relais 24V avec ou sans transformateur en option.
+• Circuit de commande à 120V en option.
+• Thermostat intégré en option.
+• Ouellet recommande l'usage d'un thermostat mural pour un meilleur confort.
+• Tout dispositif de contrôle [thermostat ou relais] doit être connecté au bornier de contrôle de l'appareil.
+
+### Installation
+• Usage non-résidentiel aux États-Unis.
+• Montage horizontal :
+  -  2 à 30kW : au mur ou au plafond avec les supports fournis permettant de faire pivoter sur 360°.
+  -  40 à 60kW : au plafond seulement à l'aide des 4 crochets fournis.
+• Montage vertical (sauf option -MD) :
+  -  2 à 60kW : à l'aide de 4 tiges filetées 1/2 po X 13 UNC (non fournies).
+  -  Cône diffuseur en option.
+• Hauteur maximale recommandée (horizontale) :
+  - 2 à 10kW : 8 pi (2,4 m), 15 à 30kW : 10 pi (3,0 m), 40 à 60kW : 15 pi (4,5 m).
+• Grillage de protection permettant le montage horizontal à une hauteur minimale :
+  - Canada 2 à 30 kW : 24 po (610 mm), 40 à 60 kW : 8 pi (2,4 m).
+  - États-Unis 2 à 30 kW : 6 pi (1,8 m), 40 à 60 kW : 8 pi (2,4 m).
+• Température ambiante maximale de fonctionnement : 30 °C (85 °F).
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+Hall d'entrée commercial, entrepôt, cage d'escalier, usine
+
+-------
+
+## Modèles
+
+Tableau OAS - Aérotherme suspendu commercial industriel
+{
+  "title": "OAS - Aérotherme suspendu commercial industriel",
+  "headers": ["kW (BTU/hr)", "Volts (ph)", "# Produit", "Prix", "pcm", "Hausse de température", "Moteur"],
+  "data": [
+    ["2.0 (6824)", "208 (1)", "OAS02008AM", "1511.00", "510.0", "7.0", "45687.0"],
+    ["2.0 (6824)", "208 (3/11)", "OAS02038AM", "1511.00", "510.0", "7.0", "45687.0"],
+    ["3.0 (10236)", "208 (1)", "OAS03008AM", "1511.00", "510.0", "10.0", "45687.0"],
+    ["3.0 (10236)", "208 (3/11)", "OAS03038AM", "1511.00", "510.0", "10.0", "45687.0"],
+    ["4.0 (13648)", "208 (1)", "OAS04008AM", "1531.00", "510.0", "14.0", "45687.0"],
+    ["4.0 (13648)", "208 (3/11)", "OAS04038AM", "1531.00", "510.0", "14.0", "45687.0"],
+    ["5.0 (17060)", "208 (1)", "OAS05008AM", "1766.00", "700.0", "13.0", "45687.0"],
+    ["5.0 (17060)", "208 (3/11)", "OAS05038AM", "1766.00", "700.0", "13.0", "45687.0"],
+    ["7.5 (25590)", "208 (3/11)", "OAS07538AM", "2538.00", "700.0", "19.0", "45687.0"],
+    ["10.0 (34120)", "208 (1)", "OAS10008AM", "2680.00", "700.0", "25.0", "45687.0"],
+    ["10.0 (34120)", "208 (3)", "OAS10038AM", "2680.00", "700.0", "25.0", "45687.0"],
+    ["15.0 (51180)", "208 (3/11)", "OAS15038AM", "3655.00", "1300.0", "20.0", "45665.0"],
+    ["20.0 (68240)", "208 (3/11)", "OAS20038AM", "4024.00", "1300.0", "27.0", "45665.0"],
+    ["25.0 (85300)", "208 (3/11)", "OAS25038AM", "4559.00", "1300.0", "34.0", "45665.0"],
+    ["2.0 (6824)", "240 (1)", "OAS02000AM", "1511.00", "510.0", "7.0", "45687.0"],
+    ["3.0 (10236)", "240 (1)", "OAS03000AM", "1511.00", "510.0", "10.0", "45687.0"],
+    ["4.0 (13648)", "240 (1)", "OAS04000AM", "1531.00", "510.0", "14.0", "45687.0"],
+    ["5.0 (17060)", "240 (1)", "OAS05000AM", "1766.00", "700.0", "13.0", "45687.0"],
+    ["7.5 (25590)", "240 (1)", "OAS07500AM", "2538.00", "700.0", "19.0", "45687.0"],
+    ["10.0 (34120)", "240 (1)", "OAS10000AM", "2680.00", "700.0", "25.0", "45687.0"],
+    ["15.0 (51180)", "240 (1)", "OAS15000AM", "3655.00", "1300.0", "20.0", "45665.0"],
+    ["20.0 (68240)", "240 (1)", "OAS20000AM", "4024.00", "1300.0", "27.0", "45665.0"],
+    ["25.0 (85300)", "240 (1)", "OAS25000AM", "4559.00", "1300.0", "34.0", "45665.0"],
+    ["2.0 (6824)", "347 (1)", "OAS02007AM", "1796.00", "510.0", "7.0", "45687.0"],
+    ["3.0 (10236)", "347 (1)", "OAS03007AM", "1855.00", "510.0", "10.0", "45687.0"],
+    ["4.0 (13648)", "347 (1)", "OAS04007AM", "1903.00", "510.0", "14.0", "45687.0"],
+    ["5.0 (17060)", "347 (1)", "OAS05007AM", "1967.00", "700.0", "13.0", "45687.0"],
+    ["7.5 (25590)", "347 (1)", "OAS07507AM", "2874.00", "700.0", "19.0", "45687.0"],
+    ["10.0 (34120)", "347 (1)", "OAS10007AM", "2926.00", "700.0", "25.0", "45687.0"],
+    ["2.0 (6824)", "480 (3)", "OAS02034AM", "1796.00", "510.0", "7.0", "45687.0"],
+    ["3.0 (10236)", "480 (3)", "OAS03034AM", "1855.00", "510.0", "10.0", "45687.0"],
+    ["4.0 (13648)", "480 (3)", "OAS04034AM", "1903.00", "510.0", "14.0", "45687.0"],
+    ["5.0 (17060)", "480 (3)", "OAS05034AM", "1967.00", "700.0", "13.0", "45687.0"],
+    ["7.5 (25590)", "480 (3)", "OAS07534AM", "2874.00", "700.0", "19.0", "45687.0"],
+    ["10.0 (34120)", "480 (3)", "OAS10034AM", "2926.00", "700.0", "25.0", "45687.0"],
+    ["15.0 (51180)", "480 (3)", "OAS15034AM", "3655.00", "1400.0", "19.0", "45660.0"],
+    ["20.0 (68240)", "480 (3)", "OAS20034AM", "4024.00", "1400.0", "25.0", "45660.0"],
+    ["25.0 (85300)", "480 (3)", "OAS25034AM", "4652.00", "1400.0", "31.0", "45660.0"],
+    ["30.0 (102360)", "480 (3)", "OAS30034AM", "4736.00", "1400.0", "38.0", "45660.0"],
+    ["40.0 (136480)", "480 (3)", "OAS40034AM2", "6245.00", "2000.0", "35.0", "45720.0"],
+    ["50.0 (170600)", "480 (3)", "OAS50034AM2", "6645.00", "2000.0", "44.0", "45720.0"],
+    ["60.0 (204720)", "480 (3)", "OAS60034AM2", "7309.00", "2000.0", "53.0", "45720.0"],
+    ["2.0 (6824)", "600 (1)", "OAS02006AM", "1796.00", "510.0", "7.0", "45687.0"],
+    ["2.0 (6824)", "600 (3)", "OAS02036AM", "1796.00", "510.0", "7.0", "45687.0"],
+    ["3.0 (10236)", "600 (1)", "OAS03006AM", "1855.00", "510.0", "10.0", "45687.0"],
+    ["3.0 (10236)", "600 (3)", "OAS03036AM", "1855.00", "510.0", "10.0", "45687.0"],
+    ["4.0 (13648)", "600 (1)", "OAS04006AM", "1903.00", "510.0", "14.0", "45687.0"],
+    ["4.0 (13648)", "600 (3/11)", "OAS04036AM", "1903.00", "510.0", "14.0", "45687.0"],
+    ["5.0 (17060)", "600 (1)", "OAS05006AM", "1967.00", "700.0", "13.0", "45687.0"],
+    ["5.0 (17060)", "600 (3/11)", "OAS05036AM", "1967.00", "700.0", "13.0", "45687.0"],
+    ["7.5 (25590)", "600 (3/11)", "OAS07536AM", "2874.00", "700.0", "19.0", "45687.0"],
+    ["10.0 (34120)", "600 (3/11)", "OAS10036AM", "2926.00", "700.0", "25.0", "45687.0"],
+    ["15.0 (51180)", "600 (1)", "OAS15006AM", "3655.00", "1400.0", "19.0", "45660.0"],
+    ["15.0 (51180)", "600 (3/11)", "OAS15036AM", "3655.00", "1400.0", "19.0", "45660.0"],
+    ["20.0 (68240)", "600 (1)", "OAS20006AM", "4024.00", "1400.0", "25.0", "45660.0"],
+    ["20.0 (68240)", "600 (3/11)", "OAS20036AM", "4024.00", "1400.0", "25.0", "45660.0"],
+    ["25.0 (85300)", "600 (1)", "OAS25006AM", "4652.00", "1400.0", "31.0", "45660.0"],
+    ["25.0 (85300)", "600 (3/11)", "OAS25036AM", "4652.00", "1400.0", "31.0", "45660.0"],
+    ["30.0 (102360)", "600 (3)", "OAS30036AM", "4736.00", "1400.0", "38.0", "45660.0"],
+    ["40.0 (136480)", "600 (3)", "OAS40036AM", "6245.00", "2000.0", "35.0", "45720.0"],
+    ["50.0 (170600)", "600 (3)", "OAS50036AM2", "6645.00", "2000.0", "44.0", "45720.0"],
+    ["60.0 (204720)", "600 (3)", "OAS60036AM2", "7309.00", "2000.0", "53.0", "45720.0"]
+  ]
+}
+
+-------
+
+## Options
+
+Tableau OAS - Options
+{
+  "title": "OAS - Options",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    [null, "120.0", "196.00", "Circuit de commande à 120V"],
+    [null, "3P", "96.00", "Contacteur 3 pôles"],
+    ["KIT-OAS-CD1AM", null, "187.00", "Cône diffuseur, unités de 2 à 10kW"],
+    ["KIT-OAS-CD2AM", null, "230.00", "Cône diffuseur, unités de 15 à 30kW"],
+    ["KIT-OAS-CD3AM", null, "287.00", "Cône diffuseur, unités de 40 à 60kW"],
+    [null, "CV", "87.00", "Interrupteur de ventilateur, avec moteur 240V et 277V"],
+    [null, "CV", "125.00", "Interrupteur de ventilateur, avec moteur 480V et 600V"],
+    [null, "DIS403", "217.00", "Interrupteur principal, 40A"],
+    [null, "DIS803", "260.00", "Interrupteur principal, 80A"],
+    [null, "DIS1003", "894.00", "Interrupteur principal, 100A"],
+    [null, "ES1", "102.00", "Élément scellé en usine"],
+    [null, "FANAM", "62.00", "Ventilateur peinturé à la poudre d'époxy/polyester amande"],
+    [null, "MD2", "524.00", "Exploitation minière"],
+    ["KIT-OAS-R", "R", "190.00", "Relais 24V, sans transformateur"],
+    [null, "RCV240", "129.00", "Relais de ventilateur 240V, pour contrôle à distance (interrupteur non inclus)"],
+    ["KIT-OAS-RT", "RT", "209.00", "Relais 24V, avec transformateur"],
+    ["KIT-OAS-T", "T", "154.00", "Thermostat"]
+  ]
+}

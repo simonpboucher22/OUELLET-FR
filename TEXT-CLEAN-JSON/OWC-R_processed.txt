@@ -1,0 +1,132 @@
+# OWC-R - Câble chauffant à béton en rouleau
+
+## Longueur de la liaison froide
+• Liaison froide de 8' 2'' (2.5 m) incluse.
+• Liaison froide de 50' (15 m) disponible sur commande.
+
+## Régulation
+• Deux types de régulation possible (voir manuel d'installation pour les détails) :
+  - Régulation de la température de la surface avec un thermostat électronique en mode plancher (F) et sonde de sol.
+  - Régulation de la température ambiante avec un thermostat électronique en mode ambiant avec limite de plancher (A ou AF) et sonde de sol.
+
+Note : Ce produit doit être utilisé avec un disjoncteur-détecteur de fuite à la terre (DDFT) sauf si exempté par le code national et/ou local en vigueur dans la région d'installation.
+
+## Matériel inclus
+• Sonde de sol 15' (4.6 m).
+• Étiquette de tableau de mesures (à apposer au panneau électrique).
+
+## Installation
+• Ne jamais couper ni tenter de raccourcir le câble.
+• Pour applications intérieures seulement, résidentiel ou commercial.
+• S'installe sous une dalle de béton de 4'' à 6'' (10 cm à 15 cm) ou sous une chape de béton de 1.5'' à 4'' (4 cm à 10 cm).
+• Compatible avec la plupart des revêtements de sol. (vérifier avec le revendeur ou le fabricant).
+
+Note : Il est fortement recommandé d'isoler la dalle de béton afin d'éviter une perte de chaleur par le bas (voir le manuel d'instructions pour tous les détails d'installation).
+
+## Garantie
+• 20 ans sur le câble chauffant.
+
+## Application
+• Sous-sol, garage, salle d'eau, salle à manger-cuisine, salle de séjour, atelier, piscine, douche, vestibule, hôpital, hôtel, usine, commerce, restaurant, verrière, serre, bâtiments destinés au logement des animaux.
+
+-------
+
+## Caractéristiques OWC-M
+### Tension
+• 240/208V, 347V, 1 phase.
+
+### Construction
+• Câble chauffant de type double conducteur fixé sur un treillis de plastique à émission magnétique négligeable.
+
+### Densité
+• 11 W/pi2 (120 W/m2), installé en usine sur treillis aux 6'' (15 cm).
+
+### Dimension
+• Treillis de 24'' (0.6 m) de largeur offerts en plusieurs longueurs.
+
+### Matériel inclus
+• Agrafes de sol en plastique (WC-CLP).
+
+### Installation
+• Installation avec ou sans armature métallique pour béton armé.
+
+-------
+
+Tableau OWC-R - Câble chauffant à béton en rouleau
+```json
+{
+  "title": "OWC-R - Câble chauffant à béton en rouleau",
+  "headers": ["Watts", "# Produit 240/208V", "Prix", "Surface couverte1 Espacement 6\" (15 cm)", "Surface couverte1 Espacement 6\" (15 cm)", "Longueur du câble", "Longueur du câble", "Poids", "Poids"],
+  "data": [
+    ["300.0", "OWC-R0300", "283.00", "28.0", "2.6", "56.0", "17.07", "4.0", "1.8"],
+    ["500.0", "OWC-R0500", "337.00", "46.5", "4.3", "93.0", "28.35", "5.0", "2.3"],
+    ["700.0", "OWC-R0700", "371.00", "62.5", "5.8", "125.0", "38.10", "7.0", "3.1"],
+    ["950.0", "OWC-R0950", "416.00", "88.0", "8.2", "176.0", "53.64", "9.0", "4.0"],
+    ["1300.0", "OWC-R1300", "518.00", "125.0", "11.6", "250.0", "76.20", "12.0", "5.4"],
+    ["1700.0", "OWC-R1700", "580.00", "156.0", "14.5", "312.0", "95.10", "16.0", "7.2"],
+    ["2000.0", "OWC-R2000", "645.00", "187.0", "17.4", "374.0", "114.00", "18.0", "8.1"],
+    ["2400.0", "OWC-R2400", "713.00", "218.5", "20.3", "437.0", "133.20", "23.0", "10.4"],
+    ["3000.0", "OWC-R3000", "833.00", "279.5", "26.0", "559.0", "170.38", "32.0", "14.5"],
+    ["3400.0", "OWC-R3400", "912.00", "312.5", "29.03", "625.0", "190.50", "36.0", "16.3"],
+    ["3700.0", "OWC-R37002", "967.00", "341.0", "31.7", "682.0", "207.87", "39.0", "17.7"],
+    ["4000.0", "OWC-R40002", "1062.00", "372.5", "34.6", "745.0", "227.08", "42.0", "19.0"]
+  ]
+}
+```
+-------
+
+## Options OWC-M et OWC-R
+
+Tableau OWC-R - Options OWC-M et OWC-R
+```json
+{
+  "title": "OWC-R - Options OWC-M et OWC-R",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    ["OTM-CC1", "-", "41.00", "CableCheck - Indicateur de défaillance électriques"],
+    ["KIT-WC-CLP", "-", "19.00", "Sac de 50 agrafes de sol en plastique pour câble sur treillis"],
+    ["KIT-SP2", "-", "46.00", "Trousse de réparation pour câbles chauffants à béton."],
+    ["-", "502.0", "201.00", "Liaison froide de 50' (15 m)"]
+  ]
+}
+```
+-------
+
+## Panneaux de contrôles DDFT avec contacteur et transfo. de contrôle 24V
+
+Tableau OWC-R - Panneaux de contrôles DDFT 208V/240V
+```json
+{
+  "title": "OWC-R - Panneaux de contrôles DDFT 208V/240V",
+  "headers": ["# Produit En trousse", "H x L x P (po)", "Prix", "Description"],
+  "data": [
+    ["WC-2CIR-208", "16x14x8", "5150.00", "2 circuits 30A 208V"],
+    ["WC-4CIR-208", "20x16x8", "6206.00", "4 circuits 30A 208V"],
+    ["WC-6CIR-208", "20x16x8", "6978.00", "6 circuits 30A 208V"],
+    ["WC-8CIR-208", "24x24x8", "7725.00", "8 circuits 30A 208V"],
+    ["WC-10CIR-208", "24x24x8", "8652.00", "10 circuits 30A 208V"],
+    ["WC-12CIR-208", "24x24x8", "9219.00", "12 circuits 30A 208V"],
+    ["WC-2CIR-240", "16x14x8", "5150.00", "2 circuits 30A 240V"],
+    ["WC-4CIR-240", "20x16x8", "6206.00", "4 circuits 30A 240V"],
+    ["WC-6CIR-240", "24x20x8", "6978.00", "6 circuits 30A 240V"],
+    ["WC-8CIR-240", "24x20x8", "7725.00", "8 circuits 30A 240V"],
+    ["WC-10CIR-240", "24x24x8", "8652.00", "10 circuits 30A 240V"],
+    ["WC-12CIR-240", "24x24x8", "9219.00", "12 circuits 30A 240V"]
+  ]
+}
+```
+-------
+
+Tableau OWC-R - Panneaux de contrôles DDFT 347V/600V
+```json
+{
+  "title": "OWC-R - Panneaux de contrôles DDFT 347V/600V",
+  "headers": ["# Produit En trousse", "H x L x P (po)", "Prix", "Description"],
+  "data": [
+    ["WC-3CIR-347-347", "16x14x8", "5665.00", "3 circuits 24A 347V"],
+    ["WC-6CIR-347-347", "20x16x8", "6695.00", "6 circuits 24A 347V"],
+    ["WC-9CIR-600-347", "30x24x8", "9013.00", "9 circuits 24A 600V"],
+    ["WC-12CIR-600-347", "30x24x8", "10352.00", "12 circuits 24A 600V"]
+  ]
+}
+```

@@ -1,0 +1,133 @@
+# OPI - Convecteur architectural à dessus incliné
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 208V, 240/208V, 277V, 347V, 600V, 1 phase.
+
+### Construction
+• Boîtier en acier de calibre 20.
+• Devant en acier de calibre 16.
+• Grillage en aluminium extrudé empêche l'entrée de corps étrangers.
+• Finition unie du dos de l'appareil (-BD) en option.
+• Protection thermique linéaire à réenclenchement automatique.
+
+### Élément
+• Deux éléments tubulaires en acier inoxydable recouverts d'ailettes d'aluminium.
+• Éléments flottants sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+### Densité
+• Densité moyenne standard de 500W/pi.
+• Basse densité moyenne de 375W/pi.
+
+### Régulation
+• Thermostat intégré en option, anti-vandale.
+• Relais mécanique, relais électronique ou relais pneumatique en option.
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+• Usage non-résidentiel aux Etats-Unis.
+• Installation au plancher ou au mur.
+• Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.
+• Variété d'accessoires pour l'installation en continu en option.
+• Socle et trousse de piédestals en option.
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Édifice commercial, immeuble de bureaux, hôpital, école
+
+-------
+
+## Caractéristiques OPI
+
+### Construction
+• Entrée d'air frais par l'avant; sortie d'air chaud par le dessus
+
+-------
+
+Tableau OPI - Convecteur architectural à dessus incliné
+{
+  "title": "OPI - Convecteur architectural à dessus incliné",
+  "headers": ["Watts", "# Produit 208V", "# Produit 347V", "# Produit 600V", "Watts 240/208V2", "# Produit 240/208V", "Prix", "Longueur po", "Longueur mm", "Poids lb", "Poids kg"],
+  "data": [
+    [1000.0, "OPI1008", "OPI1007", "OPI1006", "1000/750", "OPI1000", 838.00, 27.1875, 690.0, 32.0, 14.5],
+    [1500.0, "OPI1508", "OPI1507", "OPI1506", "1500/1125", "OPI1500", 969.00, 37.1875, 944.0, 46.0, 20.9],
+    [2000.0, "OPI2008", "OPI2007", "OPI2006", "2000/1500", "OPI2000", 1135.00, 47.1875, 1198.0, 57.0, 25.9],
+    [2500.0, "OPI2508", "OPI2507", "OPI2506", "2500/1875", "OPI2500", 1536.00, 57.1875, 1452.0, 66.0, 30.0],
+    [3000.0, "OPI3008", "OPI3007", "OPI3006", "3000/2250", "OPI3000", 1584.00, 65.1875, 1655.0, 75.0, 34.1],
+    [3500.0, "OPI35081", "OPI3507", "OPI3506", "3500/2625", "OPI3500", 1840.00, 75.1875, 1909.0, 80.0, 36.3],
+    [4000.0, "OPI40081", "OPI4007", "OPI40061", "4000/3000", "OPI40001", 2075.00, 83.125, 2112.0, 89.0, 40.5]
+  ]
+}
+-------
+
+Tableau OPI - Modèles à basse densité moyenne de 375W/pi
+{
+  "title": "OPI - Modèles à basse densité moyenne de 375W/pi",
+  "headers": ["Watts", "# Produit 208V", "# Produit 240V", "# Produit 347V", "# Produit 600V", "Prix", "Longueur po", "Longueur mm", "Poids lb", "Poids kg"],
+  "data": [
+    [800.0, "OPI0808-690", "OPI0800-690", "OPI0807-690", "OPI0806-690", 838.00, 27.1875, 690.0, 32.0, 14.5],
+    [1000.0, "OPI1008-944", "OPI1000-944", "OPI1007-944", "OPI1006-944", 969.00, 37.1875, 944.0, 46.0, 20.9],
+    [1500.0, "OPI1508-1198", "OPI1500-1198", "OPI1507-1198", "OPI1506-1198", 1135.00, 47.1875, 1198.0, 57.0, 25.9],
+    [1750.0, "OPI1758-1452", "OPI1750-1452", "OPI1757-1452", "OPI1756-1452", 1536.00, 57.1875, 1452.0, 66.0, 30.0],
+    [2000.0, "OPI2008-1655", "OPI2000-1655", "OPI2007-1655", "OPI2006-1655", 1584.00, 65.1875, 1655.0, 75.0, 34.1],
+    [2500.0, "OPI2508-2112", "OPI2500-2112", "OPI2507-2112", "OPI2506-2112", 2075.00, 83.125, 2112.0, 89.0, 40.5],
+    [2750.0, "OPI2758-2112", "OPI2750-2112", "OPI2757-2112", "OPI2756-2112", 2075.00, 83.125, 2112.0, 89.0, 40.5]
+  ]
+}
+-------
+
+Tableau OPI - Options
+{
+  "title": "OPI - Options",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    [null, "BD", 0.1, "Finition unie du dos de l'appareil"],
+    ["KIT-OPI-CE", null, 732.00, "Coin extérieur, 8 po (203.2 mm)"],
+    ["KIT-OPI-CI", null, 732.00, "Coin intérieur, 8 po (203.2 mm)"],
+    ["KIT-OPI-CTR", null, 238.00, "Boîte pour relais, 12 po (305 mm)"],
+    ["KIT-OPI-PEC", null, 144.00, "Trousse de piédestals carrés (2), 3 po (76 mm)"],
+    ["KIT-OPI-SO-27", null, 212.00, "Socle, 27 3/16 po (690 mm)"],
+    ["KIT-OPI-SO-37", null, 237.00, "Socle, 37 3/16 po (944 mm)"],
+    ["KIT-OPI-SO-47", null, 256.00, "Socle, 47 3/16 po (1198 mm)"],
+    ["KIT-OPI-SO-57", null, 296.00, "Socle, 57 3/16 po (1452 mm)"],
+    ["KIT-OPI-SO-65", null, 309.00, "Socle, 65 3/16 po (1655 mm)"],
+    ["KIT-OPI-SO-75", null, 343.00, "Socle, 75 3/16 po (1909 mm)"],
+    ["KIT-OPI-SO-83", null, 382.00, "Socle, 83 1/8 po (2112 mm)"],
+    ["KIT-OPI-SV-27", null, 594.00, "Fausse section, 27 3/16 po (690 mm)"],
+    ["KIT-OPI-SV-37", null, 694.00, "Fausse section, 37 3/16 po (944 mm)"],
+    ["KIT-OPI-SV-47", null, 817.00, "Fausse section, 47 3/16 po (1198 mm)"],
+    ["KIT-OPI-SV-57", null, 901.00, "Fausse section, 57 3/16 po (1452 mm)"],
+    ["KIT-OPI-SV-65", null, 920.00, "Fausse section, 65 3/16 po (1655 mm)"],
+    ["KIT-OPI-SV-75", null, 1053.00, "Fausse section, 75 3/16 po (1909 mm)"],
+    ["KIT-OPI-SV-83", null, 1093.00, "Fausse section, 83 1/8 po (2112 mm)"],
+    [null, "CTT", 209.00, "Relais unipolaire, bobine 240V : 25A à 240V, 10A à 600V"],
+    [null, "CTT2", 287.00, "Relais bipolaire, bobine 240V : 25A à 240V, 10A à 600V"],
+    [null, "DIS402", 216.00, "Interrupteur principal tripolaire, 40A à 600V"],
+    [null, "PM", 439.00, "Relais pneumatique, 20A à 600V"],
+    ["KIT-OPI-R", "R", 190.00, "Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 18A à 347V"],
+    ["KIT-OPI-R2", "R2", 287.00, "Relais bipolaire, bobine 24V, sans transformateur, 25A à 240V - 10A à 600V"],
+    ["KIT-OPI-RT-208", "RT", 209.00, "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 4500W, 22A à 208V"],
+    ["KIT-OPI-RT-240", "RT", 209.00, "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 5200W, 22A à 240V"],
+    ["KIT-OPI-RT-277", "RT", 209.00, "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 5200W, 19A à 277V"],
+    ["KIT-OPI-RT-347", "RT", 209.00, "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 6000W, 18A à 347V"],
+    ["KIT-OPI-RT-6001", "RT1", 209.00, "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 6000W, 10A à 600V (2 fils seulement)"],
+    ["KIT-OPI-T-AV", "TAV", 156.00, "Thermostat unipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max."],
+    ["KIT-OPI-T2-AV", "T2AV", 265.00, "Thermostat bipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max."],
+    [null, "TRIAC", 79.00, "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."],
+    [null, "TRIACT", 110.00, "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V"],
+    [null, "TRIAC", 144.00, "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."],
+    [null, "TRF24", 257.00, "Transformateur 24V, 50VA"],
+    [null, "TRF240", 257.00, "Transformateur 240V, 50VA"]
+  ]
+}

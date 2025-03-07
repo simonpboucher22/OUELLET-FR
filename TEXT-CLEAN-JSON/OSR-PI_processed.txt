@@ -1,0 +1,58 @@
+# OSR-PI - Câble chauffant autorégulant 120V préassemblé pour protection antigel des tuyaux et déglaçage de toitures et gouttières
+
+-------
+
+## Caractéristiques techniques
+
+### Spécifications électriques
+- Tension nominale: 120V
+- Longueur de la liaison froide: 36'' (0.9 m)
+- Conducteur d'alimentation: Cuivre nickelé
+
+### Caractéristiques physiques
+- Surgaine: Thermoplastique
+- Section du câble: 14.1 mm X 5.6 mm
+- Rayon de courbure minimal: 25 mm (1 po)
+
+### Températures
+- Température maximale maintenue (sous tension): 60 °C (140 °F)
+- Température d'exposition continue maximale (hors tension): 80 °C (176 °F)
+- Température minimale d'installation et de démarrage: -25 °C (-13 °F)
+
+-------
+
+## Conformité et certification
+- Normes: 
+  - CSA C22.2.130.03; -WS
+  - CAN/CSA 60079-7:12, 60079-0-11
+  - ANSI/IEEE 515, 515
+- Certification: CSA C US 2547790
+- Classement: Applications extérieures et endroits humides (WS)
+
+-------
+
+## Matériel et application
+- Matériel inclus: Fiche à 3 bornes avec mise à la terre et témoin lumineux indiquant la mise sous tension du câble
+- Application: Protection contre le gel, toiture et gouttière, tuyaux
+- Garantie: Garantie de base 1 an sur le câble chauffant
+
+-------
+
+## Modèles disponibles
+
+Tableau OSR-PI - Câble chauffant autorégulant 120V préassemblé
+{
+  "title": "OSR-PI - Câble chauffant autorégulant 120V préassemblé",
+  "headers": ["# Produit", "Prix", "Longueur (pi)", "Longueur (m)", "Puissance de sortie nominale dans l'air à 5 °C (40 °F)"],
+  "data": [
+    ["ECK-7AO-006", "125.00", "6.0", "1.8", "42.0"],
+    ["ECK-7AO-012", "143.00", "12.0", "3.6", "84.0"],
+    ["ECK-7AO-018", "174.00", "18.0", "5.5", "126.0"],
+    ["ECK-7AO-025", "202.00", "25.0", "7.6", "175.0"],
+    ["ECK-7AO-050", "302.00", "50.0", "15.2", "350.0"],
+    ["ECK-7AO-075", "369.00", "75.0", "22.9", "525.0"],
+    ["ECK-7AO-100", "500.00", "100.0", "30.5", "700.0"]
+  ]
+}
+
+-------

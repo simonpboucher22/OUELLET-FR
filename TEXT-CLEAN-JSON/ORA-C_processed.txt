@@ -1,0 +1,90 @@
+# ORA-C - Rideau d'air commercial C Range
+
+## Caractéristiques
+
+### Modèle
+• Chauffant électrique.
+• Sans chauffage.
+
+### Couleur
+• Standard : blanc.
+• Couleurs sur mesure disponibles sur demande (Charte RAL).
+
+### Tension
+• 208V, 240/208V, 480V, 600V, 60 Hz.
+
+### Construction
+• Boîtier en acier avec embouts en plastique résistant.
+• Accès rapide aux composantes internes par le panneau frontal qui facilite l'entretien et le branchement.
+• Protection thermique à réenclenchement automatique.
+
+### Ventilateur
+• Ventilateurs tangentiels.
+
+### Élément
+• Élément produisant une chaleur instantanée (modèle électrique).
+
+### Régulation
+• Contrôle Ecopower inclus (câble de commande RJ9 de 20 pi (6m) inclus).
+• Interrupteur de porte inclus.
+• Compatible avec le Système de Gestion du Bâtiment (Bacnet MS/TP, Modbus RTU ou contact sec).
+• Programmation personnalisée du rideau d'air.
+
+### Installation
+• Hauteur minimum d'installation : 6 pi (1.8 m).
+• Hauteur maximum d'installation :
+  - Montage en surface au mur : 9.84 pi (3 m) du plancher.
+  - Montage encastré : 9 pi (2.75 m) du plancher.
+• Montage en surface au mur : équerre et support inclus.
+• Montage suspendu : fixations incluses pour tiges filetées 1/4 po x 20 UNC (tiges non fournies).
+• Montage encastré : grille à charnière incluse pour faciliter l'installation et l'entretien.
+• Trousse de raccordement, disponible en option, pour la connexion de plusieurs appareils installés en surface.
+
+### Garantie
+• 2 ans contre tous vices.
+
+### Application
+Vestibule, édifice commercial, hall d'entrée, porte de service, hôpital
+
+-------
+
+## Modèles
+
+Tableau ORA-C - Rideau d'air commercial C Range
+{
+  "title": "ORA-C - Rideau d'air commercial C Range",
+  "headers": ["Volts (ph)", "# Produit", "Modèles standards", "Couleurs sur mesure (charte RAL)", "kW Lo/Hi", "Amp.", "pcm", "Vélocité max (pi/min)", "dBA à 3 m", "Longueur effective du flux d'air po", "Longueur effective du flux d'air mm", "Poids lb", "Poids kg"],
+  "data": [
+    ["Montage en surface", null, null, null, null, null, null, null, null, null, null, null, null],
+    ["Chauffant électrique", null, null, null, null, null, null, null, null, null, null, null, null],
+    ["600 (3) + 208 ou 240", "C1000ESEC600V", "6280.00", "8887.00", "4.5/9", "9.3+0.5", "740.0", "1770.0", "55.0", "36.0", "933.0", "35.0", "16.0"],
+    ["600 (3) + 208 ou 240", "C1500ESEC600V", "7120.85", "9872.00", "45820.0", "12.8+0.7", "1060.0", "1770.0", "55.0", "56.0", "1430.0", "51.0", "23.0"],
+    ["600 (3) + 208 ou 240", "C2000ESEC600V", "11128.00", "13958.00", "45918.0", "18.6+1.0", "1470.0", "1770.0", "56.0", "78.0", "1996.0", "73.0", "33.0"],
+    ["480 (3) + 208 ou 240", "C1000ESEC480V", "5508.00", "8118.00", "4.5/9", "10.9+0.5", "740.0", "1770.0", "55.0", "36.0", "933.0", "35.0", "16.0"],
+    ["480 (3) + 208 ou 240", "C1500ESEC480V", "7070.00", "9822.00", "45820.0", "14.5+0.7", "1060.0", "1770.0", "55.0", "56.0", "1430.0", "51.0", "23.0"],
+    ["480 (3) + 208 ou 240", "C2000ESEC480V", "9324.00", "11932.00", "45918.0", "21.7+1.0", "1470.0", "1770.0", "56.0", "78.0", "1996.0", "73.0", "33.0"],
+    ["208 (3)", "C1000ESEC208V", "5240.00", "7846.00", "4.32/8.64", "24.5", "740.0", "1770.0", "55.0", "36.0", "933.0", "35.0", "16.0"],
+    ["208 (3)", "C1500ESEC208V", "5913.00", "8522.00", "5.77/11.53", "32.7", "1060.0", "1770.0", "55.0", "56.0", "1430.0", "51.0", "23.0"],
+    ["208 (3)", "C2000ESEC208V", "9532.00", "12139.00", "8.64/17.28", "49.0", "1470.0", "1770.0", "56.0", "78.0", "1996.0", "73.0", "33.0"],
+    ["Sans chauffage", null, null, null, null, null, null, null, null, null, null, null, null],
+    ["208/240 (1)", "C1000ASEC208-230V", "4881.00", "7490.00", "-", "0.5", "740.0", "1770.0", "55.0", "36.0", "933.0", "33.0", "15.0"],
+    ["208/240 (1)", "C1500ASEC208-230V", "5666.00", "8274.00", "-", "0.7", "1060.0", "1770.0", "55.0", "56.0", "1430.0", "46.0", "21.0"],
+    ["208/240 (1)", "C2000ASEC208-230V", "7211.00", "9822.00", "-", "1.0", "1470.0", "1770.0", "56.0", "78.0", "1996.0", "68.0", "31.0"],
+    ["Montage encastré", null, null, null, null, null, null, null, null, null, null, null, null],
+    ["Chauffant électrique", null, null, null, null, null, null, null, null, null, null, null, null],
+    ["600 (3) + 208 ou 240", "C1000EREC600V", "7153.00", "9013.00", "4.5/9", "9.3+0.5", "740.0", "1770.0", "55.0", "45.0", "1145.0", "44.0", "20.0"],
+    ["600 (3) + 208 ou 240", "C1500EREC600V", "8331.00", "10295.00", "45820.0", "12.8+0.7", "1060.0", "1770.0", "55.0", "60.0", "1545.0", "60.0", "27.0"],
+    ["600 (3) + 208 ou 240", "C2000EREC600V", "11851.00", "13918.00", "45918.0", "18.6+1.0", "1470.0", "1770.0", "56.0", "80.0", "2055.0", "82.0", "37.0"],
+    ["480 (3) + 208 ou 240", "C1000EREC480V", "6244.00", "8103.00", "4.5/9", "10.9+0.5", "740.0", "1770.0", "55.0", "45.0", "1145.0", "44.0", "20.0"],
+    ["480 (3) + 208 ou 240", "C1500EREC480V", "8086.00", "10050.00", "45820.0", "14.5+0.7", "1060.0", "1770.0", "55.0", "60.0", "1545.0", "51.0", "23.0"],
+    ["480 (3) + 208 ou 240", "C2000EREC480V", "10723.00", "12792.00", "45918.0", "21.7+1.0", "1470.0", "1770.0", "56.0", "80.0", "2055.0", "73.0", "33.0"],
+    ["208 (3)", "C1000EREC208V", "7153.00", "9013.00", "4.32/8.64", "24.5", "740.0", "1770.0", "55.0", "45.0", "1145.0", "44.0", "20.0"],
+    ["208 (3)", "C1500EREC208V", "8331.00", "10295.00", "5.77/11.53", "32.7", "1060.0", "1770.0", "55.0", "60.0", "1545.0", "60.0", "27.0"],
+    ["208 (3)", "C2000EREC208V", "12379.00", "14445.00", "8.64/17.28", "49.0", "1470.0", "1770.0", "56.0", "80.0", "2055.0", "82.0", "37.0"],
+    ["Sans chauffage", null, null, null, null, null, null, null, null, null, null, null, null],
+    ["208/240 (1)", "C1000AREC208V", "5716.00", "7576.00", "-", "0.5", "740.0", "1770.0", "55.0", "45.0", "1145.0", "42.0", "19.0"],
+    ["208/240 (1)", "C1500AREC208V", "7042.00", "9008.00", "-", "0.7", "1060.0", "1770.0", "55.0", "60.0", "1545.0", "55.0", "25.0"],
+    ["208/240 (1)", "C2000AREC208V", "8761.00", "10826.00", "-", "1.0", "1470.0", "1770.0", "56.0", "80.0", "2055.0", "77.0", "35.0"]
+  ]
+}
+-------

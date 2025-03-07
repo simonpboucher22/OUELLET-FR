@@ -1,0 +1,82 @@
+# OTS - Convecteur de tranchée
+
+## Caractéristiques
+
+### Couleur
+• Standard : noir semi-lustré.
+• Optionnelles (surcharge applicable) : blanc, amande, argent étoilé, bronze, charcoal métallique, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase.
+
+### Construction
+• Construction robuste en acier de calibre 20.
+• Protection thermique linéaire à réenclenchement automatique.
+• Protection thermique linéaire à réenclenchement manuel.
+
+### Élément
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+### Densité
+• Densité moyenne standard de 250W/pi.
+• Basse densité moyenne de 200W/pi, 167W/pi.
+
+### Régulation
+• Relais mécanique et électronique en option (installation du côté droit seulement).
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+• Doit être installé à l'intérieur d'une tranchée dans le plancher avec une grille de dessus de tranchée compatible (non fournie), laquelle doit couvrir toute la longueur de l'appareil. Se référer au tableau des Modèles de grille de dessus de tranchée compatibles.
+• 2 trous de fixation dans le fond de l'appareil.
+
+### Garantie
+• 3 ans contre tous vices.
+• 10 ans sur l'élément.
+
+### Application
+• Baie vitrée, édifice commercial, immeuble de bureaux, condos, restaurant
+
+-------
+
+Tableau OTS - Convecteur de tranchée (Modèles à densité moyenne standard de 250W/pi)
+```json
+{
+  "title": "OTS - Convecteur de tranchée",
+  "headers": ["Watts", "# Produit 120V", "# Produit 208V", "# Produit 277V", "# Produit 347V", "# Produit 600V", "Watts 240/208V", "# Produit 240/208V", "Prix", "Longueur po", "Longueur mm", "Poids lb", "Poids kg"],
+  "data": [
+    [750.0, "OTS0752", "OTS0758", "OTS0777", null, null, "750/563", "OTS0750", 374.00, 36.0, 915.0, 8.4, 3.8],
+    [1000.0, null, "OTS1008", "OTS1077", "OTS1007", "OTS1006", "1000/750", "OTS1000", 405.00, 48.0, 1220.0, 10.8, 4.9],
+    [1250.0, null, "OTS1258", "OTS1277", "OTS1257", "OTS1256", "1250/938", "OTS1250", 428.00, 60.0, 1525.0, 13.2, 6.0]
+  ]
+}
+```
+
+-------
+
+Tableau OTS - Convecteur de tranchée (Options)
+```json
+{
+  "title": "OTS - Convecteur de tranchée",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    ["KIT-OTS-DIS20", "DIS20", 147.00, "Interrupteur principal, 20A à 277V max."],
+    ["KIT-OTS-DIS40", null, 181.00, "Interrupteur principal, 40A à 600V max. 120 mm de hauteur"],
+    ["KIT-OTS-R-3471", "R1", 230.00, "Relais unipolaire, bobine 24V, sans transformateur : 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V"],
+    ["KIT-OTS-R-6001", "R1", 230.00, "Relais unipolaire, bobine 24V, sans transformateur : 10A à 480V, 600V"],
+    ["KIT-OTS-RT-2081", "RT1", 242.00, "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"],
+    ["KIT-OTS-RT-2401", "RT1", 242.00, "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"],
+    ["KIT-OTS-RT-2771", "RT1", 242.00, "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V"],
+    ["KIT-OTS-RT-3471", "RT1", 242.00, "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"],
+    ["KIT-OTS-TRIAC-3471", "TRIAC1", 92.00, "Relais électronique unipolaire, bobine 24V, sans transformateur : 10A max. à 347V max."],
+    ["KIT-OTS-TRIAC-347T1", "TRIACT1", 134.00, "Relais électronique unipolaire, bobine 24V, avec transformateur : 10A max. à 347V max."],
+    ["KIT-OTS-TRIAC-6001", "TRIAC1", 179.00, "Relais électronique unipolaire, bobine 24V, sans transformateur : 6A à 600V max."]
+  ]
+}
+```
+
+Note: * Pour installation en usine

@@ -1,0 +1,84 @@
+# OPP - Plinthe électrique pour porte patio
+
+## Caractéristiques
+- **Couleur**
+  - Standards : blanc, amande.
+  - Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+  - Couleurs sur mesure disponibles sur demande.
+- **Finition**
+  - Standard : peinture à la poudre d'époxy/polyester.
+- **Tension**
+  - 208V, 240/208V, 347V, 600V, 1 phase.
+- **Construction**
+  - Construction robuste en acier de calibre 18 permettant d'utiliser la plinthe comme une marche.
+  - Protection thermique linéaire à réenclenchement automatique.
+- **Élément**
+  - Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+  - Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+- **Densité**
+  - Densité moyenne standard de 209W/pi.
+
+-------
+
+## Régulation
+- Thermostat intégré en option, avec bouton de contrôle ou anti-vandale (installation du côté droit seulement).
+- Relais mécanique et électronique en option (installation du côté droit seulement).
+- Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+## Installation
+- Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.
+- Variété d'accessoires pour l'installation en continu en option.
+- Trousse de piédestals en option.
+
+## Garantie
+- 3 ans contre tous vices.
+- 10 ans sur l'élément.
+
+## Application
+- Porte patio, baie vitrée, édifice commercial, immeuble de bureaux, condos, restaurant.
+
+-------
+
+Tableau OPP - Plinthe électrique pour porte patio
+{
+  "title": "OPP - Plinthe électrique pour porte patio",
+  "headers": ["Watts", "# Produit 208V", "# Produit 347V", "# Produit 600V", "Watts 240/208V", "# Produit 240/208V", "Prix", "Longueur po", "Longueur mm", "Poids lb", "Poids kg"],
+  "data": [
+    ["500.0", "OPP0508", "OPP0507", "-", "500/375", "OPP0500", "447.00", "33.5", "855.0", "13.0", "5.9"],
+    ["750.0", "OPP0758", "OPP0757", "OPP0756", "750/563", "OPP0750", "487.00", "48.0", "1219.0", "17.0", "7.7"],
+    ["1000.0", "OPP1008", "OPP1007", "OPP1006", "1000/750", "OPP1000", "512.00", "60.0", "1525.0", "20.0", "9.1"],
+    ["1250.0", "OPP1258", "OPP1257", "OPP1256", "1250/938", "OPP1250", "607.00", "72.0", "1830.0", "26.0", "11.8"],
+    ["1500.0", "OPP1508", "OPP1507", "OPP1506", "1500/1125", "OPP1500", "644.00", "86.75", "2204.0", "31.0", "14.1"],
+    ["1750.0", "OPP1758", "OPP1757", "OPP1756", "1750/1313", "OPP1750", "682.00", "100.0", "2542.0", "38.0", "17.3"],
+    ["2000.0", "OPP2008", "OPP2007", "OPP2006", "2000/1500", "OPP2000", "718.00", "113.3125", "2879.0", "41.0", "18.6"]
+  ]
+}
+-------
+
+Tableau OPP - Options
+{
+  "title": "OPP - Options",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    ["-", "BD", "0.1", "Finition unie du dos de l'appareil"],
+    ["KIT-OPP-CIBR", "-", "181.00", "Coin (intérieur et extérieur), 4 po (102 mm). Boîte de relais."],
+    ["KIT-OPP-JT", "-", "116.00", "Joint de finition, 2 po (51 mm)"],
+    ["KIT-OPP-JT-PE", "-", "181.00", "Joint contour de finition pour unité avec piédestals, 2 po (51 mm)"],
+    ["KIT-OPP-PE", "-", "240.00", "Trousse de piédestals ronds (2), 3 po (76 mm)"],
+    ["KIT-OPP-PEC", "-", "240.00", "Trousse de piédestals carrés (2), 2 po (51 mm)"],
+    ["KIT-OPP-R-3471", "R1", "311.00", "Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 18A à 347V"],
+    ["KIT-OPP-R-6001", "R1", "311.00", "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V"],
+    ["KIT-OPP-RT-2081", "RT1", "329.00", "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"],
+    ["KIT-OPP-RT-2401", "RT1", "329.00", "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"],
+    ["KIT-OPP-RT-3471", "RT1", "329.00", "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"],
+    ["KIT-OPP-RT-6001,2", "RT1,2", "329.00", "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)"],
+    ["OPP-SV-XX", "-", "Sur demande", "Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2879 mm)"],
+    ["KIT-OPP-TB11", "TB11", "256.00", "Thermostat unipolaire : 30A à 120V, 208V, 240V - 15A à 347V, 600V"],
+    ["KIT-OPP-TB21,3", "TB21,3", "264.00", "Thermostat bipolaire : 30A à 120V, 208V, 240V - 15A à 347V, 600V"],
+    ["KIT-OPP-TB1-AV1", "TB1AV1", "256.00", "Thermostat unipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 347V, 600V"],
+    ["KIT-OPP-TB2-AV1,3", "TB2AV1,3", "264.00", "Thermostat bipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 347V, 600V"],
+    ["KIT-OPP-TRIAC-3471", "TRIAC1", "128.00", "Relais électronique unipolaire, bobine 24V, sans transformateur, 10A max. à 347V max."],
+    ["KIT-OPP-TRIAC-347T1", "TRIACT1", "184.00", "Relais électronique unipolaire, bobine 24V, avec transformateur, 10A max. à 208V, 240V, 347V"],
+    ["KIT-OPP-TRIAC-6001", "TRIAC1", "241.00", "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."]
+  ]
+}

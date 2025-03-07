@@ -1,0 +1,193 @@
+# OTP-MZ Thermopompe multizone Myriad Plus sans conduit de ventilation
+
+## Mode de fonctionnement
+• Climatisation, chauffage, déshumidification, ventilation et auto.
+
+## Capacité nominale
+• 18000, 24000, 30000, 36000, 42000 BTU/hr.
+
+## Tension
+• 230/208V, 60 Hz, 1 phase.
+
+## Unité intérieure
+• Installation en haut de mur, pouvant être raccordée de chaque côté.
+• Boîtier en plastique, standard blanc.
+• Filtres lavables.
+
+## Unité extérieure
+• Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.
+• Soupape d'expansion électronique pour un contrôle précis du débit de réfrigérant.
+• Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.
+• Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.
+• Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.
+• Couverture et technologie de préchauffage du compresseur.
+• Installation sur support mural ou au sol en aluminium en option.
+
+-------
+
+## Tuyauterie de raccordement
+• Longueur minimale de la tuyauterie de 10 pi (3 m).
+• Raccords évasés.
+
+## Régulation
+• Télécommande sans fil incluse avec chaque unité intérieure.
+• Contrôleur mural en option.
+• Wi-Fi.
+• Température de consigne : 16 à 30 °C (61 à 86 °F).
+• Format d'affichage de la température : °C ou °F.
+
+## Garantie
+• Garantie de base 10 ans pièces et 10 ans compresseur (main-d'œuvre non incluse).
+• Garantie main-d'œuvre (vendue séparément) de la 1ère à la 10e année, couvre pièces et main-d'œuvre avec remplacement du système si défaillance du compresseur.
+
+## Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant
+
+-------
+
+Tableau OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation
+```json
+{
+  "title": "OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation",
+  "headers": ["# Produit", "MPD18KCH21SB-O", "MPD18KCH21SB-O", "MPD24KCH21SB-O", "MPD30KCH21SB-O", "MPD36KCH21SB-O", "MPD42KCH21SB-O"],
+  "data": [
+    ["Performance technique", null, null, null, null, null, null],
+    ["Nombre d'unités intérieures raccordables", "-", "1 à 2", "2 à 3", "2 à 4", "2 à 5", "2 à 5"],
+    ["Tension", "Volts", "230/208", "230/208", "230/208", "230/208", "230/208"],
+    ["Capacité en climatisation", "Nominale", "4982 (17000)", "6800 (23200)", "8300 (28400)", "9970 (34000)", "10550 (36000)"],
+    ["Capacité en climatisation", "Min. – max.", "2052 - 5744", "2200 - 9200", "2400 – 10000", "2600 - 10500", "2600 - 12000"],
+    ["Capacité en climatisation", null, "(7000 - 19600)", "(7500 - 31400)", "(8190 - 34100)", "(8871 - 35826)", "(8871 - 40944)"],
+    ["Capacité en chauffage", "Nominale", "5275 (18000)", "7030 (24000)", "8792 (30000)", "10550 (36000)", "11720 (40000)"],
+    ["Capacité en chauffage", "Min. – max.", "2052 – 5744", "2200 - 9200", "2400 – 12000", "2600 - 13000", "2600 - 13500"],
+    ["Capacité en chauffage", null, "(7000 - 19600)", "(7500 - 31400)", "(8188 - 40900)", "(8871 - 44356)", "(8871 - 46062)"],
+    ["Puissance consommée en climatisation", "Nominale", "1420.0", "1860.0", "2270.0", "2830.0", "3000.0"],
+    ["Puissance consommée en chauffage", "Nominale", "1380.0", "1800.0", "2250.0", "2900.0", "3020.0"],
+    ["MCA", "A", "20.0", "25.0", "30.0", "30.0", "30.0"],
+    ["Disjoncteur/fusible max. (MOCP)", "A", "20.0", "25.0", "35.0", "45.0", "45.0"],
+    ["SEER2", "-", "21.0", "21.0", "21.0", "21.0", "21.0"],
+    ["HSPF2", "-", "10.0", "10.0", "10.0", "10.0", "10.0"],
+    ["TRÉ2 (EER2)", "W/W", "3.52", "3.66", "3.66", "3.52", "3.52"],
+    ["COP", "W/W", "3.82", "3.91", "3.91", "3.64", "3.88"],
+    ["Numéro AHRI", "-", "210534127.0", "210534128.0", "210534129.0", "210534130.0", "210534131.0"],
+    ["ENERGY STAR", "-", "✓", "✓", "✓", "✓", "✓"],
+    ["Débit d'air volumique", "pcm", "1354.0", "2236.0", "3413.0", "3413.0", "3413.0"],
+    ["Niveau sonore", "dB (A)", "64.0", "68.0", "74.0", "74.0", "74.0"],
+    ["Puissance du compresseur", "W", "1295.0", "1887.0", "2047.0", "2294.0", "2294.0"],
+    ["LRA du compresseur", "A", "-", "-", "-", "-", "-"],
+    ["RLA du compresseur", "A", "9.95", "12.1", "14.25", "18.2", "18.4"],
+    ["Puissance du moteur du ventilateur", "W", "30.0", "60.0", "130.0", "130.0", "130.0"],
+    ["Volume de réfrigérant (R410A)", "oz (g)", "45.9 (1300)", "84.7 (2400)", "105.8 (3000)", "130.5 (3700)", "134 (3800)"],
+    ["Poids net", "lb (kg)", "77 (35)", "115 (52)", "152 (69)", "172 (78)", "174 (79)"],
+    ["Température ambiante de fonctionnement", "Climatisation", null, "-30 à 48 (-22 à 118)", null, "-30 à 48 (-22 à 118)", null],
+    ["Température ambiante de fonctionnement", "Chauffage", null, "-30 à 24 (-22 à 75)", null, "-30 à 24 (-22 à 75)", null],
+    ["Tuyauterie de raccordement/réfrigérant", null, null, null, null, null, null],
+    ["Longueur de préchargement", "pi (m)", "33 (10)", "98 (30)", "131 (40)", "131 (40)", "131 (40)"],
+    ["Volume additionnel de réfrigérant", "oz/pi (g/m)", "0.2 (20)", "0.2 (20)", "0.2 (20)", "0.2 (20)", "0.2 (20)"],
+    ["Différence de hauteur max.", "pi (m)", "49 (15)", "49 (15)", "82 (25)", "82 (25)", "82 (25)"],
+    ["entre unité extérieure et intérieure", null, null, null, null, null, null],
+    ["Longueur totale max.", "pi (m)", "131 (40)", "197 (60)", "262 (80)", "262 (80)", "328 (100)"]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation
+```json
+{
+  "title": "OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation",
+  "headers": ["# Produit", null, "PUD09KCH25S-I", "PUD12KCH24S-I", "PUD18KCH23S-I", "PUD24KCH24S-I"],
+  "data": [
+    ["Capacité en climatisation", "Nominale", "2667 (9100)", "3517 (12000)", "5275 (18000)", "6450 (22000)"],
+    ["Capacité en climatisation", "Min. – max.", "450 – 3150", "900 – 4132", "1500 - 6200", "2600 - 8200"],
+    ["Capacité en climatisation", null, "(1535 - 10748)", "(3070 - 14100)", "(5118 - 21154)", "(8870 - 28000)"],
+    ["Capacité en chauffage", "Nominale", "3077 (10500)", "3517 (12000)", "5275 (18000)", "7040 (24000)"],
+    ["Capacité en chauffage", "Min. – max.", "1000 – 4300", "900 – 4543", "1500 – 6200", "2100 - 9000"],
+    ["Capacité en chauffage", null, "(3412 - 14671)", "(3071 - 15500)", "(5118 - 21154)", "(7200 - 30708)"],
+    ["Déshumidification", "pt/hr (l/hr)", "1.69 (0.8)", "2.96 (1.4)", "3.8 (1.8)", "5 (2.40)"],
+    ["Débit d'air volumique", "pcm", "353 / 323 / 294 / 264 /", "400 / 364 / 329 / 288 /", "589 / 500 / 441 / 412 /", "736 / 588 / 530 / 471 /"],
+    ["Débit d'air volumique", null, "235 / 176 / 158", "264 / 247 / 229", "383 / 353 / 324", "441 / 412 / 383"],
+    ["Niveau sonore", "dB (A)", "50 / 47 / 45 / 42 /", "53 / 48 / 46 / 44 /", "59 / 53 / 51 / 50 /", "62 / 54 / 52 / 49 /"],
+    ["Niveau sonore", null, "39 / 36 / 35", "42 / 40 / 37", "47 / 43 / 39", "48 / 46 / 44"],
+    ["Puissance du moteur du ventilateur", "W", "15.0", "15.0", "45.0", "60.0"],
+    ["RLA du moteur du ventilateur", "A", "0.22", "0.20", "0.35", "0.30"],
+    ["Puissance du moteur du déflecteur", "W", "1.5", "1.5", "1.5", "1.5"],
+    ["Poids net", "lb (kg)", "21 (9.5)", "21 (9.5)", "29 (13.5)", "35 (16)"],
+    ["Tuyauterie de raccordement/réfrigérant", null, null, null, null, null],
+    ["Diamètre externe tuyau liquide", "po", "45661.0", "45661.0", "45661.0", "45661.0"],
+    ["Diamètre externe tuyau gaz", "po", "45724.0", "45659.0", "45785.0", "45785.0"]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation
+```json
+{
+  "title": "OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation",
+  "headers": ["Unité intérieure", "L", null, "H", null, "P", null, "A", null, "B", null, "C", null],
+  "data": [
+    [null, "po", "mm", "po", "mm", "po", "mm", "po", "mm", "po", "mm", "po", "mm"],
+    ["PUD09KCH25S-I PUD12KCH24S-I", "32.5", "825.0", "11.5", "293.0", "7.71875", "196.0", "5.875", "149.0", "21.3125", "542.0", "8.03125", "204.0"],
+    ["PUD18KCH23S-I", "39.1875", "995.0", "12.25", "311.0", "8.6875", "221.0", "8.5", "203.0", "27.0", "686.0", "9.25", "235.0"],
+    ["PUD24KCH24S-I", "43.5", "1105.0", "13.109375", "333.0", "9.6875", "246.0", "8.5", "203.0", "27.0", "686.0", "9.25", "235.0"]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation
+```json
+{
+  "title": "OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation",
+  "headers": ["Unité extérieure", "L", null, "H", null, "P", null, "A", null, "B", null],
+  "data": [
+    [null, "po", "mm", "po", "mm", "po", "mm", "po", "mm", "po", "mm"],
+    ["MPD18KCH21SB-O", "32.375", "822.0", "21.6875", "550.0", "13.875", "352.0", "20.15625", "512.0", "13.078125", "332.0"],
+    ["MPD24KCH21SB-O", "37.9375", "964.0", "26.0", "660.0", "15.8125", "402.0", "22.0", "559.0", "14.5", "368.0"],
+    ["MPD30KCH21SB-O", null, null, null, null, null, null, null, null, null, null],
+    ["MPD36KCH21SB-O", "40.125", "1020.0", "32.5", "826.0", "17.3125", "427.0", "24.8125", "630.0", "14.8125", "376.0"],
+    ["MPD42KCH21SB-O", null, null, null, null, null, null, null, null, null, null]
+  ]
+}
+```
+
+-------
+
+Tableau OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation
+```json
+{
+  "title": "OTP-MZ - Thermopompe multizone Myriad Plus sans conduit de ventilation",
+  "headers": ["# Produit En trousse", "Description"],
+  "data": [
+    ["OTP-XK76", "Contrôleur mural programmable"],
+    ["HP6000ZB-GE1,2", "Interface pour thermopompe sans conduit de ventilation, séries OTP-C, OTP-E, OTP-O"],
+    ["GT1301", "Passerelle intelligente permettant l'accès à distance du HP6000ZB-GE"],
+    ["Conduit en cuivre isolé", null],
+    ["D001412050BLK", "Conduit en cuivre isolé de 1/4\", 50' de long"],
+    ["D003812050BLK", "Conduit en cuivre isolé de 3/8\", 50' de long"],
+    ["D001212050BLK", "Conduit en cuivre isolé de 1/2\", 50' de long"],
+    ["D005812050BLK", "Conduit en cuivre isolé de 5/8\", 50' de long"],
+    ["D003412050BLK", "Conduit en cuivre isolé de 3/4\", 50' de long"],
+    ["D007812050BLK", "Conduit en cuivre isolé de 7/8\", 50' de long"],
+    ["D001412164BLK", "Conduit en cuivre isolé de 1/4\", 164' de long"],
+    ["D003812164BLK", "Conduit en cuivre isolé de 3/8\", 164' de long"],
+    ["D001212164BLK", "Conduit en cuivre isolé de 1/2\", 164' de long"],
+    ["D005812164BLK", "Conduit en cuivre isolé de 5/8\", 164' de long"],
+    ["Ensemble de conduits en cuivre isolés", null],
+    ["CO25121438W", "Ensemble de conduits en cuivre isolés de 1/2\" et 1/4\", 25' de long"],
+    ["CO25381438W", "Ensemble de conduits en cuivre isolés de 3/8\" et 1/4\", 25' de long"],
+    ["CO25581438W", "Ensemble de conduits en cuivre isolés de 5/8\" et 1/4\", 25' de long"],
+    ["CO25583838W", "Ensemble de conduits en cuivre isolés de 5/8\" et 3/8\", 25' de long"],
+    ["Conduit en cuivre non-isolé Support mural", null],
+    ["Support au sol", null],
+    ["SV-ALGS1426", "Support au sol en aluminium 14 1/4\" X 26\""],
+    ["SV-ALGS1430", "Support au sol en aluminium 14 1/4\" X 30\""],
+    ["SV-ALGS1727-33", "Support au sol en aluminium 17 1/8\" X 27\" (2\" X 3\" Angle)"],
+    ["Ligne de drain antitorsion", null],
+    ["SV-NKDL58L50", "Ligne de drain antitorsion de 5/8\", 165' de long"]
+  ]
+}
+```

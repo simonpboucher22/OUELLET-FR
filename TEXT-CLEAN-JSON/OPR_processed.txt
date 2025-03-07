@@ -1,0 +1,137 @@
+# OPR - Plinthe électrique robuste en acier
+
+## Caractéristiques
+- **Couleur**
+  - Standards : blanc, amande.
+  - Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+  - Couleurs sur mesure disponibles sur demande.
+
+- **Finition**
+  - Standard : peinture à la poudre d'époxy/polyester.
+
+- **Tension**
+  - 120V, 208V, 240/208V, 277V, 347V, 600V, 1 phase.
+
+- **Construction**
+  - Devant en acier de calibre 16.
+  - Boîtier en acier de calibre 18.
+  - Canalisation de câblage intégrée pleine longueur.
+  - Grillage robuste à louvres.
+  - Ouvertures inférieures à 1/4 po (6.4 mm) évitant l'intrusion de petits objets à l'intérieur.
+  - Finition unie du dos de l'appareil (-BD) en option.
+  - Protection thermique linéaire à réenclenchement automatique.
+
+- **Élément**
+  - Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+  - Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+-------
+
+- **Densité**
+  - Densité moyenne standard de 275W/pi.
+  - Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.
+
+- **Régulation**
+  - Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+  - Relais mécanique et relais électronique en option (installation du côté gauche seulement).
+  - Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+- **Installation**
+  - Installation au plancher ou au mur.
+  - Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.
+  - Variété d'accessoires pour l'installation en continu en option.
+  - Trousse de piédestals en option.
+
+- **Garantie**
+  - 3 ans contre tous vices.
+
+- **Application**
+  - Édifice commercial, immeuble de bureaux, hôpital, école, institution carcérale.
+
+-------
+
+Tableau OPR - Modèles à densité moyenne standard de 275W/pi
+{
+  "title": "OPR - Modèles à densité moyenne standard de 275W/pi",
+  "headers": ["Watts", "# Produit 120V", "# Produit 208V", "# Produit 347V", "# Produit 600V", "Watts 240/208V1", "# Produit 240/208V", "Prix", "Longueur po", "Longueur mm", "Poids lb", "Poids kg"],
+  "data": [
+    [300.0, "OPR0302", "OPR0308", null, null, "300/225", "OPR0300", 370.00, 20.5625, 522.0, 10.4, 4.7],
+    [500.0, "OPR0502", "OPR0508", "OPR0507", null, "500/375", "OPR0500", 450.00, 25.5, 647.0, 14.0, 6.4],
+    [750.0, "OPR0752", "OPR0758", "OPR0757", "OPR0756", "750/563", "OPR0750", 513.00, 35.5, 901.0, 20.0, 9.1],
+    [1000.0, "OPR1002", "OPR1008", "OPR1007", "OPR1006", "1000/750", "OPR1000", 582.00, 45.75, 1162.0, 26.0, 11.8],
+    [1250.0, "OPR1252", "OPR1258", "OPR1257", "OPR1256", "1250/938", "OPR1250", 663.00, 55.25, 1403.0, 32.0, 14.6],
+    [1500.0, "OPR1502", "OPR1508", "OPR1507", "OPR1506", "1500/1125", "OPR1500", 756.00, 63.9375, 1624.0, 37.0, 16.8],
+    [1750.0, null, "OPR1758", "OPR1757", "OPR1756", "1750/1313", "OPR1750", 853.00, 73.25, 1861.0, 43.0, 19.6],
+    [2000.0, null, "OPR2008", "OPR2007", "OPR2006", "2000/1500", "OPR2000", 974.00, 82.0625, 2084.0, 47.5, 21.6],
+    [2250.0, null, "OPR2258", "OPR2257", "OPR2256", "2250/1688", "OPR2250", 1105.00, 90.9375, 2309.0, 53.5, 24.3],
+    [2500.0, null, "OPR2508", "OPR2507", "OPR2506", "2500/1875", "OPR2500", 1257.00, 100.0, 2541.0, 58.4, 26.6]
+  ]
+}
+-------
+
+Tableau OPR - Modèles à basse densité moyenne
+{
+  "title": "OPR - Modèles à basse densité moyenne",
+  "headers": ["# Produit2", "Prix", "Longueur", "Poids", "Densité moyenne W/pi", "Watts", "Watts 240/208V1", "120V", "208V", "240/208V", "347V", "600V"],
+  "data": [
+    ["OPR020X-647", 450.00, "25 1/2\" (647mm)", "14.0 lb (6.4 kg)", 100.0, 200.0, "200/150", "✓", "✓", "✓", null, null],
+    ["OPR030X-647", 450.00, "25 1/2\" (647mm)", "14.0 lb (6.4 kg)", 150.0, 300.0, "300/225", "✓", "✓", "✓", null, null],
+    ["OPR040X-647", 450.00, "25 1/2\" (647mm)", "14.0 lb (6.4 kg)", 200.0, 400.0, "400/300", "✓", "✓", "✓", "✓", null],
+    ["OPR030X-901", 513.00, "35 1/2\" (901 mm)", "20.0 lb (9.1 kg)", 100.0, 300.0, "300/225", "✓", "✓", "✓", "✓", null],
+    ["OPR045X-901", 513.00, "35 1/2\" (901 mm)", "20.0 lb (9.1 kg)", 150.0, 450.0, "450/338", "✓", "✓", "✓", "✓", null],
+    ["OPR060X-901", 513.00, "35 1/2\" (901 mm)", "20.0 lb (9.1 kg)", 200.0, 600.0, "600/450", "✓", "✓", "✓", "✓", null],
+    ["OPR040X-1162", 582.00, "45 3/4\" (1162 mm)", "26.0 lb (11.8 kg)", 100.0, 400.0, "400/300", "✓", "✓", "✓", "✓", null],
+    ["OPR060X-1162", 582.00, "45 3/4\" (1162 mm)", "26.0 lb (11.8 kg)", 150.0, 600.0, "600/450", "✓", "✓", "✓", "✓", null],
+    ["OPR080X-1162", 582.00, "45 3/4\" (1162 mm)", "26.0 lb (11.8 kg)", 200.0, 800.0, "800/600", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR050X-1403", 663.00, "55 1/4\" (1403 mm)", "32.0 lb (14.6 kg)", 100.0, 500.0, "500/375", "✓", "✓", "✓", "✓", null],
+    ["OPR075X-1403", 663.00, "55 1/4\" (1403 mm)", "32.0 lb (14.6 kg)", 150.0, 750.0, "750/563", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR100X-1403", 663.00, "55 1/4\" (1403 mm)", "32.0 lb (14.6 kg)", 200.0, 1000.0, "1000/750", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR060X-1624", 756.00, "63 15/16\" (1624 mm)", "37.0 lb (16.8 kg)", 100.0, 600.0, "600/450", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR090X-1624", 756.00, "63 15/16\" (1624 mm)", "37.0 lb (16.8 kg)", 150.0, 900.0, "900/675", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR120X-1624", 756.00, "63 15/16\" (1624 mm)", "37.0 lb (16.8 kg)", 200.0, 1200.0, "1200/900", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR070X-1861", 853.00, "73 1/4\" (1861 mm)", "43.0 lb (19.6 kg)", 100.0, 700.0, "700/525", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR105X-1861", 853.00, "73 1/4\" (1861 mm)", "43.0 lb (19.6 kg)", 150.0, 1050.0, "1050/788", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR140X-1861", 853.00, "73 1/4\" (1861 mm)", "43.0 lb (19.6 kg)", 200.0, 1400.0, "1400/1050", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR080X-2084", 974.00, "82 1/16\" (2084 mm)", "47.5 lb (21.6 kg)", 100.0, 800.0, "800/600", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR120X-2084", 974.00, "82 1/16\" (2084 mm)", "47.5 lb (21.6 kg)", 150.0, 1200.0, "1200/900", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR160X-2084", 974.00, "82 1/16\" (2084 mm)", "47.5 lb (21.6 kg)", 200.0, 1600.0, "1600/1200", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR090X-2309", 1105.00, "90 15/16\" (2309 mm)", "53.5 lb (24.3 kg)", 100.0, 900.0, "900/675", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR135X-2309", 1105.00, "90 15/16\" (2309 mm)", "53.5 lb (24.3 kg)", 150.0, 1350.0, "1350/1013", null, "✓", "✓", "✓", "✓"],
+    ["OPR180X-2309", 1105.00, "90 15/16\" (2309 mm)", "53.5 lb (24.3 kg)", 200.0, 1800.0, "1800/1350", null, "✓", "✓", "✓", "✓"],
+    ["OPR100X-2541", 1257.00, "100\" (2541 mm)", "58.4 lb (26.6 kg)", 100.0, 1000.0, "1000/750", "✓", "✓", "✓", "✓", "✓"],
+    ["OPR150X-2541", 1257.00, "100\" (2541 mm)", "58.4 lb (26.6 kg)", 150.0, 1500.0, "1500/1125", null, "✓", "✓", "✓", "✓"],
+    ["OPR200X-2541", 1257.00, "100\" (2541 mm)", "58.4 lb (26.6 kg)", 200.0, 2000.0, "2000/1500", null, "✓", "✓", "✓", "✓"]
+  ]
+}
+-------
+
+Tableau OPR - Options
+{
+  "title": "OPR - Options",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    [null, "BD", 0.1, "Finition unie du dos de l'appareil"],
+    ["KIT-OPR-BR", null, 133.00, "Boîte de relais, 5 po (127 mm)"],
+    ["KIT-OPR-CE", null, 381.00, "Coin extérieur, 5 po (127 mm)"],
+    ["KIT-OPR-CI", null, 381.00, "Coin intérieur, 5 po (127 mm)"],
+    ["KIT-OPR-JT", null, 97.00, "Joint de finition, 3 1/8 po (80 mm)"],
+    ["KIT-OPR-PE", null, 140.00, "Trousse de piédestals ronds (2), 3 po (76 mm)"],
+    ["KIT-OPR-PEC", null, 140.00, "Trousse de piédestals carrés (2), 3 po (76 mm)"],
+    ["OPR-SV-XX", null, "Sur demande", "Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2541 mm)"],
+    ["KIT-OPR-R-347", "R", 175.00, "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V"],
+    ["KIT-OPR-R-600", "R", 182.00, "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V"],
+    ["KIT-OPR-RT-120", "RT", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V"],
+    ["KIT-OPR-RT-208", "RT", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"],
+    ["KIT-OPR-RT-240", "RT", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"],
+    ["KIT-OPR-RT-277", "RT", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V"],
+    ["KIT-OPR-RT-347", "RT", 189.00, "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"],
+    ["KIT-OPR-RT-6001", "RT1", 195.00, "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)"],
+    ["KIT-OPR-T", "T", 137.00, "Thermostat unipolaire : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V"],
+    ["KIT-OPR-T22", "T22", 228.00, "Thermostat bipolaire : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V"],
+    ["KIT-OPR-T-AV", "TAV", 137.00, "Thermostat unipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V"],
+    ["KIT-OPR-T2-AV2", "T2AV2", 228.00, "Thermostat bipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V"],
+    ["KIT-OPR-TRIAC-347", "TRIAC", 77.00, "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."],
+    ["KIT-OPR-TRIAC-347T", "TRIACT", 105.00, "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V"],
+    ["KIT-OPR-TRIAC-600", "TRIAC", 135.00, "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."]
+  ]
+}

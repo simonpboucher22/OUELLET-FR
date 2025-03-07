@@ -1,0 +1,74 @@
+# OKB - Appareil radiant infrarouge
+
+## Caractéristiques
+
+### Finition
+• Aluminium anodisé.
+
+### Tension
+• 120V, 208V, 240V, 480V, 600V, 1 phase.
+• Autres voltages disponibles sur demande.
+
+### Construction
+• Aucune lumière n'est émise par l'appareil.
+• Système de réglage directionnel intégré.
+• Angle de rayonnement standard de 60° (45° en option).
+
+### Élément
+• Élément tubulaire en acier inoxydable «Incoloy» avec angle de rayonnement standard de 60° (45° en option).
+• Élément au Quartz avec angle de rayonnement standard de 60°.
+
+-------
+
+## Installation
+• Montage vertical ou horizontal pour les modèles avec élément en acier inoxydable.
+• Montage horizontal pour les modèles avec élément au Quartz.
+• Montage en surface à une boîte de jonction (sur une surface non-combustible) ou en suspension par des chaînes (non incluses) et des œillets.
+• Doit être raccordé uniquement à un circuit comportant une protection contre la fuite à la terre.
+• Les fils d'alimentation à 90 °C (194 °F) sont suffisants.
+• Hauteur d'installation recommandée : 8 à 10 pi (2.4 à 3 m).
+
+### Garantie
+• 1 an contre tous vices.
+
+### Application
+• Usine, entrepôt, atelier, église.
+
+-------
+
+Tableau OKB - Appareil radiant infrarouge
+```json
+{
+  "title": "OKB - Appareil radiant infrarouge",
+  "headers": ["Watts", "# Produit 120V", "# Produit 208V", "# Produit 240V", "# Produit 600V", "Prix", "Longueur hors-tout po", "Longueur hors-tout mm", "Section chauffante po", "Section chauffante mm", "Poids lb", "Poids kg"],
+  "data": [
+    ["950.0", "OKB299C611", "OKB299C621", "OKB299C631", null, "1323.00", "31.5", "800.0", "20.0", "508.0", "5.1", "2.3"],
+    ["1500.0", "OKB411C611", "OKB411C621", "OKB411C631", null, "1435.00", "43.5", "1105.0", "32.0", "813.0", "6.8", "3.1"],
+    ["1900.0", "OKB471C611", "OKB471C621", "OKB471C631", null, "1454.00", "49.5", "1257.0", "38.0", "965.0", "8.0", "3.6"],
+    ["2000.0", null, "OKB412C621", "OKB412C631", "OKB412C681", "1376.00", "43.5", "1105.0", "32.0", "813.0", "7.2", "3.3"],
+    ["2300.0", null, "OKB472C621", "OKB472C631", "OKB472C681", "1503.00", "49.5", "1257.0", "38.0", "965.0", "8.1", "3.7"],
+    ["3000.0", null, "OKB593C621", "OKB593C631", "OKB593C681", "1641.00", "61.5", "1562.0", "50.0", "1270.0", "9.9", "4.5"],
+    ["3800.0", null, "OKB713C621", "OKB713C631", "OKB713C681", "2012.00", "73.5", "1867.0", "62.0", "1575.0", "11.7", "5.3"],
+    ["800.0", "OKB258T611", "OKB258T621", "OKB258T631", null, "1861.00", "27.5", "800.0", "16.0", "406.0", "4.9", "2.2"],
+    ["1600.0", "OKB411T611", "OKB411T621", "OKB411T631", null, "2207.00", "43.5", "1105.0", "32.0", "813.0", "7.1", "3.2"],
+    ["2500.0", null, "OKB592T621", "OKB592T631", "OKB592T681", "2311.00", "61.5", "1562.0", "50.0", "1270.0", "9.7", "4.4"],
+    ["3100.0", null, "OKB713T621", "OKB713T631", "OKB713T681", "2330.00", "72.5", "1867.0", "62.0", "1575.0", "11.3", "5.1"]
+  ]
+}
+```
+
+-------
+
+Tableau OKB - Options
+```json
+{
+  "title": "OKB - Options",
+  "headers": ["# Produit", "Prix", "Description"],
+  "data": [
+    ["WGA040", "127.00", "Grille de protection pour section chauffante de 16\" (406 mm)"],
+    ["WGA050", "159.00", "Grille de protection pour section chauffante de 20\" (508 mm)"],
+    ["WGA081", "183.00", "Grille de protection pour section chauffante de 32\" (813 mm)"],
+    ["WGA096", "217.00", "Grille de protection pour section chauffante de 38\" (965 mm)"]
+  ]
+}
+```

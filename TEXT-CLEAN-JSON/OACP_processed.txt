@@ -1,0 +1,115 @@
+# OACP - Aéroconvecteur commercial de plafond
+
+## Caractéristiques
+
+**Couleur**
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+**Finition**
+• Standard : peinture à la poudre d'époxy/polyester.
+
+**Tension**
+• 120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase.
+
+**Construction**
+• Devant en acier de calibre 18.
+• Protection thermique à réenclenchement automatique.
+
+**Ventilateur**
+• Moteur ventilé lubrifié à vie
+• Ventilateur de 160 pcm (unité simple : 55.5 dBA), 2 X 160 pcm (unité double : 58.5 dBA).
+• Dispositif éliminant la chaleur résiduelle.
+
+**Élément**
+• Élément tubulaire à ailettes très robuste.
+
+-------
+
+**Régulation**
+• Circuit de commande à 240/208V standard avec contacteur si nécessaire (sauf modèle 120V).
+• Relais 24V en option avec ou sans transformateur.
+• Thermostat intégré en option.
+Note : Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+Tout dispositif de contrôle (thermostat ou relais) doit être connecté au bornier de contrôle de l'appareil.
+
+**Installation**
+• Hauteur maximale d'installation recommandée : 10 pi (3 m).
+• Distance minimale des murs adjacents : 10 po (25.4 cm).
+• Boîtier pour montage en surface en option.
+• Cadre d'installation pour plafond suspendu en option.
+
+**Garantie**
+• 3 ans contre tous vices.
+
+**Application**
+Immeuble d'appartements, édifice commercial, cage d'escalier, garage
+
+-------
+
+## Modèles
+
+Tableau OACP - Aéroconvecteur commercial de plafond
+{
+  "title": "OACP - Aéroconvecteur commercial de plafond",
+  "headers": ["Watts", "Volts (1 ph)", "# Produit", "Prix", "BTU/hr", "Unité", "Poids lb", "Poids kg"],
+  "data": [
+    [1500.0, 120.0, "OACP1502", 822.00, 5123.0, "simple", 24.0, 10.9],
+    [2000.0, 208.0, "OACP2008", 964.00, 6820.0, "simple", 24.0, 10.9],
+    [4000.0, 208.0, "OACP4008", 964.00, 13661.0, "simple", 24.0, 10.9],
+    [4800.0, 208.0, "OACP4808", 1009.00, 16393.0, "simple", 24.0, 10.9],
+    [8000.0, 208.0, "OACP8008", 2252.00, 27321.0, "double", 50.0, 22.7],
+    ["1500/1125", "240/208", "OACP1500", 880.00, "5123/3842", "simple", 24.0, 10.9],
+    ["2000/1500", "240/208", "OACP2000", 880.00, "6830/5123", "simple", 24.0, 10.9],
+    ["3000/2250", "240/208", "OACP3000", 902.00, "10246/7684", "simple", 24.0, 10.9],
+    ["4000/3000", "240/208", "OACP4000", 964.00, "13661/10246", "simple", 24.0, 10.9],
+    ["4800/3600", "240/208", "OACP4800", 1009.00, "16393/12295", "simple", 24.0, 10.9],
+    ["6000/4500", "240/208", "OACP6000", 1982.00, "20491/15368", "double", 50.0, 22.7],
+    ["8000/6000", "240/208", "OACP8000", 2130.00, "27321/20491", "double", 50.0, 22.7],
+    [1500.0, 347.0, "OACP1507", 1168.00, 5123.0, "simple", 28.0, 12.7],
+    [2000.0, 347.0, "OACP2007", 1168.00, 6830.0, "simple", 28.0, 12.7],
+    [3000.0, 347.0, "OACP3007", 1209.00, 10246.0, "simple", 28.0, 12.7],
+    [4000.0, 347.0, "OACP4007", 1248.00, 13661.0, "simple", 28.0, 12.7],
+    [6000.0, 347.0, "OACP6007", 2602.00, 20491.0, "double", 50.0, 22.7],
+    [8000.0, 347.0, "OACP8007", 2986.00, 27321.0, "double", 50.0, 22.7],
+    [1500.0, 480.0, "OACP1504", 1232.00, 5123.0, "simple", 28.0, 12.7],
+    [2000.0, 480.0, "OACP2004", 1232.00, 6830.0, "simple", 28.0, 12.7],
+    [3000.0, 480.0, "OACP3004", 1272.00, 10246.0, "simple", 28.0, 12.7],
+    [4000.0, 480.0, "OACP4004", 1317.00, 13661.0, "simple", 28.0, 12.7],
+    [6000.0, 480.0, "OACP6004", 2602.00, 20491.0, "double", 50.0, 22.7],
+    [8000.0, 480.0, "OACP8004", 2986.00, 27321.0, "double", 50.0, 22.7],
+    [1500.0, 600.0, "OACP1506", 1232.00, 5123.0, "simple", 28.0, 12.7],
+    [2000.0, 600.0, "OACP2006", 1232.00, 6830.0, "simple", 28.0, 12.7],
+    [3000.0, 600.0, "OACP3006", 1272.00, 10246.0, "simple", 28.0, 12.7],
+    [4000.0, 600.0, "OACP4006", 1317.00, 13661.0, "simple", 28.0, 12.7],
+    [4800.0, 600.0, "OACP4806", 1387.00, 16393.0, "simple", 28.0, 12.7],
+    [6000.0, 600.0, "OACP6006", 2602.00, 20491.0, "double", 50.0, 22.7],
+    [8000.0, 600.0, "OACP8006", 2986.00, 27321.0, "double", 50.0, 22.7]
+  ]
+}
+
+-------
+
+## Options
+
+Tableau OACP - Aéroconvecteur commercial de plafond (Options)
+{
+  "title": "OACP - Aéroconvecteur commercial de plafond (Options)",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    ["KIT-OAWH-BSA", null, 132.00, "Boîtier pour montage en surface pour devant en aluminium extrudé, unité simple"],
+    ["KIT-OAWH-BSA2", null, 264.00, "Boîtier pour montage en surface pour devant en aluminium extrudé, unité double"],
+    ["KIT-OAC-BS1", null, 95.00, "Boîtier pour montage en surface, unité simple"],
+    ["KIT-OAC-BS2", null, 190.00, "Boîtier pour montage en surface, unité double"],
+    ["KIT-OAC-DVA", null, 332.00, "Devant en aluminium extrudé, unité simple"],
+    ["KIT-OAC-DVA2", null, 670.00, "Devant en aluminium extrudé, unité double"],
+    ["KIT-OACP-DIS202", "DIS202", 184.00, "Interrupteur principal, bipolaire, 20A à 240V"],
+    ["KIT-OACP-DIS402", "DIS402", 212.00, "Interrupteur principal, tripolaire, 40A à 600V"],
+    ["KIT-OACP-R", "R", 193.00, "Relais de contrôle 24V, sans transformateur"],
+    [null, "RT", 204.00, "Relais de contrôle 24V, avec transformateur"],
+    ["KIT-OACP-T", "T", 153.00, "Thermostat"],
+    ["KIT-OACP-T-BAR", null, 95.00, "Cadre d'installation pour plafond suspendu, 23 3/4 po X 23 3/4 po (602 mm X 602 mm), unité simple"],
+    ["KIT-OACP-T-BAR2", null, 190.00, "Cadre d'installation pour plafond suspendu, 23 3/4 po X 47 11/16 po (602 mm X 1211 mm), unité double"]
+  ]
+}

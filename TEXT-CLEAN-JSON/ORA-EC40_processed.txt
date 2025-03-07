@@ -1,0 +1,128 @@
+# ORA-EC40 Rideau d'air commercial et industriel
+
+## Caractéristiques
+- **Modèle**
+  • Chauffant électrique.
+  • Sans chauffage.
+- **Couleur**
+  • Boîtier en acier inoxydable : blanc (RAL 9016, NCS S 0500-N).
+  • Grille, face arrière et côtés : gris (RAL 7046).
+  • Couleurs sur mesure disponibles sur demande (Charte RAL).
+- **Tension**
+  • 208V, 480V, 600V, 60 Hz.
+- **Moteur**
+  • Faible coût de fonctionnement grâce à la combinaison d'un moteur EC à la géométrie unique de ventilateurs de Frico.
+- **Construction**
+  • Carte électronique externe pour faciliter le branchement et l'entretien.
+  • Accès rapide aux composantes internes par la trappe d'entretien.
+  • Protection thermique à réenclenchement automatique.
+  • Transformateur inclus à l'intérieur de l'appareil pour moteur et carte électronique (modèles 480V et 600V).
+- **Ventilateur**
+  • Ventilateurs à cage d'écureuil.
+- **Élément**
+  • Élément produisant une chaleur instantanée (modèle chauffant électrique).
+- **Régulation**
+  • Contrôle SIRe inclus.
+  • Interrupteur de porte inclus.
+  • Compatible avec le Système de Gestion du Bâtiment.
+  • Programmation personnalisée du rideau d'air.
+- **Installation**
+  • Hauteur maximum d'installation (montage horizontal) :
+    - Montage en surface au mur : 13.1 pi (4 m) du plancher.
+    - Montage encastré : 13.1 pi (4 m) du plancher.
+  • Largeur maximum d'installation (montage vertical) :
+    - 16 à 20 pi (5 à 6 m) 2 appareils, 1 de chaque côté.
+  • Pour un montage vertical, le rideau d'air doit être installé avec l'option trousse de jonction et de montage vertical PA4JK (non inclus).
+  • Installation discrète avec des fixations, des tubes et des câbles dissimulés avec l'option trousse de finition (non inclus).
+- **Note** : La hauteur d'installation préconisée peut varier selon les conditions d'installation. Les rideaux d'air doivent être placés le plus près possible de l'ouverture et couvrir toute la largeur.
+- **Garantie**
+  • 5 ans contre tous vices.
+- **Certification**
+  • AMCA 210, 220 et 300 pour les performances et l'acoustique et répond à la norme énergétique pour le code des bâtiments : Norme ANSI/ASHRAE/IES 90.1.
+- **Application**
+  • Porte de garage, vestibule, édifice commercial, hall d'entrée, porte de service, hôpital et entrée de magasin.
+
+-------
+
+Tableau ORA-EC40 - Rideau d'air commercial et industriel (Modèles)
+```
+{
+  "title": "ORA-EC40 - Rideau d'air commercial et industriel (Modèles)",
+  "headers": ["Volts (ph)", "# Produit", "Prix", "kW Lo/Hi", "Amp.", "pcm", "Vélocité max (pi/min)1", "dBA2", "Longueur effective du flux d'air", "Poids"],
+  "data": [
+    ["600 (3)", "PAEC4010E12-600VNA", "7508.00", "45759.0", "15.0", "1400.0", "2560.0", "80.0", "38.0", "960.0", "104.0", "47.0"],
+    ["600 (3)", "PAEC4015E18-600VNA", "9106.00", "45826.0", "23.0", "1950.0", "2560.0", "81.0", "58.0", "1470.0", "137.0", "62.0"],
+    ["600 (3)", "PAEC4020E24-600VNA", "13025.00", "45893.0", "30.0", "2800.0", "2560.0", "82.0", "77.0", "1960.0", "185.0", "84.0"],
+    ["600 (3)", "PAEC4025E30-600VNA", "14865.00", "45960.0", "38.0", "3300.0", "2560.0", "83.0", "97.0", "2470.0", "234.0", "106.0"],
+    ["480 (3)", "PAEC4010E12-480VNA", "7508.00", "45759.0", "18.0", "1400.0", "2560.0", "80.0", "38.0", "960.0", "104.0", "47.0"],
+    ["480 (3)", "PAEC4015E18-480VNA", "9106.00", "45826.0", "27.0", "1950.0", "2560.0", "81.0", "58.0", "1470.0", "137.0", "62.0"],
+    ["480 (3)", "PAEC4020E24-480VNA", "12349.00", "45893.0", "35.0", "2800.0", "2560.0", "82.0", "77.0", "1960.0", "185.0", "84.0"],
+    ["480 (3)", "PAEC4025E30-480VNA", "16064.00", "45960.0", "45.0", "3300.0", "2560.0", "83.0", "97.0", "2470.0", "234.0", "106.0"],
+    ["208 (3)", "PAEC4010E10-208VNA", "7222.00", "45757.0", "31.0", "1400.0", "2560.0", "80.0", "38.0", "960.0", "93.0", "42.0"],
+    ["208 (3)", "PAEC4015E15-208VNA", "8827.00", "45792.0", "45.0", "1950.0", "2560.0", "81.0", "58.0", "1470.0", "126.0", "57.0"],
+    ["208 (3)", "PAEC4020E20-208VNA", "12323.00", "45858.0", "60.0", "2800.0", "2560.0", "82.0", "77.0", "1960.0", "172.0", "78.0"],
+    ["208 (1)", "PAEC4010A-NA", "6299.00", null, "3.0", "1400.0", "2560.0", "80.0", "38.0", "960.0", "84.0", "38.0"],
+    ["208 (1)", "PAEC4015A-NA", "7514.00", null, "4.5", "1950.0", "2560.0", "81.0", "58.0", "1470.0", "108.0", "49.0"],
+    ["208 (1)", "PAEC4020A-NA", "10028.00", null, "6.0", "2800.0", "2560.0", "82.0", "77.0", "1960.0", "141.0", "64.0"],
+    ["208 (1)", "PAEC4025A-NA", "11223.00", null, "7.5", "3300.0", "2560.0", "83.0", "97.0", "2470.0", "172.0", "78.0"],
+    ["600 (3)", "AREC4010E12-600VNA", "9693.00", "45759.0", "15.0", "1530.0", "2220.0", "76.0", "38.0", "960.0", "125.0", "56.5"],
+    ["600 (3)", "AREC4015E18-600VNA", "10465.00", "45826.0", "22.0", "2150.0", "2220.0", "76.0", "59.0", "1485.0", "171.0", "77.5"],
+    ["600 (3)", "AREC4020E24-600VNA", "18379.00", "45893.0", "30.0", "3050.0", "2220.0", "78.0", "78.0", "1975.0", "224.0", "101.5"],
+    ["600 (3)", "AREC4025E30-600VNA", "27389.00", "45960.0", "36.0", "3650.0", "2220.0", "80.0", "98.0", "2508.0", "287.0", "121.0"],
+    ["480 (3)", "AREC4010E12-480VNA", "9693.00", "45759.0", "19.0", "1530.0", "2220.0", "76.0", "38.0", "960.0", "125.0", "56.5"],
+    ["480 (3)", "AREC4015E18-480VNA", "10465.00", "45826.0", "26.0", "2150.0", "2220.0", "76.0", "59.0", "1485.0", "171.0", "77.5"],
+    ["480 (3)", "AREC4020E24-480VNA", "18379.00", "45893.0", "35.0", "3050.0", "2220.0", "78.0", "78.0", "1975.0", "224.0", "101.5"],
+    ["480 (3)", "AREC4025E30-480VNA", "27548.00", "45960.0", "43.0", "3650.0", "2220.0", "80.0", "98.0", "2508.0", "287.0", "121.0"],
+    ["208 (3)", "AREC4010E10-208VNA", "9406.00", "45757.0", "31.0", "1530.0", "2220.0", "76.0", "38.0", "960.0", "117.0", "53.0"],
+    ["208 (3)", "AREC4015E15-208VNA", "10179.00", "45792.0", "44.0", "2150.0", "2220.0", "76.0", "59.0", "1485.0", "163.0", "74.0"],
+    ["208 (3)", "AREC4020E20-208VNA", "18521.00", "45858.0", "60.0", "3050.0", "2220.0", "78.0", "78.0", "1975.0", "212.0", "96.0"],
+    ["208 (1)", "AREC4010A-NA", "8094.00", null, "3.1", "1530.0", "2220.0", "76.0", "38.0", "960.0", "99.0", "52.0"],
+    ["208 (1)", "AREC4015A-NA", "8845.00", null, "3.9", "2150.0", "2220.0", "76.0", "59.0", "1485.0", "139.0", "71.0"],
+    ["208 (1)", "AREC4020A-NA", "14670.00", null, "6.2", "3050.0", "2220.0", "78.0", "78.0", "1975.0", "181.0", "94.0"],
+    ["208 (1)", "AREC4025A-NA", "19985.00", null, "7.0", "3650.0", "2220.0", "80.0", "98.0", "2508.0", "234.0", "121.0"]
+  ]
+}
+```
+-------
+
+Tableau ORA-EC40 - Options pour montage horizontal
+```
+{
+  "title": "ORA-EC40 - Options pour montage horizontal",
+  "headers": ["# Produit En trousse", "Prix", "Description", "Quantité incluse", "Dimensions"],
+  "data": [
+    ["PA34WB15", "162.00", "Supports de montage mural pour appareils de 1 et 1.5 m (3.3 et 4.9 pi)", "2.0", "16.0", "400.0"],
+    ["PA34WB20", "243.00", "Supports de montage mural pour appareils de 2 m (6.6 pi)", "3.0", "16.0", "400.0"],
+    ["PA34WB30", "324.00", "Supports de montage mural pour appareils de 2.5 m (8.2 pi)", "4.0", "16.0", "400.0"],
+    ["PA34VD15", "61.00", "Amortisseurs de vibration pour appareils de 1 et 1.5 m (3.3 et 4.9 pi)", "4.0", null, null],
+    ["PA34VD20", "89.00", "Amortisseurs de vibration pour appareils de 2 m (6.6 pi)", "6.0", null, null],
+    ["PA34VD30", "127.00", "Amortisseurs de vibration pour appareils de 2.5 m (8.2 pi)", "8.0", null, null],
+    ["PA4JK", "511.00", "Trousse de jonction et de montage vertical PAEC4000", "1.0", null, null],
+    ["PA4DW10", "970.00", "Trousse de finition pour montage mural et vertical PAEC4010x", "1.0", "3 27/64 x 16 11/16 x 39 39/64", "87 x 424 x 1006"],
+    ["PA4DW15", "1090.00", "Trousse de finition pour montage mural et vertical PAEC4015x", "1.0", "3 27/64 x 16 11/16 x 59 11/16", "87 x 424 x 1516"],
+    ["PA4DW20", "1179.00", "Trousse de finition pour montage mural et vertical PAEC4020x", "1.0", "3 27/64 x 16 11/16 x 78 31/32", "87 x 424 x 2006"],
+    ["PA4DW25", "1293.00", "Trousse de finition pour montage mural et vertical PAEC4025x", "1.0", "3 27/64 x 16 11/16 x 99 1/16", "87 x 424 x 2516"],
+    ["PA4DCS", "926.00", "Trousse de finition pour montage au plafond, petit", "1.0", "45881.0", "200 - 300"],
+    ["PA4DCM", "965.00", "Trousse de finition pour montage au plafond, moyen", "1.0", "46011.0", "300 - 500"],
+    ["PA4DCL", "1060.00", "Trousse de finition pour montage au plafond, grand", "1.0", "20 - 36", "500 - 900"],
+    ["PA4DXT", "475.00", "Trousse de finition pour montage au plafond, extension", "1.0", "16.53125", "420.0"]
+  ]
+}
+```
+-------
+
+Tableau ORA-EC40 - Options pour montage vertical
+```
+{
+  "title": "ORA-EC40 - Options pour montage vertical",
+  "headers": ["# Produit En trousse", "Prix", "Description", "Quantité incluse"],
+  "data": [
+    ["PA4JK", "511.00", "Trousse de jonction et de montage vertical PAEC4000", "1.0"],
+    ["PA4DW10", "970.00", "Trousse de finition pour montage mural et vertical PAEC4010x", "1.0"],
+    ["PA4DW15", "1090.00", "Trousse de finition pour montage mural et vertical PAEC4015x", "1.0"],
+    ["PA4DW20", "1179.00", "Trousse de finition pour montage mural et vertical PAEC4020x", "1.0"],
+    ["PA4DW25", "1293.00", "Trousse de finition pour montage mural et vertical PAEC4025x", "1.0"],
+    ["AXP300", "475.00", "Protection anti-choc", "1.0"]
+  ]
+}
+```

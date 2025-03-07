@@ -1,0 +1,106 @@
+# OVS - Ventilo-convecteur résidentiel mural
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Construction
+• Boîtier en acier de calibre 20.
+• Devant en acier de calibre 22.
+• Protection thermique à réenclenchement automatique.
+
+### Ventilateur
+• Ventilateur silencieux.
+• Modèles 120V, 208V, 240/208V :
+  40 pcm de 500W à 1000W et 80 pcm de 1250W à 2000W.
+• Modèles 347V : 80 pcm.
+• Moteur lubrifié à vie.
+
+-------
+
+### Élément
+• 120V, 208V, 208/240V : élément tubulaire à ailettes très robuste.
+  - Élément scellé en usine en option.
+• 347V : Alliage fer-chrome-aluminium.
+
+### Régulation
+• Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+
+### Installation
+• Installation rapide grâce aux trous de fixation du boîtier d'encastrement.
+• Vaste compartiment de câblage.
+• Boîtier de montage en surface en option.
+• Boîtier d'encastrement en «V» permettant une installation ajustée.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Vestibule, salle d'eau, salle à manger-cuisine, salle familiale, corridor.
+
+-------
+
+## Caractéristiques OVS
+
+### Tension
+• 120V, 208V, 240/208V, 347V, 1 phase.
+
+### Régulation
+• Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+
+### Installation
+• Installation au mur seulement.
+• La sortie d'air doit être installée à une distance minimale de 4 po (102 mm) du plancher de revêtement durable et 10 po (254 mm) des linoléums.
+• S'encastre dans une structure de mur en 2 po X 3 po.
+
+-------
+
+## Modèles OVS
+
+Tableau OVS - Ventilo-convecteur résidentiel mural
+{
+  "title": "OVS - Ventilo-convecteur résidentiel mural",
+  "headers": ["Watts", "Volts", "# Produit", "Prix", "Poids lb", "Poids kg"],
+  "data": [
+    ["500.0", "120.0", "OVS0502", "279.00", "9.0", "4.1"],
+    ["750.0", "120.0", "OVS0752", "279.00", "9.0", "4.1"],
+    ["1000.0", "120.0", "OVS1002", "297.00", "9.0", "4.1"],
+    ["1250.0", "120.0", "OVS1252", "323.00", "9.0", "4.1"],
+    ["1500.0", "120.0", "OVS1502", "323.00", "9.0", "4.1"],
+    ["2000.0", "208.0", "OVS2008", "353.00", "9.0", "4.1"],
+    ["500/375", "240/208", "OVS0500", "274.00", "9.0", "4.1"],
+    ["750/563", "240/208", "OVS0750", "274.00", "9.0", "4.1"],
+    ["1000/750", "240/208", "OVS1000", "289.00", "9.0", "4.1"],
+    ["1250/938", "240/208", "OVS1250", "289.00", "9.0", "4.1"],
+    ["1500/1125", "240/208", "OVS1500", "319.00", "9.0", "4.1"],
+    ["2000/1500", "240/208", "OVS2000", "345.00", "9.0", "4.1"],
+    ["1000.0", "347.0", "OVS1007", "361.00", "9.0", "4.1"],
+    ["1500.0", "347.0", "OVS1507", "378.00", "9.0", "4.1"],
+    ["2000.0", "347.0", "OVS2007", "400.00", "9.0", "4.1"]
+  ]
+}
+
+-------
+
+## Options
+
+Tableau OVS - Ventilo-convecteur résidentiel mural
+{
+  "title": "OVS - Ventilo-convecteur résidentiel mural",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    ["KIT-OVS-BS", "-", "67.00", "Boîtier pour montage en surface"],
+    ["KIT-OVS-DIS1", "DIS1", "163.00", "Interrupteur principal, 20A à 277V max. (120V, 208V, 240/208V seulement)"],
+    ["-", "ES2", "29.00", "Élément scellé en usine (120V, 208V, 240/208V seulement)"],
+    ["KIT-OVS-TB6", "TB6", "59.00", "Thermostat bimétallique, unipolaire (347V installé en usine seulement)"],
+    ["KIT-OVS-TB263", "TB263", "72.00", "Thermostat bimétallique, bipolaire (347V installé en usine seulement)"],
+    ["KIT-OVS-TB6-AV", "TB6AV", "69.00", "Thermostat bimétallique, unipolaire, anti-vandale (347V installé en usine seulement)"],
+    ["KIT-OVS-TB26-AV3", "TB26AV3", "72.00", "Thermostat bimétallique, bipolaire, anti-vandale (347V installé en usine seulement)"]
+  ]
+}

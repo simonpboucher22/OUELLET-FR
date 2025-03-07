@@ -1,0 +1,128 @@
+# OPXA - Plinthe antidéflagrante à dessus incliné
+
+## Caractéristiques
+- **Couleur**
+  • Standard : rouge.
+- **Tension**
+  • 120V, 208V, 240V, 277V, 347V, 480V, 600V, 1 ou 3 phases.
+- **Construction**
+  • Dessus incliné. Panneau arrière en acier galvanisé de calibre 14. Panneaux avant et latéraux en acier carbone de calibre 14 avec revêtement en poudre d'époxy/polyester.
+  • Convection à basse température.
+  • Protection thermique linéaire à réenclenchement automatique.
+  • Boîte de jonction scellée.
+- **Élément**
+  • Élément tubulaire en Incoloy® 800 avec ailettes en aluminium embossé de forme radiale.
+- **Densité**
+  • Variable selon le code de température.
+- **Normes**
+  • CSA C22.2 No.30, No. 60079-0, No.60079-1, No.46, No. 60529, No. 94.2.
+  • ANSI/UL 823, 60079-0, 60079-1.
+  • ANSI/IEC 60529.
+  • UL 50E.
+- **Classifications**
+  • Pour les zones dangereuses en Amérique du Nord :
+  • Classe I, Division 1 et 2, Groupes B, C et D (T2B ou T3A).
+  • Classe I, Zone 1 et 2, Ex db, Groupes IIA, IIB+H2, Gb Classe I, Zone 1 et 2, AEx db, Groupes IIA, IIB+H2, Gb
+  • Ta = -50 °C à +40 °C, IP66, Type 4, (T2 ou T3).
+- **Code de température**
+  • Système de divisions – T2B 260 °C (500 °F) ou T3A 180 °C (356 °F).
+  • Système de zones – T2 300 °C (572 °F) ou T3 200 °C (392 °F).
+- **Indice de protection**
+  • IP66 et Type 4.
+- **Régulation**
+  • Thermostat intégré ou mural en option.
+- **Installation**
+  • Support mural intégré.
+  • Distances de montage minimales de 8 po (20 cm) au-dessus du plancher et de 18 po (45 cm) du plafond.
+- **Garantie**
+  • 1 an contre tous vices
+- **Application**
+  • Chambre à peinture, aire de stockage et de manipulations chimiques, usine de pétrochimie, raffinerie, usine de nettoyage à sec, mine.
+
+-------
+
+## Modèles
+
+Tableau OPXA - Plinthe antidéflagrante à dessus incliné
+```
+{
+  "title": "OPXA - Plinthe antidéflagrante à dessus incliné",
+  "headers": ["kW", "Volts (ph)", "Amp.", "# Produit", "Prix Boîtiers A et B", "Prix Boîtier C", "Thermostat intégré bimétallique T1", "Thermostat mural bimétallique antidéflagrant BTX1", "Thermostat mural électronique XET1", "Votre propre unité de contrôle", "Longueur du cabinet po"],
+  "data": [
+    ["3.6", "208 (1)", "17.3", "OPXA03600-2081-X-T2B-31", "6345.00", "4500.00", "C", "A ou B ou C", "B", "A ou B ou C", "31.0"],
+    ["3.6", "208 (3)", "10.0", "OPXA03600-2083-X-T2B-31", "8520.00", "6675.00", "Non disponible", "A ou B", "B", "A ou B ou C", "31.0"],
+    ["3.6", "240 (1)", "15.0", "OPXA03600-2401-X-T2B-31", "6345.00", "4500.00", "C", "A ou B ou C", "B", "A ou B ou C", "31.0"],
+    ["3.6", "240 (3)", "8.7", "OPXA03600-2403-X-T2B-31", "8520.00", "6675.00", "Non disponible", "A ou B", "B", "A ou B ou C", "31.0"],
+    ["3.6", "600 (1)", "6.0", "OPXA03600-6001-X-T2B-31", "6345.00", "4500.00", "Non disponible", "A ou B", "B", "A ou B ou C", "31.0"],
+    ["3.6", "600 (3)", "3.5", "OPXA03600-6003-X-T2B-31", "9845.00", "8000.00", "Non disponible", "A ou B", "B", "A ou B ou C", "31.0"],
+    ["4.8", "208 (1)", "23.1", "OPXA04800-2081-X-T2B-49", "10220.00", "8375.00", "Non disponible", "A ou B", "B", "A ou B ou C", "49.0"],
+    ["4.8", "208 (3)", "13.3", "OPXA04800-2083-X-T2B-49", "10720.00", "8875.00", "Non disponible", "A ou B", "B", "A ou B ou C", "49.0"],
+    ["4.8", "240 (1)", "20.0", "OPXA04800-2401-X-T2B-49", "10220.00", "8375.00", "C", "A ou B ou C", "B", "A ou B ou C", "49.0"],
+    ["4.8", "240 (3)", "11.5", "OPXA04800-2403-X-T2B-49", "10720.00", "8875.00", "Non disponible", "A ou B", "B", "A ou B ou C", "49.0"],
+    ["4.8", "600 (1)", "8.0", "OPXA04800-6001-X-T2B-49", "10220.00", "8375.00", "Non disponible", "A ou B", "B", "A ou B ou C", "49.0"],
+    ["4.8", "600 (3)", "4.6", "OPXA04800-6003-X-T2B-49", "10720.00", "8875.00", "Non disponible", "A ou B", "B", "A ou B ou C", "49.0"],
+    ["7.6", "208 (1)", "36.5", "OPXA07600-2081-X-T2B-59", "11920.00", "10075.00", "Non disponible", "A ou B", "B", "A ou B ou C", "59.0"],
+    ["7.6", "208 (3)", "21.1", "OPXA07600-2083-X-T2B-59", "12620.00", "10775.00", "Non disponible", "A ou B", "B", "A ou B ou C", "59.0"],
+    ["7.6", "240 (1)", "31.7", "OPXA07600-2401-X-T2B-59", "11920.00", "10075.00", "Non disponible", "A ou B", "B", "A ou B ou C", "59.0"],
+    ["7.6", "240 (3)", "18.3", "OPXA07600-2403-X-T2B-59", "12620.00", "10775.00", "Non disponible", "A ou B", "B", "A ou B ou C", "59.0"],
+    ["7.6", "600 (1)", "12.7", "OPXA07600-6001-X-T2B-59", "11920.00", "10075.00", "Non disponible", "A ou B", "B", "A ou B ou C", "59.0"],
+    ["7.6", "600 (3)", "7.3", "OPXA07600-6003-X-T2B-59", "12620.00", "10775.00", "Non disponible", "A ou B", "B", "A ou B ou C", "59.0"],
+    ["10.0", "208 (3)", "27.8", "OPXA10000-2083-X-T2B-712", null, "11275.00", "Non disponible", "Non disponible", "Non disponible", "C", "71.0"],
+    ["10.0", "240 (3)", "24.1", "OPXA10000-2403-X-T2B-712", null, "11275.00", "Non disponible", "Non disponible", "Non disponible", "C", "71.0"],
+    ["10.0", "600 (1)", "16.7", "OPXA10000-6001-X-T2B-712", null, "11275.00", "Non disponible", "Non disponible", "Non disponible", "C", "71.0"],
+    ["10.0", "600 (3)", "9.6", "OPXA10000-6003-X-T2B-712", null, "11275.00", "Non disponible", "Non disponible", "Non disponible", "C", "71.0"],
+    ["0.6", "347 (1)", "1.7", "OPXA00600-3471-X-T3A-31", "4595.00", "2750.00", "C", "A ou B ou C", "B", "A ou B ou C", "31.0"],
+    ["1.2", "120 (1)", "10.0", "OPXA01200-1201-X-T3A-31", null, "2755.00", "C", "C", "Non disponible", "C", "31.0"],
+    ["1.2", "208 (1)", "5.8", "OPXA01200-2081-X-T3A-31", "5305.00", "3460.00", "C", "A ou B ou C", "B", "A ou B ou C", "31.0"],
+    ["1.2", "208 (3)", "3.3", "OPXA01200-2083-X-T3A-31", "5875.00", "4030.00", "Non disponible", "A or B", "B", "A or B or C", "31.0"],
+    ["1.2", "240 (1)", "5.0", "OPXA01200-2401-X-T3A-31", "5305.00", "3460.00", "C", "A ou B ou C", "B", "A ou B ou C", "31.0"],
+    ["1.2", "240 (3)", "2.9", "OPXA01200-2403-X-T3A-31", "5875.00", "4030.00", "Non disponible", "A or B", "B", "A or B or C", "31.0"],
+    ["1.2", "347 (1)", "3.5", "OPXA01200-3471-X-T3A-31", "9295.00", "7450.00", "C", "A ou B ou C", "B", "A ou B ou C", "31.0"],
+    ["1.2", "600 (1)", "2.0", "OPXA01200-6001-X-T3A-31", "5305.00", "3460.00", "Non disponible", "A ou B", "B", "A ou B ou C", "31.0"],
+    ["1.6", "347 (1)", "4.6", "OPXA01610-3471-X-T3A-49", "9795.00", "7950.00", "C", "A ou B ou C", "B", "A ou B ou C", "49.0"],
+    ["1.8", "120 (1)", "15.0", "OPXA01800-1201-X-T3A-31", null, "4200.00", "C", "C", "Non disponible", "C", "31.0"],
+    ["1.8", "208 (1)", "8.7", "OPXA01800-2081-X-T3A-31", "6045.00", "4200.00", "C", "A ou B ou C", "B", "A ou B ou C", "31.0"],
+    ["1.8", "208 (3)", "5.0", "OPXA01800-2083-X-T3A-31", "6645.00", "4800.00", "Non disponible", "A ou B", "B", "A ou B ou C", "31.0"],
+    ["1.8", "240 (1)", "7.5", "OPXA01800-2401-X-T3A-31", "6045.00", "4200.00", "C", "A ou B ou C", "B", "A ou B ou C", "31.0"],
+    ["1.8", "240 (3)", "4.3", "OPXA01800-2403-X-T3A-31", "6645.00", "4800.00", "Non disponible", "A ou B", "B", "A ou B ou C", "31.0"],
+    ["1.8", "600 (1)", "3.0", "OPXA01800-6001-X-T3A-31", "6045.00", "4200.00", "Non disponible", "A ou B", "B", "A ou B ou C", "31.0"],
+    ["2.54", "347 (1)", "7.3", "OPXA02540-3471-X-T3A-59", "10095.00", "8250.00", "C", "A ou B ou C", "B", "A ou B ou C", "59.0"],
+    ["3.34", "347 (1)", "9.6", "OPXA03340-3471-X-T3A-71", "10955.00", "9110.00", "C", "A ou B ou C", "B", "A ou B ou C", "71.0"],
+    ["3.6", "208 (1)", "17.3", "OPXA03600-2081-X-T3A-49", "8520.00", "6675.00", "C", "A ou B ou C", "B", "A ou B ou C", "49.0"],
+    ["3.6", "208 (3)", "10.0", "OPXA03600-2083-X-T3A-49", "9895.00", "8050.00", "Non disponible", "A ou B", "B", "A ou B ou C", "49.0"],
+    ["3.6", "240 (1)", "15.0", "OPXA03600-2401-X-T3A-49", "8520.00", "6675.00", "C", "A ou B ou C", "B", "A ou B ou C", "49.0"],
+    ["3.6", "240 (3)", "8.7", "OPXA03600-2403-X-T3A-49", "9895.00", "8050.00", "Non disponible", "A ou B", "B", "A ou B ou C", "49.0"],
+    ["3.6", "600 (1)", "6.0", "OPXA03600-6001-X-T3A-49", "8520.00", "6675.00", "Non disponible", "A ou B", "B", "A ou B ou C", "49.0"],
+    ["3.6", "600 (3)", "3.5", "OPXA03600-6003-X-T3A-49", "9895.00", "8050.00", "Non disponible", "A ou B", "B", "A ou B ou C", "49.0"],
+    ["5.0", "208 (1)", "24.0", "OPXA05000-2081-X-T3A-71", "10620.00", "8775.00", "Non disponible", "A ou B", "B", "A ou B ou C", "71.0"],
+    ["5.0", "208 (3)", "13.9", "OPXA05000-2083-X-T3A-71", "13120.00", "11275.00", "Non disponible", "A ou B", "B", "A ou B ou C", "71.0"],
+    ["5.0", "240 (1)", "20.8", "OPXA05000-2401-X-T3A-71", "10620.00", "8775.00", "C", "A ou B ou C", "B", "A ou B ou C", "71.0"],
+    ["5.0", "240 (3)", "12.0", "OPXA05000-2403-X-T3A-71", "13120.00", "11275.00", "Non disponible", "A ou B", "B", "A ou B ou C", "71.0"],
+    ["5.0", "600 (1)", "8.3", "OPXA05000-6001-X-T3A-71", "10620.00", "8775.00", "Non disponible", "A ou B", "B", "A ou B ou C", "71.0"],
+    ["5.0", "600 (3)", "4.8", "OPXA05000-6003-X-T3A-71", "13120.00", "11275.00", "Non disponible", "A ou B", "B", "A ou B ou C", "71.0"]
+  ]
+}
+```
+
+-------
+
+## Options
+
+Tableau OPXA - Plinthe antidéflagrante à dessus incliné
+```
+{
+  "title": "OPXA - Plinthe antidéflagrante à dessus incliné",
+  "headers": ["# Produit En trousse", "# Produit Installée en usine*", "Prix", "Description"],
+  "data": [
+    [null, "T1", "890.00", "Thermostat intégré, bimétallique (non disponible avec les modèles 600V, tous les modèles 3 phases, ou les modèles à 1 phase ayant un courant de ligne excédant 22A)"],
+    [null, "LC", "30.00", "Entrée électrique du côté gauche (la localisation standard se trouve du côté droit)"],
+    [null, "ZZ", null, "Construction spéciale (pour utilisation en usine seulement)"],
+    ["OUE-BTX1-N-B", null, "890.00", "Thermostat bimétallique antidéflagrant à fixation mural pour les milieux à risque\nNote : Nécessite un des boîtiers électriques A ou B ou C de l'OPXA, dépendamment du modèle sélectionné."],
+    ["OUE-XET1-1-W- N-A", null, "986.00", "Thermostat électronique à fixation mural pour les environnements à risques Note : Nécessite le boîtier électrique B de l'OPXA."],
+    ["OUE-XDC-01", null, "1939.00", "Interrupteur principal mural pour les environnements à risque\nNote : Non adapté pour les atmosphères du Groupe B ou du Groupe IIB+H2 de gaz (hydrogène)."],
+    ["BTX1-FIK", null, "300.00", "Trousse d'installation d'un thermostat BTX1-N-B sur un appareil OPXA avec un boîtier électrique « A » (120VAC) ou « B » (24VAC). Thermostat non inclus."],
+    ["XET1-FIK", null, "300.00", "Trousse d'installation d'un thermostat XET1-W-N-A sur un appareil OPXA avec un boîtier électrique « B ». (24VAC) seulement. Thermostat non inclus."],
+    ["OUE-BLK1-W-N-A", null, "321.00", "La trousse de conversion de l'appareil permet de passer facilement d'un thermostat intégré à une configuration murale"]
+  ]
+}
+```
