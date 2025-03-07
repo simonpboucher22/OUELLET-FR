@@ -1,0 +1,384 @@
+# OWC-R Câble chauffant à béton en rouleau
+
+## Caractéristiques générales
+
+### Longueur de la liaison froide
+• Liaison froide de 8' 2'' (2.5 m) incluse.
+• Liaison froide de 50' (15 m) disponible sur commande.
+
+### Régulation
+• Deux types de régulation possible (voir manuel d'installation pour les détails) :
+  - Régulation de la température de la surface avec un thermostat électronique en mode plancher (F) et sonde de sol.
+  - Régulation de la température ambiante avec un thermostat électronique en mode ambiant avec limite de plancher (A ou AF) et sonde de sol.
+
+Note : Ce produit doit être utilisé avec un disjoncteur-détecteur de fuite à la terre (DDFT) sauf si exempté par le code national et/ou local en vigueur dans la région d'installation.
+
+### Matériel inclus
+• Sonde de sol 15' (4.6 m).
+• Étiquette de tableau de mesures (à apposer au panneau électrique).
+
+### Installation
+• Ne jamais couper ni tenter de raccourcir le câble.
+• Pour applications intérieures seulement, résidentiel ou commercial.
+• S'installe sous une dalle de béton de 4'' à 6'' (10 cm à 15 cm) ou sous une chape de béton de 1.5'' à 4'' (4 cm à 10 cm).
+• Compatible avec la plupart des revêtements de sol. (vérifier avec le revendeur ou le fabricant).
+
+Note : Il est fortement recommandé d'isoler la dalle de béton afin d'éviter une perte de chaleur par le bas (voir le manuel d'instructions pour tous les détails d'installation).
+
+### Garantie
+• 20 ans sur le câble chauffant.
+
+### Application
+• Sous-sol, garage, salle d'eau, salle à manger-cuisine, salle de séjour, atelier, piscine, douche, vestibule, hôpital, hôtel, usine, commerce, restaurant, verrière, serre, bâtiments destinés au logement des animaux.
+
+-------
+
+## Caractéristiques OWC-M
+
+### Tension
+• 240/208V, 347V, 1 phase.
+
+### Construction
+• Câble chauffant de type double conducteur fixé sur un treillis de plastique à émission magnétique négligeable.
+
+### Densité
+• 11 W/pi² (120 W/m²), installé en usine sur treillis aux 6'' (15 cm).
+
+### Dimension
+• Treillis de 24'' (0.6 m) de largeur offerts en plusieurs longueurs.
+
+### Matériel inclus
+• Agrafes de sol en plastique (WC-CLP).
+
+### Installation
+• Installation avec ou sans armature métallique pour béton armé.
+
+-------
+
+## Tableau OWC-R - Câble chauffant à béton en rouleau
+
+```json
+[
+  {
+    "#Produit": "OWC-R0300",
+    "Watts": 300.0,
+    "Prix": 283.00,
+    "Surface couverte_pi2": 28.0,
+    "Surface couverte_m2": 2.6,
+    "Longueur du câble_pi": 56.0,
+    "Longueur du câble_m": 17.07,
+    "Poids_lb": 4.0,
+    "Poids_kg": 1.8,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R0500",
+    "Watts": 500.0,
+    "Prix": 337.00,
+    "Surface couverte_pi2": 46.5,
+    "Surface couverte_m2": 4.3,
+    "Longueur du câble_pi": 93.0,
+    "Longueur du câble_m": 28.35,
+    "Poids_lb": 5.0,
+    "Poids_kg": 2.3,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R0700",
+    "Watts": 700.0,
+    "Prix": 371.00,
+    "Surface couverte_pi2": 62.5,
+    "Surface couverte_m2": 5.8,
+    "Longueur du câble_pi": 125.0,
+    "Longueur du câble_m": 38.10,
+    "Poids_lb": 7.0,
+    "Poids_kg": 3.1,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R0950",
+    "Watts": 950.0,
+    "Prix": 416.00,
+    "Surface couverte_pi2": 88.0,
+    "Surface couverte_m2": 8.2,
+    "Longueur du câble_pi": 176.0,
+    "Longueur du câble_m": 53.64,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R1300",
+    "Watts": 1300.0,
+    "Prix": 518.00,
+    "Surface couverte_pi2": 125.0,
+    "Surface couverte_m2": 11.6,
+    "Longueur du câble_pi": 250.0,
+    "Longueur du câble_m": 76.20,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.4,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R1700",
+    "Watts": 1700.0,
+    "Prix": 580.00,
+    "Surface couverte_pi2": 156.0,
+    "Surface couverte_m2": 14.5,
+    "Longueur du câble_pi": 312.0,
+    "Longueur du câble_m": 95.10,
+    "Poids_lb": 16.0,
+    "Poids_kg": 7.2,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R2000",
+    "Watts": 2000.0,
+    "Prix": 645.00,
+    "Surface couverte_pi2": 187.0,
+    "Surface couverte_m2": 17.4,
+    "Longueur du câble_pi": 374.0,
+    "Longueur du câble_m": 114.00,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.1,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R2400",
+    "Watts": 2400.0,
+    "Prix": 713.00,
+    "Surface couverte_pi2": 218.5,
+    "Surface couverte_m2": 20.3,
+    "Longueur du câble_pi": 437.0,
+    "Longueur du câble_m": 133.20,
+    "Poids_lb": 23.0,
+    "Poids_kg": 10.4,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R3000",
+    "Watts": 3000.0,
+    "Prix": 833.00,
+    "Surface couverte_pi2": 279.5,
+    "Surface couverte_m2": 26.0,
+    "Longueur du câble_pi": 559.0,
+    "Longueur du câble_m": 170.38,
+    "Poids_lb": 32.0,
+    "Poids_kg": 14.5,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R3400",
+    "Watts": 3400.0,
+    "Prix": 912.00,
+    "Surface couverte_pi2": 312.5,
+    "Surface couverte_m2": 29.03,
+    "Longueur du câble_pi": 625.0,
+    "Longueur du câble_m": 190.50,
+    "Poids_lb": 36.0,
+    "Poids_kg": 16.3,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)"
+  },
+  {
+    "#Produit": "OWC-R3700",
+    "Watts": 3700.0,
+    "Prix": 967.00,
+    "Surface couverte_pi2": 341.0,
+    "Surface couverte_m2": 31.7,
+    "Longueur du câble_pi": 682.0,
+    "Longueur du câble_m": 207.87,
+    "Poids_lb": 39.0,
+    "Poids_kg": 17.7,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)",
+    "Note": "2"
+  },
+  {
+    "#Produit": "OWC-R4000",
+    "Watts": 4000.0,
+    "Prix": 1062.00,
+    "Surface couverte_pi2": 372.5,
+    "Surface couverte_m2": 34.6,
+    "Longueur du câble_pi": 745.0,
+    "Longueur du câble_m": 227.08,
+    "Poids_lb": 42.0,
+    "Poids_kg": 19.0,
+    "Tension": "240/208V",
+    "Espacement": "6\" (15 cm)",
+    "Note": "2"
+  }
+]
+```
+
+-------
+
+## Tableau Options OWC-M et OWC-R
+
+```json
+[
+  {
+    "#Produit": "OTM-CC1",
+    "Prix": 41.00,
+    "Description": "CableCheck - Indicateur de défaillance électriques",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "KIT-WC-CLP",
+    "Prix": 19.00,
+    "Description": "Sac de 50 agrafes de sol en plastique pour câble sur treillis",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "KIT-SP2",
+    "Prix": 46.00,
+    "Description": "Trousse de réparation pour câbles chauffants à béton.",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "502.0",
+    "Prix": 201.00,
+    "Description": "Liaison froide de 50' (15 m)",
+    "Type": "Installée en usine"
+  }
+]
+```
+
+-------
+
+## Tableau Panneaux de contrôles DDFT avec contacteur et transfo. de contrôle 24V (208V)
+
+```json
+[
+  {
+    "#Produit": "WC-2CIR-208",
+    "H x L x P (po)": "16x14x8",
+    "Prix": 5150.00,
+    "Description": "2 circuits 30A 208V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-4CIR-208",
+    "H x L x P (po)": "20x16x8",
+    "Prix": 6206.00,
+    "Description": "4 circuits 30A 208V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-6CIR-208",
+    "H x L x P (po)": "20x16x8",
+    "Prix": 6978.00,
+    "Description": "6 circuits 30A 208V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-8CIR-208",
+    "H x L x P (po)": "24x24x8",
+    "Prix": 7725.00,
+    "Description": "8 circuits 30A 208V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-10CIR-208",
+    "H x L x P (po)": "24x24x8",
+    "Prix": 8652.00,
+    "Description": "10 circuits 30A 208V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-12CIR-208",
+    "H x L x P (po)": "24x24x8",
+    "Prix": 9219.00,
+    "Description": "12 circuits 30A 208V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-2CIR-240",
+    "H x L x P (po)": "16x14x8",
+    "Prix": 5150.00,
+    "Description": "2 circuits 30A 240V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-4CIR-240",
+    "H x L x P (po)": "20x16x8",
+    "Prix": 6206.00,
+    "Description": "4 circuits 30A 240V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-6CIR-240",
+    "H x L x P (po)": "24x20x8",
+    "Prix": 6978.00,
+    "Description": "6 circuits 30A 240V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-8CIR-240",
+    "H x L x P (po)": "24x20x8",
+    "Prix": 7725.00,
+    "Description": "8 circuits 30A 240V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-10CIR-240",
+    "H x L x P (po)": "24x24x8",
+    "Prix": 8652.00,
+    "Description": "10 circuits 30A 240V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-12CIR-240",
+    "H x L x P (po)": "24x24x8",
+    "Prix": 9219.00,
+    "Description": "12 circuits 30A 240V",
+    "Type": "En trousse"
+  }
+]
+```
+
+-------
+
+## Tableau Panneaux de contrôles DDFT avec contacteur et transfo. de contrôle 24V (347V/600V)
+
+```json
+[
+  {
+    "#Produit": "WC-3CIR-347-347",
+    "H x L x P (po)": "16x14x8",
+    "Prix": 5665.00,
+    "Description": "3 circuits 24A 347V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-6CIR-347-347",
+    "H x L x P (po)": "20x16x8",
+    "Prix": 6695.00,
+    "Description": "6 circuits 24A 347V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-9CIR-600-347",
+    "H x L x P (po)": "30x24x8",
+    "Prix": 9013.00,
+    "Description": "9 circuits 24A 600V",
+    "Type": "En trousse"
+  },
+  {
+    "#Produit": "WC-12CIR-600-347",
+    "H x L x P (po)": "30x24x8",
+    "Prix": 10352.00,
+    "Description": "12 circuits 24A 600V",
+    "Type": "En trousse"
+  }
+]
+```

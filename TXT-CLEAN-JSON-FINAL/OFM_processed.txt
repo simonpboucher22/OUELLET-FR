@@ -1,0 +1,1093 @@
+# OFM - Plinthe électrique standard
+
+## Caractéristiques
+
+Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesures disponibles sur demande.
+
+Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+• Peut accepter toute peinture intérieure.
+
+Tension
+• 120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase.
+
+Construction
+• Boîtier de raccord en acier de calibre 20.
+• Corps en acier de calibre 22.
+• Devant en acier de calibre 20.
+• Coins supérieurs arrondis.
+• Protection thermique linéaire à réenclenchement automatique.
+
+Élément
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+Densité
+• Densité moyenne standard de 275W/pi.
+• Basse densité moyenne de 200W/pi.
+
+Régulation
+• Thermostat intégré mécanique en option pouvant être installé aux deux extrémités.
+• Section de plinthe avec thermostat électronique intégré pouvant être installée du côté gauche seulement (240V seulement).
+• Thermostat intégré électronique en option pouvant être installé du côté droit seulement. Compatible avec les appareils fabriqués après 14-10-2019 seulement.
+• Relais 24V en option (installation du côté droit seulement).
+• Un compartiment pour les raccords basse tension (situé directement sous la boîte de jonction) qui facilite l'installation de relais à basse tension dans les plinthes électriques.
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+Installation
+• Installation en contact avec le plancher.
+• Boîtes de raccordement aux extrémités des plinthes.
+• Serre-fils à une seule vis.
+• Trousse pour installation d'un câble électrique de type AC90 (BX) en option.
+• Canalisation de câblage approuvé pour interconnexion des appareils.
+• Deux rangés de trous de montage espacés de 1 po (25.4 mm) afin de faciliter la pose.
+• Variété d'accessoires pour l'installation en continu en option.
+
+Garantie
+• 5 ans contre tous vices.
+• Élément garanti à vie pour le premier utilisateur consommateur.
+
+Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, baie vitrée, édifice commercial, immeuble de bureaux, condo, restaurant.
+
+-------
+
+## Tableau OFM - Modèles à densité moyenne standard de 275W/pi
+
+```json
+[
+  {
+    "#Produit": "OFM0302",
+    "Watts": 300.0,
+    "Tension": "120V",
+    "Prix": 102.50,
+    "Longueur_po": 22.3125,
+    "Longueur_mm": 566.0,
+    "Poids_lb": 4.5,
+    "Poids_kg": 2.0
+  },
+  {
+    "#Produit": "OFM0308",
+    "Watts": 300.0,
+    "Tension": "208V",
+    "Prix": 82.25,
+    "Longueur_po": 22.3125,
+    "Longueur_mm": 566.0,
+    "Poids_lb": 4.5,
+    "Poids_kg": 2.0
+  },
+  {
+    "#Produit": "OFM0300",
+    "Watts": 300.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "300/225",
+    "Prix": 82.25,
+    "Longueur_po": 22.3125,
+    "Longueur_mm": 566.0,
+    "Poids_lb": 4.5,
+    "Poids_kg": 2.0
+  },
+  {
+    "#Produit": "OFM0502",
+    "Watts": 500.0,
+    "Tension": "120V",
+    "Prix": 108.25,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 691.0,
+    "Poids_lb": 5.5,
+    "Poids_kg": 2.5
+  },
+  {
+    "#Produit": "OFM0508",
+    "Watts": 500.0,
+    "Tension": "208V",
+    "Prix": 85.75,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 691.0,
+    "Poids_lb": 5.5,
+    "Poids_kg": 2.5
+  },
+  {
+    "#Produit": "OFM0500",
+    "Watts": 500.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "500/375",
+    "Prix": 85.75,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 691.0,
+    "Poids_lb": 5.5,
+    "Poids_kg": 2.5
+  },
+  {
+    "#Produit": "OFM0507",
+    "Watts": 500.0,
+    "Tension": "347V",
+    "Prix": 101.25,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 691.0,
+    "Poids_lb": 5.5,
+    "Poids_kg": 2.5
+  },
+  {
+    "#Produit": "OFM0752",
+    "Watts": 750.0,
+    "Tension": "120V",
+    "Prix": 125.75,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 945.0,
+    "Poids_lb": 7.3,
+    "Poids_kg": 3.3
+  },
+  {
+    "#Produit": "OFM0758",
+    "Watts": 750.0,
+    "Tension": "208V",
+    "Prix": 99.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 945.0,
+    "Poids_lb": 7.3,
+    "Poids_kg": 3.3
+  },
+  {
+    "#Produit": "OFM0750",
+    "Watts": 750.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "750/563",
+    "Prix": 99.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 945.0,
+    "Poids_lb": 7.3,
+    "Poids_kg": 3.3
+  },
+  {
+    "#Produit": "OFM0757",
+    "Watts": 750.0,
+    "Tension": "347V",
+    "Prix": 119.50,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 945.0,
+    "Poids_lb": 7.3,
+    "Poids_kg": 3.3
+  },
+  {
+    "#Produit": "OFM0756",
+    "Watts": 750.0,
+    "Tension": "600V",
+    "Prix": 119.50,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 945.0,
+    "Poids_lb": 7.3,
+    "Poids_kg": 3.3
+  },
+  {
+    "#Produit": "OFM1002",
+    "Watts": 1000.0,
+    "Tension": "120V",
+    "Prix": 145.75,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM1008",
+    "Watts": 1000.0,
+    "Tension": "208V",
+    "Prix": 115.25,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM1000",
+    "Watts": 1000.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "1000/750",
+    "Prix": 115.25,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM1007",
+    "Watts": 1000.0,
+    "Tension": "347V",
+    "Prix": 139.75,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM1006",
+    "Watts": 1000.0,
+    "Tension": "600V",
+    "Prix": 139.75,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM1252",
+    "Watts": 1250.0,
+    "Tension": "120V",
+    "Prix": 178.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1258",
+    "Watts": 1250.0,
+    "Tension": "208V",
+    "Prix": 137.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1250",
+    "Watts": 1250.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "1250/938",
+    "Prix": 137.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1257",
+    "Watts": 1250.0,
+    "Tension": "347V",
+    "Prix": 170.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1256",
+    "Watts": 1250.0,
+    "Tension": "600V",
+    "Prix": 170.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1502",
+    "Watts": 1500.0,
+    "Tension": "120V",
+    "Prix": 187.00,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1508",
+    "Watts": 1500.0,
+    "Tension": "208V",
+    "Prix": 148.25,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1500",
+    "Watts": 1500.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "1500/1125",
+    "Prix": 148.25,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1507",
+    "Watts": 1500.0,
+    "Tension": "347V",
+    "Prix": 182.25,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1506",
+    "Watts": 1500.0,
+    "Tension": "600V",
+    "Prix": 182.25,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1758",
+    "Watts": 1750.0,
+    "Tension": "208V",
+    "Prix": 176.75,
+    "Longueur_po": 75.0,
+    "Longueur_mm": 1905.0,
+    "Poids_lb": 13.5,
+    "Poids_kg": 6.2
+  },
+  {
+    "#Produit": "OFM1750",
+    "Watts": 1750.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "1750/1313",
+    "Prix": 176.75,
+    "Longueur_po": 75.0,
+    "Longueur_mm": 1905.0,
+    "Poids_lb": 13.5,
+    "Poids_kg": 6.2
+  },
+  {
+    "#Produit": "OFM1757",
+    "Watts": 1750.0,
+    "Tension": "347V",
+    "Prix": 219.75,
+    "Longueur_po": 75.0,
+    "Longueur_mm": 1905.0,
+    "Poids_lb": 13.5,
+    "Poids_kg": 6.2
+  },
+  {
+    "#Produit": "OFM1756",
+    "Watts": 1750.0,
+    "Tension": "600V",
+    "Prix": 219.75,
+    "Longueur_po": 75.0,
+    "Longueur_mm": 1905.0,
+    "Poids_lb": 13.5,
+    "Poids_kg": 6.2
+  },
+  {
+    "#Produit": "OFM2008",
+    "Watts": 2000.0,
+    "Tension": "208V",
+    "Prix": 194.00,
+    "Longueur_po": 83.8125,
+    "Longueur_mm": 2128.0,
+    "Poids_lb": 15.0,
+    "Poids_kg": 6.8
+  },
+  {
+    "#Produit": "OFM2000",
+    "Watts": 2000.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "2000/1500",
+    "Prix": 194.00,
+    "Longueur_po": 83.8125,
+    "Longueur_mm": 2128.0,
+    "Poids_lb": 15.0,
+    "Poids_kg": 6.8
+  },
+  {
+    "#Produit": "OFM2007",
+    "Watts": 2000.0,
+    "Tension": "347V",
+    "Prix": 233.50,
+    "Longueur_po": 83.8125,
+    "Longueur_mm": 2128.0,
+    "Poids_lb": 15.0,
+    "Poids_kg": 6.8
+  },
+  {
+    "#Produit": "OFM2006",
+    "Watts": 2000.0,
+    "Tension": "600V",
+    "Prix": 233.50,
+    "Longueur_po": 83.8125,
+    "Longueur_mm": 2128.0,
+    "Poids_lb": 15.0,
+    "Poids_kg": 6.8
+  },
+  {
+    "#Produit": "OFM2258",
+    "Watts": 2250.0,
+    "Tension": "208V",
+    "Prix": 213.75,
+    "Longueur_po": 92.625,
+    "Longueur_mm": 2353.0,
+    "Poids_lb": 16.5,
+    "Poids_kg": 7.5
+  },
+  {
+    "#Produit": "OFM2250",
+    "Watts": 2250.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "2250/1688",
+    "Prix": 213.75,
+    "Longueur_po": 92.625,
+    "Longueur_mm": 2353.0,
+    "Poids_lb": 16.5,
+    "Poids_kg": 7.5
+  },
+  {
+    "#Produit": "OFM2257",
+    "Watts": 2250.0,
+    "Tension": "347V",
+    "Prix": 259.00,
+    "Longueur_po": 92.625,
+    "Longueur_mm": 2353.0,
+    "Poids_lb": 16.5,
+    "Poids_kg": 7.5
+  },
+  {
+    "#Produit": "OFM2256",
+    "Watts": 2250.0,
+    "Tension": "600V",
+    "Prix": 259.00,
+    "Longueur_po": 92.625,
+    "Longueur_mm": 2353.0,
+    "Poids_lb": 16.5,
+    "Poids_kg": 7.5
+  },
+  {
+    "#Produit": "OFM2508",
+    "Watts": 2500.0,
+    "Tension": "208V",
+    "Prix": 230.25,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2500",
+    "Watts": 2500.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "2500/1875",
+    "Prix": 230.25,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2507",
+    "Watts": 2500.0,
+    "Tension": "347V",
+    "Prix": 277.00,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2506",
+    "Watts": 2500.0,
+    "Tension": "600V",
+    "Prix": 277.00,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  }
+]
+```
+
+-------
+
+## Tableau OFM - Modèles à basse densité moyenne de 200W/pi
+
+```json
+[
+  {
+    "#Produit": "OFM0302-691",
+    "Watts": 300.0,
+    "Tension": "120V",
+    "Prix": 108.25,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 691.0,
+    "Poids_lb": 5.5,
+    "Poids_kg": 2.5
+  },
+  {
+    "#Produit": "OFM0308-691",
+    "Watts": 300.0,
+    "Tension": "208V",
+    "Prix": 85.75,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 691.0,
+    "Poids_lb": 5.5,
+    "Poids_kg": 2.5
+  },
+  {
+    "#Produit": "OFM0300-691",
+    "Watts": 300.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "300/225",
+    "Prix": 85.75,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 691.0,
+    "Poids_lb": 5.5,
+    "Poids_kg": 2.5
+  },
+  {
+    "#Produit": "OFM0502-945",
+    "Watts": 500.0,
+    "Tension": "120V",
+    "Prix": 125.75,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 945.0,
+    "Poids_lb": 7.3,
+    "Poids_kg": 3.3
+  },
+  {
+    "#Produit": "OFM0508-945",
+    "Watts": 500.0,
+    "Tension": "208V",
+    "Prix": 99.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 945.0,
+    "Poids_lb": 7.3,
+    "Poids_kg": 3.3
+  },
+  {
+    "#Produit": "OFM0500-945",
+    "Watts": 500.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "500/375",
+    "Prix": 99.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 945.0,
+    "Poids_lb": 7.3,
+    "Poids_kg": 3.3
+  },
+  {
+    "#Produit": "OFM0507-945",
+    "Watts": 500.0,
+    "Tension": "347V",
+    "Prix": 119.50,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 945.0,
+    "Poids_lb": 7.3,
+    "Poids_kg": 3.3
+  },
+  {
+    "#Produit": "OFM0752-1206",
+    "Watts": 750.0,
+    "Tension": "120V",
+    "Prix": 145.75,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM0758-1206",
+    "Watts": 750.0,
+    "Tension": "208V",
+    "Prix": 115.25,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM0750-1206",
+    "Watts": 750.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "750/563",
+    "Prix": 115.25,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM0757-1206",
+    "Watts": 750.0,
+    "Tension": "347V",
+    "Prix": 139.75,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM0756-1206",
+    "Watts": 750.0,
+    "Tension": "600V",
+    "Prix": 139.75,
+    "Longueur_po": 47.5,
+    "Longueur_mm": 1206.0,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.0
+  },
+  {
+    "#Produit": "OFM1002-1447",
+    "Watts": 1000.0,
+    "Tension": "120V",
+    "Prix": 178.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1008-1447",
+    "Watts": 1000.0,
+    "Tension": "208V",
+    "Prix": 137.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1000-1447",
+    "Watts": 1000.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "1000/750",
+    "Prix": 137.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1007-1447",
+    "Watts": 1000.0,
+    "Tension": "347V",
+    "Prix": 170.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1006-1447",
+    "Watts": 1000.0,
+    "Tension": "600V",
+    "Prix": 170.00,
+    "Longueur_po": 57.0,
+    "Longueur_mm": 1447.0,
+    "Poids_lb": 10.5,
+    "Poids_kg": 4.8
+  },
+  {
+    "#Produit": "OFM1252-1668",
+    "Watts": 1250.0,
+    "Tension": "120V",
+    "Prix": 187.00,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1258-1668",
+    "Watts": 1250.0,
+    "Tension": "208V",
+    "Prix": 148.25,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1250-1668",
+    "Watts": 1250.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "1250/938",
+    "Prix": 148.25,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1257-1668",
+    "Watts": 1250.0,
+    "Tension": "347V",
+    "Prix": 182.25,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1256-1668",
+    "Watts": 1250.0,
+    "Tension": "600V",
+    "Prix": 182.25,
+    "Longueur_po": 65.6875,
+    "Longueur_mm": 1668.0,
+    "Poids_lb": 12.0,
+    "Poids_kg": 5.5
+  },
+  {
+    "#Produit": "OFM1502-2128",
+    "Watts": 1500.0,
+    "Tension": "120V",
+    "Prix": 223.75,
+    "Longueur_po": 83.8125,
+    "Longueur_mm": 2128.0,
+    "Poids_lb": 15.0,
+    "Poids_kg": 6.8
+  },
+  {
+    "#Produit": "OFM1508-2128",
+    "Watts": 1500.0,
+    "Tension": "208V",
+    "Prix": 194.00,
+    "Longueur_po": 83.8125,
+    "Longueur_mm": 2128.0,
+    "Poids_lb": 15.0,
+    "Poids_kg": 6.8
+  },
+  {
+    "#Produit": "OFM1500-2128",
+    "Watts": 1500.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "1500/1125",
+    "Prix": 194.00,
+    "Longueur_po": 83.8125,
+    "Longueur_mm": 2128.0,
+    "Poids_lb": 15.0,
+    "Poids_kg": 6.8
+  },
+  {
+    "#Produit": "OFM1507-2128",
+    "Watts": 1500.0,
+    "Tension": "347V",
+    "Prix": 233.50,
+    "Longueur_po": 83.8125,
+    "Longueur_mm": 2128.0,
+    "Poids_lb": 15.0,
+    "Poids_kg": 6.8
+  },
+  {
+    "#Produit": "OFM1506-2128",
+    "Watts": 1500.0,
+    "Tension": "600V",
+    "Prix": 233.50,
+    "Longueur_po": 83.8125,
+    "Longueur_mm": 2128.0,
+    "Poids_lb": 15.0,
+    "Poids_kg": 6.8
+  },
+  {
+    "#Produit": "OFM1758-2353",
+    "Watts": 1750.0,
+    "Tension": "208V",
+    "Prix": 213.75,
+    "Longueur_po": 92.625,
+    "Longueur_mm": 2353.0,
+    "Poids_lb": 16.5,
+    "Poids_kg": 7.5
+  },
+  {
+    "#Produit": "OFM1750-2353",
+    "Watts": 1750.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "1750/1313",
+    "Prix": 213.75,
+    "Longueur_po": 92.625,
+    "Longueur_mm": 2353.0,
+    "Poids_lb": 16.5,
+    "Poids_kg": 7.5
+  },
+  {
+    "#Produit": "OFM1757-2353",
+    "Watts": 1750.0,
+    "Tension": "347V",
+    "Prix": 259.00,
+    "Longueur_po": 92.625,
+    "Longueur_mm": 2353.0,
+    "Poids_lb": 16.5,
+    "Poids_kg": 7.5
+  },
+  {
+    "#Produit": "OFM1756-2353",
+    "Watts": 1750.0,
+    "Tension": "600V",
+    "Prix": 259.00,
+    "Longueur_po": 92.625,
+    "Longueur_mm": 2353.0,
+    "Poids_lb": 16.5,
+    "Poids_kg": 7.5
+  },
+  {
+    "#Produit": "OFM2008-2585",
+    "Watts": 2000.0,
+    "Tension": "208V",
+    "Prix": 230.25,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2000-2585",
+    "Watts": 2000.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "2000/1500",
+    "Prix": 230.25,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2007-2585",
+    "Watts": 2000.0,
+    "Tension": "347V",
+    "Prix": 277.00,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2006-2585",
+    "Watts": 2000.0,
+    "Tension": "600V",
+    "Prix": 277.00,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2258-2585",
+    "Watts": 2250.0,
+    "Tension": "208V",
+    "Prix": 230.25,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2250-2585",
+    "Watts": 2250.0,
+    "Tension": "240/208V",
+    "Watts_240/208V": "2250/1688",
+    "Prix": 230.25,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2257-2585",
+    "Watts": 2250.0,
+    "Tension": "347V",
+    "Prix": 277.00,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  },
+  {
+    "#Produit": "OFM2256-2585",
+    "Watts": 2250.0,
+    "Tension": "600V",
+    "Prix": 277.00,
+    "Longueur_po": 101.8125,
+    "Longueur_mm": 2585.0,
+    "Poids_lb": 18.0,
+    "Poids_kg": 8.2
+  }
+]
+```
+
+-------
+
+## Tableau OFM - Options
+
+```json
+[
+  {
+    "#Produit": "KIT-OFM-BX-25",
+    "Type": "En trousse",
+    "Prix": 593.00,
+    "Description": "Trousse pour installation d'un câble électrique de type AC90 (BX), boite de 25 trousses"
+  },
+  {
+    "#Produit": "KIT-OFM-CI",
+    "Type": "En trousse",
+    "Prix": 113.25,
+    "Description": "Boîte de coins (intérieur et extérieur)"
+  },
+  {
+    "#Produit": "KIT-OFM-DIS20",
+    "Type": "En trousse",
+    "Produit_Installé": "DIS20",
+    "Prix": 175.50,
+    "Description": "Interrupteur principal, bipolaire, 20A à 250V max."
+  },
+  {
+    "#Produit": "KIT-OFM-JT",
+    "Type": "En trousse",
+    "Prix": 52.75,
+    "Description": "Joint de finition 3 9/16 po (90 mm)"
+  },
+  {
+    "#Produit": "KIT-OFM-RO1",
+    "Type": "En trousse",
+    "Prix": 89.25,
+    "Description": "Section de plinthe 6 po (152 mm) - Prise de type 5-15R en façade - 15A à 120V"
+  },
+  {
+    "#Produit": "KIT-OFM-RO2",
+    "Type": "En trousse",
+    "Prix": 303.00,
+    "Description": "Section de plinthe 6 po (152 mm) - Dériveur d'alimentation 240V vers prise type 6-20R en façade (interrupteur 20A, bipolaire, bidirectionnel)"
+  },
+  {
+    "#Produit": "KIT-OFM-RO2B",
+    "Type": "En trousse",
+    "Prix": 245.50,
+    "Description": "Section de plinthe 6 po (152 mm) - Prise de type 6-20R en façade - 240V"
+  },
+  {
+    "#Produit": "KIT-OFM-R-347",
+    "Type": "En trousse",
+    "Produit_Installé": "R",
+    "Prix": 94.25,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 18A à 347V"
+  },
+  {
+    "#Produit": "KIT-OFM-R-600",
+    "Type": "En trousse",
+    "Produit_Installé": "R",
+    "Prix": 128.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V"
+  },
+  {
+    "#Produit": "KIT-OFM-RT-120",
+    "Type": "En trousse",
+    "Produit_Installé": "RT",
+    "Prix": 159.25,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V"
+  },
+  {
+    "#Produit": "KIT-OFM-RT-208",
+    "Type": "En trousse",
+    "Produit_Installé": "RT",
+    "Prix": 132.75,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"
+  },
+  {
+    "#Produit": "KIT-OFM-RT-240",
+    "Type": "En trousse",
+    "Produit_Installé": "RT",
+    "Prix": 132.75,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"
+  },
+  {
+    "#Produit": "KIT-OFM-RT-277",
+    "Type": "En trousse",
+    "Produit_Installé": "RT",
+    "Prix": 132.75,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V"
+  },
+  {
+    "#Produit": "KIT-OFM-RT-347",
+    "Type": "En trousse",
+    "Produit_Installé": "RT",
+    "Prix": 132.75,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"
+  },
+  {
+    "#Produit": "KIT-OFM-RT-6003",
+    "Type": "En trousse",
+    "Produit_Installé": "RT3",
+    "Prix": 191.25,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V,10A à 600V (2 fils seulement)"
+  },
+  {
+    "#Produit": "KIT-OFM-240SPLITTER",
+    "Type": "En trousse",
+    "Prix": 131.75,
+    "Description": "Section de plinthe 6 po (152 mm) - Dériveur d'alimentation 240V pour brancher un autre appareil de façon permanente (interrupteur 20A, bipolaire, bidirectionnel)"
+  },
+  {
+    "#Produit": "KIT-OFM-THA5",
+    "Type": "En trousse",
+    "Produit_Installé": "THACD5",
+    "Prix": 49.25,
+    "Description": "Thermostat électronique avec bouton rotatif ultraprécis pour installation à droite seulement : 12.5A à 120V, 208V, 240V"
+  },
+  {
+    "#Produit": "THCG4",
+    "Type": "Installée en usine",
+    "Prix": 194.50,
+    "Description": "Section de plinthe 6 po (152 mm) avec thermostat électronique intégré (240V seulement), installée du côté gauche"
+  },
+  {
+    "#Produit": "KIT-OFM-SR",
+    "Type": "En trousse",
+    "Prix": 95.00,
+    "Description": "Section de plinthe 6 po (152 mm) pour installation d'un relais 24V (relais non inclus)"
+  },
+  {
+    "#Produit": "KIT-OFM-TB6",
+    "Type": "En trousse",
+    "Produit_Installé": "TB6",
+    "Prix": 50.75,
+    "Description": "Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "#Produit": "KIT-OFM-TB262",
+    "Type": "En trousse",
+    "Produit_Installé": "TB262",
+    "Prix": 61.00,
+    "Description": "Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "#Produit": "KIT-OFM-TB6-AV",
+    "Type": "En trousse",
+    "Produit_Installé": "TB6AV",
+    "Prix": 90.75,
+    "Description": "Thermostat bimétallique, unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "#Produit": "KIT-OFM-TB26-AV2",
+    "Type": "En trousse",
+    "Produit_Installé": "TB26AV2",
+    "Prix": 93.50,
+    "Description": "Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "#Produit": "KIT-OFM-TRIAC-347",
+    "Type": "En trousse",
+    "Produit_Installé": "TRIAC",
+    "Prix": 93.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."
+  },
+  {
+    "#Produit": "KIT-OFM-TRIAC-347T",
+    "Type": "En trousse",
+    "Produit_Installé": "TRIACT",
+    "Prix": 131.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 277V, 347V"
+  },
+  {
+    "#Produit": "KIT-OFM-TRIAC-600",
+    "Type": "En trousse",
+    "Produit_Installé": "TRIAC",
+    "Prix": 170.75,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."
+  }
+]
+```

@@ -1,0 +1,747 @@
+# OWD - Aérotherme lavable
+
+## Caractéristiques
+
+### Tension
+• 208V, 240V, 277V, 480V, 600V, 1 ou 3 phases.
+
+### Construction
+• Boîtier mécanique en acier inoxydable type 304 de calibre 16, résistant à la corrosion.*
+• Volets de sortie d'air en acier inoxydable. 1
+• Grille de protection en acier inoxydable, qui empêche les contacts accidentels avec le ventilateur. 2
+• Protection thermique à réenclenchement automatique (ou manuel en option).
+• Boîtier électrique non métallique NEMA 4X. 3
+• Lampe témoin indiquant la mise sous tension des éléments en option.
+• Interrupteur principal à poignée verrouillable en option.
+
+### Ventilateur
+• Ventilateur à action différée en aluminium anodisé.
+• Moteur fermé à roulement à billes recouvert d'époxy, parfaitement étanche et lubrifié en permanence. 4
+• Ventilateur recouvert d'époxy.
+• Conçu pour résister à l'humidité et à la corrosion.
+
+### Élément
+• Élément tubulaire scellé à ailettes en acier inoxydable de type 316*. 5
+
+### Régulation
+• Circuit de commande à 24V avec transformateur et contacteur.
+• Thermostat intégré à tube capillaire en option.
+• Commande de ventilateur en option.
+
+### Installation
+• Boîtier électrique placé sous l'unité, facilitant l'installation et l'entretien.
+• Support pivotant en acier inoxydable inclus, permettant le montage au mur ou au plafond.
+
+### Garantie
+• 1 an contre tous vices.
+
+### Application
+Agroalimentaire, installations maritimes et côtières, lave-auto, laiterie
+
+-------
+
+## Tableau OWD - Aérotherme lavable (Modèles)
+
+```json
+[
+  {
+    "#Produit": "OWD03008",
+    "kW": 3.0,
+    "Tension": "208V (1 ph)",
+    "Prix": 5710.00,
+    "BTU/hr": 10236.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 8.0,
+    "Hausse de température °F": 14.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD03038",
+    "kW": 3.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 5710.00,
+    "BTU/hr": 10236.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 8.0,
+    "Hausse de température °F": 14.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD03000",
+    "kW": 3.0,
+    "Tension": "240V (1 ph)",
+    "Prix": 5710.00,
+    "BTU/hr": 10236.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 8.0,
+    "Hausse de température °F": 14.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD03030",
+    "kW": 3.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 5710.00,
+    "BTU/hr": 10236.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 8.0,
+    "Hausse de température °F": 14.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD03034",
+    "kW": 3.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 5710.00,
+    "BTU/hr": 10236.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 8.0,
+    "Hausse de température °F": 14.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD03036",
+    "kW": 3.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 5710.00,
+    "BTU/hr": 10236.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 8.0,
+    "Hausse de température °F": 14.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD05008",
+    "kW": 5.0,
+    "Tension": "208V (1 ph)",
+    "Prix": 5779.00,
+    "BTU/hr": 17060.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 13.0,
+    "Hausse de température °F": 24.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD05038",
+    "kW": 5.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 5779.00,
+    "BTU/hr": 17060.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 13.0,
+    "Hausse de température °F": 24.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD05000",
+    "kW": 5.0,
+    "Tension": "240V (1 ph)",
+    "Prix": 5779.00,
+    "BTU/hr": 17060.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 13.0,
+    "Hausse de température °F": 24.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD05030",
+    "kW": 5.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 5779.00,
+    "BTU/hr": 17060.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 13.0,
+    "Hausse de température °F": 24.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD05034",
+    "kW": 5.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 5779.00,
+    "BTU/hr": 17060.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 13.0,
+    "Hausse de température °F": 24.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD05036",
+    "kW": 5.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 5779.00,
+    "BTU/hr": 17060.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 13.0,
+    "Hausse de température °F": 24.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD07508",
+    "kW": 7.5,
+    "Tension": "208V (1 ph)",
+    "Prix": 5926.00,
+    "BTU/hr": 25590.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 19.0,
+    "Hausse de température °F": 35.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD07538",
+    "kW": 7.5,
+    "Tension": "208V (3 ph)",
+    "Prix": 5926.00,
+    "BTU/hr": 25590.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 19.0,
+    "Hausse de température °F": 35.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD07500",
+    "kW": 7.5,
+    "Tension": "240V (1 ph)",
+    "Prix": 5926.00,
+    "BTU/hr": 25590.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 19.0,
+    "Hausse de température °F": 35.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD07530",
+    "kW": 7.5,
+    "Tension": "240V (3 ph)",
+    "Prix": 5926.00,
+    "BTU/hr": 25590.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 19.0,
+    "Hausse de température °F": 35.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD07534",
+    "kW": 7.5,
+    "Tension": "480V (3 ph)",
+    "Prix": 5926.00,
+    "BTU/hr": 25590.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 19.0,
+    "Hausse de température °F": 35.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD07536",
+    "kW": 7.5,
+    "Tension": "600V (3 ph)",
+    "Prix": 5926.00,
+    "BTU/hr": 25590.0,
+    "pcm": 700.0,
+    "Hausse de température °C": 19.0,
+    "Hausse de température °F": 35.0,
+    "Portée pi": 26.0,
+    "Portée m": 8.0
+  },
+  {
+    "#Produit": "OWD09008",
+    "kW": 9.0,
+    "Tension": "208V (1 ph)",
+    "Prix": 6076.00,
+    "BTU/hr": 30708.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD09038",
+    "kW": 9.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 6076.00,
+    "BTU/hr": 30708.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD09000",
+    "kW": 9.0,
+    "Tension": "240V (1 ph)",
+    "Prix": 6076.00,
+    "BTU/hr": 30708.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD09030",
+    "kW": 9.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 6076.00,
+    "BTU/hr": 30708.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD09034",
+    "kW": 9.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 6076.00,
+    "BTU/hr": 30708.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD09036",
+    "kW": 9.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 6076.00,
+    "BTU/hr": 30708.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD10038",
+    "kW": 10.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 6376.00,
+    "BTU/hr": 34120.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 12.0,
+    "Hausse de température °F": 22.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD10000",
+    "kW": 10.0,
+    "Tension": "240V (1 ph)",
+    "Prix": 6376.00,
+    "BTU/hr": 34120.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 12.0,
+    "Hausse de température °F": 22.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD10030",
+    "kW": 10.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 6376.00,
+    "BTU/hr": 34120.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 12.0,
+    "Hausse de température °F": 22.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD10034",
+    "kW": 10.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 6376.00,
+    "BTU/hr": 34120.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 12.0,
+    "Hausse de température °F": 22.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD10036",
+    "kW": 10.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 6376.00,
+    "BTU/hr": 34120.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 12.0,
+    "Hausse de température °F": 22.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD12038",
+    "kW": 12.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 6429.00,
+    "BTU/hr": 40944.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 14.0,
+    "Hausse de température °F": 26.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD12030",
+    "kW": 12.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 6429.00,
+    "BTU/hr": 40944.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 14.0,
+    "Hausse de température °F": 26.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD12034",
+    "kW": 12.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 6429.00,
+    "BTU/hr": 40944.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 14.0,
+    "Hausse de température °F": 26.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD12036",
+    "kW": 12.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 6429.00,
+    "BTU/hr": 40944.0,
+    "pcm": 1450.0,
+    "Hausse de température °C": 14.0,
+    "Hausse de température °F": 26.0,
+    "Portée pi": 43.0,
+    "Portée m": 13.0
+  },
+  {
+    "#Produit": "OWD12538",
+    "kW": 12.5,
+    "Tension": "208V (3 ph)",
+    "Prix": 8169.00,
+    "BTU/hr": 42650.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 9.0,
+    "Hausse de température °F": 17.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD12530",
+    "kW": 12.5,
+    "Tension": "240V (3 ph)",
+    "Prix": 8169.00,
+    "BTU/hr": 42650.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 9.0,
+    "Hausse de température °F": 17.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD12534",
+    "kW": 12.5,
+    "Tension": "480V (3 ph)",
+    "Prix": 8169.00,
+    "BTU/hr": 42650.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 9.0,
+    "Hausse de température °F": 17.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD12536",
+    "kW": 12.5,
+    "Tension": "600V (3 ph)",
+    "Prix": 8169.00,
+    "BTU/hr": 42650.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 9.0,
+    "Hausse de température °F": 17.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD15038",
+    "kW": 15.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 8261.00,
+    "BTU/hr": 51180.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 12.0,
+    "Hausse de température °F": 21.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD15030",
+    "kW": 15.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 8261.00,
+    "BTU/hr": 51180.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 12.0,
+    "Hausse de température °F": 21.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD15034",
+    "kW": 15.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 8261.00,
+    "BTU/hr": 51180.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 12.0,
+    "Hausse de température °F": 21.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD15036",
+    "kW": 15.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 8261.00,
+    "BTU/hr": 51180.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 12.0,
+    "Hausse de température °F": 21.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD20034",
+    "kW": 20.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 8524.00,
+    "BTU/hr": 68240.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 16.0,
+    "Hausse de température °F": 28.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD20036",
+    "kW": 20.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 8524.00,
+    "BTU/hr": 68240.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 16.0,
+    "Hausse de température °F": 28.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD25034",
+    "kW": 25.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 9570.00,
+    "BTU/hr": 85300.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 19.0,
+    "Hausse de température °F": 35.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD25036",
+    "kW": 25.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 9570.00,
+    "BTU/hr": 85300.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 19.0,
+    "Hausse de température °F": 35.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD30034",
+    "kW": 30.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 9903.00,
+    "BTU/hr": 102360.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 23.0,
+    "Hausse de température °F": 42.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD30036",
+    "kW": 30.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 9903.00,
+    "BTU/hr": 102360.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 23.0,
+    "Hausse de température °F": 42.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD35034",
+    "kW": 35.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 10308.00,
+    "BTU/hr": 119420.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 27.0,
+    "Hausse de température °F": 48.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD35036",
+    "kW": 35.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 10308.00,
+    "BTU/hr": 119420.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 27.0,
+    "Hausse de température °F": 48.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD38434",
+    "kW": 38.4,
+    "Tension": "480V (3 ph)",
+    "Prix": 10332.00,
+    "BTU/hr": 131020.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 30.0,
+    "Hausse de température °F": 54.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD38436",
+    "kW": 38.4,
+    "Tension": "600V (3 ph)",
+    "Prix": 10332.00,
+    "BTU/hr": 131020.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 30.0,
+    "Hausse de température °F": 54.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  },
+  {
+    "#Produit": "OWD47036",
+    "kW": 47.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 10480.00,
+    "BTU/hr": 160364.0,
+    "pcm": 2400.0,
+    "Hausse de température °C": 36.0,
+    "Hausse de température °F": 64.0,
+    "Portée pi": 50.0,
+    "Portée m": 15.0
+  }
+]
+```
+
+-------
+
+## Tableau OWD - Aérotherme lavable (Options)
+
+```json
+[
+  {
+    "#Produit": "120.0",
+    "Type": "Installée en usine*",
+    "Prix": 257.00,
+    "Description": "Circuit de commande à 120V"
+  },
+  {
+    "#Produit": "EP",
+    "Type": "Installée en usine*",
+    "Prix": 731.00,
+    "Description": "Finition à la peinture d'époxy pour une meilleure résistance à la corrosion selon l'environnement"
+  },
+  {
+    "#Produit": "I1",
+    "Type": "Installée en usine*",
+    "Prix": 862.00,
+    "Description": "Interrupteur principal à poignée verrouillable"
+  },
+  {
+    "#Produit": "L",
+    "Type": "Installée en usine*",
+    "Prix": 545.00,
+    "Description": "Lampe témoin «En marche»"
+  },
+  {
+    "#Produit": "ME1",
+    "Type": "Installée en usine*",
+    "Prix": 1205.00,
+    "Description": "Éléments en monel pour appareil de 3 à 20kW pour une meilleure résistance à la corrosion selon l'environnement"
+  },
+  {
+    "#Produit": "ME2",
+    "Type": "Installée en usine*",
+    "Prix": 3030.00,
+    "Description": "Éléments en monel pour appareil de 25 à 38.4kW pour une meilleure résistance à la corrosion selon l'environnement"
+  },
+  {
+    "#Produit": "PTM",
+    "Type": "Installée en usine*",
+    "Prix": 545.00,
+    "Description": "Protection thermique à réenclenchement manuel"
+  },
+  {
+    "#Produit": "S",
+    "Type": "Installée en usine*",
+    "Prix": 798.00,
+    "Description": "Interrupteur à trois positions : On/Mise en veille/Ventilateur"
+  },
+  {
+    "#Produit": "T",
+    "Type": "Installée en usine*",
+    "Prix": 545.00,
+    "Description": "Thermostat"
+  },
+  {
+    "#Produit": "T2S",
+    "Type": "Installée en usine*",
+    "Prix": 1366.00,
+    "Description": "Thermostat 2 stages"
+  },
+  {
+    "#Produit": "OWD-TM",
+    "Type": "En trousse",
+    "Prix": 611.00,
+    "Description": "Themostat mural NEMA 4X, plage de 4 °C à 43 °C (40 °F à 110 °F) : 25A à 120V, 208V, 240V - 22A à 277V (Compatible with 24VAC control circuit)"
+  }
+]
+```

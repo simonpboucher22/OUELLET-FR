@@ -1,0 +1,664 @@
+# OHX - Aérotherme antidéflagrant
+
+## Caractéristiques
+
+**Couleur**
+• Standard : rouge.
+
+**Finition**
+• Standard : peinture à la poudre d'époxy/polyester.
+
+**Tension**
+• 208V, 240V, 480V, 600V, 1 ou 3 phases.
+
+**Construction**
+• Boîtier en acier de calibre 14.
+• Volets ajustables en aluminium anodisé.
+• Couvercle du boîtier électrique en aluminium moulé avec joint torique NEMA de type 7 et 9.
+• Grillage de protection en tiges métalliques.
+
+**Protection**
+• Dispositif de sûreté de pression haute température en acier inoxydable.
+• Deux protections thermiques : une à réenclenchement automatique et une à réenclenchement manuel.
+
+**Ventilateur**
+• Moteur antidéflagrant à roulement à billes, lubrifié à vie et protégé thermiquement.
+• 3 à 20kW : 1/4 HP, 1725 rpm.
+• 25 à 35kW : 1/2 HP, 1725 rpm.
+
+**Codes de température**
+• Système de divisions : 5 à 30kW = T3B 165 °C (329 °F), 3kW/35kW = T3A 180 °C (356 °F).
+• Système de zones T3 200 °C (392 °F).
+
+-------
+
+**Échangeur de chaleur**
+• Éléments à haute teneur d'acier remplis de glycol d'éthylène/solution d'eau.
+• Longue durée, basse densité.
+• Noyau en acier, scellé et vidé, avec 10 ailettes en aluminium par pouce.
+
+**Régulation**
+• Circuit de commande à 120VAC standard.
+• Circuit de commande 24VAC en option (recommandé en raison du voltage plus sécuritaire). Requis pour utilisation avec thermostat électronique.
+• Thermostat intégré ou mural en option (bimétallique ou électronique).
+• Interrupteur principal intégré ou mural en option.
+
+**Options**
+• Lumière témoin de chauffage.
+• Fonctionnement continue du ventilateur.
+• Revêtement phénolique cuit d'Heresite.
+
+**Installation**
+• Accessoires disponibles.
+
+**Garantie**
+• 3 ans contre tous vices.
+
+**Application**
+• Zone de stockage de peinture, usine de pétrochimie, raffinerie, mine, entrepôt de matières dangereuses, usine de sciage.
+
+*Consulter le Code de l'électricité de votre région avant de faire l'installation de ces unités*
+
+-------
+
+## Tableau OHX - Aérotherme antidéflagrant - Modèles
+
+```json
+[
+  {
+    "#Produit": "OHX03008",
+    "kW": 3.0,
+    "Tension": "208V (1 ph)",
+    "Prix": 7790.00,
+    "BTU/hr": 10236.0,
+    "pcm": 350.0,
+    "Hausse T°_°C": 18.0,
+    "Hausse T°_°F": 32.2,
+    "Code T°": "T3A",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX03038",
+    "kW": 3.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 7790.00,
+    "BTU/hr": 10236.0,
+    "pcm": 350.0,
+    "Hausse T°_°C": 18.0,
+    "Hausse T°_°F": 32.2,
+    "Code T°": "T3A",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX03000",
+    "kW": 3.0,
+    "Tension": "240V (1 ph)",
+    "Prix": 7790.00,
+    "BTU/hr": 10236.0,
+    "pcm": 350.0,
+    "Hausse T°_°C": 18.0,
+    "Hausse T°_°F": 32.2,
+    "Code T°": "T3A",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX03030",
+    "kW": 3.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 7790.00,
+    "BTU/hr": 10236.0,
+    "pcm": 350.0,
+    "Hausse T°_°C": 18.0,
+    "Hausse T°_°F": 32.2,
+    "Code T°": "T3A",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX03034",
+    "kW": 3.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 7790.00,
+    "BTU/hr": 10236.0,
+    "pcm": 350.0,
+    "Hausse T°_°C": 18.0,
+    "Hausse T°_°F": 32.2,
+    "Code T°": "T3A",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX03036",
+    "kW": 3.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 7790.00,
+    "BTU/hr": 10236.0,
+    "pcm": 350.0,
+    "Hausse T°_°C": 18.0,
+    "Hausse T°_°F": 32.2,
+    "Code T°": "T3A",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX05008",
+    "kW": 5.0,
+    "Tension": "208V (1 ph)",
+    "Prix": 8206.00,
+    "BTU/hr": 17060.0,
+    "pcm": 400.0,
+    "Hausse T°_°C": 21.2,
+    "Hausse T°_°F": 38.1,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX05038",
+    "kW": 5.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 8206.00,
+    "BTU/hr": 17060.0,
+    "pcm": 400.0,
+    "Hausse T°_°C": 21.2,
+    "Hausse T°_°F": 38.1,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX05000",
+    "kW": 5.0,
+    "Tension": "240V (1 ph)",
+    "Prix": 8206.00,
+    "BTU/hr": 17060.0,
+    "pcm": 400.0,
+    "Hausse T°_°C": 21.2,
+    "Hausse T°_°F": 38.1,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX05030",
+    "kW": 5.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 8206.00,
+    "BTU/hr": 17060.0,
+    "pcm": 400.0,
+    "Hausse T°_°C": 21.2,
+    "Hausse T°_°F": 38.1,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX05034",
+    "kW": 5.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 8206.00,
+    "BTU/hr": 17060.0,
+    "pcm": 400.0,
+    "Hausse T°_°C": 21.2,
+    "Hausse T°_°F": 38.1,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX05036",
+    "kW": 5.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 8206.00,
+    "BTU/hr": 17060.0,
+    "pcm": 400.0,
+    "Hausse T°_°C": 21.2,
+    "Hausse T°_°F": 38.1,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX07508",
+    "kW": 7.5,
+    "Tension": "208V (1 ph)",
+    "Prix": 8800.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse T°_°C": 22.4,
+    "Hausse T°_°F": 40.4,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX07538",
+    "kW": 7.5,
+    "Tension": "208V (3 ph)",
+    "Prix": 8800.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse T°_°C": 22.4,
+    "Hausse T°_°F": 40.4,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX07500",
+    "kW": 7.5,
+    "Tension": "240V (1 ph)",
+    "Prix": 8800.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse T°_°C": 22.4,
+    "Hausse T°_°F": 40.4,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX07530",
+    "kW": 7.5,
+    "Tension": "240V (3 ph)",
+    "Prix": 8800.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse T°_°C": 22.4,
+    "Hausse T°_°F": 40.4,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX07534",
+    "kW": 7.5,
+    "Tension": "480V (3 ph)",
+    "Prix": 8800.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse T°_°C": 22.4,
+    "Hausse T°_°F": 40.4,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX07536",
+    "kW": 7.5,
+    "Tension": "600V (3 ph)",
+    "Prix": 8800.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse T°_°C": 22.4,
+    "Hausse T°_°F": 40.4,
+    "Code T°": "T3B",
+    "Poids_lb": 188.0,
+    "Poids_kg": 85.3
+  },
+  {
+    "#Produit": "OHX10038",
+    "kW": 10.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 9394.00,
+    "BTU/hr": 34120.0,
+    "pcm": 800.0,
+    "Hausse T°_°C": 21.6,
+    "Hausse T°_°F": 38.8,
+    "Code T°": "T3B",
+    "Poids_lb": 192.0,
+    "Poids_kg": 87.1
+  },
+  {
+    "#Produit": "OHX10000",
+    "kW": 10.0,
+    "Tension": "240V (1 ph)",
+    "Prix": 9394.00,
+    "BTU/hr": 34120.0,
+    "pcm": 800.0,
+    "Hausse T°_°C": 21.6,
+    "Hausse T°_°F": 38.8,
+    "Code T°": "T3B",
+    "Poids_lb": 192.0,
+    "Poids_kg": 87.1
+  },
+  {
+    "#Produit": "OHX10030",
+    "kW": 10.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 9394.00,
+    "BTU/hr": 34120.0,
+    "pcm": 800.0,
+    "Hausse T°_°C": 21.6,
+    "Hausse T°_°F": 38.8,
+    "Code T°": "T3B",
+    "Poids_lb": 192.0,
+    "Poids_kg": 87.1
+  },
+  {
+    "#Produit": "OHX10034",
+    "kW": 10.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 9394.00,
+    "BTU/hr": 34120.0,
+    "pcm": 800.0,
+    "Hausse T°_°C": 21.6,
+    "Hausse T°_°F": 38.8,
+    "Code T°": "T3B",
+    "Poids_lb": 192.0,
+    "Poids_kg": 87.1
+  },
+  {
+    "#Produit": "OHX10036",
+    "kW": 10.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 9394.00,
+    "BTU/hr": 34120.0,
+    "pcm": 800.0,
+    "Hausse T°_°C": 21.6,
+    "Hausse T°_°F": 38.8,
+    "Code T°": "T3B",
+    "Poids_lb": 192.0,
+    "Poids_kg": 87.1
+  },
+  {
+    "#Produit": "OHX15038",
+    "kW": 15.0,
+    "Tension": "208V (3 ph)",
+    "Prix": 9694.00,
+    "BTU/hr": 51180.0,
+    "pcm": 1200.0,
+    "Hausse T°_°C": 21.7,
+    "Hausse T°_°F": 39.1,
+    "Code T°": "T3B",
+    "Poids_lb": 224.0,
+    "Poids_kg": 101.6
+  },
+  {
+    "#Produit": "OHX15030",
+    "kW": 15.0,
+    "Tension": "240V (3 ph)",
+    "Prix": 9694.00,
+    "BTU/hr": 51180.0,
+    "pcm": 1200.0,
+    "Hausse T°_°C": 21.7,
+    "Hausse T°_°F": 39.1,
+    "Code T°": "T3B",
+    "Poids_lb": 224.0,
+    "Poids_kg": 101.6
+  },
+  {
+    "#Produit": "OHX15034",
+    "kW": 15.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 9694.00,
+    "BTU/hr": 51180.0,
+    "pcm": 1200.0,
+    "Hausse T°_°C": 21.7,
+    "Hausse T°_°F": 39.1,
+    "Code T°": "T3B",
+    "Poids_lb": 224.0,
+    "Poids_kg": 101.6
+  },
+  {
+    "#Produit": "OHX15036",
+    "kW": 15.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 9694.00,
+    "BTU/hr": 51180.0,
+    "pcm": 1200.0,
+    "Hausse T°_°C": 21.7,
+    "Hausse T°_°F": 39.1,
+    "Code T°": "T3B",
+    "Poids_lb": 224.0,
+    "Poids_kg": 101.6
+  },
+  {
+    "#Produit": "OHX20034",
+    "kW": 20.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 10296.00,
+    "BTU/hr": 68240.0,
+    "pcm": 1700.0,
+    "Hausse T°_°C": 20.7,
+    "Hausse T°_°F": 37.3,
+    "Code T°": "T3B",
+    "Poids_lb": 224.0,
+    "Poids_kg": 101.6
+  },
+  {
+    "#Produit": "OHX20036",
+    "kW": 20.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 10296.00,
+    "BTU/hr": 68240.0,
+    "pcm": 1700.0,
+    "Hausse T°_°C": 20.7,
+    "Hausse T°_°F": 37.3,
+    "Code T°": "T3B",
+    "Poids_lb": 224.0,
+    "Poids_kg": 101.6
+  },
+  {
+    "#Produit": "OHX25034",
+    "kW": 25.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 11274.00,
+    "BTU/hr": 85300.0,
+    "pcm": 2100.0,
+    "Hausse T°_°C": 20.8,
+    "Hausse T°_°F": 37.5,
+    "Code T°": "T3B",
+    "Poids_lb": 261.0,
+    "Poids_kg": 118.4
+  },
+  {
+    "#Produit": "OHX25036",
+    "kW": 25.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 11274.00,
+    "BTU/hr": 85300.0,
+    "pcm": 2100.0,
+    "Hausse T°_°C": 20.8,
+    "Hausse T°_°F": 37.5,
+    "Code T°": "T3B",
+    "Poids_lb": 261.0,
+    "Poids_kg": 118.4
+  },
+  {
+    "#Produit": "OHX30034",
+    "kW": 30.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 11967.00,
+    "BTU/hr": 102360.0,
+    "pcm": 3000.0,
+    "Hausse T°_°C": 17.5,
+    "Hausse T°_°F": 31.5,
+    "Code T°": "T3B",
+    "Poids_lb": 261.0,
+    "Poids_kg": 118.4
+  },
+  {
+    "#Produit": "OHX30036",
+    "kW": 30.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 11967.00,
+    "BTU/hr": 102360.0,
+    "pcm": 3000.0,
+    "Hausse T°_°C": 17.5,
+    "Hausse T°_°F": 31.5,
+    "Code T°": "T3B",
+    "Poids_lb": 261.0,
+    "Poids_kg": 118.4
+  },
+  {
+    "#Produit": "OHX35034",
+    "kW": 35.0,
+    "Tension": "480V (3 ph)",
+    "Prix": 12950.00,
+    "BTU/hr": 119420.0,
+    "pcm": 3000.0,
+    "Hausse T°_°C": 20.4,
+    "Hausse T°_°F": 36.7,
+    "Code T°": "T3A",
+    "Poids_lb": 261.0,
+    "Poids_kg": 118.4
+  },
+  {
+    "#Produit": "OHX35036",
+    "kW": 35.0,
+    "Tension": "600V (3 ph)",
+    "Prix": 12950.00,
+    "BTU/hr": 119420.0,
+    "pcm": 3000.0,
+    "Hausse T°_°C": 20.4,
+    "Hausse T°_°F": 36.7,
+    "Code T°": "T3A",
+    "Poids_lb": 261.0,
+    "Poids_kg": 118.4
+  }
+]
+```
+
+-------
+
+## Tableau OHX - Aérotherme antidéflagrant - Options
+
+```json
+[
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "24.0",
+    "Référence": "B",
+    "Prix": "Sans frais",
+    "Description": "Transformateur et contacteur pour 24VAC (requis pour utilisation avec thermostat électronique intégré ou mural)"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "DIS",
+    "Référence": "D",
+    "Prix": 2638.00,
+    "Description": "Interrupteur principal"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "T1",
+    "Référence": "-",
+    "Prix": 810.00,
+    "Description": "Thermostat bimétallique intégré antidéflagrant, plage de 5 °C (40 °F) à 25 °C (80 °F)"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "T23",
+    "Référence": "-",
+    "Prix": 986.00,
+    "Description": "Thermostat électronique antidéflagrant (bas voltage), plage de 5 °C (40 °F) à 25 °C (80 °F) (utilisable avec circuit de contrôle à 24VAC seulement)"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "L",
+    "Référence": "P",
+    "Prix": 994.00,
+    "Description": "Témoin lumineux de chauffage"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "FC",
+    "Référence": "F",
+    "Prix": "Sans frais",
+    "Description": "Fonctionnement continue du ventilateur"
+  },
+  {
+    "#Produit_En_trousse": "OUE-BTX2-15A-W-N-A",
+    "#Produit_Installée_en_usine": "-",
+    "Référence": "-",
+    "Prix": 810.00,
+    "Description": "Thermostat bimétallique mural antidéflagrant, plage de 5 °C (40 °F) à 25 °C (80 °F), (utilisable avec circuit de contrôle à 24VAC ou 120VAC)"
+  },
+  {
+    "#Produit_En_trousse": "OUE-XET1-1-W-N-A3",
+    "#Produit_Installée_en_usine": "-",
+    "Référence": "-",
+    "Prix": 986.00,
+    "Description": "Thermostat électronique mural antidéflagrant (bas voltage), plage de 5 °C (40 °F) à 25 °C (80 °F), (utilisable avec circuit de contrôle à 24VAC seulement)"
+  },
+  {
+    "#Produit_En_trousse": "OUE-BLK1-W-N-A",
+    "#Produit_Installée_en_usine": "-",
+    "Référence": "-",
+    "Prix": 321.00,
+    "Description": "Trousse de conversion permettant le remplacement aisé d'un thermostat intégré pour un thermostat mural"
+  },
+  {
+    "#Produit_En_trousse": "OUE-XDC-01",
+    "#Produit_Installée_en_usine": "-",
+    "Référence": "-",
+    "Prix": 1939.00,
+    "Description": "Interrupteur principal mural antidéflagrant"
+  },
+  {
+    "#Produit_En_trousse": "OHX-MS",
+    "#Produit_Installée_en_usine": "-",
+    "Référence": "-",
+    "Prix": 273.00,
+    "Description": "Trousse de montage suspendu, tous les modèles. Montage à l'aide de tuyaux filetés de 1/2 po (12.5 mm) (min. cédule 40) non fourni."
+  },
+  {
+    "#Produit_En_trousse": "OHX-MBX4",
+    "#Produit_Installée_en_usine": "-",
+    "Référence": "-",
+    "Prix_3-10kW": 412.00,
+    "Prix_15-20kW": 412.00,
+    "Prix_25-35kW": 412.00,
+    "Description": "Trousse de montage de base. Peut être boulonné ou soudé directement à l'acier ou au béton de structure du bâtiment."
+  },
+  {
+    "#Produit_En_trousse": "OHX-MMX4",
+    "#Produit_Installée_en_usine": "-",
+    "Référence": "-",
+    "Prix_3-10kW": 495.00,
+    "Prix_15-20kW": 495.00,
+    "Prix_25-35kW": 495.00,
+    "Description": "Trousse de montage mural. Pour bâtiments avec des murs solides. Sections en Z fournissent un support additionnel,où nécessaire."
+  },
+  {
+    "#Produit_En_trousse": "OHX-MTX4",
+    "#Produit_Installée_en_usine": "-",
+    "Référence": "-",
+    "Prix_3-10kW": 495.00,
+    "Prix_15-20kW": 495.00,
+    "Prix_25-35kW": 495.00,
+    "Description": "Trousse de montage à un poteau. Installation murale lorsqu'un poteau de support doit être utilisé. Tuyau de 3 po (75 mm) (3 1/2 po [87.5 mm] O.D., min. cédule 40) non fourni."
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "HCCX4, 5",
+    "Référence": "H1",
+    "Prix_3-10kW": 2079.00,
+    "Prix_15-20kW": 2263.00,
+    "Prix_25-35kW": 2349.00,
+    "Description": "Revêtement phénolique cuit d'Heresite P-413 sur l'échangeur de chaleur seulement"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "HCBX4, 5",
+    "Référence": "H2",
+    "Prix_3-10kW": 3343.00,
+    "Prix_15-20kW": 3796.00,
+    "Prix_25-35kW": 4247.00,
+    "Description": "Revêtement phénolique cuit d'Heresite P-413 sur les volets, les pales du ventilateur, le grillage de protection et les panneaux du boîtier"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "HCUX4, 5",
+    "Référence": "H3",
+    "Prix_3-10kW": 4518.00,
+    "Prix_15-20kW": 4972.00,
+    "Prix_25-35kW": 5514.00,
+    "Description": "Revêtement phénolique cuit d'Heresite P-413 sur l'échangeur de chaleur, les volets, les pales du ventilateur, le grillage de protection et les panneaux du boitier"
+  }
+]
+```

@@ -1,0 +1,706 @@
+# ORA-EC40 Rideau d'air commercial et industriel
+
+## Caractéristiques
+- **Modèle**
+  • Chauffant électrique.
+  • Sans chauffage.
+- **Couleur**
+  • Boîtier en acier inoxydable : blanc (RAL 9016, NCS S 0500-N).
+  • Grille, face arrière et côtés : gris (RAL 7046).
+  • Couleurs sur mesure disponibles sur demande (Charte RAL).
+- **Tension**
+  • 208V, 480V, 600V, 60 Hz.
+- **Moteur**
+  • Faible coût de fonctionnement grâce à la combinaison d'un moteur EC à la géométrie unique de ventilateurs de Frico.
+- **Construction**
+  • Carte électronique externe pour faciliter le branchement et l'entretien.
+  • Accès rapide aux composantes internes par la trappe d'entretien.
+  • Protection thermique à réenclenchement automatique.
+  • Transformateur inclus à l'intérieur de l'appareil pour moteur et carte électronique (modèles 480V et 600V).
+- **Ventilateur**
+  • Ventilateurs à cage d'écureuil.
+- **Élément**
+  • Élément produisant une chaleur instantanée (modèle chauffant électrique).
+- **Régulation**
+  • Contrôle SIRe inclus.
+  • Interrupteur de porte inclus.
+  • Compatible avec le Système de Gestion du Bâtiment.
+  • Programmation personnalisée du rideau d'air.
+- **Installation**
+  • Hauteur maximum d'installation (montage horizontal) :
+    - Montage en surface au mur : 13.1 pi (4 m) du plancher.
+    - Montage encastré : 13.1 pi (4 m) du plancher.
+  • Largeur maximum d'installation (montage vertical) :
+    - 16 à 20 pi (5 à 6 m) 2 appareils, 1 de chaque côté.
+  • Pour un montage vertical, le rideau d'air doit être installé avec l'option trousse de jonction et de montage vertical PA4JK (non inclus).
+  • Installation discrète avec des fixations, des tubes et des câbles dissimulés avec l'option trousse de finition (non inclus).
+- **Note** : La hauteur d'installation préconisée peut varier selon les conditions d'installation. Les rideaux d'air doivent être placés le plus près possible de l'ouverture et couvrir toute la largeur.
+- **Garantie**
+  • 5 ans contre tous vices.
+- **Certification**
+  • AMCA 210, 220 et 300 pour les performances et l'acoustique et répond à la norme énergétique pour le code des bâtiments : Norme ANSI/ASHRAE/IES 90.1.
+- **Application**
+  • Porte de garage, vestibule, édifice commercial, hall d'entrée, porte de service, hôpital et entrée de magasin.
+
+-------
+
+## Tableau ORA-EC40 - Modèles
+
+```json
+[
+  {
+    "#Produit": "PAEC4010E12-600VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "600 (3)",
+    "Prix": "7508.00",
+    "kW Lo/Hi": "45759.0",
+    "Amp.": "15.0",
+    "pcm": "1400.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "80.0",
+    "Longueur effective du flux d'air (po)": "38.0",
+    "Longueur effective du flux d'air (mm)": "960.0",
+    "Poids (lb)": "104.0",
+    "Poids (kg)": "47.0"
+  },
+  {
+    "#Produit": "PAEC4015E18-600VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "600 (3)",
+    "Prix": "9106.00",
+    "kW Lo/Hi": "45826.0",
+    "Amp.": "23.0",
+    "pcm": "1950.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "81.0",
+    "Longueur effective du flux d'air (po)": "58.0",
+    "Longueur effective du flux d'air (mm)": "1470.0",
+    "Poids (lb)": "137.0",
+    "Poids (kg)": "62.0"
+  },
+  {
+    "#Produit": "PAEC4020E24-600VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "600 (3)",
+    "Prix": "13025.00",
+    "kW Lo/Hi": "45893.0",
+    "Amp.": "30.0",
+    "pcm": "2800.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "82.0",
+    "Longueur effective du flux d'air (po)": "77.0",
+    "Longueur effective du flux d'air (mm)": "1960.0",
+    "Poids (lb)": "185.0",
+    "Poids (kg)": "84.0"
+  },
+  {
+    "#Produit": "PAEC4025E30-600VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "600 (3)",
+    "Prix": "14865.00",
+    "kW Lo/Hi": "45960.0",
+    "Amp.": "38.0",
+    "pcm": "3300.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "83.0",
+    "Longueur effective du flux d'air (po)": "97.0",
+    "Longueur effective du flux d'air (mm)": "2470.0",
+    "Poids (lb)": "234.0",
+    "Poids (kg)": "106.0"
+  },
+  {
+    "#Produit": "PAEC4010E12-480VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "480 (3)",
+    "Prix": "7508.00",
+    "kW Lo/Hi": "45759.0",
+    "Amp.": "18.0",
+    "pcm": "1400.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "80.0",
+    "Longueur effective du flux d'air (po)": "38.0",
+    "Longueur effective du flux d'air (mm)": "960.0",
+    "Poids (lb)": "104.0",
+    "Poids (kg)": "47.0"
+  },
+  {
+    "#Produit": "PAEC4015E18-480VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "480 (3)",
+    "Prix": "9106.00",
+    "kW Lo/Hi": "45826.0",
+    "Amp.": "27.0",
+    "pcm": "1950.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "81.0",
+    "Longueur effective du flux d'air (po)": "58.0",
+    "Longueur effective du flux d'air (mm)": "1470.0",
+    "Poids (lb)": "137.0",
+    "Poids (kg)": "62.0"
+  },
+  {
+    "#Produit": "PAEC4020E24-480VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "480 (3)",
+    "Prix": "12349.00",
+    "kW Lo/Hi": "45893.0",
+    "Amp.": "35.0",
+    "pcm": "2800.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "82.0",
+    "Longueur effective du flux d'air (po)": "77.0",
+    "Longueur effective du flux d'air (mm)": "1960.0",
+    "Poids (lb)": "185.0",
+    "Poids (kg)": "84.0"
+  },
+  {
+    "#Produit": "PAEC4025E30-480VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "480 (3)",
+    "Prix": "16064.00",
+    "kW Lo/Hi": "45960.0",
+    "Amp.": "45.0",
+    "pcm": "3300.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "83.0",
+    "Longueur effective du flux d'air (po)": "97.0",
+    "Longueur effective du flux d'air (mm)": "2470.0",
+    "Poids (lb)": "234.0",
+    "Poids (kg)": "106.0"
+  },
+  {
+    "#Produit": "PAEC4010E10-208VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "208 (3)",
+    "Prix": "7222.00",
+    "kW Lo/Hi": "45757.0",
+    "Amp.": "31.0",
+    "pcm": "1400.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "80.0",
+    "Longueur effective du flux d'air (po)": "38.0",
+    "Longueur effective du flux d'air (mm)": "960.0",
+    "Poids (lb)": "93.0",
+    "Poids (kg)": "42.0"
+  },
+  {
+    "#Produit": "PAEC4015E15-208VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "208 (3)",
+    "Prix": "8827.00",
+    "kW Lo/Hi": "45792.0",
+    "Amp.": "45.0",
+    "pcm": "1950.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "81.0",
+    "Longueur effective du flux d'air (po)": "58.0",
+    "Longueur effective du flux d'air (mm)": "1470.0",
+    "Poids (lb)": "126.0",
+    "Poids (kg)": "57.0"
+  },
+  {
+    "#Produit": "PAEC4020E20-208VNA",
+    "Type": "Montage en surface",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "208 (3)",
+    "Prix": "12323.00",
+    "kW Lo/Hi": "45858.0",
+    "Amp.": "60.0",
+    "pcm": "2800.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "82.0",
+    "Longueur effective du flux d'air (po)": "77.0",
+    "Longueur effective du flux d'air (mm)": "1960.0",
+    "Poids (lb)": "172.0",
+    "Poids (kg)": "78.0"
+  },
+  {
+    "#Produit": "PAEC4010A-NA",
+    "Type": "Montage en surface",
+    "Chauffage": "Sans chauffage",
+    "Volts (ph)": "208 (1)",
+    "Prix": "6299.00",
+    "kW Lo/Hi": "-",
+    "Amp.": "3.0",
+    "pcm": "1400.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "80.0",
+    "Longueur effective du flux d'air (po)": "38.0",
+    "Longueur effective du flux d'air (mm)": "960.0",
+    "Poids (lb)": "84.0",
+    "Poids (kg)": "38.0"
+  },
+  {
+    "#Produit": "PAEC4015A-NA",
+    "Type": "Montage en surface",
+    "Chauffage": "Sans chauffage",
+    "Volts (ph)": "208 (1)",
+    "Prix": "7514.00",
+    "kW Lo/Hi": "-",
+    "Amp.": "4.5",
+    "pcm": "1950.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "81.0",
+    "Longueur effective du flux d'air (po)": "58.0",
+    "Longueur effective du flux d'air (mm)": "1470.0",
+    "Poids (lb)": "108.0",
+    "Poids (kg)": "49.0"
+  },
+  {
+    "#Produit": "PAEC4020A-NA",
+    "Type": "Montage en surface",
+    "Chauffage": "Sans chauffage",
+    "Volts (ph)": "208 (1)",
+    "Prix": "10028.00",
+    "kW Lo/Hi": "-",
+    "Amp.": "6.0",
+    "pcm": "2800.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "82.0",
+    "Longueur effective du flux d'air (po)": "77.0",
+    "Longueur effective du flux d'air (mm)": "1960.0",
+    "Poids (lb)": "141.0",
+    "Poids (kg)": "64.0"
+  },
+  {
+    "#Produit": "PAEC4025A-NA",
+    "Type": "Montage en surface",
+    "Chauffage": "Sans chauffage",
+    "Volts (ph)": "208 (1)",
+    "Prix": "11223.00",
+    "kW Lo/Hi": "-",
+    "Amp.": "7.5",
+    "pcm": "3300.0",
+    "Vélocité max (pi/min)": "2560.0",
+    "dBA": "83.0",
+    "Longueur effective du flux d'air (po)": "97.0",
+    "Longueur effective du flux d'air (mm)": "2470.0",
+    "Poids (lb)": "172.0",
+    "Poids (kg)": "78.0"
+  },
+  {
+    "#Produit": "AREC4010E12-600VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "600 (3)",
+    "Prix": "9693.00",
+    "kW Lo/Hi": "45759.0",
+    "Amp.": "15.0",
+    "pcm": "1530.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "76.0",
+    "Longueur effective du flux d'air (po)": "38.0",
+    "Longueur effective du flux d'air (mm)": "960.0",
+    "Poids (lb)": "125.0",
+    "Poids (kg)": "56.5"
+  },
+  {
+    "#Produit": "AREC4015E18-600VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "600 (3)",
+    "Prix": "10465.00",
+    "kW Lo/Hi": "45826.0",
+    "Amp.": "22.0",
+    "pcm": "2150.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "76.0",
+    "Longueur effective du flux d'air (po)": "59.0",
+    "Longueur effective du flux d'air (mm)": "1485.0",
+    "Poids (lb)": "171.0",
+    "Poids (kg)": "77.5"
+  },
+  {
+    "#Produit": "AREC4020E24-600VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "600 (3)",
+    "Prix": "18379.00",
+    "kW Lo/Hi": "45893.0",
+    "Amp.": "30.0",
+    "pcm": "3050.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "78.0",
+    "Longueur effective du flux d'air (po)": "78.0",
+    "Longueur effective du flux d'air (mm)": "1975.0",
+    "Poids (lb)": "224.0",
+    "Poids (kg)": "101.5"
+  },
+  {
+    "#Produit": "AREC4025E30-600VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "600 (3)",
+    "Prix": "27389.00",
+    "kW Lo/Hi": "45960.0",
+    "Amp.": "36.0",
+    "pcm": "3650.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "80.0",
+    "Longueur effective du flux d'air (po)": "98.0",
+    "Longueur effective du flux d'air (mm)": "2508.0",
+    "Poids (lb)": "287.0",
+    "Poids (kg)": "121.0"
+  },
+  {
+    "#Produit": "AREC4010E12-480VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "480 (3)",
+    "Prix": "9693.00",
+    "kW Lo/Hi": "45759.0",
+    "Amp.": "19.0",
+    "pcm": "1530.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "76.0",
+    "Longueur effective du flux d'air (po)": "38.0",
+    "Longueur effective du flux d'air (mm)": "960.0",
+    "Poids (lb)": "125.0",
+    "Poids (kg)": "56.5"
+  },
+  {
+    "#Produit": "AREC4015E18-480VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "480 (3)",
+    "Prix": "10465.00",
+    "kW Lo/Hi": "45826.0",
+    "Amp.": "26.0",
+    "pcm": "2150.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "76.0",
+    "Longueur effective du flux d'air (po)": "59.0",
+    "Longueur effective du flux d'air (mm)": "1485.0",
+    "Poids (lb)": "171.0",
+    "Poids (kg)": "77.5"
+  },
+  {
+    "#Produit": "AREC4020E24-480VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "480 (3)",
+    "Prix": "18379.00",
+    "kW Lo/Hi": "45893.0",
+    "Amp.": "35.0",
+    "pcm": "3050.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "78.0",
+    "Longueur effective du flux d'air (po)": "78.0",
+    "Longueur effective du flux d'air (mm)": "1975.0",
+    "Poids (lb)": "224.0",
+    "Poids (kg)": "101.5"
+  },
+  {
+    "#Produit": "AREC4025E30-480VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "480 (3)",
+    "Prix": "27548.00",
+    "kW Lo/Hi": "45960.0",
+    "Amp.": "43.0",
+    "pcm": "3650.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "80.0",
+    "Longueur effective du flux d'air (po)": "98.0",
+    "Longueur effective du flux d'air (mm)": "2508.0",
+    "Poids (lb)": "287.0",
+    "Poids (kg)": "121.0"
+  },
+  {
+    "#Produit": "AREC4010E10-208VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "208 (3)",
+    "Prix": "9406.00",
+    "kW Lo/Hi": "45757.0",
+    "Amp.": "31.0",
+    "pcm": "1530.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "76.0",
+    "Longueur effective du flux d'air (po)": "38.0",
+    "Longueur effective du flux d'air (mm)": "960.0",
+    "Poids (lb)": "117.0",
+    "Poids (kg)": "53.0"
+  },
+  {
+    "#Produit": "AREC4015E15-208VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "208 (3)",
+    "Prix": "10179.00",
+    "kW Lo/Hi": "45792.0",
+    "Amp.": "44.0",
+    "pcm": "2150.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "76.0",
+    "Longueur effective du flux d'air (po)": "59.0",
+    "Longueur effective du flux d'air (mm)": "1485.0",
+    "Poids (lb)": "163.0",
+    "Poids (kg)": "74.0"
+  },
+  {
+    "#Produit": "AREC4020E20-208VNA",
+    "Type": "Montage encastré",
+    "Chauffage": "Chauffant électrique",
+    "Volts (ph)": "208 (3)",
+    "Prix": "18521.00",
+    "kW Lo/Hi": "45858.0",
+    "Amp.": "60.0",
+    "pcm": "3050.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "78.0",
+    "Longueur effective du flux d'air (po)": "78.0",
+    "Longueur effective du flux d'air (mm)": "1975.0",
+    "Poids (lb)": "212.0",
+    "Poids (kg)": "96.0"
+  },
+  {
+    "#Produit": "AREC4010A-NA",
+    "Type": "Montage encastré",
+    "Chauffage": "Sans chauffage",
+    "Volts (ph)": "208 (1)",
+    "Prix": "8094.00",
+    "kW Lo/Hi": "-",
+    "Amp.": "3.1",
+    "pcm": "1530.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "76.0",
+    "Longueur effective du flux d'air (po)": "38.0",
+    "Longueur effective du flux d'air (mm)": "960.0",
+    "Poids (lb)": "99.0",
+    "Poids (kg)": "52.0"
+  },
+  {
+    "#Produit": "AREC4015A-NA",
+    "Type": "Montage encastré",
+    "Chauffage": "Sans chauffage",
+    "Volts (ph)": "208 (1)",
+    "Prix": "8845.00",
+    "kW Lo/Hi": "-",
+    "Amp.": "3.9",
+    "pcm": "2150.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "76.0",
+    "Longueur effective du flux d'air (po)": "59.0",
+    "Longueur effective du flux d'air (mm)": "1485.0",
+    "Poids (lb)": "139.0",
+    "Poids (kg)": "71.0"
+  },
+  {
+    "#Produit": "AREC4020A-NA",
+    "Type": "Montage encastré",
+    "Chauffage": "Sans chauffage",
+    "Volts (ph)": "208 (1)",
+    "Prix": "14670.00",
+    "kW Lo/Hi": "-",
+    "Amp.": "6.2",
+    "pcm": "3050.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "78.0",
+    "Longueur effective du flux d'air (po)": "78.0",
+    "Longueur effective du flux d'air (mm)": "1975.0",
+    "Poids (lb)": "181.0",
+    "Poids (kg)": "94.0"
+  },
+  {
+    "#Produit": "AREC4025A-NA",
+    "Type": "Montage encastré",
+    "Chauffage": "Sans chauffage",
+    "Volts (ph)": "208 (1)",
+    "Prix": "19985.00",
+    "kW Lo/Hi": "-",
+    "Amp.": "7.0",
+    "pcm": "3650.0",
+    "Vélocité max (pi/min)": "2220.0",
+    "dBA": "80.0",
+    "Longueur effective du flux d'air (po)": "98.0",
+    "Longueur effective du flux d'air (mm)": "2508.0",
+    "Poids (lb)": "234.0",
+    "Poids (kg)": "121.0"
+  }
+]
+```
+
+-------
+
+## Tableau ORA-EC40 - Options pour montage horizontal
+
+```json
+[
+  {
+    "#Produit": "PA34WB15",
+    "Prix": "162.00",
+    "Description": "Supports de montage mural pour appareils de 1 et 1.5 m (3.3 et 4.9 pi)",
+    "Quantité incluse": "2.0",
+    "Dimensions (po)": "16.0",
+    "Dimensions (mm)": "400.0"
+  },
+  {
+    "#Produit": "PA34WB20",
+    "Prix": "243.00",
+    "Description": "Supports de montage mural pour appareils de 2 m (6.6 pi)",
+    "Quantité incluse": "3.0",
+    "Dimensions (po)": "16.0",
+    "Dimensions (mm)": "400.0"
+  },
+  {
+    "#Produit": "PA34WB30",
+    "Prix": "324.00",
+    "Description": "Supports de montage mural pour appareils de 2.5 m (8.2 pi)",
+    "Quantité incluse": "4.0",
+    "Dimensions (po)": "16.0",
+    "Dimensions (mm)": "400.0"
+  },
+  {
+    "#Produit": "PA34VD15",
+    "Prix": "61.00",
+    "Description": "Amortisseurs de vibration pour appareils de 1 et 1.5 m (3.3 et 4.9 pi)",
+    "Quantité incluse": "4.0",
+    "Dimensions (po)": "-",
+    "Dimensions (mm)": "-"
+  },
+  {
+    "#Produit": "PA34VD20",
+    "Prix": "89.00",
+    "Description": "Amortisseurs de vibration pour appareils de 2 m (6.6 pi)",
+    "Quantité incluse": "6.0",
+    "Dimensions (po)": "-",
+    "Dimensions (mm)": "-"
+  },
+  {
+    "#Produit": "PA34VD30",
+    "Prix": "127.00",
+    "Description": "Amortisseurs de vibration pour appareils de 2.5 m (8.2 pi)",
+    "Quantité incluse": "8.0",
+    "Dimensions (po)": "-",
+    "Dimensions (mm)": "-"
+  },
+  {
+    "#Produit": "PA4JK",
+    "Prix": "511.00",
+    "Description": "Trousse de jonction et de montage vertical PAEC4000",
+    "Quantité incluse": "1.0",
+    "Dimensions (po)": "-",
+    "Dimensions (mm)": "-"
+  },
+  {
+    "#Produit": "PA4DW10",
+    "Prix": "970.00",
+    "Description": "Trousse de finition pour montage mural et vertical PAEC4010x",
+    "Quantité incluse": "1.0",
+    "Dimensions (po)": "3 27/64 x 16 11/16 x 39 39/64",
+    "Dimensions (mm)": "87 x 424 x 1006"
+  },
+  {
+    "#Produit": "PA4DW15",
+    "Prix": "1090.00",
+    "Description": "Trousse de finition pour montage mural et vertical PAEC4015x",
+    "Quantité incluse": "1.0",
+    "Dimensions (po)": "3 27/64 x 16 11/16 x 59 11/16",
+    "Dimensions (mm)": "87 x 424 x 1516"
+  },
+  {
+    "#Produit": "PA4DW20",
+    "Prix": "1179.00",
+    "Description": "Trousse de finition pour montage mural et vertical PAEC4020x",
+    "Quantité incluse": "1.0",
+    "Dimensions (po)": "3 27/64 x 16 11/16 x 78 31/32",
+    "Dimensions (mm)": "87 x 424 x 2006"
+  },
+  {
+    "#Produit": "PA4DW25",
+    "Prix": "1293.00",
+    "Description": "Trousse de finition pour montage mural et vertical PAEC4025x",
+    "Quantité incluse": "1.0",
+    "Dimensions (po)": "3 27/64 x 16 11/16 x 99 1/16",
+    "Dimensions (mm)": "87 x 424 x 2516"
+  },
+  {
+    "#Produit": "PA4DCS",
+    "Prix": "926.00",
+    "Description": "Trousse de finition pour montage au plafond, petit",
+    "Quantité incluse": "1.0",
+    "Dimensions (po)": "45881.0",
+    "Dimensions (mm)": "200 - 300"
+  },
+  {
+    "#Produit": "PA4DCM",
+    "Prix": "965.00",
+    "Description": "Trousse de finition pour montage au plafond, moyen",
+    "Quantité incluse": "1.0",
+    "Dimensions (po)": "46011.0",
+    "Dimensions (mm)": "300 - 500"
+  },
+  {
+    "#Produit": "PA4DCL",
+    "Prix": "1060.00",
+    "Description": "Trousse de finition pour montage au plafond, grand",
+    "Quantité incluse": "1.0",
+    "Dimensions (po)": "20 - 36",
+    "Dimensions (mm)": "500 - 900"
+  },
+  {
+    "#Produit": "PA4DXT",
+    "Prix": "475.00",
+    "Description": "Trousse de finition pour montage au plafond, extension",
+    "Quantité incluse": "1.0",
+    "Dimensions (po)": "16.53125",
+    "Dimensions (mm)": "420.0"
+  }
+]
+```
+
+-------
+
+## Tableau ORA-EC40 - Options pour montage vertical
+
+```json
+[
+  {
+    "#Produit": "PA4JK",
+    "Prix": "511.00",
+    "Description": "Trousse de jonction et de montage vertical PAEC4000",
+    "Quantité incluse": "1.0"
+  },
+  {
+    "#Produit": "PA4DW10",
+    "Prix": "970.00",
+    "Description": "Trousse de finition pour montage mural et vertical PAEC4010x",
+    "Quantité incluse": "1.0"
+  },
+  {
+    "#Produit": "PA4DW15",
+    "Prix": "1090.00",
+    "Description": "Trousse de finition pour montage mural et vertical PAEC4015x",
+    "Quantité incluse": "1.0"
+  },
+  {
+    "#Produit": "PA4DW20",
+    "Prix": "1179.00",
+    "Description": "Trousse de finition pour montage mural et vertical PAEC4020x",
+    "Quantité incluse": "1.0"
+  },
+  {
+    "#Produit": "PA4DW25",
+    "Prix": "1293.00",
+    "Description": "Trousse de finition pour montage mural et vertical PAEC4025x",
+    "Quantité incluse": "1.0"
+  },
+  {
+    "#Produit": "AXP300",
+    "Prix": "475.00",
+    "Description": "Protection anti-choc",
+    "Quantité incluse": "1.0"
+  }
+]
+```

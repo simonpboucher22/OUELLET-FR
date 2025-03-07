@@ -1,0 +1,131 @@
+# OFE-ECM - Fournaise électrique Nortron écoénergétique
+
+## Caractéristiques
+
+### Couleur
+• Standard : gris.
+
+### Tension
+• 240V, 1 phase.
+
+### Construction
+• Boîtier en acier complètement isolé pour une diminution des pertes de chaleur et du bruit.
+• Un seul panneau donnant accès à toutes les composantes internes.
+
+### Ventilateur
+• Ventilateur de qualité supérieure, équilibré pour un fonctionnement optimal et silencieux.
+
+### Moteur
+• Moteur à vitesse variable (ECM) à commande électronique, lubrifié à vie et monté sur des supports en caoutchouc afin de réduire au maximum les risques de bruits et de vibrations.
+• Relais et carte de circuits imprimés contrôlant le fonctionnement automatique du moteur et permettant l'ajout d'un climatiseur ou d'une pompe à chaleur.
+
+### Élément
+• Fils hélicoïdaux en alliage nickel-chrome robustes et fiables et assurant un meilleur transfert de chaleur et moins de restriction au passage de l'air.
+• Éléments chauffants remplaçables individuellement.
+• Protection thermique à réenclenchement automatique.
+• Éléments activés à intervalles progressifs par une carte de circuits imprimés bas voltage muni de carte redresseur de courant et temporisateur afin d'éviter les surcharges électriques.
+
+### Régulation
+• Transformateur robuste de 24VAC qui alimente les relais et contrôles.
+• Disjoncteurs intégrés à réenclenchement manuel en façade (sauf le modèle de 10kW).
+• Interrupteur «Sélecteur de vitesse» : «Basse» ou «Haute».
+• Interrupteur «Activation de chauffage» : «Lente» ou «Rapide».
+• Compatible avec un thermostat à 1 ou 2 stages avec ou sans unité externe.
+
+### Installation
+• Installation multi-positions avec retour d'air sur les côtés, l'arrière ou le dessous.
+• Approuvée pour une installation contre les surfaces combustibles sans aucun dégagement.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Pour la maison, le bureau ou le chalet, aussi approuvée pour installation dans les maisons mobiles. S'installe n'importe où : sous-sol, placard, vide sanitaire ou tout autre espace libre.
+
+-------
+
+## Tableau OFE-ECM - Modèles avec moteur à vitesse variable (ECM)
+
+```json
+[
+  {
+    "#Produit": "21ECM10-A",
+    "Volts": "240.0",
+    "Phase": "1 ph",
+    "kW": "10.0",
+    "BTU/hr": "34152",
+    "Ampérage": "43.0",
+    "Moteur HP": "45660.0",
+    "Vitesse du moteur": "Basse",
+    "PCM": "740.0",
+    "Poids (lb)": "108.0",
+    "Poids (kg)": "50.0"
+  },
+  {
+    "#Produit": "21ECM15-A",
+    "Volts": "240.0",
+    "Phase": "1 ph",
+    "kW": "15.0",
+    "BTU/hr": "51228",
+    "Ampérage": "64.0",
+    "Moteur HP": "45660.0",
+    "Vitesse du moteur": "Moyenne",
+    "PCM": "1040.0",
+    "Poids (lb)": "108.0",
+    "Poids (kg)": "50.0"
+  },
+  {
+    "#Produit": "21ECM18-A",
+    "Volts": "240.0",
+    "Phase": "1 ph",
+    "kW": "18.0",
+    "BTU/hr": "61473",
+    "Ampérage": "76.0",
+    "Moteur HP": "45660.0",
+    "Vitesse du moteur": "Moyenne",
+    "PCM": "1040.0",
+    "Poids (lb)": "110.0",
+    "Poids (kg)": "49.9"
+  },
+  {
+    "#Produit": "21ECM20-A",
+    "Volts": "240.0",
+    "Phase": "1 ph",
+    "kW": "20.0",
+    "BTU/hr": "68304",
+    "Ampérage": "84.0",
+    "Moteur HP": "45660.0",
+    "Vitesse du moteur": "Moyenne",
+    "PCM": "1040.0",
+    "Poids (lb)": "110.0",
+    "Poids (kg)": "49.9"
+  },
+  {
+    "#Produit": "21ECM23-A",
+    "Volts": "240.0",
+    "Phase": "1 ph",
+    "kW": "22.5",
+    "BTU/hr": "76842",
+    "Ampérage": "94.0",
+    "Moteur HP": "45660.0",
+    "Vitesse du moteur": "Moyenne",
+    "PCM": "1040.0",
+    "Poids (lb)": "115.0",
+    "Poids (kg)": "49.9"
+  }
+]
+```
+
+-------
+
+## Tableau OFE-ECM - Options
+
+```json
+[
+  {
+    "#Produit": "FSB13",
+    "Type": "En trousse",
+    "Description": "Socle de fournaise pour installation en débit descendant"
+  }
+]
+```

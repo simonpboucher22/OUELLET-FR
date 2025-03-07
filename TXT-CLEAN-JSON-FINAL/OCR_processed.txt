@@ -1,0 +1,338 @@
+# ORC - Appareil rayonnant
+
+## Caractéristiques
+Couleur et finition
+• Standards : blanc biscotti, noir mat et fini aluminium anodisé.
+
+Tension
+• 120V, 208V, 240V, 277V, 347V, 480V, 600V 50/60 Hz.
+
+Construction
+• Devant fabriqué d'une extrusion d'aluminium afin d'accroître la surface de radiation.
+• Dos de l'appareil en acier de calibre 18.
+• Boîte de jonction à chaque extrémité.
+• Supports de fixation murale (fournis) qui ne requièrent pas l'ouverture du boîtier. KOE 7/8 po (22 mm) pour l'installation de câblage BX.
+• Fil de mise à la terre de 4 po (102 mm) à chaque extrémité.
+• Canalisation de câblage approuvé pour interconnexion des appareils en utilisant le câblage installé en usine (lors d'une installation mur à mur).
+• Peinture haute émissivité appliquée sur l'échangeur afin d'augmenter l'efficacité.
+
+Élément
+• Élément tubulaire en acier inoxydable inséré dans une extrusion d'aluminium afin de prévenir le bruit lors de l'expansion thermique.
+
+Densité
+• 150W/pi.
+
+Régulation
+• Thermostat intégré en option unipolaire ou bipolaire.
+• Ouellet recommande fortement l'utilisation d'un thermostat électronique mural pour un meilleur confort.
+
+Installation
+• Installation au mur à 6 pi (1.83 m) minimum du plancher et 4 1/2 po (114 mm) minimum du plafond.
+• Variété d'accessoires pour l'installation en continu en option.
+
+Garantie
+• 10 ans contre tous vices.
+
+Application
+• Vestibule, salle d'eau, salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, porte patio, baie vitrée, garderie, atelier.
+
+-------
+
+## Tableau ORC - Appareil rayonnant (Modèles)
+```json
+[
+  {
+    "#Produit": "ORC0452",
+    "Watts": 450.0,
+    "Tension": "120V",
+    "Prix": 309.00,
+    "Longueur": "34.0 po (864.0 mm)",
+    "Poids": "6.0 lb (2.7 kg)"
+  },
+  {
+    "#Produit": "ORC0458",
+    "Watts": 450.0,
+    "Tension": "208V",
+    "Prix": 309.00,
+    "Longueur": "34.0 po (864.0 mm)",
+    "Poids": "6.0 lb (2.7 kg)"
+  },
+  {
+    "#Produit": "ORC0450",
+    "Watts": 450.0,
+    "Tension": "240V",
+    "Prix": 309.00,
+    "Longueur": "34.0 po (864.0 mm)",
+    "Poids": "6.0 lb (2.7 kg)"
+  },
+  {
+    "#Produit": "ORC0457",
+    "Watts": 450.0,
+    "Tension": "347V",
+    "Prix": 351.00,
+    "Longueur": "34.0 po (864.0 mm)",
+    "Poids": "6.0 lb (2.7 kg)"
+  },
+  {
+    "#Produit": "ORC0602",
+    "Watts": 600.0,
+    "Tension": "120V",
+    "Prix": 404.00,
+    "Longueur": "47.0 po (1194.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)"
+  },
+  {
+    "#Produit": "ORC0608",
+    "Watts": 600.0,
+    "Tension": "208V",
+    "Prix": 404.00,
+    "Longueur": "47.0 po (1194.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)"
+  },
+  {
+    "#Produit": "ORC0600",
+    "Watts": 600.0,
+    "Tension": "240V",
+    "Prix": 404.00,
+    "Longueur": "47.0 po (1194.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)"
+  },
+  {
+    "#Produit": "ORC0607",
+    "Watts": 600.0,
+    "Tension": "347V",
+    "Prix": 468.00,
+    "Longueur": "47.0 po (1194.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)"
+  },
+  {
+    "#Produit": "ORC0752",
+    "Watts": 750.0,
+    "Tension": "120V",
+    "Prix": 473.00,
+    "Longueur": "59.0 po (1499.0 mm)",
+    "Poids": "10.0 lb (4.5 kg)"
+  },
+  {
+    "#Produit": "ORC0758",
+    "Watts": 750.0,
+    "Tension": "208V",
+    "Prix": 473.00,
+    "Longueur": "59.0 po (1499.0 mm)",
+    "Poids": "10.0 lb (4.5 kg)"
+  },
+  {
+    "#Produit": "ORC0750",
+    "Watts": 750.0,
+    "Tension": "240V",
+    "Prix": 473.00,
+    "Longueur": "59.0 po (1499.0 mm)",
+    "Poids": "10.0 lb (4.5 kg)"
+  },
+  {
+    "#Produit": "ORC0757",
+    "Watts": 750.0,
+    "Tension": "347V",
+    "Prix": 547.00,
+    "Longueur": "59.0 po (1499.0 mm)",
+    "Poids": "10.0 lb (4.5 kg)"
+  },
+  {
+    "#Produit": "ORC0756",
+    "Watts": 750.0,
+    "Tension": "600V",
+    "Prix": 547.00,
+    "Longueur": "59.0 po (1499.0 mm)",
+    "Poids": "10.0 lb (4.5 kg)"
+  },
+  {
+    "#Produit": "ORC0902",
+    "Watts": 900.0,
+    "Tension": "120V",
+    "Prix": 531.00,
+    "Longueur": "71.0 po (1803.0 mm)",
+    "Poids": "12.0 lb (5.4 kg)"
+  },
+  {
+    "#Produit": "ORC0908",
+    "Watts": 900.0,
+    "Tension": "208V",
+    "Prix": 531.00,
+    "Longueur": "71.0 po (1803.0 mm)",
+    "Poids": "12.0 lb (5.4 kg)"
+  },
+  {
+    "#Produit": "ORC0900",
+    "Watts": 900.0,
+    "Tension": "240V",
+    "Prix": 531.00,
+    "Longueur": "71.0 po (1803.0 mm)",
+    "Poids": "12.0 lb (5.4 kg)"
+  },
+  {
+    "#Produit": "ORC0907",
+    "Watts": 900.0,
+    "Tension": "347V",
+    "Prix": 612.00,
+    "Longueur": "71.0 po (1803.0 mm)",
+    "Poids": "12.0 lb (5.4 kg)"
+  },
+  {
+    "#Produit": "ORC0906",
+    "Watts": 900.0,
+    "Tension": "600V",
+    "Prix": 612.00,
+    "Longueur": "71.0 po (1803.0 mm)",
+    "Poids": "12.0 lb (5.4 kg)"
+  },
+  {
+    "#Produit": "ORC1052",
+    "Watts": 1050.0,
+    "Tension": "120V",
+    "Prix": 567.00,
+    "Longueur": "83.0 po (2108.0 mm)",
+    "Poids": "13.0 lb (5.9 kg)"
+  },
+  {
+    "#Produit": "ORC1058",
+    "Watts": 1050.0,
+    "Tension": "208V",
+    "Prix": 567.00,
+    "Longueur": "83.0 po (2108.0 mm)",
+    "Poids": "13.0 lb (5.9 kg)"
+  },
+  {
+    "#Produit": "ORC1050",
+    "Watts": 1050.0,
+    "Tension": "240V",
+    "Prix": 567.00,
+    "Longueur": "83.0 po (2108.0 mm)",
+    "Poids": "13.0 lb (5.9 kg)"
+  },
+  {
+    "#Produit": "ORC1057",
+    "Watts": 1050.0,
+    "Tension": "347V",
+    "Prix": 655.00,
+    "Longueur": "83.0 po (2108.0 mm)",
+    "Poids": "13.0 lb (5.9 kg)"
+  },
+  {
+    "#Produit": "ORC1056",
+    "Watts": 1050.0,
+    "Tension": "600V",
+    "Prix": 655.00,
+    "Longueur": "83.0 po (2108.0 mm)",
+    "Poids": "13.0 lb (5.9 kg)"
+  },
+  {
+    "#Produit": "ORC1202",
+    "Watts": 1200.0,
+    "Tension": "120V",
+    "Prix": 651.00,
+    "Longueur": "94.0 po (2388.0 mm)",
+    "Poids": "15.0 lb (6.8 kg)"
+  },
+  {
+    "#Produit": "ORC1208",
+    "Watts": 1200.0,
+    "Tension": "208V",
+    "Prix": 651.00,
+    "Longueur": "94.0 po (2388.0 mm)",
+    "Poids": "15.0 lb (6.8 kg)"
+  },
+  {
+    "#Produit": "ORC1200",
+    "Watts": 1200.0,
+    "Tension": "240V",
+    "Prix": 651.00,
+    "Longueur": "94.0 po (2388.0 mm)",
+    "Poids": "15.0 lb (6.8 kg)"
+  },
+  {
+    "#Produit": "ORC1207",
+    "Watts": 1200.0,
+    "Tension": "347V",
+    "Prix": 747.00,
+    "Longueur": "94.0 po (2388.0 mm)",
+    "Poids": "15.0 lb (6.8 kg)"
+  },
+  {
+    "#Produit": "ORC1206",
+    "Watts": 1200.0,
+    "Tension": "600V",
+    "Prix": 747.00,
+    "Longueur": "94.0 po (2388.0 mm)",
+    "Poids": "15.0 lb (6.8 kg)"
+  },
+  {
+    "#Produit": "ORC1502",
+    "Watts": 1500.0,
+    "Tension": "120V",
+    "Prix": 806.00,
+    "Longueur": "113.0 po (2870.0 mm)",
+    "Poids": "18.0 lb (8.2 kg)"
+  },
+  {
+    "#Produit": "ORC1508",
+    "Watts": 1500.0,
+    "Tension": "208V",
+    "Prix": 806.00,
+    "Longueur": "113.0 po (2870.0 mm)",
+    "Poids": "18.0 lb (8.2 kg)"
+  },
+  {
+    "#Produit": "ORC1500",
+    "Watts": 1500.0,
+    "Tension": "240V",
+    "Prix": 806.00,
+    "Longueur": "113.0 po (2870.0 mm)",
+    "Poids": "18.0 lb (8.2 kg)"
+  },
+  {
+    "#Produit": "ORC1507",
+    "Watts": 1500.0,
+    "Tension": "347V",
+    "Prix": 930.00,
+    "Longueur": "113.0 po (2870.0 mm)",
+    "Poids": "18.0 lb (8.2 kg)"
+  },
+  {
+    "#Produit": "ORC1506",
+    "Watts": 1500.0,
+    "Tension": "600V",
+    "Prix": 930.00,
+    "Longueur": "113.0 po (2870.0 mm)",
+    "Poids": "18.0 lb (8.2 kg)"
+  }
+]
+```
+
+-------
+
+## Tableau ORC - Appareil rayonnant (Options)
+```json
+[
+  {
+    "#Produit": "KIT-ORC-JT",
+    "En trousse": true,
+    "Installée en usine": false,
+    "Prix": 47.00,
+    "Description": "Joint de finition"
+  },
+  {
+    "#Produit": "KIT-ORC-TB62",
+    "En trousse": true,
+    "Installée en usine": "TB62",
+    "Prix": 110.00,
+    "Description": "Thermostat bimétallique, unipolaire"
+  },
+  {
+    "#Produit": "KIT-ORC-TB262",
+    "En trousse": true,
+    "Installée en usine": "TB262",
+    "Prix": 136.00,
+    "Description": "Section de 4 po (101 mm) avec thermostat bimétallique, bipolaire"
+  }
+]
+```

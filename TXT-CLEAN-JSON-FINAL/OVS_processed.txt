@@ -1,0 +1,240 @@
+# OVS - Ventilo-convecteur résidentiel mural
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Construction
+• Boîtier en acier de calibre 20.
+• Devant en acier de calibre 22.
+• Protection thermique à réenclenchement automatique.
+
+### Ventilateur
+• Ventilateur silencieux.
+• Modèles 120V, 208V, 240/208V :
+  40 pcm de 500W à 1000W et 80 pcm de 1250W à 2000W.
+• Modèles 347V : 80 pcm.
+• Moteur lubrifié à vie.
+
+-------
+
+### Élément
+• 120V, 208V, 208/240V : élément tubulaire à ailettes très robuste.
+  - Élément scellé en usine en option.
+• 347V : Alliage fer-chrome-aluminium.
+
+### Régulation
+• Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+
+### Installation
+• Installation rapide grâce aux trous de fixation du boîtier d'encastrement.
+• Vaste compartiment de câblage.
+• Boîtier de montage en surface en option.
+• Boîtier d'encastrement en «V» permettant une installation ajustée.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Vestibule, salle d'eau, salle à manger-cuisine, salle familiale, corridor.
+
+-------
+
+## Caractéristiques OVS
+
+### Tension
+• 120V, 208V, 240/208V, 347V, 1 phase.
+
+### Régulation
+• Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+
+### Installation
+• Installation au mur seulement.
+• La sortie d'air doit être installée à une distance minimale de 4 po (102 mm) du plancher de revêtement durable et 10 po (254 mm) des linoléums.
+• S'encastre dans une structure de mur en 2 po X 3 po.
+
+-------
+
+## Tableau OVS - Ventilo-convecteur résidentiel mural (Modèles)
+
+```json
+[
+  {
+    "#Produit": "OVS0502",
+    "Watts": 500.0,
+    "Volts": 120.0,
+    "Prix": 279.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS0752",
+    "Watts": 750.0,
+    "Volts": 120.0,
+    "Prix": 279.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS1002",
+    "Watts": 1000.0,
+    "Volts": 120.0,
+    "Prix": 297.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS1252",
+    "Watts": 1250.0,
+    "Volts": 120.0,
+    "Prix": 323.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS1502",
+    "Watts": 1500.0,
+    "Volts": 120.0,
+    "Prix": 323.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS2008",
+    "Watts": 2000.0,
+    "Volts": 208.0,
+    "Prix": 353.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS0500",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Prix": 274.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS0750",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Prix": 274.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS1000",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Prix": 289.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS1250",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Prix": 289.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS1500",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Prix": 319.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS2000",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Prix": 345.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS1007",
+    "Watts": 1000.0,
+    "Volts": 347.0,
+    "Prix": 361.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS1507",
+    "Watts": 1500.0,
+    "Volts": 347.0,
+    "Prix": 378.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVS2007",
+    "Watts": 2000.0,
+    "Volts": 347.0,
+    "Prix": 400.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  }
+]
+```
+
+-------
+
+## Tableau OVS - Ventilo-convecteur résidentiel mural (Options)
+
+```json
+[
+  {
+    "#Produit_Trousse": "KIT-OVS-BS",
+    "#Produit_Usine": "-",
+    "Prix": 67.00,
+    "Description": "Boîtier pour montage en surface"
+  },
+  {
+    "#Produit_Trousse": "KIT-OVS-DIS1",
+    "#Produit_Usine": "DIS1",
+    "Prix": 163.00,
+    "Description": "Interrupteur principal, 20A à 277V max. (120V, 208V, 240/208V seulement)"
+  },
+  {
+    "#Produit_Trousse": "-",
+    "#Produit_Usine": "ES2",
+    "Prix": 29.00,
+    "Description": "Élément scellé en usine (120V, 208V, 240/208V seulement)"
+  },
+  {
+    "#Produit_Trousse": "KIT-OVS-TB6",
+    "#Produit_Usine": "TB6",
+    "Prix": 59.00,
+    "Description": "Thermostat bimétallique, unipolaire (347V installé en usine seulement)"
+  },
+  {
+    "#Produit_Trousse": "KIT-OVS-TB263",
+    "#Produit_Usine": "TB263",
+    "Prix": 72.00,
+    "Description": "Thermostat bimétallique, bipolaire (347V installé en usine seulement)"
+  },
+  {
+    "#Produit_Trousse": "KIT-OVS-TB6-AV",
+    "#Produit_Usine": "TB6AV",
+    "Prix": 69.00,
+    "Description": "Thermostat bimétallique, unipolaire, anti-vandale (347V installé en usine seulement)"
+  },
+  {
+    "#Produit_Trousse": "KIT-OVS-TB26-AV3",
+    "#Produit_Usine": "TB26AV3",
+    "Prix": 72.00,
+    "Description": "Thermostat bimétallique, bipolaire, anti-vandale (347V installé en usine seulement)"
+  }
+]
+```

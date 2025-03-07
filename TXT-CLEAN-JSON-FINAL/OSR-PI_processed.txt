@@ -1,0 +1,118 @@
+# OSR-PI - Câble chauffant autorégulant 120V préassemblé pour protection antigel des tuyaux et déglaçage de toitures et gouttières
+
+-------
+
+## Caractéristiques techniques
+
+**Tension nominale**
+• 120V.
+
+**Longueur de la liaison froide**
+• 36'' (0.9 m).
+
+**Surgaine**
+• Thermoplastique.
+
+**Conducteur d'alimentation**
+• Cuivre nickelé.
+
+**Température maximale maintenue (sous tension)**
+• 60 °C (140 °F).
+
+**Température d'exposition continue maximale (hors tension)**
+• 80 °C (176 °F).
+
+**Section du câble**
+• 14.1 mm X 5.6 mm.
+
+**Rayon de courbure minimal**
+• 25 mm (1 po).
+
+-------
+
+## Spécifications supplémentaires
+
+**Matériel inclus**
+• Fiche à 3 bornes avec mise à la terre et témoin lumineux indiquant la mise sous tension du câble.
+
+**Température minimale d'installation et de démarrage**
+• -25 °C (-13 °F).
+
+**Normes**
+• CSA C22.2.130.03; -WS.
+• CAN/CSA 60079-7:12, 60079-0-11.
+• ANSI/IEEE 515, 515.
+
+**Certification**
+• CSA C US 2547790.
+
+**Classement**
+• Applications extérieures et endroits humides (WS).
+
+**Garantie**
+• Garantie de base 1 an sur le câble chauffant.
+
+**Application**
+• Protection contre le gel, toiture et gouttière, tuyaux.
+
+-------
+
+## Tableau OSR-PI - Câble chauffant autorégulant 120V préassemblé
+
+```json
+[
+  {
+    "#Produit": "ECK-7AO-006",
+    "Prix": "125.00",
+    "Longueur_pi": "6.0",
+    "Longueur_m": "1.8",
+    "Puissance_de_sortie_nominale": "42.0"
+  },
+  {
+    "#Produit": "ECK-7AO-012",
+    "Prix": "143.00",
+    "Longueur_pi": "12.0",
+    "Longueur_m": "3.6",
+    "Puissance_de_sortie_nominale": "84.0"
+  },
+  {
+    "#Produit": "ECK-7AO-018",
+    "Prix": "174.00",
+    "Longueur_pi": "18.0",
+    "Longueur_m": "5.5",
+    "Puissance_de_sortie_nominale": "126.0"
+  },
+  {
+    "#Produit": "ECK-7AO-025",
+    "Prix": "202.00",
+    "Longueur_pi": "25.0",
+    "Longueur_m": "7.6",
+    "Puissance_de_sortie_nominale": "175.0"
+  },
+  {
+    "#Produit": "ECK-7AO-050",
+    "Prix": "302.00",
+    "Longueur_pi": "50.0",
+    "Longueur_m": "15.2",
+    "Puissance_de_sortie_nominale": "350.0"
+  },
+  {
+    "#Produit": "ECK-7AO-075",
+    "Prix": "369.00",
+    "Longueur_pi": "75.0",
+    "Longueur_m": "22.9",
+    "Puissance_de_sortie_nominale": "525.0"
+  },
+  {
+    "#Produit": "ECK-7AO-100",
+    "Prix": "500.00",
+    "Longueur_pi": "100.0",
+    "Longueur_m": "30.5",
+    "Puissance_de_sortie_nominale": "700.0"
+  }
+]
+```
+
+-------
+
+**Note**: La puissance de sortie nominale est mesurée dans l'air à 5 °C (40 °F).

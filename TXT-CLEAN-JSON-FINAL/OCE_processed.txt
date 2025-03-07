@@ -1,0 +1,1084 @@
+# Convecteur de style européen OCE
+
+## Caractéristiques
+- **Couleur**
+  - Standards : blanc, amande.
+  - Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+  - Couleurs sur mesure disponibles sur demande.
+
+- **Finition**
+  - Standard : peinture à la poudre d'époxy/polyester.
+  - Optionnelle : acier inoxydable (seulement les grilles sont peintes en noir).
+
+- **Tension**
+  - 240/208V, 50/60 Hz, 1 phase.
+
+- **Construction**
+  - Acier de calibre 20 ou acier inoxydable de calibre 22.
+  - Sortie d'air chaud à effet propulsif, qui dirige l'air vers le centre de la pièce.
+  - Grilles à lames limitant l'insertion de petits objets, recouvertes d'une peinture à faible porosité lavable et anti-jaunissement.
+  - Protection thermique à réenclenchement automatique.
+
+- **Élément**
+  - Élément monobloc en aluminium, silencieux.
+
+-------
+
+- **Densité**
+  - OCEH : 850W/pi (2800W/m).
+  - OCEM : 700W/pi (2320W/m).
+  - OCEB : 500W/pi (1700W/m).
+
+- **Régulation**
+  - Thermostat électronique intégré (modèle -TH) ou relais 24V électronique intégré (modèles -TRIAC et -TRIACT).
+  - Thermostat électronique mural (modèles -OTH et -T600).
+
+- **Installation**
+  - Installation au mur à 2 po (51 mm) minimum du plancher.
+  - Placer le convecteur sur le support mural pour le rendre fonctionnel.
+  - Support mural du convecteur branché sur le circuit électrique, sert de bloc d'alimentation.
+
+- **Garantie**
+  - 5 ans contre tous vices.
+  - (La garantie est valide seulement si l'appareil est contrôlé par un thermostat électronique pulsant proportionnel avec un cycle maximum de 15 secondes et que la boîte de jonction est fixée au mur avec l'ancrage fourni.)
+
+- **Application**
+  - Salle à manger-cuisine, salle de séjour, salle familiale, chambre à coucher, baie vitrée.
+
+-------
+
+## Tableau OCEH - Convecteur de style européen (Hauteur : 27" (685 mm) 850W/pi (2800W/m))
+
+```json
+[
+  {
+    "#Produit": "OCEH0500-TH",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "538.00",
+    "Prix_Acier_Inoxydable": "659.00",
+    "Longueur_po": "10.625",
+    "Longueur_mm": "270.0",
+    "Poids_lb": "14.0",
+    "Poids_kg": "6.4"
+  },
+  {
+    "#Produit": "OCEH0500-OTH",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "538.00",
+    "Prix_Acier_Inoxydable": "659.00",
+    "Longueur_po": "10.625",
+    "Longueur_mm": "270.0",
+    "Poids_lb": "14.0",
+    "Poids_kg": "6.4"
+  },
+  {
+    "#Produit": "OCEH0500-T600",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "565.00",
+    "Prix_Acier_Inoxydable": "686.00",
+    "Longueur_po": "10.625",
+    "Longueur_mm": "270.0",
+    "Poids_lb": "14.0",
+    "Poids_kg": "6.4"
+  },
+  {
+    "#Produit": "OCEH0750-TH",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "566.00",
+    "Prix_Acier_Inoxydable": "694.00",
+    "Longueur_po": "13.5",
+    "Longueur_mm": "344.0",
+    "Poids_lb": "17.0",
+    "Poids_kg": "7.7"
+  },
+  {
+    "#Produit": "OCEH0750-OTH",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "566.00",
+    "Prix_Acier_Inoxydable": "694.00",
+    "Longueur_po": "13.5",
+    "Longueur_mm": "344.0",
+    "Poids_lb": "17.0",
+    "Poids_kg": "7.7"
+  },
+  {
+    "#Produit": "OCEH0750-T600",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "593.00",
+    "Prix_Acier_Inoxydable": "721.00",
+    "Longueur_po": "13.5",
+    "Longueur_mm": "344.0",
+    "Poids_lb": "17.0",
+    "Poids_kg": "7.7"
+  },
+  {
+    "#Produit": "OCEH1000-TH",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "597.00",
+    "Prix_Acier_Inoxydable": "733.00",
+    "Longueur_po": "16.5",
+    "Longueur_mm": "418.0",
+    "Poids_lb": "19.0",
+    "Poids_kg": "8.6"
+  },
+  {
+    "#Produit": "OCEH1000-OTH",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "597.00",
+    "Prix_Acier_Inoxydable": "733.00",
+    "Longueur_po": "16.5",
+    "Longueur_mm": "418.0",
+    "Poids_lb": "19.0",
+    "Poids_kg": "8.6"
+  },
+  {
+    "#Produit": "OCEH1000-T600",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "624.00",
+    "Prix_Acier_Inoxydable": "760.00",
+    "Longueur_po": "16.5",
+    "Longueur_mm": "418.0",
+    "Poids_lb": "19.0",
+    "Poids_kg": "8.6"
+  },
+  {
+    "#Produit": "OCEH1250-TH",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "631.00",
+    "Prix_Acier_Inoxydable": "775.00",
+    "Longueur_po": "19.4375",
+    "Longueur_mm": "492.0",
+    "Poids_lb": "21.0",
+    "Poids_kg": "9.5"
+  },
+  {
+    "#Produit": "OCEH1250-OTH",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "631.00",
+    "Prix_Acier_Inoxydable": "775.00",
+    "Longueur_po": "19.4375",
+    "Longueur_mm": "492.0",
+    "Poids_lb": "21.0",
+    "Poids_kg": "9.5"
+  },
+  {
+    "#Produit": "OCEH1250-T600",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "658.00",
+    "Prix_Acier_Inoxydable": "802.00",
+    "Longueur_po": "19.4375",
+    "Longueur_mm": "492.0",
+    "Poids_lb": "21.0",
+    "Poids_kg": "9.5"
+  },
+  {
+    "#Produit": "OCEH1500-TH",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "653.00",
+    "Prix_Acier_Inoxydable": "803.00",
+    "Longueur_po": "23.0",
+    "Longueur_mm": "584.0",
+    "Poids_lb": "25.0",
+    "Poids_kg": "11.4"
+  },
+  {
+    "#Produit": "OCEH1500-OTH",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "653.00",
+    "Prix_Acier_Inoxydable": "803.00",
+    "Longueur_po": "23.0",
+    "Longueur_mm": "584.0",
+    "Poids_lb": "25.0",
+    "Poids_kg": "11.4"
+  },
+  {
+    "#Produit": "OCEH1500-T600",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "680.00",
+    "Prix_Acier_Inoxydable": "830.00",
+    "Longueur_po": "23.0",
+    "Longueur_mm": "584.0",
+    "Poids_lb": "25.0",
+    "Poids_kg": "11.4"
+  },
+  {
+    "#Produit": "OCEH1750-TH",
+    "Watts": "1750/1313",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "687.00",
+    "Prix_Acier_Inoxydable": "845.00",
+    "Longueur_po": "26.5",
+    "Longueur_mm": "674.0",
+    "Poids_lb": "27.0",
+    "Poids_kg": "12.3"
+  },
+  {
+    "#Produit": "OCEH1750-OTH",
+    "Watts": "1750/1313",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "687.00",
+    "Prix_Acier_Inoxydable": "845.00",
+    "Longueur_po": "26.5",
+    "Longueur_mm": "674.0",
+    "Poids_lb": "27.0",
+    "Poids_kg": "12.3"
+  },
+  {
+    "#Produit": "OCEH1750-T600",
+    "Watts": "1750/1313",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "714.00",
+    "Prix_Acier_Inoxydable": "872.00",
+    "Longueur_po": "26.5",
+    "Longueur_mm": "674.0",
+    "Poids_lb": "27.0",
+    "Poids_kg": "12.3"
+  },
+  {
+    "#Produit": "OCEH2000-TH",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "725.00",
+    "Prix_Acier_Inoxydable": "893.00",
+    "Longueur_po": "28.125",
+    "Longueur_mm": "714.0",
+    "Poids_lb": "28.0",
+    "Poids_kg": "12.7"
+  },
+  {
+    "#Produit": "OCEH2000-OTH",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "725.00",
+    "Prix_Acier_Inoxydable": "893.00",
+    "Longueur_po": "28.125",
+    "Longueur_mm": "714.0",
+    "Poids_lb": "28.0",
+    "Poids_kg": "12.7"
+  },
+  {
+    "#Produit": "OCEH2000-T600",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "752.00",
+    "Prix_Acier_Inoxydable": "920.00",
+    "Longueur_po": "28.125",
+    "Longueur_mm": "714.0",
+    "Poids_lb": "28.0",
+    "Poids_kg": "12.7"
+  },
+  {
+    "#Produit": "OCEH2500-TH",
+    "Watts": "2500/1875",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "786.00",
+    "Prix_Acier_Inoxydable": "969.00",
+    "Longueur_po": "34.0",
+    "Longueur_mm": "862.0",
+    "Poids_lb": "33.0",
+    "Poids_kg": "15.0"
+  },
+  {
+    "#Produit": "OCEH2500-OTH",
+    "Watts": "2500/1875",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "786.00",
+    "Prix_Acier_Inoxydable": "969.00",
+    "Longueur_po": "34.0",
+    "Longueur_mm": "862.0",
+    "Poids_lb": "33.0",
+    "Poids_kg": "15.0"
+  },
+  {
+    "#Produit": "OCEH2500-T600",
+    "Watts": "2500/1875",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "813.00",
+    "Prix_Acier_Inoxydable": "996.00",
+    "Longueur_po": "34.0",
+    "Longueur_mm": "862.0",
+    "Poids_lb": "33.0",
+    "Poids_kg": "15.0"
+  },
+  {
+    "#Produit": "OCEH3000-TH",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "845.00",
+    "Prix_Acier_Inoxydable": "1043.00",
+    "Longueur_po": "41.125",
+    "Longueur_mm": "1044.0",
+    "Poids_lb": "39.0",
+    "Poids_kg": "17.7"
+  },
+  {
+    "#Produit": "OCEH3000-OTH",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "845.00",
+    "Prix_Acier_Inoxydable": "1043.00",
+    "Longueur_po": "41.125",
+    "Longueur_mm": "1044.0",
+    "Poids_lb": "39.0",
+    "Poids_kg": "17.7"
+  },
+  {
+    "#Produit": "OCEH3000-T600",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "872.00",
+    "Prix_Acier_Inoxydable": "1070.00",
+    "Longueur_po": "41.125",
+    "Longueur_mm": "1044.0",
+    "Poids_lb": "39.0",
+    "Poids_kg": "17.7"
+  }
+]
+```
+
+-------
+
+## Tableau OCEM - Convecteur de style européen (Hauteur : 18 1/2" (470 mm) 700W/pi (2320W/m))
+
+```json
+[
+  {
+    "#Produit": "OCEM0500-TH",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "522.00",
+    "Prix_Acier_Inoxydable": "639.00",
+    "Longueur_po": "13.5",
+    "Longueur_mm": "344.0",
+    "Poids_lb": "13.0",
+    "Poids_kg": "5.9"
+  },
+  {
+    "#Produit": "OCEM0500-OTH",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "522.00",
+    "Prix_Acier_Inoxydable": "639.00",
+    "Longueur_po": "13.5",
+    "Longueur_mm": "344.0",
+    "Poids_lb": "13.0",
+    "Poids_kg": "5.9"
+  },
+  {
+    "#Produit": "OCEM0500-T600",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "549.00",
+    "Prix_Acier_Inoxydable": "666.00",
+    "Longueur_po": "13.5",
+    "Longueur_mm": "344.0",
+    "Poids_lb": "13.0",
+    "Poids_kg": "5.9"
+  },
+  {
+    "#Produit": "OCEM0750-TH",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "543.00",
+    "Prix_Acier_Inoxydable": "665.00",
+    "Longueur_po": "16.5",
+    "Longueur_mm": "418.0",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "OCEM0750-OTH",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "543.00",
+    "Prix_Acier_Inoxydable": "665.00",
+    "Longueur_po": "16.5",
+    "Longueur_mm": "418.0",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "OCEM0750-T600",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "570.00",
+    "Prix_Acier_Inoxydable": "692.00",
+    "Longueur_po": "16.5",
+    "Longueur_mm": "418.0",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "OCEM1000-TH",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "574.00",
+    "Prix_Acier_Inoxydable": "704.00",
+    "Longueur_po": "19.4375",
+    "Longueur_mm": "492.0",
+    "Poids_lb": "16.0",
+    "Poids_kg": "7.3"
+  },
+  {
+    "#Produit": "OCEM1000-OTH",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "574.00",
+    "Prix_Acier_Inoxydable": "704.00",
+    "Longueur_po": "19.4375",
+    "Longueur_mm": "492.0",
+    "Poids_lb": "16.0",
+    "Poids_kg": "7.3"
+  },
+  {
+    "#Produit": "OCEM1000-T600",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "601.00",
+    "Prix_Acier_Inoxydable": "731.00",
+    "Longueur_po": "19.4375",
+    "Longueur_mm": "492.0",
+    "Poids_lb": "16.0",
+    "Poids_kg": "7.3"
+  },
+  {
+    "#Produit": "OCEM1250-TH",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "609.00",
+    "Prix_Acier_Inoxydable": "748.00",
+    "Longueur_po": "23.0",
+    "Longueur_mm": "584.0",
+    "Poids_lb": "19.0",
+    "Poids_kg": "8.6"
+  },
+  {
+    "#Produit": "OCEM1250-OTH",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "609.00",
+    "Prix_Acier_Inoxydable": "748.00",
+    "Longueur_po": "23.0",
+    "Longueur_mm": "584.0",
+    "Poids_lb": "19.0",
+    "Poids_kg": "8.6"
+  },
+  {
+    "#Produit": "OCEM1250-T600",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "636.00",
+    "Prix_Acier_Inoxydable": "775.00",
+    "Longueur_po": "23.0",
+    "Longueur_mm": "584.0",
+    "Poids_lb": "19.0",
+    "Poids_kg": "8.6"
+  },
+  {
+    "#Produit": "OCEM1500-TH",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "644.00",
+    "Prix_Acier_Inoxydable": "792.00",
+    "Longueur_po": "26.5",
+    "Longueur_mm": "674.0",
+    "Poids_lb": "21.0",
+    "Poids_kg": "9.5"
+  },
+  {
+    "#Produit": "OCEM1500-OTH",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "644.00",
+    "Prix_Acier_Inoxydable": "792.00",
+    "Longueur_po": "26.5",
+    "Longueur_mm": "674.0",
+    "Poids_lb": "21.0",
+    "Poids_kg": "9.5"
+  },
+  {
+    "#Produit": "OCEM1500-T600",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "671.00",
+    "Prix_Acier_Inoxydable": "819.00",
+    "Longueur_po": "26.5",
+    "Longueur_mm": "674.0",
+    "Poids_lb": "21.0",
+    "Poids_kg": "9.5"
+  },
+  {
+    "#Produit": "OCEM1750-TH",
+    "Watts": "1750/1313",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "675.00",
+    "Prix_Acier_Inoxydable": "830.00",
+    "Longueur_po": "30.3125",
+    "Longueur_mm": "769.0",
+    "Poids_lb": "23.0",
+    "Poids_kg": "10.5"
+  },
+  {
+    "#Produit": "OCEM1750-OTH",
+    "Watts": "1750/1313",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "675.00",
+    "Prix_Acier_Inoxydable": "830.00",
+    "Longueur_po": "30.3125",
+    "Longueur_mm": "769.0",
+    "Poids_lb": "23.0",
+    "Poids_kg": "10.5"
+  },
+  {
+    "#Produit": "OCEM1750-T600",
+    "Watts": "1750/1313",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "702.00",
+    "Prix_Acier_Inoxydable": "857.00",
+    "Longueur_po": "30.3125",
+    "Longueur_mm": "769.0",
+    "Poids_lb": "23.0",
+    "Poids_kg": "10.5"
+  },
+  {
+    "#Produit": "OCEM2000-TH",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "710.00",
+    "Prix_Acier_Inoxydable": "874.00",
+    "Longueur_po": "34.0",
+    "Longueur_mm": "862.0",
+    "Poids_lb": "25.0",
+    "Poids_kg": "11.4"
+  },
+  {
+    "#Produit": "OCEM2000-OTH",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "710.00",
+    "Prix_Acier_Inoxydable": "874.00",
+    "Longueur_po": "34.0",
+    "Longueur_mm": "862.0",
+    "Poids_lb": "25.0",
+    "Poids_kg": "11.4"
+  },
+  {
+    "#Produit": "OCEM2000-T600",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "737.00",
+    "Prix_Acier_Inoxydable": "901.00",
+    "Longueur_po": "34.0",
+    "Longueur_mm": "862.0",
+    "Poids_lb": "25.0",
+    "Poids_kg": "11.4"
+  },
+  {
+    "#Produit": "OCEM2500-TH",
+    "Watts": "2500/1875",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "771.00",
+    "Prix_Acier_Inoxydable": "950.00",
+    "Longueur_po": "41.125",
+    "Longueur_mm": "1044.0",
+    "Poids_lb": "29.0",
+    "Poids_kg": "13.2"
+  },
+  {
+    "#Produit": "OCEM2500-OTH",
+    "Watts": "2500/1875",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "771.00",
+    "Prix_Acier_Inoxydable": "950.00",
+    "Longueur_po": "41.125",
+    "Longueur_mm": "1044.0",
+    "Poids_lb": "29.0",
+    "Poids_kg": "13.2"
+  },
+  {
+    "#Produit": "OCEM2500-T600",
+    "Watts": "2500/1875",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "798.00",
+    "Prix_Acier_Inoxydable": "977.00",
+    "Longueur_po": "41.125",
+    "Longueur_mm": "1044.0",
+    "Poids_lb": "29.0",
+    "Poids_kg": "13.2"
+  },
+  {
+    "#Produit": "OCEM3000-TH",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "832.00",
+    "Prix_Acier_Inoxydable": "1027.00",
+    "Longueur_po": "48.375",
+    "Longueur_mm": "1229.0",
+    "Poids_lb": "34.0",
+    "Poids_kg": "15.5"
+  },
+  {
+    "#Produit": "OCEM3000-OTH",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "832.00",
+    "Prix_Acier_Inoxydable": "1027.00",
+    "Longueur_po": "48.375",
+    "Longueur_mm": "1229.0",
+    "Poids_lb": "34.0",
+    "Poids_kg": "15.5"
+  },
+  {
+    "#Produit": "OCEM3000-T600",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "859.00",
+    "Prix_Acier_Inoxydable": "1054.00",
+    "Longueur_po": "48.375",
+    "Longueur_mm": "1229.0",
+    "Poids_lb": "34.0",
+    "Poids_kg": "15.5"
+  }
+]
+```
+
+-------
+
+## Tableau OCEB - Convecteur de style européen (Hauteur : 14" (356 mm) 500W/pi (1700W/m))
+
+```json
+[
+  {
+    "#Produit": "OCEB0500-TH",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "550.00",
+    "Prix_Acier_Inoxydable": "674.00",
+    "Longueur_po": "19.4375",
+    "Longueur_mm": "492.0",
+    "Poids_lb": "13.0",
+    "Poids_kg": "5.9"
+  },
+  {
+    "#Produit": "OCEB0500-OTH",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "550.00",
+    "Prix_Acier_Inoxydable": "674.00",
+    "Longueur_po": "19.4375",
+    "Longueur_mm": "492.0",
+    "Poids_lb": "13.0",
+    "Poids_kg": "5.9"
+  },
+  {
+    "#Produit": "OCEB0500-T600",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "577.00",
+    "Prix_Acier_Inoxydable": "701.00",
+    "Longueur_po": "19.4375",
+    "Longueur_mm": "492.0",
+    "Poids_lb": "13.0",
+    "Poids_kg": "5.9"
+  },
+  {
+    "#Produit": "OCEB0750-TH",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "570.00",
+    "Prix_Acier_Inoxydable": "699.00",
+    "Longueur_po": "23.0",
+    "Longueur_mm": "584.0",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "OCEB0750-OTH",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "570.00",
+    "Prix_Acier_Inoxydable": "699.00",
+    "Longueur_po": "23.0",
+    "Longueur_mm": "584.0",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "OCEB0750-T600",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "597.00",
+    "Prix_Acier_Inoxydable": "726.00",
+    "Longueur_po": "23.0",
+    "Longueur_mm": "584.0",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "OCEB1000-TH",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "608.00",
+    "Prix_Acier_Inoxydable": "747.00",
+    "Longueur_po": "26.5",
+    "Longueur_mm": "674.0",
+    "Poids_lb": "16.0",
+    "Poids_kg": "7.3"
+  },
+  {
+    "#Produit": "OCEB1000-OTH",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "608.00",
+    "Prix_Acier_Inoxydable": "747.00",
+    "Longueur_po": "26.5",
+    "Longueur_mm": "674.0",
+    "Poids_lb": "16.0",
+    "Poids_kg": "7.3"
+  },
+  {
+    "#Produit": "OCEB1000-T600",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "635.00",
+    "Prix_Acier_Inoxydable": "774.00",
+    "Longueur_po": "26.5",
+    "Longueur_mm": "674.0",
+    "Poids_lb": "16.0",
+    "Poids_kg": "7.3"
+  },
+  {
+    "#Produit": "OCEB1250-TH",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "647.00",
+    "Prix_Acier_Inoxydable": "795.00",
+    "Longueur_po": "34.0",
+    "Longueur_mm": "862.0",
+    "Poids_lb": "20.0",
+    "Poids_kg": "9.1"
+  },
+  {
+    "#Produit": "OCEB1250-OTH",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "647.00",
+    "Prix_Acier_Inoxydable": "795.00",
+    "Longueur_po": "34.0",
+    "Longueur_mm": "862.0",
+    "Poids_lb": "20.0",
+    "Poids_kg": "9.1"
+  },
+  {
+    "#Produit": "OCEB1250-T600",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "674.00",
+    "Prix_Acier_Inoxydable": "822.00",
+    "Longueur_po": "34.0",
+    "Longueur_mm": "862.0",
+    "Poids_lb": "20.0",
+    "Poids_kg": "9.1"
+  },
+  {
+    "#Produit": "OCEB1500-TH",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "680.00",
+    "Prix_Acier_Inoxydable": "837.00",
+    "Longueur_po": "36.375",
+    "Longueur_mm": "924.0",
+    "Poids_lb": "22.0",
+    "Poids_kg": "10.0"
+  },
+  {
+    "#Produit": "OCEB1500-OTH",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "680.00",
+    "Prix_Acier_Inoxydable": "837.00",
+    "Longueur_po": "36.375",
+    "Longueur_mm": "924.0",
+    "Poids_lb": "22.0",
+    "Poids_kg": "10.0"
+  },
+  {
+    "#Produit": "OCEB1500-T600",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "707.00",
+    "Prix_Acier_Inoxydable": "864.00",
+    "Longueur_po": "36.375",
+    "Longueur_mm": "924.0",
+    "Poids_lb": "22.0",
+    "Poids_kg": "10.0"
+  },
+  {
+    "#Produit": "OCEB1750-TH",
+    "Watts": "1750/1313",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "715.00",
+    "Prix_Acier_Inoxydable": "880.00",
+    "Longueur_po": "41.125",
+    "Longueur_mm": "1044.0",
+    "Poids_lb": "24.0",
+    "Poids_kg": "10.9"
+  },
+  {
+    "#Produit": "OCEB1750-OTH",
+    "Watts": "1750/1313",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "715.00",
+    "Prix_Acier_Inoxydable": "880.00",
+    "Longueur_po": "41.125",
+    "Longueur_mm": "1044.0",
+    "Poids_lb": "24.0",
+    "Poids_kg": "10.9"
+  },
+  {
+    "#Produit": "OCEB1750-T600",
+    "Watts": "1750/1313",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "742.00",
+    "Prix_Acier_Inoxydable": "907.00",
+    "Longueur_po": "41.125",
+    "Longueur_mm": "1044.0",
+    "Poids_lb": "24.0",
+    "Poids_kg": "10.9"
+  },
+  {
+    "#Produit": "OCEB2000-TH",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "741.00",
+    "Prix_Acier_Inoxydable": "913.00",
+    "Longueur_po": "46.4375",
+    "Longueur_mm": "1179.0",
+    "Poids_lb": "26.0",
+    "Poids_kg": "11.8"
+  },
+  {
+    "#Produit": "OCEB2000-OTH",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "741.00",
+    "Prix_Acier_Inoxydable": "913.00",
+    "Longueur_po": "46.4375",
+    "Longueur_mm": "1179.0",
+    "Poids_lb": "26.0",
+    "Poids_kg": "11.8"
+  },
+  {
+    "#Produit": "OCEB2000-T600",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "768.00",
+    "Prix_Acier_Inoxydable": "940.00",
+    "Longueur_po": "46.4375",
+    "Longueur_mm": "1179.0",
+    "Poids_lb": "26.0",
+    "Poids_kg": "11.8"
+  },
+  {
+    "#Produit": "OCEB2500-TH",
+    "Watts": "2500/1875",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "802.00",
+    "Prix_Acier_Inoxydable": "989.00",
+    "Longueur_po": "62.1875",
+    "Longueur_mm": "1579.0",
+    "Poids_lb": "35.0",
+    "Poids_kg": "15.9"
+  },
+  {
+    "#Produit": "OCEB2500-OTH",
+    "Watts": "2500/1875",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "802.00",
+    "Prix_Acier_Inoxydable": "989.00",
+    "Longueur_po": "62.1875",
+    "Longueur_mm": "1579.0",
+    "Poids_lb": "35.0",
+    "Poids_kg": "15.9"
+  },
+  {
+    "#Produit": "OCEB2500-T600",
+    "Watts": "2500/1875",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "829.00",
+    "Prix_Acier_Inoxydable": "1016.00",
+    "Longueur_po": "62.1875",
+    "Longueur_mm": "1579.0",
+    "Poids_lb": "35.0",
+    "Poids_kg": "15.9"
+  },
+  {
+    "#Produit": "OCEB3000-TH",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Type": "Thermostat non programmable intégré",
+    "Prix": "864.00",
+    "Prix_Acier_Inoxydable": "1067.00",
+    "Longueur_po": "69.3125",
+    "Longueur_mm": "1760.0",
+    "Poids_lb": "38.0",
+    "Poids_kg": "17.3"
+  },
+  {
+    "#Produit": "OCEB3000-OTH",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Type": "Thermostat mural non programmable inclus",
+    "Prix": "864.00",
+    "Prix_Acier_Inoxydable": "1067.00",
+    "Longueur_po": "69.3125",
+    "Longueur_mm": "1760.0",
+    "Poids_lb": "38.0",
+    "Poids_kg": "17.3"
+  },
+  {
+    "#Produit": "OCEB3000-T600",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Type": "Thermostat mural programmable inclus",
+    "Prix": "891.00",
+    "Prix_Acier_Inoxydable": "1094.00",
+    "Longueur_po": "69.3125",
+    "Longueur_mm": "1760.0",
+    "Poids_lb": "38.0",
+    "Poids_kg": "17.3"
+  }
+]
+```
+
+-------
+
+## Tableau Options
+
+```json
+[
+  {
+    "#Produit": "KIT-OCE-AV",
+    "Type": "En trousse",
+    "Prix": "11.00",
+    "Description": "Dispositif anti-vandale"
+  },
+  {
+    "#Produit": "KIT-OCE-TRIAC-3473",
+    "Type": "En trousse",
+    "Prix": "65.00",
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."
+  },
+  {
+    "#Produit": "KIT-OCE-TRIAC-347T3",
+    "Type": "En trousse",
+    "Prix": "94.00",
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V"
+  },
+  {
+    "#Produit": "TRIAC3",
+    "Type": "Installée en usine",
+    "Prix": "65.00",
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."
+  },
+  {
+    "#Produit": "TRIACT3",
+    "Type": "Installée en usine",
+    "Prix": "94.00",
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V"
+  }
+]
+```

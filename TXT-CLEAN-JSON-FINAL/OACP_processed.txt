@@ -1,0 +1,454 @@
+# OACP - Aéroconvecteur commercial de plafond
+
+## Caractéristiques
+
+**Couleur**
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+**Finition**
+• Standard : peinture à la poudre d'époxy/polyester.
+
+**Tension**
+• 120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase.
+
+**Construction**
+• Devant en acier de calibre 18.
+• Protection thermique à réenclenchement automatique.
+
+**Ventilateur**
+• Moteur ventilé lubrifié à vie
+• Ventilateur de 160 pcm (unité simple : 55.5 dBA), 2 X 160 pcm (unité double : 58.5 dBA).
+• Dispositif éliminant la chaleur résiduelle.
+
+**Élément**
+• Élément tubulaire à ailettes très robuste.
+
+-------
+
+## Régulation
+
+• Circuit de commande à 240/208V standard avec contacteur si nécessaire (sauf modèle 120V).
+• Relais 24V en option avec ou sans transformateur.
+• Thermostat intégré en option.
+• Note : Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+• Tout dispositif de contrôle (thermostat ou relais) doit être connecté au bornier de contrôle de l'appareil.
+
+**Installation**
+• Hauteur maximale d'installation recommandée : 10 pi (3 m).
+• Distance minimale des murs adjacents : 10 po (25.4 cm).
+• Boîtier pour montage en surface en option.
+• Cadre d'installation pour plafond suspendu en option.
+
+**Garantie**
+• 3 ans contre tous vices.
+
+**Application**
+• Immeuble d'appartements, édifice commercial, cage d'escalier, garage
+
+-------
+
+## Tableau OACP - Aéroconvecteur commercial de plafond (Modèles)
+
+```json
+[
+  {
+    "#Produit": "OACP1502",
+    "Watts": 1500.0,
+    "Volts": 120.0,
+    "Prix": 822.00,
+    "BTU/hr": 5123.0,
+    "Unité": "simple",
+    "Poids_lb": 24.0,
+    "Poids_kg": 10.9
+  },
+  {
+    "#Produit": "OACP2008",
+    "Watts": 2000.0,
+    "Volts": 208.0,
+    "Prix": 964.00,
+    "BTU/hr": 6820.0,
+    "Unité": "simple",
+    "Poids_lb": 24.0,
+    "Poids_kg": 10.9
+  },
+  {
+    "#Produit": "OACP4008",
+    "Watts": 4000.0,
+    "Volts": 208.0,
+    "Prix": 964.00,
+    "BTU/hr": 13661.0,
+    "Unité": "simple",
+    "Poids_lb": 24.0,
+    "Poids_kg": 10.9
+  },
+  {
+    "#Produit": "OACP4808",
+    "Watts": 4800.0,
+    "Volts": 208.0,
+    "Prix": 1009.00,
+    "BTU/hr": 16393.0,
+    "Unité": "simple",
+    "Poids_lb": 24.0,
+    "Poids_kg": 10.9
+  },
+  {
+    "#Produit": "OACP8008",
+    "Watts": 8000.0,
+    "Volts": 208.0,
+    "Prix": 2252.00,
+    "BTU/hr": 27321.0,
+    "Unité": "double",
+    "Poids_lb": 50.0,
+    "Poids_kg": 22.7
+  },
+  {
+    "#Produit": "OACP1500",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Prix": 880.00,
+    "BTU/hr": "5123/3842",
+    "Unité": "simple",
+    "Poids_lb": 24.0,
+    "Poids_kg": 10.9
+  },
+  {
+    "#Produit": "OACP2000",
+    "Watts": "2000/1500",
+    "Volts": "240/208",
+    "Prix": 880.00,
+    "BTU/hr": "6830/5123",
+    "Unité": "simple",
+    "Poids_lb": 24.0,
+    "Poids_kg": 10.9
+  },
+  {
+    "#Produit": "OACP3000",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Prix": 902.00,
+    "BTU/hr": "10246/7684",
+    "Unité": "simple",
+    "Poids_lb": 24.0,
+    "Poids_kg": 10.9
+  },
+  {
+    "#Produit": "OACP4000",
+    "Watts": "4000/3000",
+    "Volts": "240/208",
+    "Prix": 964.00,
+    "BTU/hr": "13661/10246",
+    "Unité": "simple",
+    "Poids_lb": 24.0,
+    "Poids_kg": 10.9
+  },
+  {
+    "#Produit": "OACP4800",
+    "Watts": "4800/3600",
+    "Volts": "240/208",
+    "Prix": 1009.00,
+    "BTU/hr": "16393/12295",
+    "Unité": "simple",
+    "Poids_lb": 24.0,
+    "Poids_kg": 10.9
+  },
+  {
+    "#Produit": "OACP6000",
+    "Watts": "6000/4500",
+    "Volts": "240/208",
+    "Prix": 1982.00,
+    "BTU/hr": "20491/15368",
+    "Unité": "double",
+    "Poids_lb": 50.0,
+    "Poids_kg": 22.7
+  },
+  {
+    "#Produit": "OACP8000",
+    "Watts": "8000/6000",
+    "Volts": "240/208",
+    "Prix": 2130.00,
+    "BTU/hr": "27321/20491",
+    "Unité": "double",
+    "Poids_lb": 50.0,
+    "Poids_kg": 22.7
+  },
+  {
+    "#Produit": "OACP1507",
+    "Watts": 1500.0,
+    "Volts": 347.0,
+    "Prix": 1168.00,
+    "BTU/hr": 5123.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP2007",
+    "Watts": 2000.0,
+    "Volts": 347.0,
+    "Prix": 1168.00,
+    "BTU/hr": 6830.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP3007",
+    "Watts": 3000.0,
+    "Volts": 347.0,
+    "Prix": 1209.00,
+    "BTU/hr": 10246.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP4007",
+    "Watts": 4000.0,
+    "Volts": 347.0,
+    "Prix": 1248.00,
+    "BTU/hr": 13661.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP6007",
+    "Watts": 6000.0,
+    "Volts": 347.0,
+    "Prix": 2602.00,
+    "BTU/hr": 20491.0,
+    "Unité": "double",
+    "Poids_lb": 50.0,
+    "Poids_kg": 22.7
+  },
+  {
+    "#Produit": "OACP8007",
+    "Watts": 8000.0,
+    "Volts": 347.0,
+    "Prix": 2986.00,
+    "BTU/hr": 27321.0,
+    "Unité": "double",
+    "Poids_lb": 50.0,
+    "Poids_kg": 22.7
+  },
+  {
+    "#Produit": "OACP1504",
+    "Watts": 1500.0,
+    "Volts": 480.0,
+    "Prix": 1232.00,
+    "BTU/hr": 5123.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP2004",
+    "Watts": 2000.0,
+    "Volts": 480.0,
+    "Prix": 1232.00,
+    "BTU/hr": 6830.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP3004",
+    "Watts": 3000.0,
+    "Volts": 480.0,
+    "Prix": 1272.00,
+    "BTU/hr": 10246.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP4004",
+    "Watts": 4000.0,
+    "Volts": 480.0,
+    "Prix": 1317.00,
+    "BTU/hr": 13661.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP6004",
+    "Watts": 6000.0,
+    "Volts": 480.0,
+    "Prix": 2602.00,
+    "BTU/hr": 20491.0,
+    "Unité": "double",
+    "Poids_lb": 50.0,
+    "Poids_kg": 22.7
+  },
+  {
+    "#Produit": "OACP8004",
+    "Watts": 8000.0,
+    "Volts": 480.0,
+    "Prix": 2986.00,
+    "BTU/hr": 27321.0,
+    "Unité": "double",
+    "Poids_lb": 50.0,
+    "Poids_kg": 22.7
+  },
+  {
+    "#Produit": "OACP1506",
+    "Watts": 1500.0,
+    "Volts": 600.0,
+    "Prix": 1232.00,
+    "BTU/hr": 5123.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP2006",
+    "Watts": 2000.0,
+    "Volts": 600.0,
+    "Prix": 1232.00,
+    "BTU/hr": 6830.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP3006",
+    "Watts": 3000.0,
+    "Volts": 600.0,
+    "Prix": 1272.00,
+    "BTU/hr": 10246.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP4006",
+    "Watts": 4000.0,
+    "Volts": 600.0,
+    "Prix": 1317.00,
+    "BTU/hr": 13661.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP4806",
+    "Watts": 4800.0,
+    "Volts": 600.0,
+    "Prix": 1387.00,
+    "BTU/hr": 16393.0,
+    "Unité": "simple",
+    "Poids_lb": 28.0,
+    "Poids_kg": 12.7
+  },
+  {
+    "#Produit": "OACP6006",
+    "Watts": 6000.0,
+    "Volts": 600.0,
+    "Prix": 2602.00,
+    "BTU/hr": 20491.0,
+    "Unité": "double",
+    "Poids_lb": 50.0,
+    "Poids_kg": 22.7
+  },
+  {
+    "#Produit": "OACP8006",
+    "Watts": 8000.0,
+    "Volts": 600.0,
+    "Prix": 2986.00,
+    "BTU/hr": 27321.0,
+    "Unité": "double",
+    "Poids_lb": 50.0,
+    "Poids_kg": 22.7
+  }
+]
+```
+
+-------
+
+## Tableau OACP - Aéroconvecteur commercial de plafond (Options)
+
+```json
+[
+  {
+    "#Produit": "KIT-OAWH-BSA",
+    "Produit_Installé_en_usine": "-",
+    "Prix": 132.00,
+    "Description": "Boîtier pour montage en surface pour devant en aluminium extrudé, unité simple"
+  },
+  {
+    "#Produit": "KIT-OAWH-BSA2",
+    "Produit_Installé_en_usine": "-",
+    "Prix": 264.00,
+    "Description": "Boîtier pour montage en surface pour devant en aluminium extrudé, unité double"
+  },
+  {
+    "#Produit": "KIT-OAC-BS1",
+    "Produit_Installé_en_usine": "-",
+    "Prix": 95.00,
+    "Description": "Boîtier pour montage en surface, unité simple"
+  },
+  {
+    "#Produit": "KIT-OAC-BS2",
+    "Produit_Installé_en_usine": "-",
+    "Prix": 190.00,
+    "Description": "Boîtier pour montage en surface, unité double"
+  },
+  {
+    "#Produit": "KIT-OAC-DVA",
+    "Produit_Installé_en_usine": "-",
+    "Prix": 332.00,
+    "Description": "Devant en aluminium extrudé, unité simple"
+  },
+  {
+    "#Produit": "KIT-OAC-DVA2",
+    "Produit_Installé_en_usine": "-",
+    "Prix": 670.00,
+    "Description": "Devant en aluminium extrudé, unité double"
+  },
+  {
+    "#Produit": "KIT-OACP-DIS202",
+    "Produit_Installé_en_usine": "DIS202",
+    "Prix": 184.00,
+    "Description": "Interrupteur principal, bipolaire, 20A à 240V"
+  },
+  {
+    "#Produit": "KIT-OACP-DIS402",
+    "Produit_Installé_en_usine": "DIS402",
+    "Prix": 212.00,
+    "Description": "Interrupteur principal, tripolaire, 40A à 600V"
+  },
+  {
+    "#Produit": "KIT-OACP-R",
+    "Produit_Installé_en_usine": "R",
+    "Prix": 193.00,
+    "Description": "Relais de contrôle 24V, sans transformateur"
+  },
+  {
+    "#Produit": "-",
+    "Produit_Installé_en_usine": "RT",
+    "Prix": 204.00,
+    "Description": "Relais de contrôle 24V, avec transformateur"
+  },
+  {
+    "#Produit": "KIT-OACP-T",
+    "Produit_Installé_en_usine": "T",
+    "Prix": 153.00,
+    "Description": "Thermostat"
+  },
+  {
+    "#Produit": "KIT-OACP-T-BAR",
+    "Produit_Installé_en_usine": "-",
+    "Prix": 95.00,
+    "Description": "Cadre d'installation pour plafond suspendu, 23 3/4 po X 23 3/4 po (602 mm X 602 mm), unité simple"
+  },
+  {
+    "#Produit": "KIT-OACP-T-BAR2",
+    "Produit_Installé_en_usine": "-",
+    "Prix": 190.00,
+    "Description": "Cadre d'installation pour plafond suspendu, 23 3/4 po X 47 11/16 po (602 mm X 1211 mm), unité double"
+  }
+]
+```

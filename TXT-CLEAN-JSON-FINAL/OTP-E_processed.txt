@@ -1,0 +1,441 @@
+# OTP-E Thermopompe simple zone Eagle sans conduit de ventilation
+
+## Caractéristiques
+
+### Mode de fonctionnement
+• Climatisation, chauffage, déshumidification, ventilation et auto.
+
+### Capacité nominale
+• 9000, 12000, 18000, 24000 BTU/hr.
+
+### Tension
+• 230/208V, 60 Hz, 1 phase.
+
+### Unité intérieure
+• Installation en haut de mur, pouvant être raccordée de chaque côté.
+• Boîtier en plastique, standard blanc.
+• Ventilateur à courant transversal à 4 vitesses (auto, élevée, moyenne et faible).
+• Filtres lavables.
+
+### Unité extérieure
+• Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.
+• Soupape d'expansion électronique pour un contrôle précis du débit de réfrigérant.
+• Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.
+• Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.
+• Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.
+• Installation sur support mural ou au sol en aluminium en option.
+
+-------
+
+### Tuyauterie de raccordement
+• Longueur minimale de la tuyauterie de 10 pi (3 m).
+• Diamètre externe tuyau gaz : 3/8'' à 5/8''.
+• Raccords évasés.
+
+### Régulation
+• Télécommande sans fil incluse.
+• Contrôleur mural en option.
+• Wi-Fi (option KIT-WIFI requise).
+• Interface (options HP6000ZB-GE et GT130 requises).
+• Température de consigne : 16 à 30 °C (61 à 86 °F).
+• Format d'affichage de la température : °C ou °F.
+
+### Garantie
+• Garantie de base 10 ans pièces et 10 ans compresseur (main-d'œuvre non incluse).
+
+### Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant.
+
+-------
+
+## Tableau OTP-E - Performance technique
+
+```json
+[
+  {
+    "#Produit": "SED09KCH17S",
+    "Unité intérieure": "SED09KCH17S-I",
+    "Unité extérieure": "SED09KCH17S-O",
+    "Tension": "230/208 Volts",
+    "Capacité en climatisation": {
+      "Nominale": "2667 W (9100 BTU/hr)",
+      "Min. – max.": "720 - 2814 W (2457 - 9600 BTU/hr)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "2784 W (9500 BTU/hr)",
+      "Min. – max.": "720 - 3371 W (2457 - 11500 BTU/hr)"
+    },
+    "Puissance consommée en climatisation": {
+      "Nominale": "889.0 W",
+      "Min. – max.": "185 - 1100 W"
+    },
+    "Puissance consommée en chauffage": {
+      "Nominale": "774.0 W",
+      "Min. – max.": "170-1350 W"
+    },
+    "Puissance consommée nominale": "1350.0 W",
+    "Courant nominal": "6.3 A",
+    "MCA": "10.0 A",
+    "Disjoncteur/fusible max. (MOCP)": "15.0 A",
+    "TRÉS (SEER)": "17.0",
+    "CPSC (HSPF)": "9.0",
+    "TRÉ (EER)": "3.0 W/W",
+    "COP": "3.6 W/W",
+    "Numéro AHRI": "205782700.0",
+    "Unité intérieure": {
+      "Déshumidification": "1.69 pt/hr (0.80 l/hr)",
+      "Débit d'air volumique": "294 / 271 / 235 / 182 pcm",
+      "Niveau sonore": "49 / 47 / 43 / 36 dB (A)",
+      "Puissance du moteur du ventilateur": "20.0 W",
+      "RLA du moteur du ventilateur": "0.22 A",
+      "Puissance du moteur du déflecteur": "1.5 W",
+      "Poids net": "19.8 lb (9 kg)",
+      "Dimensions": {
+        "L": "31.125 po (790.0 mm)",
+        "H": "10.8125 po (275.0 mm)",
+        "P": "7.875 po (200.0 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Niveau sonore": "60.0 dB (A)",
+      "Puissance du compresseur": "790.0 W",
+      "LRA du compresseur": "18.0 A",
+      "RLA du compresseur": "6.6 A",
+      "Puissance du moteur du ventilateur": "30.0 W",
+      "RLA du moteur du ventilateur": "0.37 A",
+      "Volume de réfrigérant (R410A)": "24 oz (680 g)",
+      "Poids": "58.4 lb (26.5 kg)",
+      "Dimensions": {
+        "L": "30.8125 po (782.0 mm)",
+        "H": "21.25 po (540.0 mm)",
+        "P": "12.625 po (320.0 mm)",
+        "A": "21.25 po (540.0 mm)",
+        "B": "11.25 po (286.0 mm)"
+      }
+    },
+    "Température ambiante de fonctionnement": {
+      "Climatisation": "-18 to 46 °C (0 to 115 °F)",
+      "Chauffage": "-20 to 24 °C (-4 to 75 °F)"
+    },
+    "Tuyauterie de raccordement/réfrigérant": {
+      "Longueur de préchargement": "25 pi (7.5 m)",
+      "Volume additionnel de réfrigérant": "0.2 oz/pi (20 g/m)",
+      "Diamètre externe tuyau liquide": "1/4 po",
+      "Diamètre externe tuyau gaz": "3/8 po",
+      "Différence de hauteur maximale": "33 pi (10 m)",
+      "Longueur totale maximale": "49 pi (15 m)"
+    }
+  },
+  {
+    "#Produit": "SED12KCH17S",
+    "Unité intérieure": "SED12KCH17S-I",
+    "Unité extérieure": "SED12KCH17S-O",
+    "Tension": "230/208 Volts",
+    "Capacité en climatisation": {
+      "Nominale": "3517 W (12000 BTU/hr)",
+      "Min. – max.": "300 - 3700 W (1024 - 12624 BTU/hr)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "3810 W (13000 BTU/hr)",
+      "Min. – max.": "700 - 4000 W (2388 - 13648 BTU/hr)"
+    },
+    "Puissance consommée en climatisation": {
+      "Nominale": "1297.0 W",
+      "Min. – max.": "180 - 1500 W"
+    },
+    "Puissance consommée en chauffage": {
+      "Nominale": "1172.0 W",
+      "Min. – max.": "260 - 1450 W"
+    },
+    "Puissance consommée nominale": "1500.0 W",
+    "Courant nominal": "6.5 A",
+    "MCA": "9.0 A",
+    "Disjoncteur/fusible max. (MOCP)": "15.0 A",
+    "TRÉS (SEER)": "17.0",
+    "CPSC (HSPF)": "9.0",
+    "TRÉ (EER)": "2.71 W/W",
+    "COP": "3.25 W/W",
+    "Numéro AHRI": "205782701.0",
+    "Unité intérieure": {
+      "Déshumidification": "2.96 pt/hr (1.4 l/hr)",
+      "Débit d'air volumique": "371 / 294 / 235 / 182 pcm",
+      "Niveau sonore": "52 / 49 / 44 / 38 dB (A)",
+      "Puissance du moteur du ventilateur": "20.0 W",
+      "RLA du moteur du ventilateur": "0.31 A",
+      "Puissance du moteur du déflecteur": "1.5 W",
+      "Poids net": "22 lb (10 kg)",
+      "Dimensions": {
+        "L": "33.25 po (845.0 mm)",
+        "H": "11.375 po (289.0 mm)",
+        "P": "7.875 po (209.0 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Niveau sonore": "60.0 dB (A)",
+      "Puissance du compresseur": "1023.0 W",
+      "LRA du compresseur": "18.0 A",
+      "RLA du compresseur": "6.6 A",
+      "Puissance du moteur du ventilateur": "30.0 W",
+      "RLA du moteur du ventilateur": "0.37 A",
+      "Volume de réfrigérant (R410A)": "28.2 oz (800 g)",
+      "Poids": "63 lb (28.5 kg)",
+      "Dimensions": {
+        "L": "30.8125 po (782.0 mm)",
+        "H": "21.25 po (540.0 mm)",
+        "P": "12.625 po (320.0 mm)",
+        "A": "21.25 po (540.0 mm)",
+        "B": "11.25 po (286.0 mm)"
+      }
+    },
+    "Température ambiante de fonctionnement": {
+      "Climatisation": "-18 to 46 °C (0 to 115 °F)",
+      "Chauffage": "-20 to 24 °C (-4 to 75 °F)"
+    },
+    "Tuyauterie de raccordement/réfrigérant": {
+      "Longueur de préchargement": "25 pi (7.5 m)",
+      "Volume additionnel de réfrigérant": "0.2 oz/pi (20 g/m)",
+      "Diamètre externe tuyau liquide": "1/4 po",
+      "Diamètre externe tuyau gaz": "3/8 po",
+      "Différence de hauteur maximale": "33 pi (10 m)",
+      "Longueur totale maximale": "66 pi (20 m)"
+    }
+  },
+  {
+    "#Produit": "SED18KCH16S",
+    "Unité intérieure": "SED18KCH16S-I",
+    "Unité extérieure": "SED18KCH16S-O",
+    "Tension": "230/208 Volts",
+    "Capacité en climatisation": {
+      "Nominale": "5100 W (17400 BTU/hr)",
+      "Min. – max.": "1200 - 5800 W (4094 - 20000 BTU/hr)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "5275 W (18000 BTU/hr)",
+      "Min. – max.": "1200 - 6200 W (4100 - 21000 BTU/hr)"
+    },
+    "Puissance consommée en climatisation": {
+      "Nominale": "2040.0 W",
+      "Min. – max.": "200 - 2300 W"
+    },
+    "Puissance consommée en chauffage": {
+      "Nominale": "1758.0 W",
+      "Min. – max.": "300 - 2400 W"
+    },
+    "Puissance consommée nominale": "2400.0 W",
+    "Courant nominal": "10.0 A",
+    "MCA": "15.0 A",
+    "Disjoncteur/fusible max. (MOCP)": "20.0 A",
+    "TRÉS (SEER)": "16.0",
+    "CPSC (HSPF)": "9.0",
+    "TRÉ (EER)": "2.5 W/W",
+    "COP": "3.0 W/W",
+    "Numéro AHRI": "205782702.0",
+    "Unité intérieure": {
+      "Déshumidification": "3.8 pt/hr (1.80 l/hr)",
+      "Débit d'air volumique": "471 / 412 / 383 / 335 pcm",
+      "Niveau sonore": "57 / 54 / 50 / 45 dB (A)",
+      "Puissance du moteur du ventilateur": "60.0 W",
+      "RLA du moteur du ventilateur": "0.4 A",
+      "Puissance du moteur du déflecteur": "2.5 W",
+      "Poids net": "30 lb (13.5 kg)",
+      "Dimensions": {
+        "L": "38.1875 po (970.0 mm)",
+        "H": "11.8125 po (300.0 mm)",
+        "P": "8.8125 po (224.0 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Niveau sonore": "66.0 dB (A)",
+      "Puissance du compresseur": "1440.0 W",
+      "LRA du compresseur": "25.0 A",
+      "RLA du compresseur": "10.2 A",
+      "Puissance du moteur du ventilateur": "60.0 W",
+      "RLA du moteur du ventilateur": "0.7 A",
+      "Volume de réfrigérant (R410A)": "42.3 oz (1200 g)",
+      "Poids": "87 lb (39.5 kg)",
+      "Dimensions": {
+        "L": "35.9375 po (912.0 mm)",
+        "H": "25.4375 po (646.0 mm)",
+        "P": "14.6875 po (373.0 mm)",
+        "A": "22.0 po (559.0 mm)",
+        "B": "14.3125 po (364.0 mm)"
+      }
+    },
+    "Température ambiante de fonctionnement": {
+      "Climatisation": "-18 to 46 °C (0 to 115 °F)",
+      "Chauffage": "-20 to 24 °C (-4 to 75 °F)"
+    },
+    "Tuyauterie de raccordement/réfrigérant": {
+      "Longueur de préchargement": "25 pi (7.5 m)",
+      "Volume additionnel de réfrigérant": "0.2 oz/pi (20 g/m)",
+      "Diamètre externe tuyau liquide": "1/4 po",
+      "Diamètre externe tuyau gaz": "1/2 po",
+      "Différence de hauteur maximale": "33 pi (10 m)",
+      "Longueur totale maximale": "82 pi (25 m)"
+    }
+  },
+  {
+    "#Produit": "SED24KCH19S",
+    "Unité intérieure": "SED24KCH19S-I",
+    "Unité extérieure": "SED24KCH19S-O",
+    "Tension": "230/208 Volts",
+    "Capacité en climatisation": {
+      "Nominale": "6450 W (22000 BTU/hr)",
+      "Min. – max.": "1730 - 7400 W (5900 - 25200 BTU/hr)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "7034 W (24000 BTU/hr)",
+      "Min. – max.": "1310 - 7600 W (4500 - 25900 BTU/hr)"
+    },
+    "Puissance consommée en climatisation": {
+      "Nominale": "1950.0 W",
+      "Min. – max.": "360 - 3000 W"
+    },
+    "Puissance consommée en chauffage": {
+      "Nominale": "2070.0 W",
+      "Min. – max.": "330 - 2900 W"
+    },
+    "Puissance consommée nominale": "2900.0 W",
+    "Courant nominal": "11.0 A",
+    "MCA": "19.0 A",
+    "Disjoncteur/fusible max. (MOCP)": "30.0 A",
+    "TRÉS (SEER)": "19.0",
+    "CPSC (HSPF)": "10.0",
+    "TRÉ (EER)": "3.31 W/W",
+    "COP": "3.4 W/W",
+    "Numéro AHRI": "205782703.0",
+    "Unité intérieure": {
+      "Déshumidification": "4.23 pt/hr (2.00 l/hr)",
+      "Débit d'air volumique": "677 / 588 / 471 / 412 pcm",
+      "Niveau sonore": "59 / 55 / 51 / 47 dB (A)",
+      "Puissance du moteur du ventilateur": "30.0 W",
+      "RLA du moteur du ventilateur": "0.55 A",
+      "Puissance du moteur du déflecteur": "2.5 W",
+      "Poids net": "37.5 lb (17 kg)",
+      "Dimensions": {
+        "L": "42.4375 po (1078.0 mm)",
+        "H": "12.8125 po (325.0 mm)",
+        "P": "9.6875 po (246.0 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Niveau sonore": "69.0 dB (A)",
+      "Puissance du compresseur": "1635.0 W",
+      "LRA du compresseur": "25.0 A",
+      "RLA du compresseur": "13.0 A",
+      "Puissance du moteur du ventilateur": "60.0 W",
+      "RLA du moteur du ventilateur": "0.65 A",
+      "Volume de réfrigérant (R410A)": "52.9 oz (1500 g)",
+      "Poids": "97 lb (44 kg)",
+      "Dimensions": {
+        "L": "38.5625 po (980.0 mm)",
+        "H": "31.125 po (790.0 mm)",
+        "P": "16.8125 po (427.0 mm)",
+        "A": "24.0 po (610.0 mm)",
+        "B": "15.5625 po (395.0 mm)"
+      }
+    },
+    "Température ambiante de fonctionnement": {
+      "Climatisation": "-18 to 46 °C (0 to 115 °F)",
+      "Chauffage": "-20 to 24 °C (-4 to 75 °F)"
+    },
+    "Tuyauterie de raccordement/réfrigérant": {
+      "Longueur de préchargement": "25 pi (7.5 m)",
+      "Volume additionnel de réfrigérant": "0.5 oz/pi (50 g/m)",
+      "Diamètre externe tuyau liquide": "1/4 po",
+      "Diamètre externe tuyau gaz": "5/8 po",
+      "Différence de hauteur maximale": "33 pi (10 m)",
+      "Longueur totale maximale": "82 pi (25 m)"
+    }
+  }
+]
+```
+
+-------
+
+## Tableau OTP-E - Dimensions des unités
+
+```json
+[
+  {
+    "#Produit": "SED09KCH17S-I",
+    "Type": "Unité intérieure",
+    "Dimensions": {
+      "L": "31.125 po (790.0 mm)",
+      "H": "10.8125 po (275.0 mm)",
+      "P": "7.875 po (200.0 mm)"
+    }
+  },
+  {
+    "#Produit": "SED12KCH17S-I",
+    "Type": "Unité intérieure",
+    "Dimensions": {
+      "L": "33.25 po (845.0 mm)",
+      "H": "11.375 po (289.0 mm)",
+      "P": "7.875 po (209.0 mm)"
+    }
+  },
+  {
+    "#Produit": "SED18KCH16S-I",
+    "Type": "Unité intérieure",
+    "Dimensions": {
+      "L": "38.1875 po (970.0 mm)",
+      "H": "11.8125 po (300.0 mm)",
+      "P": "8.8125 po (224.0 mm)"
+    }
+  },
+  {
+    "#Produit": "SED24KCH19S-I",
+    "Type": "Unité intérieure",
+    "Dimensions": {
+      "L": "42.4375 po (1078.0 mm)",
+      "H": "12.8125 po (325.0 mm)",
+      "P": "9.6875 po (246.0 mm)"
+    }
+  },
+  {
+    "#Produit": "SED09KCH17S-O",
+    "Type": "Unité extérieure",
+    "Dimensions": {
+      "L": "30.8125 po (782.0 mm)",
+      "H": "21.25 po (540.0 mm)",
+      "P": "12.625 po (320.0 mm)",
+      "A": "21.25 po (540.0 mm)",
+      "B": "11.25 po (286.0 mm)"
+    }
+  },
+  {
+    "#Produit": "SED12KCH17S-O",
+    "Type": "Unité extérieure",
+    "Dimensions": {
+      "L": "30.8125 po (782.0 mm)",
+      "H": "21.25 po (540.0 mm)",
+      "P": "12.625 po (320.0 mm)",
+      "A": "21.25 po (540.0 mm)",
+      "B": "11.25 po (286.0 mm)"
+    }
+  },
+  {
+    "#Produit": "SED18KCH16S-O",
+    "Type": "Unité extérieure",
+    "Dimensions": {
+      "L": "35.9375 po (912.0 mm)",
+      "H": "25.4375 po (646.0 mm)",
+      "P": "14.6875 po (373.0 mm)",
+      "A": "22.0 po (559.0 mm)",
+      "B": "14.3125 po (364.0 mm)"
+    }
+  },
+  {
+    "#Produit": "SED24KCH19S-O",
+    "Type": "Unité extérieure",
+    "Dimensions": {
+      "L": "38.5625 po (980.0 mm)",
+      "H": "31.125 po (790.0 mm)",
+      "P": "16.8125 po (427.0 mm)",
+      "A": "24.0 po (610.0 mm)",
+      "B": "15.5625 po (395.0 mm)"
+    }
+  }
+]
+```

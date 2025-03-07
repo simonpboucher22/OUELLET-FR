@@ -1,0 +1,615 @@
+# ORA-C Rideau d'air commercial C Range
+
+## Caractéristiques
+
+**Modèle**
+• Chauffant électrique.
+• Sans chauffage.
+
+**Couleur**
+• Standard : blanc.
+• Couleurs sur mesure disponibles sur demande (Charte RAL).
+
+**Tension**
+• 208V, 240/208V, 480V, 600V, 60 Hz.
+
+**Construction**
+• Boîtier en acier avec embouts en plastique résistant.
+• Accès rapide aux composantes internes par le panneau frontal qui facilite l'entretien et le branchement.
+• Protection thermique à réenclenchement automatique.
+
+**Ventilateur**
+• Ventilateurs tangentiels.
+
+**Élément**
+• Élément produisant une chaleur instantanée (modèle électrique).
+
+**Régulation**
+• Contrôle Ecopower inclus (câble de commande RJ9 de 20 pi (6m) inclus).
+• Interrupteur de porte inclus.
+• Compatible avec le Système de Gestion du Bâtiment (Bacnet MS/TP, Modbus RTU ou contact sec).
+• Programmation personnalisée du rideau d'air.
+
+**Installation**
+• Hauteur minimum d'installation : 6 pi (1.8 m).
+• Hauteur maximum d'installation :
+  - Montage en surface au mur : 9.84 pi (3 m) du plancher.
+  - Montage encastré : 9 pi (2.75 m) du plancher.
+• Montage en surface au mur : équerre et support inclus.
+• Montage suspendu : fixations incluses pour tiges filetées 1/4 po x 20 UNC (tiges non fournies).
+• Montage encastré : grille à charnière incluse pour faciliter l'installation et l'entretien.
+• Trousse de raccordement, disponible en option, pour la connexion de plusieurs appareils installés en surface.
+
+**Garantie**
+• 2 ans contre tous vices.
+
+**Application**
+Vestibule, édifice commercial, hall d'entrée, porte de service, hôpital
+
+-------
+
+## Tableau ORA-C - Rideau d'air commercial C Range
+
+```json
+[
+  {
+    "#Produit": "C1000ESEC600V",
+    "Type": "Chauffant électrique",
+    "Montage": "En surface",
+    "Volts (ph)": "600 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 6280.00,
+      "Couleurs sur mesure": 8887.00
+    },
+    "kW Lo/Hi": "4.5/9",
+    "Amp.": "9.3+0.5",
+    "pcm": 740.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 36.0,
+      "mm": 933.0
+    },
+    "Poids": {
+      "lb": 35.0,
+      "kg": 16.0
+    }
+  },
+  {
+    "#Produit": "C1500ESEC600V",
+    "Type": "Chauffant électrique",
+    "Montage": "En surface",
+    "Volts (ph)": "600 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 7120.85,
+      "Couleurs sur mesure": 9872.00
+    },
+    "kW Lo/Hi": "45820.0",
+    "Amp.": "12.8+0.7",
+    "pcm": 1060.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 56.0,
+      "mm": 1430.0
+    },
+    "Poids": {
+      "lb": 51.0,
+      "kg": 23.0
+    }
+  },
+  {
+    "#Produit": "C2000ESEC600V",
+    "Type": "Chauffant électrique",
+    "Montage": "En surface",
+    "Volts (ph)": "600 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 11128.00,
+      "Couleurs sur mesure": 13958.00
+    },
+    "kW Lo/Hi": "45918.0",
+    "Amp.": "18.6+1.0",
+    "pcm": 1470.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 56.0,
+    "Longueur effective": {
+      "po": 78.0,
+      "mm": 1996.0
+    },
+    "Poids": {
+      "lb": 73.0,
+      "kg": 33.0
+    }
+  },
+  {
+    "#Produit": "C1000ESEC480V",
+    "Type": "Chauffant électrique",
+    "Montage": "En surface",
+    "Volts (ph)": "480 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 5508.00,
+      "Couleurs sur mesure": 8118.00
+    },
+    "kW Lo/Hi": "4.5/9",
+    "Amp.": "10.9+0.5",
+    "pcm": 740.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 36.0,
+      "mm": 933.0
+    },
+    "Poids": {
+      "lb": 35.0,
+      "kg": 16.0
+    }
+  },
+  {
+    "#Produit": "C1500ESEC480V",
+    "Type": "Chauffant électrique",
+    "Montage": "En surface",
+    "Volts (ph)": "480 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 7070.00,
+      "Couleurs sur mesure": 9822.00
+    },
+    "kW Lo/Hi": "45820.0",
+    "Amp.": "14.5+0.7",
+    "pcm": 1060.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 56.0,
+      "mm": 1430.0
+    },
+    "Poids": {
+      "lb": 51.0,
+      "kg": 23.0
+    }
+  },
+  {
+    "#Produit": "C2000ESEC480V",
+    "Type": "Chauffant électrique",
+    "Montage": "En surface",
+    "Volts (ph)": "480 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 9324.00,
+      "Couleurs sur mesure": 11932.00
+    },
+    "kW Lo/Hi": "45918.0",
+    "Amp.": "21.7+1.0",
+    "pcm": 1470.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 56.0,
+    "Longueur effective": {
+      "po": 78.0,
+      "mm": 1996.0
+    },
+    "Poids": {
+      "lb": 73.0,
+      "kg": 33.0
+    }
+  },
+  {
+    "#Produit": "C1000ESEC208V",
+    "Type": "Chauffant électrique",
+    "Montage": "En surface",
+    "Volts (ph)": "208 (3)",
+    "Prix": {
+      "Standard": 5240.00,
+      "Couleurs sur mesure": 7846.00
+    },
+    "kW Lo/Hi": "4.32/8.64",
+    "Amp.": "24.5",
+    "pcm": 740.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 36.0,
+      "mm": 933.0
+    },
+    "Poids": {
+      "lb": 35.0,
+      "kg": 16.0
+    }
+  },
+  {
+    "#Produit": "C1500ESEC208V",
+    "Type": "Chauffant électrique",
+    "Montage": "En surface",
+    "Volts (ph)": "208 (3)",
+    "Prix": {
+      "Standard": 5913.00,
+      "Couleurs sur mesure": 8522.00
+    },
+    "kW Lo/Hi": "5.77/11.53",
+    "Amp.": "32.7",
+    "pcm": 1060.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 56.0,
+      "mm": 1430.0
+    },
+    "Poids": {
+      "lb": 51.0,
+      "kg": 23.0
+    }
+  },
+  {
+    "#Produit": "C2000ESEC208V",
+    "Type": "Chauffant électrique",
+    "Montage": "En surface",
+    "Volts (ph)": "208 (3)",
+    "Prix": {
+      "Standard": 9532.00,
+      "Couleurs sur mesure": 12139.00
+    },
+    "kW Lo/Hi": "8.64/17.28",
+    "Amp.": "49.0",
+    "pcm": 1470.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 56.0,
+    "Longueur effective": {
+      "po": 78.0,
+      "mm": 1996.0
+    },
+    "Poids": {
+      "lb": 73.0,
+      "kg": 33.0
+    }
+  },
+  {
+    "#Produit": "C1000ASEC208-230V",
+    "Type": "Sans chauffage",
+    "Montage": "En surface",
+    "Volts (ph)": "208/240 (1)",
+    "Prix": {
+      "Standard": 4881.00,
+      "Couleurs sur mesure": 7490.00
+    },
+    "kW Lo/Hi": "-",
+    "Amp.": "0.5",
+    "pcm": 740.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 36.0,
+      "mm": 933.0
+    },
+    "Poids": {
+      "lb": 33.0,
+      "kg": 15.0
+    }
+  },
+  {
+    "#Produit": "C1500ASEC208-230V",
+    "Type": "Sans chauffage",
+    "Montage": "En surface",
+    "Volts (ph)": "208/240 (1)",
+    "Prix": {
+      "Standard": 5666.00,
+      "Couleurs sur mesure": 8274.00
+    },
+    "kW Lo/Hi": "-",
+    "Amp.": "0.7",
+    "pcm": 1060.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 56.0,
+      "mm": 1430.0
+    },
+    "Poids": {
+      "lb": 46.0,
+      "kg": 21.0
+    }
+  },
+  {
+    "#Produit": "C2000ASEC208-230V",
+    "Type": "Sans chauffage",
+    "Montage": "En surface",
+    "Volts (ph)": "208/240 (1)",
+    "Prix": {
+      "Standard": 7211.00,
+      "Couleurs sur mesure": 9822.00
+    },
+    "kW Lo/Hi": "-",
+    "Amp.": "1.0",
+    "pcm": 1470.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 56.0,
+    "Longueur effective": {
+      "po": 78.0,
+      "mm": 1996.0
+    },
+    "Poids": {
+      "lb": 68.0,
+      "kg": 31.0
+    }
+  },
+  {
+    "#Produit": "C1000EREC600V",
+    "Type": "Chauffant électrique",
+    "Montage": "Encastré",
+    "Volts (ph)": "600 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 7153.00,
+      "Couleurs sur mesure": 9013.00
+    },
+    "kW Lo/Hi": "4.5/9",
+    "Amp.": "9.3+0.5",
+    "pcm": 740.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 45.0,
+      "mm": 1145.0
+    },
+    "Poids": {
+      "lb": 44.0,
+      "kg": 20.0
+    }
+  },
+  {
+    "#Produit": "C1500EREC600V",
+    "Type": "Chauffant électrique",
+    "Montage": "Encastré",
+    "Volts (ph)": "600 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 8331.00,
+      "Couleurs sur mesure": 10295.00
+    },
+    "kW Lo/Hi": "45820.0",
+    "Amp.": "12.8+0.7",
+    "pcm": 1060.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 60.0,
+      "mm": 1545.0
+    },
+    "Poids": {
+      "lb": 60.0,
+      "kg": 27.0
+    }
+  },
+  {
+    "#Produit": "C2000EREC600V",
+    "Type": "Chauffant électrique",
+    "Montage": "Encastré",
+    "Volts (ph)": "600 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 11851.00,
+      "Couleurs sur mesure": 13918.00
+    },
+    "kW Lo/Hi": "45918.0",
+    "Amp.": "18.6+1.0",
+    "pcm": 1470.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 56.0,
+    "Longueur effective": {
+      "po": 80.0,
+      "mm": 2055.0
+    },
+    "Poids": {
+      "lb": 82.0,
+      "kg": 37.0
+    }
+  },
+  {
+    "#Produit": "C1000EREC480V",
+    "Type": "Chauffant électrique",
+    "Montage": "Encastré",
+    "Volts (ph)": "480 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 6244.00,
+      "Couleurs sur mesure": 8103.00
+    },
+    "kW Lo/Hi": "4.5/9",
+    "Amp.": "10.9+0.5",
+    "pcm": 740.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 45.0,
+      "mm": 1145.0
+    },
+    "Poids": {
+      "lb": 44.0,
+      "kg": 20.0
+    }
+  },
+  {
+    "#Produit": "C1500EREC480V",
+    "Type": "Chauffant électrique",
+    "Montage": "Encastré",
+    "Volts (ph)": "480 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 8086.00,
+      "Couleurs sur mesure": 10050.00
+    },
+    "kW Lo/Hi": "45820.0",
+    "Amp.": "14.5+0.7",
+    "pcm": 1060.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 60.0,
+      "mm": 1545.0
+    },
+    "Poids": {
+      "lb": 51.0,
+      "kg": 23.0
+    }
+  },
+  {
+    "#Produit": "C2000EREC480V",
+    "Type": "Chauffant électrique",
+    "Montage": "Encastré",
+    "Volts (ph)": "480 (3) + 208 ou 240",
+    "Prix": {
+      "Standard": 10723.00,
+      "Couleurs sur mesure": 12792.00
+    },
+    "kW Lo/Hi": "45918.0",
+    "Amp.": "21.7+1.0",
+    "pcm": 1470.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 56.0,
+    "Longueur effective": {
+      "po": 80.0,
+      "mm": 2055.0
+    },
+    "Poids": {
+      "lb": 73.0,
+      "kg": 33.0
+    }
+  },
+  {
+    "#Produit": "C1000EREC208V",
+    "Type": "Chauffant électrique",
+    "Montage": "Encastré",
+    "Volts (ph)": "208 (3)",
+    "Prix": {
+      "Standard": 7153.00,
+      "Couleurs sur mesure": 9013.00
+    },
+    "kW Lo/Hi": "4.32/8.64",
+    "Amp.": "24.5",
+    "pcm": 740.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 45.0,
+      "mm": 1145.0
+    },
+    "Poids": {
+      "lb": 44.0,
+      "kg": 20.0
+    }
+  },
+  {
+    "#Produit": "C1500EREC208V",
+    "Type": "Chauffant électrique",
+    "Montage": "Encastré",
+    "Volts (ph)": "208 (3)",
+    "Prix": {
+      "Standard": 8331.00,
+      "Couleurs sur mesure": 10295.00
+    },
+    "kW Lo/Hi": "5.77/11.53",
+    "Amp.": "32.7",
+    "pcm": 1060.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 60.0,
+      "mm": 1545.0
+    },
+    "Poids": {
+      "lb": 60.0,
+      "kg": 27.0
+    }
+  },
+  {
+    "#Produit": "C2000EREC208V",
+    "Type": "Chauffant électrique",
+    "Montage": "Encastré",
+    "Volts (ph)": "208 (3)",
+    "Prix": {
+      "Standard": 12379.00,
+      "Couleurs sur mesure": 14445.00
+    },
+    "kW Lo/Hi": "8.64/17.28",
+    "Amp.": "49.0",
+    "pcm": 1470.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 56.0,
+    "Longueur effective": {
+      "po": 80.0,
+      "mm": 2055.0
+    },
+    "Poids": {
+      "lb": 82.0,
+      "kg": 37.0
+    }
+  },
+  {
+    "#Produit": "C1000AREC208V",
+    "Type": "Sans chauffage",
+    "Montage": "Encastré",
+    "Volts (ph)": "208/240 (1)",
+    "Prix": {
+      "Standard": 5716.00,
+      "Couleurs sur mesure": 7576.00
+    },
+    "kW Lo/Hi": "-",
+    "Amp.": "0.5",
+    "pcm": 740.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 45.0,
+      "mm": 1145.0
+    },
+    "Poids": {
+      "lb": 42.0,
+      "kg": 19.0
+    }
+  },
+  {
+    "#Produit": "C1500AREC208V",
+    "Type": "Sans chauffage",
+    "Montage": "Encastré",
+    "Volts (ph)": "208/240 (1)",
+    "Prix": {
+      "Standard": 7042.00,
+      "Couleurs sur mesure": 9008.00
+    },
+    "kW Lo/Hi": "-",
+    "Amp.": "0.7",
+    "pcm": 1060.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 55.0,
+    "Longueur effective": {
+      "po": 60.0,
+      "mm": 1545.0
+    },
+    "Poids": {
+      "lb": 55.0,
+      "kg": 25.0
+    }
+  },
+  {
+    "#Produit": "C2000AREC208V",
+    "Type": "Sans chauffage",
+    "Montage": "Encastré",
+    "Volts (ph)": "208/240 (1)",
+    "Prix": {
+      "Standard": 8761.00,
+      "Couleurs sur mesure": 10826.00
+    },
+    "kW Lo/Hi": "-",
+    "Amp.": "1.0",
+    "pcm": 1470.0,
+    "Vélocité max (pi/min)": 1770.0,
+    "dBA à 3 m": 56.0,
+    "Longueur effective": {
+      "po": 80.0,
+      "mm": 2055.0
+    },
+    "Poids": {
+      "lb": 77.0,
+      "kg": 35.0
+    }
+  }
+]
+```
+
+-------
+
+## Notes
+1. Les prix pour les couleurs sur mesure sont disponibles selon la charte RAL.
+2. Les modèles avec "600 (3) + 208 ou 240" et "480 (3) + 208 ou 240" ont une alimentation principale à la tension indiquée et une alimentation secondaire à 208V ou 240V pour les contrôles.
+3. Les modèles 208V et 208/240V sont conçus pour fonctionner à ces tensions spécifiques.

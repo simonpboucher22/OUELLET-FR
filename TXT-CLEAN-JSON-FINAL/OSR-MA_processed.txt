@@ -1,0 +1,442 @@
+# OSR-MA Câble chauffant autorégulant micro ELSR-MA
+
+## Caractéristiques
+- **Surgaine**: Thermoplastique (AO, BO), Fluoropolymère (BF)
+- **Conducteur d'alimentation**: Cuivre nickelé, 18 AWG
+- **Température minimale de démarrage**: -30 °C (-22 °F)
+- **Température maximale maintenue (sous tension)**: 60 °C (140 °F)
+- **Température d'exposition continue maximale (hors tension)**: 60 °C (140 °F)
+- **Tension nominale**: 120V, 240/208V
+- **Rayon de courbure minimal**: 25 mm (1 po)
+- **Température minimale d'installation**:
+  - AO, BO: -45 °C (-49 °F)
+  - BF: -25 °C (-13 °F)
+
+-------
+
+## Normes et certifications
+- **Normes**: IEEE 515, CSA 22.2 130.03
+- **Certification**: FM CUS 3050047
+- **Classement**:
+  - Applications extérieures et endroits humides (WS) (AO, BO)
+  - PS (2000 kPa/290 psi) (BF)
+- **Garantie**: Garantie de base de 1 an sur le câble chauffant
+- **Application**: Protection contre le gel, conduite d'eau potable (BF), réservoir, tuyaux, canalisations, automobile, traçage d'instrumentation, industrie alimentaire, système de gicleurs
+
+-------
+
+## Tableau ELSR-MA - Câble chauffant autorégulant micro
+
+```json
+[
+  {
+    "#Produit": "ELSR-MA-3-1-AO",
+    "Puissance nominale W/pi": 3.0,
+    "Tension": "120V",
+    "Surgaine/Protection": "AO",
+    "Prix/pi": 5.75,
+    "Dimensions approx. du câble (mm)": "7.7 x 6.4"
+  },
+  {
+    "#Produit": "ELSR-MA-3-1-BO",
+    "Puissance nominale W/pi": 3.0,
+    "Tension": "120V",
+    "Surgaine/Protection": "BO",
+    "Prix/pi": 6.50,
+    "Dimensions approx. du câble (mm)": "7.7 x 6.4"
+  },
+  {
+    "#Produit": "ELSR-MA-3-1-BF",
+    "Puissance nominale W/pi": 3.0,
+    "Tension": "120V",
+    "Surgaine/Protection": "BF",
+    "Prix/pi": 10.00,
+    "Dimensions approx. du câble (mm)": "7.7 x 6.4"
+  },
+  {
+    "#Produit": "ELSR-MA-3-2-AO",
+    "Puissance nominale W/pi": 3.0,
+    "Tension": "240V",
+    "Surgaine/Protection": "AO",
+    "Prix/pi": 5.75,
+    "Dimensions approx. du câble (mm)": "7.7 x 6.4"
+  },
+  {
+    "#Produit": "ELSR-MA-3-2-BO",
+    "Puissance nominale W/pi": 3.0,
+    "Tension": "240V",
+    "Surgaine/Protection": "BO",
+    "Prix/pi": 6.50,
+    "Dimensions approx. du câble (mm)": "7.7 x 6.4"
+  },
+  {
+    "#Produit": "ELSR-MA-3-2-BF",
+    "Puissance nominale W/pi": 3.0,
+    "Tension": "240V",
+    "Surgaine/Protection": "BF",
+    "Prix/pi": 10.00,
+    "Dimensions approx. du câble (mm)": "7.7 x 6.4"
+  },
+  {
+    "#Produit": "ELSR-MA-5-1-AO",
+    "Puissance nominale W/pi": 5.0,
+    "Tension": "120V",
+    "Surgaine/Protection": "AO",
+    "Prix/pi": 5.75,
+    "Dimensions approx. du câble (mm)": "8.1 x 5.8"
+  },
+  {
+    "#Produit": "ELSR-MA-5-1-BO",
+    "Puissance nominale W/pi": 5.0,
+    "Tension": "120V",
+    "Surgaine/Protection": "BO",
+    "Prix/pi": 6.50,
+    "Dimensions approx. du câble (mm)": "8.1 x 5.8"
+  },
+  {
+    "#Produit": "ELSR-MA-5-2-AO",
+    "Puissance nominale W/pi": 5.0,
+    "Tension": "240V",
+    "Surgaine/Protection": "AO",
+    "Prix/pi": 5.75,
+    "Dimensions approx. du câble (mm)": "8.1 x 5.8"
+  },
+  {
+    "#Produit": "ELSR-MA-5-2-BO",
+    "Puissance nominale W/pi": 5.0,
+    "Tension": "240V",
+    "Surgaine/Protection": "BO",
+    "Prix/pi": 6.50,
+    "Dimensions approx. du câble (mm)": "8.1 x 5.8"
+  }
+]
+```
+
+-------
+
+## Tableau ELSR-MA - Longueur de circuit chauffant pour 120V
+
+```json
+[
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-1-XX": 208.0,
+    "ELSR-MA-5-1-XX": 132.0
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-1-XX": 233.0,
+    "ELSR-MA-5-1-XX": 190.0
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-1-XX": 233.0,
+    "ELSR-MA-5-1-XX": 190.0
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-1-XX": 233.0,
+    "ELSR-MA-5-1-XX": 190.0
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-1-XX": 170.0,
+    "ELSR-MA-5-1-XX": 110.0
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-1-XX": 213.0,
+    "ELSR-MA-5-1-XX": 174.0
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-1-XX": 213.0,
+    "ELSR-MA-5-1-XX": 174.0
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-1-XX": 213.0,
+    "ELSR-MA-5-1-XX": 174.0
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-1-XX": 146.0,
+    "ELSR-MA-5-1-XX": 94.0
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-1-XX": 197.0,
+    "ELSR-MA-5-1-XX": 150.0
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-1-XX": 197.0,
+    "ELSR-MA-5-1-XX": 161.0
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-1-XX": 197.0,
+    "ELSR-MA-5-1-XX": 161.0
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-1-XX": 113.0,
+    "ELSR-MA-5-1-XX": 73.0
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-1-XX": 172.0,
+    "ELSR-MA-5-1-XX": 117.0
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-1-XX": 172.0,
+    "ELSR-MA-5-1-XX": 141.0
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-1-XX": 172.0,
+    "ELSR-MA-5-1-XX": 141.0
+  }
+]
+```
+
+-------
+
+## Tableau ELSR-MA - Longueur de circuit chauffant pour 240V
+
+```json
+[
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-2-XX": 415.0,
+    "ELSR-MA-5-2-XX": 320.0
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-2-XX": 415.0,
+    "ELSR-MA-5-2-XX": 346.0
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-2-XX": 415.0,
+    "ELSR-MA-5-2-XX": 346.0
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-2-XX": 415.0,
+    "ELSR-MA-5-2-XX": 346.0
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-2-XX": 379.0,
+    "ELSR-MA-5-2-XX": 273.0
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-2-XX": 379.0,
+    "ELSR-MA-5-2-XX": 320.0
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-2-XX": 379.0,
+    "ELSR-MA-5-2-XX": 320.0
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-2-XX": 379.0,
+    "ELSR-MA-5-2-XX": 320.0
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-2-XX": 325.0,
+    "ELSR-MA-5-2-XX": 239.0
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-2-XX": 349.0,
+    "ELSR-MA-5-2-XX": 299.0
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-2-XX": 349.0,
+    "ELSR-MA-5-2-XX": 299.0
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-2-XX": 349.0,
+    "ELSR-MA-5-2-XX": 299.0
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-2-XX": 255.0,
+    "ELSR-MA-5-2-XX": 190.0
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-2-XX": 307.0,
+    "ELSR-MA-5-2-XX": 266.0
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-2-XX": 307.0,
+    "ELSR-MA-5-2-XX": 266.0
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-2-XX": 307.0,
+    "ELSR-MA-5-2-XX": 266.0
+  }
+]
+```
+
+-------
+
+## Tableau ELSR-MA-BF - Longueur de circuit chauffant
+
+```json
+[
+  {
+    "Tension": "120V",
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-1-BF": 139.0
+  },
+  {
+    "Tension": "120V",
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-1-BF": 167.0
+  },
+  {
+    "Tension": "120V",
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-1-BF": 167.0
+  },
+  {
+    "Tension": "120V",
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-1-BF": 167.0
+  },
+  {
+    "Tension": "120V",
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-1-BF": 112.0
+  },
+  {
+    "Tension": "120V",
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-1-BF": 153.0
+  },
+  {
+    "Tension": "120V",
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-1-BF": 153.0
+  },
+  {
+    "Tension": "120V",
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-1-BF": 153.0
+  },
+  {
+    "Tension": "240V",
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-2-BF": 241.0
+  },
+  {
+    "Tension": "240V",
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-2-BF": 302.0
+  },
+  {
+    "Tension": "240V",
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-2-BF": 302.0
+  },
+  {
+    "Tension": "240V",
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-2-BF": 302.0
+  },
+  {
+    "Tension": "240V",
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 10.0,
+    "ELSR-MA-3-2-BF": 202.0
+  },
+  {
+    "Tension": "240V",
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 15.0,
+    "ELSR-MA-3-2-BF": 282.0
+  },
+  {
+    "Tension": "240V",
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 20.0,
+    "ELSR-MA-3-2-BF": 282.0
+  },
+  {
+    "Tension": "240V",
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": 25.0,
+    "ELSR-MA-3-2-BF": 282.0
+  }
+]
+```
+
+-------
+
+## Tableau Multiplicateur/facteurs de correction Eltherm® pour utilisation des câbles chauffants à 208V
+
+```json
+[
+  {
+    "Câble chauffant": "ELSR-MA-XX-2",
+    "Multiplicateur/facteurs de correction Puissance nominale 208V vs. 240V": 0.82,
+    "Longueur de circuit chauffant 208V vs. 240V": 1.00
+  }
+]
+```

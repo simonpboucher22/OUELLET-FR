@@ -1,0 +1,486 @@
+# OSR-WA Câble chauffant autorégulant moyenne température ELSR-WA
+
+## Caractéristiques
+
+Surgaine
+• Thermoplastique (AO, BO).
+
+Conducteur d'alimentation
+• Cuivre nickelé.
+
+Température minimale de démarrage
+• -30 °C (-22 °F).
+
+Température maximale maintenue (sous tension)
+• 80 °C (176 °F).
+
+Température d'exposition continue maximale (hors tension)
+• 90 °C (194 °F).
+
+Tension nominale
+• 120V, 240/208V.
+
+Rayon de courbure minimal
+• 20 mm (3/4 po).
+
+Température minimale d'installation
+• -45 °C (-49 °F).
+
+-------
+
+## Classifications
+
+• Classe I, Zone 1, AEx / Ex e II, T5.
+• Classe I, Division 2, Groupes A, B, C, D.
+• Classe II, Division 1, Groupes E, F, G.
+• Classe III, Division 1.
+
+Normes
+• IEEE 515, CSA 22.2 130.03.
+
+Certification
+• FM CUS 3050047.
+
+Classement
+• Applications extérieures et endroits humides (WS).
+
+Garantie
+• Garantie de base de 1 an sur le câble chauffant.
+
+Application
+• Protection contre le gel des conduits de chauffage, conduites d'eau usée dans les cuisines, chauffage de conduites à graisse, industrie alimentaire, installations d'alimentation d'eau chaude
+
+-------
+
+## Modèles
+
+Tableau ELSR-WA - Câble chauffant autorégulant moyenne température
+
+```json
+[
+  {
+    "#Produit": "ELSR-WA-55-1-XX",
+    "Tension": "120V",
+    "Puissance nominale W/pi": "3.0",
+    "Applications": "Sur conduite d'eau",
+    "Surgaine/Protection mécanique": "AO",
+    "Prix/pi": "9.75",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-55-1-XX",
+    "Tension": "120V",
+    "Puissance nominale W/pi": "3.0",
+    "Applications": "Sur conduite d'eau",
+    "Surgaine/Protection mécanique": "BO",
+    "Prix/pi": "11.00",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-55-2-XX",
+    "Tension": "240V",
+    "Puissance nominale W/pi": "3.0",
+    "Applications": "Sur conduite d'eau",
+    "Surgaine/Protection mécanique": "AO",
+    "Prix/pi": "9.75",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-55-2-XX",
+    "Tension": "240V",
+    "Puissance nominale W/pi": "3.0",
+    "Applications": "Sur conduite d'eau",
+    "Surgaine/Protection mécanique": "BO",
+    "Prix/pi": "11.00",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-65-1-XX",
+    "Tension": "120V",
+    "Puissance nominale W/pi": "5.0",
+    "Applications": "Sur conduite d'eau",
+    "Surgaine/Protection mécanique": "AO",
+    "Prix/pi": "9.75",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-65-1-XX",
+    "Tension": "120V",
+    "Puissance nominale W/pi": "5.0",
+    "Applications": "Sur conduite d'eau",
+    "Surgaine/Protection mécanique": "BO",
+    "Prix/pi": "11.00",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-65-2-XX",
+    "Tension": "240V",
+    "Puissance nominale W/pi": "5.0",
+    "Applications": "Sur conduite d'eau",
+    "Surgaine/Protection mécanique": "AO",
+    "Prix/pi": "9.75",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-65-2-XX",
+    "Tension": "240V",
+    "Puissance nominale W/pi": "5.0",
+    "Applications": "Sur conduite d'eau",
+    "Surgaine/Protection mécanique": "BO",
+    "Prix/pi": "11.00",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-65-1-XX",
+    "Tension": "120V",
+    "Puissance nominale W/pi": "7.0",
+    "Applications": "Sur conduite d'huile et de graisse",
+    "Surgaine/Protection mécanique": "AO",
+    "Prix/pi": "9.75",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-65-1-XX",
+    "Tension": "120V",
+    "Puissance nominale W/pi": "7.0",
+    "Applications": "Sur conduite d'huile et de graisse",
+    "Surgaine/Protection mécanique": "BO",
+    "Prix/pi": "11.00",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-65-2-XX",
+    "Tension": "240V",
+    "Puissance nominale W/pi": "7.0",
+    "Applications": "Sur conduite d'huile et de graisse",
+    "Surgaine/Protection mécanique": "AO",
+    "Prix/pi": "9.75",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  },
+  {
+    "#Produit": "ELSR-WA-65-2-XX",
+    "Tension": "240V",
+    "Puissance nominale W/pi": "7.0",
+    "Applications": "Sur conduite d'huile et de graisse",
+    "Surgaine/Protection mécanique": "BO",
+    "Prix/pi": "11.00",
+    "Dimensions approx. du câble (mm)": "13.8 x 5.6"
+  }
+]
+```
+
+-------
+
+## Longueur de circuit chauffant pour le modèle ELSR-WA
+
+Tableau ELSR-WA - Longueur de circuit chauffant 120V
+
+```json
+[
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "144.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "97.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "219.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "145.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "246.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "194.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "246.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "198.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "246.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "198.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "131.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "87.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "197.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "133.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "233.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "176.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "233.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "189.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "233.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "189.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "118.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "81.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "180.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "121.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "221.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "160.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "221.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "180.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "221.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "180.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "102.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "68.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "153.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "103.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "202.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "139.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "203.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "167.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "Tension": "120V",
+    "Longueur maximale ELSR-WA-55-1 (pi)": "203.0",
+    "Longueur maximale ELSR-WA-65-1 (pi)": "167.0"
+  }
+]
+```
+
+Tableau ELSR-WA - Longueur de circuit chauffant 240V
+
+```json
+[
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "231.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "149.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "348.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "226.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "430.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "302.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "430.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "348.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "430.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "348.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "207.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "136.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "312.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "203.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "405.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "272.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "405.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "326.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "405.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "326.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "187.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "123.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "279.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "184.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "372.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "247.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "384.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "310.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "384.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "312.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "158.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "105.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "237.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "160.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "315.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "212.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "353.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "263.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "Tension": "240V",
+    "Longueur maximale ELSR-WA-55-2 (pi)": "353.0",
+    "Longueur maximale ELSR-WA-65-2 (pi)": "286.0"
+  }
+]
+```
+
+-------
+
+## Multiplicateur/facteurs de correction
+
+Tableau ELSR-WA - Facteurs de correction pour 208V
+
+```json
+[
+  {
+    "Câble chauffant": "ELSR-WA-XX-2",
+    "Multiplicateur/facteurs de correction": {
+      "Puissance nominale 208V vs. 240V": "0.80",
+      "Longueur de circuit chauffant 208V vs. 240V": "1.00"
+    }
+  }
+]
+```

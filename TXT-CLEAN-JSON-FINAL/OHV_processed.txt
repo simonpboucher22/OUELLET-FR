@@ -1,0 +1,625 @@
+# OHV - Aérotherme commercial
+
+## Caractéristiques
+- **Couleur**
+  • Standard : amande.
+- **Finition**
+  • Standard : peinture à la poudre d'époxy/polyester.
+- **Tension**
+  • 208V, 240V, 277V, 347V, 480V et 600V, 1 ou 3 phases.
+- **Construction**
+  • Conception qui permet un meilleur contrôle de la température de sortie.
+  • Un diffuseur permet d'obtenir une vitesse maximale de l'écoulement d'air.
+  • Volets individuels ajustables afin de diriger l'écoulement d'air chaud.
+  • Protection thermique à réenclenchement automatique.
+  • Construction en acier de calibres 18 et 20.
+- **Ventilateur**
+  • Moteur fermé – thermiquement protégé.
+  • Moteur installé dans un environnement à température ambiante, protégé de la chaleur des éléments.
+  • Dispositif éliminant la chaleur résiduelle assurant une plus grande durée de vie de l'équipement.
+- **Élément**
+  • Gaine en acier inoxydable recouvert d'ailettes en aluminium.
+  • Conçu pour un meilleur transfert de chaleur.
+
+-------
+
+## Régulation
+- Contacteur intégré standard installé en usine.
+- Circuit de commande à 240/208V standard (avec transformateur si nécessaire).
+- Gamme complète d'options de contrôle disponibles (installation en usine ou sur place).
+
+## Installation
+- Hauteur minimale de montage de 8 pi (2.4 m).
+- Écoulement du débit d'air horizontal ou vertical.
+- Supports de fixation inclus permettant la pose au mur et au plafond (pour écoulement de l'air horizontal).
+- L'appareil est muni de 4 écrous soudés (pour tige filetée 3/8 po X 16 UNC) à l'arrière de l'appareil pour permettre le montage au plafond (écoulement vertical).
+- Vaste compartiment des commandes facile d'accès.
+- Note : Nous conseillons d'installer ce produit sur un mur ou plafond extérieur afin d'éviter que des vibrations se propagent dans une pièce adjacente.
+
+## Garantie
+- 5 ans contre tous vices.
+
+## Application
+- Usine, entrepôt, garage, magasin, salle d'expédition.
+
+-------
+
+## Tableau OHV - Aérotherme commercial (Modèles)
+
+```json
+[
+  {
+    "#Produit": "OHV02008AM",
+    "kW": 2.0,
+    "Volts": "208",
+    "Phase": "1/3",
+    "Prix": 1352.00,
+    "BTU/hr": 6824.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV02038AM",
+    "kW": 2.0,
+    "Volts": "208",
+    "Phase": "3",
+    "Prix": 1352.00,
+    "BTU/hr": 6824.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV03008AM",
+    "kW": 3.0,
+    "Volts": "208",
+    "Phase": "1/3",
+    "Prix": 1352.00,
+    "BTU/hr": 10236.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 17.0,
+    "Hausse de température °F": 31.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV03038AM",
+    "kW": 3.0,
+    "Volts": "208",
+    "Phase": "3",
+    "Prix": 1352.00,
+    "BTU/hr": 10236.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 17.0,
+    "Hausse de température °F": 31.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV05008AM",
+    "kW": 5.0,
+    "Volts": "208",
+    "Phase": "1/3",
+    "Prix": 1601.00,
+    "BTU/hr": 17060.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV05038AM",
+    "kW": 5.0,
+    "Volts": "208",
+    "Phase": "3",
+    "Prix": 1601.00,
+    "BTU/hr": 17060.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV07508AM",
+    "kW": 7.5,
+    "Volts": "208",
+    "Phase": "1/3",
+    "Prix": 2308.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse de température °C": 22.0,
+    "Hausse de température °F": 40.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV07538AM",
+    "kW": 7.5,
+    "Volts": "208",
+    "Phase": "3",
+    "Prix": 2308.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse de température °C": 22.0,
+    "Hausse de température °F": 40.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV10008AM",
+    "kW": 10.0,
+    "Volts": "208",
+    "Phase": "1/3",
+    "Prix": 2432.00,
+    "BTU/hr": 34120.0,
+    "pcm": 600.0,
+    "Hausse de température °C": 29.0,
+    "Hausse de température °F": 52.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV10038AM",
+    "kW": 10.0,
+    "Volts": "208",
+    "Phase": "3",
+    "Prix": 2432.00,
+    "BTU/hr": 34120.0,
+    "pcm": 600.0,
+    "Hausse de température °C": 29.0,
+    "Hausse de température °F": 52.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV15038AM",
+    "kW": 15.0,
+    "Volts": "208",
+    "Phase": "3",
+    "Prix": 3316.00,
+    "BTU/hr": 51180.0,
+    "pcm": 915.0,
+    "Hausse de température °C": 29.0,
+    "Hausse de température °F": 52.0,
+    "Moteur HP": "45665.0",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV20038AM",
+    "kW": 20.0,
+    "Volts": "208",
+    "Phase": "3",
+    "Prix": 3647.00,
+    "BTU/hr": 68240.0,
+    "pcm": 1250.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "45665.0",
+    "Moteur rpm": 1490.0
+  },
+  {
+    "#Produit": "OHV02000AM",
+    "kW": "2.0/1.5",
+    "Volts": "240/208",
+    "Phase": "1/3",
+    "Prix": 1352.00,
+    "BTU/hr": "6824/5118",
+    "pcm": 310.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV03000AM",
+    "kW": "3.0/2.3",
+    "Volts": "240/208",
+    "Phase": "1/3",
+    "Prix": 1352.00,
+    "BTU/hr": "10236/7848",
+    "pcm": 310.0,
+    "Hausse de température °C": 17.0,
+    "Hausse de température °F": 31.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV05000AM",
+    "kW": "5.0/3.75",
+    "Volts": "240/208",
+    "Phase": "1/3",
+    "Prix": 1601.00,
+    "BTU/hr": "17060/12966",
+    "pcm": 310.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV07500AM",
+    "kW": "7.5/5.6",
+    "Volts": "240/208",
+    "Phase": "1/3",
+    "Prix": 2308.00,
+    "BTU/hr": "25590/19200",
+    "pcm": 625.0,
+    "Hausse de température °C": 21.0,
+    "Hausse de température °F": 38.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV10000AM",
+    "kW": "10.0/7.5",
+    "Volts": "240/208",
+    "Phase": "1/3",
+    "Prix": 2432.00,
+    "BTU/hr": "34120/25590",
+    "pcm": 625.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV15030AM",
+    "kW": "15.0/11.3",
+    "Volts": "240/208",
+    "Phase": "3",
+    "Prix": 3316.00,
+    "BTU/hr": "51180/38387",
+    "pcm": 950.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "45665.0",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV20030AM",
+    "kW": "20.0/15.0",
+    "Volts": "240/208",
+    "Phase": "3",
+    "Prix": 3647.00,
+    "BTU/hr": "68240/51180",
+    "pcm": 1300.0,
+    "Hausse de température °C": 27.0,
+    "Hausse de température °F": 49.0,
+    "Moteur HP": "45665.0",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV02007AM",
+    "kW": 2.0,
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": 1685.00,
+    "BTU/hr": 6824.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV03007AM",
+    "kW": 3.0,
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": 1685.00,
+    "BTU/hr": 10236.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 17.0,
+    "Hausse de température °F": 31.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV05007AM",
+    "kW": 5.0,
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": 1787.00,
+    "BTU/hr": 17060.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV07507AM",
+    "kW": 7.5,
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": 2608.00,
+    "BTU/hr": 25590.0,
+    "pcm": 625.0,
+    "Hausse de température °C": 21.0,
+    "Hausse de température °F": 38.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV10007AM",
+    "kW": 10.0,
+    "Volts": "347",
+    "Phase": "1",
+    "Prix": 2651.00,
+    "BTU/hr": 34120.0,
+    "pcm": 625.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV02006AM",
+    "kW": 2.0,
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": 1685.00,
+    "BTU/hr": 6824.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV02036AM",
+    "kW": 2.0,
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": 1685.00,
+    "BTU/hr": 6824.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 11.0,
+    "Hausse de température °F": 20.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV03006AM",
+    "kW": 3.0,
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": 1685.00,
+    "BTU/hr": 10236.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 17.0,
+    "Hausse de température °F": 31.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV03036AM",
+    "kW": 3.0,
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": 1685.00,
+    "BTU/hr": 10236.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 17.0,
+    "Hausse de température °F": 31.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV05006AM",
+    "kW": 5.0,
+    "Volts": "600",
+    "Phase": "1",
+    "Prix": 1787.00,
+    "BTU/hr": 17060.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV05036AM",
+    "kW": 5.0,
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": 1787.00,
+    "BTU/hr": 17060.0,
+    "pcm": 310.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "1/50",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV07536AM",
+    "kW": 7.5,
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": 2608.00,
+    "BTU/hr": 25590.0,
+    "pcm": 625.0,
+    "Hausse de température °C": 21.0,
+    "Hausse de température °F": 38.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV10036AM",
+    "kW": 10.0,
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": 2651.00,
+    "BTU/hr": 34120.0,
+    "pcm": 625.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "1/33",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV15036AM",
+    "kW": 15.0,
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": 3316.00,
+    "BTU/hr": 51180.0,
+    "pcm": 950.0,
+    "Hausse de température °C": 28.0,
+    "Hausse de température °F": 50.0,
+    "Moteur HP": "45665.0",
+    "Moteur rpm": 1550.0
+  },
+  {
+    "#Produit": "OHV20036AM",
+    "kW": 20.0,
+    "Volts": "600",
+    "Phase": "3",
+    "Prix": 3647.00,
+    "BTU/hr": 68240.0,
+    "pcm": 1300.0,
+    "Hausse de température °C": 27.0,
+    "Hausse de température °F": 49.0,
+    "Moteur HP": "45665.0",
+    "Moteur rpm": 1550.0
+  }
+]
+```
+
+**Note**: Les modèles portant la mention «1/3» peuvent être convertis de 1 à 3 phases sur place. Couleur standard amande.
+277V et 480V disponible sur demande.
+
+-------
+
+## Tableau OHV - Options
+
+```json
+[
+  {
+    "#Produit": "-",
+    "En trousse": "",
+    "Installée en usine": "120.0",
+    "Prix": 182.00,
+    "Description": "Circuit de commande 120V"
+  },
+  {
+    "#Produit": "-",
+    "En trousse": "",
+    "Installée en usine": "24.0",
+    "Prix": 179.00,
+    "Description": "Circuit de commande 24V"
+  },
+  {
+    "#Produit": "-",
+    "En trousse": "",
+    "Installée en usine": "3P",
+    "Prix": 86.00,
+    "Description": "Contacteur 3 pôles"
+  },
+  {
+    "#Produit": "KIT-OHV-D41",
+    "En trousse": "KIT-OHV-D41",
+    "Installée en usine": "D41",
+    "Prix": 195.00,
+    "Description": "Interrupteur 3 pôles, 40A"
+  },
+  {
+    "#Produit": "KIT-OHV-D81",
+    "En trousse": "KIT-OHV-D81",
+    "Installée en usine": "D81",
+    "Prix": 239.00,
+    "Description": "Interrupteur 3 pôles, 80A"
+  },
+  {
+    "#Produit": "KIT-OHV-F1",
+    "En trousse": "KIT-OHV-F1",
+    "Installée en usine": "F1",
+    "Prix": 82.00,
+    "Description": "Interrupteur de ventilateur en continu, unités de 2 à 5kW"
+  },
+  {
+    "#Produit": "KIT-OHV-F2",
+    "En trousse": "KIT-OHV-F2",
+    "Installée en usine": "F2",
+    "Prix": 116.00,
+    "Description": "Interrupteur de ventilateur en continu, avec relais, pour des unités avec un circuit de commande 24V"
+  },
+  {
+    "#Produit": "KIT-OHV-F3",
+    "En trousse": "KIT-OHV-F3",
+    "Installée en usine": "F3",
+    "Prix": 82.00,
+    "Description": "Interrupteur de ventilateur en continu, unités de moins de 480V (7.5 à 20kW)"
+  },
+  {
+    "#Produit": "KIT-OHV-F4",
+    "En trousse": "KIT-OHV-F4",
+    "Installée en usine": "F4",
+    "Prix": 116.00,
+    "Description": "Interrupteur de ventilateur en continu, unités de 480V et plus (7.5 à 20kW)"
+  },
+  {
+    "#Produit": "KIT-OHV-FR",
+    "En trousse": "KIT-OHV-FR",
+    "Installée en usine": "FR",
+    "Prix": 82.00,
+    "Description": "Relais de ventilateur pour contrôle à distance des unités avec un circuit de commande 24V (interrupteur de ventilateur mural non inclus)"
+  },
+  {
+    "#Produit": "-",
+    "En trousse": "",
+    "Installée en usine": "FUS",
+    "Prix": 269.00,
+    "Description": "Dispositif de protection contre les surtensions"
+  },
+  {
+    "#Produit": "-",
+    "En trousse": "",
+    "Installée en usine": "HL",
+    "Prix": 328.00,
+    "Description": "Interrupteur Hi/Lo (15 à 20kW)"
+  },
+  {
+    "#Produit": "KIT-OHV-R",
+    "En trousse": "KIT-OHV-R",
+    "Installée en usine": "R",
+    "Prix": 179.00,
+    "Description": "Relais 24V, sans transformateur"
+  },
+  {
+    "#Produit": "KIT-OHV-RT",
+    "En trousse": "KIT-OHV-RT",
+    "Installée en usine": "RT",
+    "Prix": 189.00,
+    "Description": "Relais 24V, avec transformateur"
+  },
+  {
+    "#Produit": "KIT-OHV-T2S",
+    "En trousse": "KIT-OHV-T2S",
+    "Installée en usine": "T2S",
+    "Prix": 174.00,
+    "Description": "Thermostat à 2 stages (15 à 20kW)"
+  },
+  {
+    "#Produit": "KIT-OHV-T5",
+    "En trousse": "KIT-OHV-T5",
+    "Installée en usine": "T5",
+    "Prix": 140.00,
+    "Description": "Thermostat à un stage, unités de 10kW inclusivement et moins"
+  },
+  {
+    "#Produit": "KIT-OHV-T6",
+    "En trousse": "KIT-OHV-T6",
+    "Installée en usine": "T6",
+    "Prix": 140.00,
+    "Description": "Thermostat à un stage, unités de plus de 10kW"
+  }
+]
+```

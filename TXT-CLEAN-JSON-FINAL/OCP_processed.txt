@@ -1,0 +1,108 @@
+# OCP - Ventilo-convecteur coup-de-pied
+
+## Caractéristiques
+
+### Couleur
+• Standards : noir semi-lustré, blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 120V, 240/208V, 1 phase.
+
+### Construction
+• Construction en acier de calibre 20.
+• 1000W standard. La puissance de l'appareil peut être convertie en 500W au moment du raccordement (voir instructions d'installation).
+• Protection thermique à réenclenchement automatique (premier niveau).
+• Protection thermique à réenclenchement manuel pour plus de sécurité (second niveau).
+
+### Ventilateur
+• Ventilateur de 80 pcm (44.5 dBA).
+• Moteur lubrifié à vie.
+
+-------
+
+### Élément
+• Deux éléments de 500W (1000W en parallèle).
+• Éléments tubulaires à ailettes très robustes.
+
+### Régulation
+• Thermostat intégré en option.
+Note : Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+
+### Installation
+• Ne pas installer l'appareil à proximité de matériaux thermosensibles.
+• Cadre d'installation murale inclus.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Salle d'eau, salle à manger-cuisine, cage d'escalier.
+
+-------
+
+## Tableau OCP - Ventilo-convecteur coup-de-pied (Modèles)
+
+```json
+[
+  {
+    "#Produit": "OCPU1002",
+    "Watts": {
+      "Standard": 1000.0,
+      "Convertible": 500.0
+    },
+    "Volts": 120.0,
+    "Prix": 483.00,
+    "Poids": {
+      "lb": 13.0,
+      "kg": 5.9
+    }
+  },
+  {
+    "#Produit": "OCPU1000",
+    "Watts": {
+      "Standard": 1000.0,
+      "Convertible": 500.0,
+      "208V": 750.0,
+      "208V_Convertible": 375.0
+    },
+    "Volts": "240/208",
+    "Prix": 459.00,
+    "Poids": {
+      "lb": 13.0,
+      "kg": 5.9
+    }
+  }
+]
+```
+
+-------
+
+## Tableau OCP - Ventilo-convecteur coup-de-pied (Options)
+
+```json
+[
+  {
+    "#Produit": {
+      "En_trousse": "KIT-OCP-TB6",
+      "Installée_en_usine": "TB6"
+    },
+    "Prix": 94.00,
+    "Description": "Thermostat bimétallique, unipolaire"
+  },
+  {
+    "#Produit": {
+      "En_trousse": "KIT-OCP-TB261",
+      "Installée_en_usine": "TB261"
+    },
+    "Prix": 107.00,
+    "Description": "Thermostat bimétallique, bipolaire"
+  }
+]
+```
+
+-------

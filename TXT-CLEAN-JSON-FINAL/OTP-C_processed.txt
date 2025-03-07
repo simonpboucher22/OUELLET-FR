@@ -1,0 +1,1050 @@
+# Thermopompe simple zone Champagne sans conduit de ventilation (OTP-C)
+
+## Caractéristiques
+
+-------
+
+### Mode de fonctionnement
+• Climatisation, chauffage, déshumidification, ventilation et auto.
+
+### Capacité nominale
+• 9000, 12000, 15000, 18000, 24000, 30000, 36000 BTU/hr.
+
+### Tension
+• 230/208V, 60 Hz, 1 phase.
+
+### Unité intérieure
+• Installation en haut de mur, pouvant être raccordée de chaque côté.
+• Boîtier en plastique, standard blanc.
+• Ventilateur à courant transversal à 4 vitesses (turbo, élevée, moyenne et faible).
+• Filtres lavables.
+
+### Unité extérieure
+• Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.
+• Soupape d'expansion électronique pour un contrôle précis du débit de réfrigérant.
+• Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.
+• Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.
+• Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.
+• Couverture et technologie de préchauffage du compresseur.
+• Installation sur support mural ou au sol en aluminium en option.
+
+### Tuyauterie de raccordement
+• Longueur minimale de la tuyauterie de 10 pi (3 m).
+• Raccords évasés.
+• R410A (sauf OCD30 & OCD36)
+
+### Régulation
+• Télécommande sans fil incluse.
+• Contrôleur mural en option.
+• Wi-Fi (option KIT-WIFI requise).
+• Interface (options HP6000ZB-GE et GT130 requises).
+• Température de consigne : 16 à 30 °C (61 à 86 °F).
+• Format d'affichage de la température : °C ou °F.
+
+### Garantie
+• Garantie de base 10 ans pièces et 10 ans compresseur (main-d'œuvre non incluse).
+• Garantie main-d'œuvre (vendue séparément) de la 1ère à la 10e année, couvre pièces et main-d'œuvre avec remplacement du système si défaillance du compresseur.
+
+### Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant.
+
+-------
+
+## Tableau OTP-C - Thermopompe simple zone Champagne sans conduit de ventilation
+
+```json
+[
+  {
+    "#Produit": "OCD09KCH23S",
+    "Unité intérieure": "OCD09KCH23S-I",
+    "Unité extérieure": "OCD09KCH23S-O",
+    "Tension": "230/208V",
+    "Capacité climatisation": {
+      "Nominale W": 2638.0,
+      "Nominale BTU/hr": 9000.0,
+      "Min W": 909,
+      "Max W": 2813,
+      "Min BTU/hr": 3100,
+      "Max BTU/hr": 9600
+    },
+    "Capacité chauffage": {
+      "Nominale W": 3224.0,
+      "Nominale BTU/hr": 11000.0,
+      "Min W": 560,
+      "Max W": 3517,
+      "Min BTU/hr": 1911,
+      "Max BTU/hr": 12000
+    },
+    "Puissance consommée": {
+      "Climatisation Nominale W": 630.0,
+      "Climatisation Min W": 160,
+      "Climatisation Max W": 1300,
+      "Chauffage Nominale W": 1020.0,
+      "Chauffage Min W": 160,
+      "Chauffage Max W": 1350,
+      "Nominale W": 1350.0
+    },
+    "Courant nominal A": 6.0,
+    "MCA A": 9.0,
+    "Disjoncteur/fusible max A": 15.0,
+    "TRÉS (SEER)": 23.0,
+    "CPSC (HSPF)": 10.5,
+    "TRÉ (EER) W/W": 4.19,
+    "COP W/W": 3.16,
+    "Numéro AHRI": 201863350.0,
+    "ENERGY STAR": true,
+    "Unité intérieure": {
+      "Déshumidification pt/hr": 1.69,
+      "Déshumidification l/hr": 0.80,
+      "Débit d'air T/H/M/L2 pcm": "377 / 288 / 241 / 170",
+      "Niveau sonore T/H/M/L2 dB(A)": "43 / 39 / 35 / 29",
+      "Puissance moteur ventilateur W": 20.0,
+      "RLA moteur ventilateur A": 0.09,
+      "Puissance moteur déflecteur W": 1.5,
+      "Poids net lb": 22,
+      "Poids net kg": 10,
+      "Dimensions": {
+        "L po": 33.25,
+        "L mm": 845.0,
+        "H po": 11.375,
+        "H mm": 289.0,
+        "P po": 8.25,
+        "P mm": 209.0,
+        "A po": 4.6875,
+        "A mm": 119.0,
+        "B po": 21.3125,
+        "B mm": 542.0,
+        "C po": 7.25,
+        "C mm": 184.0
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique cfm": 1800.0,
+      "Niveau sonore dB(A)": 53.0,
+      "Puissance compresseur W": 845.0,
+      "RLA compresseur A": 4.0,
+      "Puissance moteur ventilateur W": 30.0,
+      "Volume réfrigérant R410A oz": 45.9,
+      "Volume réfrigérant R410A g": 1301,
+      "Poids lb": 78,
+      "Poids kg": 35.5,
+      "Dimensions": {
+        "L po": 33.375,
+        "L mm": 848.0,
+        "H po": 21.25,
+        "H mm": 540.0,
+        "P po": 12.625,
+        "P mm": 320.0,
+        "A po": 21.25,
+        "A mm": 540.0,
+        "B po": 11.25,
+        "B mm": 286.0
+      }
+    },
+    "Température ambiante": {
+      "Climatisation °C": "-18 à 46",
+      "Climatisation °F": "0 à 115",
+      "Chauffage °C": "-25 à 24",
+      "Chauffage °F": "-13 à 75"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement pi": 25,
+      "Longueur préchargement m": 7.5,
+      "Volume additionnel réfrigérant oz/pi": 0.2,
+      "Volume additionnel réfrigérant g/m": 20.0,
+      "Diamètre tuyau liquide po": "1/4",
+      "Diamètre tuyau gaz po": "3/8",
+      "Différence hauteur max pi": 33,
+      "Différence hauteur max m": 10,
+      "Longueur totale max pi": 49,
+      "Longueur totale max m": 15
+    }
+  },
+  {
+    "#Produit": "OCD12KCH22S",
+    "Unité intérieure": "OCD12KCH22S-I",
+    "Unité extérieure": "OCD12KCH22S-O",
+    "Tension": "230/208V",
+    "Capacité climatisation": {
+      "Nominale W": 3517.0,
+      "Nominale BTU/hr": 12000.0,
+      "Min W": 909,
+      "Max W": 3810,
+      "Min BTU/hr": 3100,
+      "Max BTU/hr": 13000
+    },
+    "Capacité chauffage": {
+      "Nominale W": 3810.0,
+      "Nominale BTU/hr": 13000.0,
+      "Min W": 703,
+      "Max W": 4103,
+      "Min BTU/hr": 2400,
+      "Max BTU/hr": 14000
+    },
+    "Puissance consommée": {
+      "Climatisation Nominale W": 960.0,
+      "Climatisation Min W": 200,
+      "Climatisation Max W": 1350,
+      "Chauffage Nominale W": 1100.0,
+      "Chauffage Min W": 400,
+      "Chauffage Max W": 1400,
+      "Nominale W": 1400.0
+    },
+    "Courant nominal A": 6.3,
+    "MCA A": 9.0,
+    "Disjoncteur/fusible max A": 15.0,
+    "TRÉS (SEER)": 22.0,
+    "CPSC (HSPF)": 11.0,
+    "TRÉ (EER) W/W": 3.66,
+    "COP W/W": 3.46,
+    "Numéro AHRI": 201863351.0,
+    "ENERGY STAR": true,
+    "Unité intérieure": {
+      "Déshumidification pt/hr": 2.96,
+      "Déshumidification l/hr": 1.4,
+      "Débit d'air T/H/M/L2 pcm": "400 / 288 / 241 / 171",
+      "Niveau sonore T/H/M/L2 dB(A)": "45 / 39 / 35 / 29",
+      "Puissance moteur ventilateur W": 20.0,
+      "RLA moteur ventilateur A": 0.09,
+      "Puissance moteur déflecteur W": 1.5,
+      "Poids net lb": 22,
+      "Poids net kg": 10,
+      "Dimensions": {
+        "L po": 33.25,
+        "L mm": 845.0,
+        "H po": 11.375,
+        "H mm": 289.0,
+        "P po": 8.25,
+        "P mm": 209.0,
+        "A po": 4.6875,
+        "A mm": 119.0,
+        "B po": 21.3125,
+        "B mm": 542.0,
+        "C po": 7.25,
+        "C mm": 184.0
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique cfm": 2000.0,
+      "Niveau sonore dB(A)": 54.0,
+      "Puissance compresseur W": 845.0,
+      "RLA compresseur A": 4.0,
+      "Puissance moteur ventilateur W": 30.0,
+      "RLA moteur ventilateur A": 0.36,
+      "Volume réfrigérant R410A oz": 47.6,
+      "Volume réfrigérant R410A g": 1349,
+      "Poids lb": 86,
+      "Poids kg": 39,
+      "Dimensions": {
+        "L po": 33.375,
+        "L mm": 848.0,
+        "H po": 23.3125,
+        "H mm": 592.0,
+        "P po": 12.625,
+        "P mm": 320.0,
+        "A po": 21.25,
+        "A mm": 540.0,
+        "B po": 11.25,
+        "B mm": 286.0
+      }
+    },
+    "Température ambiante": {
+      "Climatisation °C": "-18 à 46",
+      "Climatisation °F": "0 à 115",
+      "Chauffage °C": "-25 à 24",
+      "Chauffage °F": "-13 à 75"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement pi": 25,
+      "Longueur préchargement m": 7.5,
+      "Volume additionnel réfrigérant oz/pi": 0.2,
+      "Volume additionnel réfrigérant g/m": 20.0,
+      "Diamètre tuyau liquide po": "1/4",
+      "Diamètre tuyau gaz po": "1/2",
+      "Différence hauteur max pi": 33,
+      "Différence hauteur max m": 10,
+      "Longueur totale max pi": 66,
+      "Longueur totale max m": 20
+    }
+  },
+  {
+    "#Produit": "OCD15KCH20S",
+    "Unité intérieure": "OCD15KCH20S-I",
+    "Unité extérieure": "OCD15KCH20S-O",
+    "Tension": "230/208V",
+    "Capacité climatisation": {
+      "Nominale W": 4400.0,
+      "Nominale BTU/hr": 15000.0,
+      "Min W": 2000,
+      "Max W": 5860,
+      "Min BTU/hr": 6800,
+      "Max BTU/hr": 20000
+    },
+    "Capacité chauffage": {
+      "Nominale W": 4700.0,
+      "Nominale BTU/hr": 16000.0,
+      "Min W": 2150,
+      "Max W": 6890,
+      "Min BTU/hr": 7340,
+      "Max BTU/hr": 23500
+    },
+    "Puissance consommée": {
+      "Climatisation Nominale W": 1189.0,
+      "Climatisation Min W": 750,
+      "Climatisation Max W": 2150,
+      "Chauffage Nominale W": 1382.0,
+      "Chauffage Min W": 580,
+      "Chauffage Max W": 2600,
+      "Nominale W": 3000.0
+    },
+    "Courant nominal A": 12.56,
+    "MCA A": 16.0,
+    "Disjoncteur/fusible max A": 25.0,
+    "TRÉS (SEER)": 20.0,
+    "CPSC (HSPF)": 11.0,
+    "TRÉ (EER) W/W": 3.7,
+    "COP W/W": 3.4,
+    "ENERGY STAR": true,
+    "Unité intérieure": {
+      "Déshumidification pt/hr": 3.8,
+      "Déshumidification l/hr": 1.8,
+      "Débit d'air T/H/M/L2 pcm": "559 / 488 / 412 / 335",
+      "Niveau sonore T/H/M/L2 dB(A)": "49 / 44 / 41 / 36",
+      "Puissance moteur ventilateur W": 60.0,
+      "RLA moteur ventilateur A": 0.24,
+      "Puissance moteur déflecteur W": 2.5,
+      "Poids net lb": 30,
+      "Poids net kg": 13.5,
+      "Dimensions": {
+        "L po": 38.1875,
+        "L mm": 970.0,
+        "H po": 11.8125,
+        "H mm": 300.0,
+        "P po": 8.8125,
+        "P mm": 224.0,
+        "A po": 4.0,
+        "A mm": 102.0,
+        "B po": 27.0,
+        "B mm": 686.0,
+        "C po": 7.1875,
+        "C mm": 183.0
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique cfm": 3200.0,
+      "Niveau sonore dB(A)": 58.0,
+      "Puissance compresseur W": 1440.0,
+      "LRA compresseur A": 25.0,
+      "RLA compresseur A": 12.08,
+      "Puissance moteur ventilateur W": 60.0,
+      "RLA moteur ventilateur A": 0.49,
+      "Volume réfrigérant R410A oz": 56.44,
+      "Volume réfrigérant R410A g": 1600,
+      "Poids lb": 106,
+      "Poids kg": 48,
+      "Dimensions": {
+        "L po": 37.625,
+        "L mm": 955.0,
+        "H po": 27.5625,
+        "H mm": 700.0,
+        "P po": 15.5625,
+        "P mm": 396.0,
+        "A po": 22.0,
+        "A mm": 559.0,
+        "B po": 14.3125,
+        "B mm": 364.0
+      }
+    },
+    "Température ambiante": {
+      "Climatisation °C": "-18 à 46",
+      "Climatisation °F": "0 à 115",
+      "Chauffage °C": "-25 à 24",
+      "Chauffage °F": "-13 à 75"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement pi": 25,
+      "Longueur préchargement m": 7.5,
+      "Volume additionnel réfrigérant oz/pi": 0.2,
+      "Volume additionnel réfrigérant g/m": 20.0,
+      "Diamètre tuyau liquide po": "1/4",
+      "Diamètre tuyau gaz po": "5/8",
+      "Différence hauteur max pi": 33,
+      "Différence hauteur max m": 10,
+      "Longueur totale max pi": 82,
+      "Longueur totale max m": 25
+    }
+  },
+  {
+    "#Produit": "OCD18KCH20S",
+    "Unité intérieure": "OCD18KCH20S-I",
+    "Unité extérieure": "OCD18KCH20S-O",
+    "Tension": "230/208V",
+    "Capacité climatisation": {
+      "Nominale W": 5275.0,
+      "Nominale BTU/hr": 18000.0,
+      "Min W": 1993,
+      "Max W": 5861,
+      "Min BTU/hr": 6800,
+      "Max BTU/hr": 20000
+    },
+    "Capacité chauffage": {
+      "Nominale W": 5803.0,
+      "Nominale BTU/hr": 19800.0,
+      "Min W": 2151,
+      "Max W": 6887,
+      "Min BTU/hr": 7340,
+      "Max BTU/hr": 23500
+    },
+    "Puissance consommée": {
+      "Climatisation Nominale W": 1435.0,
+      "Climatisation Min W": 450,
+      "Climatisation Max W": 2150,
+      "Chauffage Nominale W": 1730.0,
+      "Chauffage Min W": 580,
+      "Chauffage Max W": 2600,
+      "Nominale W": 3000.0
+    },
+    "Courant nominal A": 12.56,
+    "MCA A": 16.0,
+    "Disjoncteur/fusible max A": 25.0,
+    "TRÉS (SEER)": 20.0,
+    "CPSC (HSPF)": 10.0,
+    "TRÉ (EER) W/W": 3.68,
+    "COP W/W": 3.35,
+    "Numéro AHRI": 201863352.0,
+    "ENERGY STAR": true,
+    "Unité intérieure": {
+      "Déshumidification pt/hr": 3.8,
+      "Déshumidification l/hr": 1.80,
+      "Débit d'air T/H/M/L2 pcm": "559 / 488 / 412 / 335",
+      "Niveau sonore T/H/M/L2 dB(A)": "47 / 43 / 40 / 39",
+      "Puissance moteur ventilateur W": 60.0,
+      "RLA moteur ventilateur A": 0.24,
+      "Puissance moteur déflecteur W": 2.5,
+      "Poids net lb": 28,
+      "Poids net kg": 12.5,
+      "Dimensions": {
+        "L po": 38.1875,
+        "L mm": 970.0,
+        "H po": 11.8125,
+        "H mm": 300.0,
+        "P po": 8.8125,
+        "P mm": 224.0,
+        "A po": 4.0,
+        "A mm": 102.0,
+        "B po": 27.0,
+        "B mm": 686.0,
+        "C po": 7.1875,
+        "C mm": 183.0
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique cfm": 3200.0,
+      "Niveau sonore dB(A)": 55.0,
+      "Puissance compresseur W": 1440.0,
+      "LRA compresseur A": 25.0,
+      "RLA compresseur A": 12.08,
+      "Puissance moteur ventilateur W": 60.0,
+      "RLA moteur ventilateur A": 0.49,
+      "Volume réfrigérant R410A oz": 56.44,
+      "Volume réfrigérant R410A g": 1600,
+      "Poids lb": 106,
+      "Poids kg": 48,
+      "Dimensions": {
+        "L po": 37.625,
+        "L mm": 955.0,
+        "H po": 27.5625,
+        "H mm": 700.0,
+        "P po": 15.5625,
+        "P mm": 396.0,
+        "A po": 22.0,
+        "A mm": 559.0,
+        "B po": 14.3125,
+        "B mm": 364.0
+      }
+    },
+    "Température ambiante": {
+      "Climatisation °C": "-18 à 46",
+      "Climatisation °F": "0 à 115",
+      "Chauffage °C": "-25 à 24",
+      "Chauffage °F": "-13 à 75"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement pi": 25,
+      "Longueur préchargement m": 7.5,
+      "Volume additionnel réfrigérant oz/pi": 0.2,
+      "Volume additionnel réfrigérant g/m": 20.0,
+      "Diamètre tuyau liquide po": "1/4",
+      "Diamètre tuyau gaz po": "5/8",
+      "Différence hauteur max pi": 33,
+      "Différence hauteur max m": 10,
+      "Longueur totale max pi": 82,
+      "Longueur totale max m": 25
+    }
+  },
+  {
+    "#Produit": "OCD24KCH20S",
+    "Unité intérieure": "OCD24KCH20S-I",
+    "Unité extérieure": "OCD24KCH20S-O",
+    "Tension": "230/208V",
+    "Capacité climatisation": {
+      "Nominale W": 6448.0,
+      "Nominale BTU/hr": 22000.0,
+      "Min W": 2000,
+      "Max W": 8000,
+      "Min BTU/hr": 6824,
+      "Max BTU/hr": 27296
+    },
+    "Capacité chauffage": {
+      "Nominale W": 6741.0,
+      "Nominale BTU/hr": 23000.0,
+      "Min W": 2000,
+      "Max W": 9000,
+      "Min BTU/hr": 6824,
+      "Max BTU/hr": 30708
+    },
+    "Puissance consommée": {
+      "Climatisation Nominale W": 1760.0,
+      "Climatisation Min W": 450,
+      "Climatisation Max W": 3000,
+      "Chauffage Nominale W": 2000.0,
+      "Chauffage Min W": 450,
+      "Chauffage Max W": 3000,
+      "Nominale W": 3000.0
+    },
+    "Courant nominal A": 14.5,
+    "MCA A": 20.0,
+    "Disjoncteur/fusible max A": 30.0,
+    "TRÉS (SEER)": 20.0,
+    "CPSC (HSPF)": 10.0,
+    "TRÉ (EER) W/W": 3.66,
+    "COP W/W": 3.37,
+    "Numéro AHRI": 201863353.0,
+    "ENERGY STAR": true,
+    "Unité intérieure": {
+      "Déshumidification pt/hr": 4.23,
+      "Déshumidification l/hr": 2.00,
+      "Débit d'air T/H/M/L2 pcm": "706 / 647 / 589 / 530",
+      "Niveau sonore T/H/M/L2 dB(A)": "48 / 44 / 40 / 36",
+      "Puissance moteur ventilateur W": 60.0,
+      "RLA moteur ventilateur A": 0.38,
+      "Puissance moteur déflecteur W": 2.5,
+      "Poids net lb": 34,
+      "Poids net kg": 15.5,
+      "Dimensions": {
+        "L po": 42.4375,
+        "L mm": 1078.0,
+        "H po": 12.8125,
+        "H mm": 325.0,
+        "P po": 9.6875,
+        "P mm": 246.0,
+        "A po": 8.125,
+        "A mm": 206.0,
+        "B po": 27.0,
+        "B mm": 686.0,
+        "C po": 7.3125,
+        "C mm": 186.0
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique cfm": 4000.0,
+      "Niveau sonore dB(A)": 59.0,
+      "Puissance compresseur W": 2550.0,
+      "LRA compresseur A": 25.0,
+      "RLA compresseur A": 11.5,
+      "Puissance moteur ventilateur W": 92.0,
+      "RLA moteur ventilateur A": 0.65,
+      "Volume réfrigérant R410A oz": 77.6,
+      "Volume réfrigérant R410A g": 2200,
+      "Poids lb": 142,
+      "Poids kg": 65.5,
+      "Dimensions": {
+        "L po": 38.5625,
+        "L mm": 980.0,
+        "H po": 31.125,
+        "H mm": 790.0,
+        "P po": 16.8125,
+        "P mm": 427.0,
+        "A po": 24.0,
+        "A mm": 610.0,
+        "B po": 15.5625,
+        "B mm": 395.0
+      }
+    },
+    "Température ambiante": {
+      "Climatisation °C": "-18 à 46",
+      "Climatisation °F": "0 à 115",
+      "Chauffage °C": "-25 à 24",
+      "Chauffage °F": "-13 à 75"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement pi": 25,
+      "Longueur préchargement m": 7.5,
+      "Volume additionnel réfrigérant oz/pi": 0.5,
+      "Volume additionnel réfrigérant g/m": 50.0,
+      "Diamètre tuyau liquide po": "1/4",
+      "Diamètre tuyau gaz po": "5/8",
+      "Différence hauteur max pi": 33,
+      "Différence hauteur max m": 10,
+      "Longueur totale max pi": 82,
+      "Longueur totale max m": 25
+    }
+  },
+  {
+    "#Produit": "OCD30KCH18S",
+    "Unité intérieure": "OCD30KCH18S-I",
+    "Unité extérieure": "OCD30KCH18S-O",
+    "Tension": "230/208V",
+    "Capacité climatisation": {
+      "Nominale W": 8200.0,
+      "Nominale BTU/hr": 28000.0,
+      "Min W": 2780,
+      "Max W": 8800,
+      "Min BTU/hr": 9485,
+      "Max BTU/hr": 30026
+    },
+    "Capacité chauffage": {
+      "Nominale W": 8320.0,
+      "Nominale BTU/hr": 28400.0,
+      "Min W": 2930,
+      "Max W": 9670,
+      "Min BTU/hr": 9997,
+      "Max BTU/hr": 32994
+    },
+    "Puissance consommée": {
+      "Climatisation Nominale W": 2700.0,
+      "Climatisation Min W": 600,
+      "Climatisation Max W": 3900,
+      "Chauffage Nominale W": 2800.0,
+      "Chauffage Min W": 650,
+      "Chauffage Max W": 4000,
+      "Nominale W": 4000.0
+    },
+    "Courant nominal A": 17.0,
+    "MCA A": 20.0,
+    "Disjoncteur/fusible max A": 30.0,
+    "TRÉS (SEER)": 18.0,
+    "CPSC (HSPF)": 9.0,
+    "TRÉ (EER) W/W": 3.04,
+    "COP W/W": 2.97,
+    "Numéro AHRI": 202110509.0,
+    "ENERGY STAR": false,
+    "Unité intérieure": {
+      "Déshumidification pt/hr": 6.34,
+      "Déshumidification l/hr": 3.00,
+      "Débit d'air T/H/M/L2 pcm": "706 / 618 / 530 / 412",
+      "Puissance moteur ventilateur W": 70.0,
+      "RLA moteur ventilateur A": 0.4,
+      "Puissance moteur déflecteur W": 1.5,
+      "Poids net lb": 42,
+      "Poids net kg": 19,
+      "Dimensions": {
+        "L po": 53.125,
+        "L mm": 1350.0,
+        "H po": 12.8125,
+        "H mm": 325.0,
+        "P po": 9.96875,
+        "P mm": 253.0,
+        "A po": 8.125,
+        "A mm": 206.0,
+        "B po": 27.0,
+        "B mm": 686.0,
+        "C po": 7.3125,
+        "C mm": 186.0
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique cfm": 4000.0,
+      "Niveau sonore dB(A)": 62.0,
+      "Puissance compresseur W": 2450.0,
+      "LRA compresseur A": 4.0,
+      "RLA compresseur A": 13.45,
+      "Puissance moteur ventilateur W": 120.0,
+      "RLA moteur ventilateur A": 0.45,
+      "Volume réfrigérant R410A oz": 84.66,
+      "Volume réfrigérant R410A g": 2400,
+      "Poids lb": 154.5,
+      "Poids kg": 70,
+      "Dimensions": {
+        "L po": 38.5625,
+        "L mm": 980.0,
+        "H po": 31.125,
+        "H mm": 790.0,
+        "P po": 16.8125,
+        "P mm": 427.0,
+        "A po": 24.0,
+        "A mm": 610.0,
+        "B po": 15.5625,
+        "B mm": 395.0
+      }
+    },
+    "Température ambiante": {
+      "Climatisation °C": "-18 à 46",
+      "Climatisation °F": "0 à 115",
+      "Chauffage °C": "-25 à 24",
+      "Chauffage °F": "-13 à 75"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement pi": 25,
+      "Longueur préchargement m": 7.5,
+      "Volume additionnel réfrigérant oz/pi": 0.5,
+      "Volume additionnel réfrigérant g/m": 50.0,
+      "Diamètre tuyau liquide po": "1/4",
+      "Diamètre tuyau gaz po": "5/8",
+      "Différence hauteur max pi": 33,
+      "Différence hauteur max m": 10,
+      "Longueur totale max pi": 98,
+      "Longueur totale max m": 30
+    }
+  },
+  {
+    "#Produit": "OCD36KCH18S",
+    "Unité intérieure": "OCD36KCH18S-I",
+    "Unité extérieure": "OCD36KCH18S-O",
+    "Tension": "230/208V",
+    "Capacité climatisation": {
+      "Nominale W": 9850.0,
+      "Nominale BTU/hr": 33600.0,
+      "Min W": 2170,
+      "Max W": 10550,
+      "Min BTU/hr": 7404,
+      "Max BTU/hr": 35997
+    },
+    "Capacité chauffage": {
+      "Nominale W": 10140.0,
+      "Nominale BTU/hr": 34600.0,
+      "Min W": 4390,
+      "Max W": 10550,
+      "Min BTU/hr": 14979,
+      "Max BTU/hr": 35997
+    },
+    "Puissance consommée": {
+      "Climatisation Nominale W": 4100.0,
+      "Climatisation Min W": 450,
+      "Climatisation Max W": 4300,
+      "Chauffage Nominale W": 3800.0,
+      "Chauffage Min W": 560,
+      "Chauffage Max W": 4300,
+      "Nominale W": 4300.0
+    },
+    "Courant nominal A": 20.0,
+    "MCA A": 24.0,
+    "Disjoncteur/fusible max A": 40.0,
+    "TRÉS (SEER)": 18.0,
+    "CPSC (HSPF)": 9.0,
+    "TRÉ (EER) W/W": 2.4,
+    "COP W/W": 2.67,
+    "Numéro AHRI": 202110510.0,
+    "ENERGY STAR": false,
+    "Unité intérieure": {
+      "Déshumidification pt/hr": 7.4,
+      "Déshumidification l/hr": 3.5,
+      "Débit d'air T/H/M/L2 pcm": "736 / 647 / 530 / 412",
+      "Puissance moteur ventilateur W": 70.0,
+      "RLA moteur ventilateur A": 0.4,
+      "Puissance moteur déflecteur W": 1.5,
+      "Poids net lb": 42,
+      "Poids net kg": 19,
+      "Dimensions": {
+        "L po": 53.125,
+        "L mm": 1350.0,
+        "H po": 12.8125,
+        "H mm": 325.0,
+        "P po": 9.96875,
+        "P mm": 253.0,
+        "A po": 8.125,
+        "A mm": 206.0,
+        "B po": 27.0,
+        "B mm": 686.0,
+        "C po": 7.3125,
+        "C mm": 186.0
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique cfm": 4400.0,
+      "Niveau sonore dB(A)": 65.0,
+      "Puissance compresseur W": 3010.0,
+      "LRA compresseur A": 67.0,
+      "RLA compresseur A": 17.5,
+      "Puissance moteur ventilateur W": 170.0,
+      "RLA moteur ventilateur A": 0.73,
+      "Volume réfrigérant R410A oz": 91.71,
+      "Volume réfrigérant R410A g": 2600,
+      "Poids lb": 161,
+      "Poids kg": 73,
+      "Dimensions": {
+        "L po": 38.5625,
+        "L mm": 980.0,
+        "H po": 31.125,
+        "H mm": 790.0,
+        "P po": 16.8125,
+        "P mm": 427.0,
+        "A po": 24.0,
+        "A mm": 610.0,
+        "B po": 15.5625,
+        "B mm": 395.0
+      }
+    },
+    "Température ambiante": {
+      "Climatisation °C": "-18 à 46",
+      "Climatisation °F": "0 à 115",
+      "Chauffage °C": "-25 à 24",
+      "Chauffage °F": "-13 à 75"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement pi": 25,
+      "Longueur préchargement m": 7.5,
+      "Volume additionnel réfrigérant oz/pi": 0.5,
+      "Volume additionnel réfrigérant g/m": 50.0,
+      "Diamètre tuyau liquide po": "1/4",
+      "Diamètre tuyau gaz po": "5/8",
+      "Différence hauteur max pi": 33,
+      "Différence hauteur max m": 10,
+      "Longueur totale max pi": 98,
+      "Longueur totale max m": 30
+    }
+  }
+]
+```
+
+-------
+
+## Tableau OTP-C - Dimensions des unités intérieures
+
+```json
+[
+  {
+    "#Produit": "OCD09KCH23S-I",
+    "Dimensions": {
+      "L po": 33.25,
+      "L mm": 845.0,
+      "H po": 11.375,
+      "H mm": 289.0,
+      "P po": 8.25,
+      "P mm": 209.0,
+      "A po": 4.6875,
+      "A mm": 119.0,
+      "B po": 21.3125,
+      "B mm": 542.0,
+      "C po": 7.25,
+      "C mm": 184.0
+    }
+  },
+  {
+    "#Produit": "OCD12KCH22S-I",
+    "Dimensions": {
+      "L po": 33.25,
+      "L mm": 845.0,
+      "H po": 11.375,
+      "H mm": 289.0,
+      "P po": 8.25,
+      "P mm": 209.0,
+      "A po": 4.6875,
+      "A mm": 119.0,
+      "B po": 21.3125,
+      "B mm": 542.0,
+      "C po": 7.25,
+      "C mm": 184.0
+    }
+  },
+  {
+    "#Produit": "OCD15KCH20S-I",
+    "Dimensions": {
+      "L po": 38.1875,
+      "L mm": 970.0,
+      "H po": 11.8125,
+      "H mm": 300.0,
+      "P po": 8.8125,
+      "P mm": 224.0,
+      "A po": 4.0,
+      "A mm": 102.0,
+      "B po": 27.0,
+      "B mm": 686.0,
+      "C po": 7.1875,
+      "C mm": 183.0
+    }
+  },
+  {
+    "#Produit": "OCD18KCH20S-I",
+    "Dimensions": {
+      "L po": 38.1875,
+      "L mm": 970.0,
+      "H po": 11.8125,
+      "H mm": 300.0,
+      "P po": 8.8125,
+      "P mm": 224.0,
+      "A po": 4.0,
+      "A mm": 102.0,
+      "B po": 27.0,
+      "B mm": 686.0,
+      "C po": 7.1875,
+      "C mm": 183.0
+    }
+  },
+  {
+    "#Produit": "OCD24KCH20S-I",
+    "Dimensions": {
+      "L po": 42.4375,
+      "L mm": 1078.0,
+      "H po": 12.8125,
+      "H mm": 325.0,
+      "P po": 9.6875,
+      "P mm": 246.0,
+      "A po": 8.125,
+      "A mm": 206.0,
+      "B po": 27.0,
+      "B mm": 686.0,
+      "C po": 7.3125,
+      "C mm": 186.0
+    }
+  },
+  {
+    "#Produit": "OCD30KCH18S-I",
+    "Dimensions": {
+      "L po": 53.125,
+      "L mm": 1350.0,
+      "H po": 12.8125,
+      "H mm": 325.0,
+      "P po": 9.96875,
+      "P mm": 253.0,
+      "A po": 8.125,
+      "A mm": 206.0,
+      "B po": 27.0,
+      "B mm": 686.0,
+      "C po": 7.3125,
+      "C mm": 186.0
+    }
+  },
+  {
+    "#Produit": "OCD36KCH18S-I",
+    "Dimensions": {
+      "L po": 53.125,
+      "L mm": 1350.0,
+      "H po": 12.8125,
+      "H mm": 325.0,
+      "P po": 9.96875,
+      "P mm": 253.0,
+      "A po": 8.125,
+      "A mm": 206.0,
+      "B po": 27.0,
+      "B mm": 686.0,
+      "C po": 7.3125,
+      "C mm": 186.0
+    }
+  }
+]
+```
+
+-------
+
+## Tableau OTP-C - Dimensions des unités extérieures
+
+```json
+[
+  {
+    "#Produit": "OCD09KCH23S-O",
+    "Dimensions": {
+      "L po": 33.375,
+      "L mm": 848.0,
+      "H po": 21.25,
+      "H mm": 540.0,
+      "P po": 12.625,
+      "P mm": 320.0,
+      "A po": 21.25,
+      "A mm": 540.0,
+      "B po": 11.25,
+      "B mm": 286.0
+    }
+  },
+  {
+    "#Produit": "OCD12KCH22S-O",
+    "Dimensions": {
+      "L po": 33.375,
+      "L mm": 848.0,
+      "H po": 23.3125,
+      "H mm": 592.0,
+      "P po": 12.625,
+      "P mm": 320.0,
+      "A po": 21.25,
+      "A mm": 540.0,
+      "B po": 11.25,
+      "B mm": 286.0
+    }
+  },
+  {
+    "#Produit": "OCD15KCH20S-O",
+    "Dimensions": {
+      "L po": 37.625,
+      "L mm": 955.0,
+      "H po": 27.5625,
+      "H mm": 700.0,
+      "P po": 15.5625,
+      "P mm": 396.0,
+      "A po": 22.0,
+      "A mm": 559.0,
+      "B po": 14.3125,
+      "B mm": 364.0
+    }
+  },
+  {
+    "#Produit": "OCD18KCH20S-O",
+    "Dimensions": {
+      "L po": 37.625,
+      "L mm": 955.0,
+      "H po": 27.5625,
+      "H mm": 700.0,
+      "P po": 15.5625,
+      "P mm": 396.0,
+      "A po": 22.0,
+      "A mm": 559.0,
+      "B po": 14.3125,
+      "B mm": 364.0
+    }
+  },
+  {
+    "#Produit": "OCD24KCH20S-O",
+    "Dimensions": {
+      "L po": 38.5625,
+      "L mm": 980.0,
+      "H po": 31.125,
+      "H mm": 790.0,
+      "P po": 16.8125,
+      "P mm": 427.0,
+      "A po": 24.0,
+      "A mm": 610.0,
+      "B po": 15.5625,
+      "B mm": 395.0
+    }
+  },
+  {
+    "#Produit": "OCD30KCH18S-O",
+    "Dimensions": {
+      "L po": 38.5625,
+      "L mm": 980.0,
+      "H po": 31.125,
+      "H mm": 790.0,
+      "P po": 16.8125,
+      "P mm": 427.0,
+      "A po": 24.0,
+      "A mm": 610.0,
+      "B po": 15.5625,
+      "B mm": 395.0
+    }
+  },
+  {
+    "#Produit": "OCD36KCH18S-O",
+    "Dimensions": {
+      "L po": 38.5625,
+      "L mm": 980.0,
+      "H po": 31.125,
+      "H mm": 790.0,
+      "P po": 16.8125,
+      "P mm": 427.0,
+      "A po": 24.0,
+      "A mm": 610.0,
+      "B po": 15.5625,
+      "B mm": 395.0
+    }
+  }
+]
+```

@@ -1,0 +1,560 @@
+# ODIA - Plinthe coupe-brise en acier à dessus incliné
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 120V, 208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.
+
+### Construction
+• Devant en acier de calibre 16.
+• Boîtier en acier satiné de calibre 18.
+• Assemblage vissé pour une plus grande robustesse.
+• Canalisation de câblage intégrée pleine longueur.
+• Entrée d'air frais par l'avant; sortie d'air chaud par le dessus.
+- Entrée d'air frais par le dessous (-BAI) en option.
+• Finition unie du dos de l'appareil (-BD) en option.
+• Protection thermique linéaire pleine longueur, à réenclenchement automatique.
+• Protection thermique pour la haute altitude (-HA) en option.
+• Bouts inclus.
+
+### Élément
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+### Densité
+• Densité moyenne standard de 275W/pi.
+• Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.
+
+### Régulation
+• Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+• Relais mécanique, relais électronique ou relais pneumatique en option (installation du côté droit seulement).
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+• L'appareil doit être installé à 2 po (51 mm) au-dessus du plancher (pour option –BAI).
+• Trous de montage espacés de 4 po (102 mm) afin de faciliter la pose.
+• Installation au plancher ou au mur.
+• Variété d'accessoires pour l'installation en continu en option.
+• Trousse de piédestals en option.
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Édifice commercial, immeuble à bureaux, hôpital, école, résidence privée
+
+-------
+
+## Tableau ODIA - Modèles à densité moyenne standard de 275W/pi
+
+```json
+[
+  {
+    "#Produit": "ODIA0502",
+    "Watts": 500.0,
+    "Tension": "120V",
+    "Watts 240/208V": "500/375",
+    "#Produit 240/208V": "ODIA0500",
+    "Prix": 383.00,
+    "Longueur": "28.875 po (733.0 mm)",
+    "Poids": "11.6 lb (5.3 kg)"
+  },
+  {
+    "#Produit": "ODIA0508",
+    "Watts": 500.0,
+    "Tension": "208V",
+    "Watts 240/208V": "500/375",
+    "#Produit 240/208V": "ODIA0500",
+    "Prix": 383.00,
+    "Longueur": "28.875 po (733.0 mm)",
+    "Poids": "11.6 lb (5.3 kg)"
+  },
+  {
+    "#Produit": "ODIA0507",
+    "Watts": 500.0,
+    "Tension": "347V",
+    "Watts 240/208V": "500/375",
+    "#Produit 240/208V": "ODIA0500",
+    "Prix": 383.00,
+    "Longueur": "28.875 po (733.0 mm)",
+    "Poids": "11.6 lb (5.3 kg)"
+  },
+  {
+    "#Produit": "ODIA0752",
+    "Watts": 750.0,
+    "Tension": "120V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "ODIA0750",
+    "Prix": 435.00,
+    "Longueur": "38.875 po (987.0 mm)",
+    "Poids": "15.1 lb (6.9 kg)"
+  },
+  {
+    "#Produit": "ODIA0758",
+    "Watts": 750.0,
+    "Tension": "208V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "ODIA0750",
+    "Prix": 435.00,
+    "Longueur": "38.875 po (987.0 mm)",
+    "Poids": "15.1 lb (6.9 kg)"
+  },
+  {
+    "#Produit": "ODIA0757",
+    "Watts": 750.0,
+    "Tension": "347V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "ODIA0750",
+    "Prix": 435.00,
+    "Longueur": "38.875 po (987.0 mm)",
+    "Poids": "15.1 lb (6.9 kg)"
+  },
+  {
+    "#Produit": "ODIA0756",
+    "Watts": 750.0,
+    "Tension": "600V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "ODIA0750",
+    "Prix": 435.00,
+    "Longueur": "38.875 po (987.0 mm)",
+    "Poids": "15.1 lb (6.9 kg)"
+  },
+  {
+    "#Produit": "ODIA1002",
+    "Watts": 1000.0,
+    "Tension": "120V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "ODIA1000",
+    "Prix": 497.00,
+    "Longueur": "49.125 po (1248.0 mm)",
+    "Poids": "18.7 lb (8.5 kg)"
+  },
+  {
+    "#Produit": "ODIA1008",
+    "Watts": 1000.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "ODIA1000",
+    "Prix": 497.00,
+    "Longueur": "49.125 po (1248.0 mm)",
+    "Poids": "18.7 lb (8.5 kg)"
+  },
+  {
+    "#Produit": "ODIA1007",
+    "Watts": 1000.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "ODIA1000",
+    "Prix": 497.00,
+    "Longueur": "49.125 po (1248.0 mm)",
+    "Poids": "18.7 lb (8.5 kg)"
+  },
+  {
+    "#Produit": "ODIA1006",
+    "Watts": 1000.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "ODIA1000",
+    "Prix": 497.00,
+    "Longueur": "49.125 po (1248.0 mm)",
+    "Poids": "18.7 lb (8.5 kg)"
+  },
+  {
+    "#Produit": "ODIA1252",
+    "Watts": 1250.0,
+    "Tension": "120V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "ODIA1250",
+    "Prix": 559.00,
+    "Longueur": "58.625 po (1489.0 mm)",
+    "Poids": "22.0 lb (10.0 kg)"
+  },
+  {
+    "#Produit": "ODIA1258",
+    "Watts": 1250.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "ODIA1250",
+    "Prix": 559.00,
+    "Longueur": "58.625 po (1489.0 mm)",
+    "Poids": "22.0 lb (10.0 kg)"
+  },
+  {
+    "#Produit": "ODIA1257",
+    "Watts": 1250.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "ODIA1250",
+    "Prix": 559.00,
+    "Longueur": "58.625 po (1489.0 mm)",
+    "Poids": "22.0 lb (10.0 kg)"
+  },
+  {
+    "#Produit": "ODIA1256",
+    "Watts": 1250.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "ODIA1250",
+    "Prix": 559.00,
+    "Longueur": "58.625 po (1489.0 mm)",
+    "Poids": "22.0 lb (10.0 kg)"
+  },
+  {
+    "#Produit": "ODIA1502",
+    "Watts": 1500.0,
+    "Tension": "120V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "ODIA1500",
+    "Prix": 642.00,
+    "Longueur": "67.3125 po (1710.0 mm)",
+    "Poids": "25.0 lb (11.4 kg)"
+  },
+  {
+    "#Produit": "ODIA1508",
+    "Watts": 1500.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "ODIA1500",
+    "Prix": 642.00,
+    "Longueur": "67.3125 po (1710.0 mm)",
+    "Poids": "25.0 lb (11.4 kg)"
+  },
+  {
+    "#Produit": "ODIA1507",
+    "Watts": 1500.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "ODIA1500",
+    "Prix": 642.00,
+    "Longueur": "67.3125 po (1710.0 mm)",
+    "Poids": "25.0 lb (11.4 kg)"
+  },
+  {
+    "#Produit": "ODIA1506",
+    "Watts": 1500.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "ODIA1500",
+    "Prix": 642.00,
+    "Longueur": "67.3125 po (1710.0 mm)",
+    "Poids": "25.0 lb (11.4 kg)"
+  },
+  {
+    "#Produit": "ODIA1758",
+    "Watts": 1750.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1750/1313",
+    "#Produit 240/208V": "ODIA1750",
+    "Prix": 734.00,
+    "Longueur": "76.625 po (1947.0 mm)",
+    "Poids": "28.3 lb (12.8 kg)"
+  },
+  {
+    "#Produit": "ODIA1757",
+    "Watts": 1750.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1750/1313",
+    "#Produit 240/208V": "ODIA1750",
+    "Prix": 734.00,
+    "Longueur": "76.625 po (1947.0 mm)",
+    "Poids": "28.3 lb (12.8 kg)"
+  },
+  {
+    "#Produit": "ODIA1756",
+    "Watts": 1750.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1750/1313",
+    "#Produit 240/208V": "ODIA1750",
+    "Prix": 734.00,
+    "Longueur": "76.625 po (1947.0 mm)",
+    "Poids": "28.3 lb (12.8 kg)"
+  },
+  {
+    "#Produit": "ODIA2008",
+    "Watts": 2000.0,
+    "Tension": "208V",
+    "Watts 240/208V": "2000/1500",
+    "#Produit 240/208V": "ODIA2000",
+    "Prix": 825.00,
+    "Longueur": "85.4375 po (2170.0 mm)",
+    "Poids": "31.3 lb (14.2 kg)"
+  },
+  {
+    "#Produit": "ODIA2007",
+    "Watts": 2000.0,
+    "Tension": "347V",
+    "Watts 240/208V": "2000/1500",
+    "#Produit 240/208V": "ODIA2000",
+    "Prix": 825.00,
+    "Longueur": "85.4375 po (2170.0 mm)",
+    "Poids": "31.3 lb (14.2 kg)"
+  },
+  {
+    "#Produit": "ODIA2006",
+    "Watts": 2000.0,
+    "Tension": "600V",
+    "Watts 240/208V": "2000/1500",
+    "#Produit 240/208V": "ODIA2000",
+    "Prix": 825.00,
+    "Longueur": "85.4375 po (2170.0 mm)",
+    "Poids": "31.3 lb (14.2 kg)"
+  },
+  {
+    "#Produit": "ODIA2258",
+    "Watts": 2250.0,
+    "Tension": "208V",
+    "Watts 240/208V": "2250/1688",
+    "#Produit 240/208V": "ODIA2250",
+    "Prix": 937.00,
+    "Longueur": "94.3125 po (2395.0 mm)",
+    "Poids": "34.4 lb (15.6 kg)"
+  },
+  {
+    "#Produit": "ODIA2257",
+    "Watts": 2250.0,
+    "Tension": "347V",
+    "Watts 240/208V": "2250/1688",
+    "#Produit 240/208V": "ODIA2250",
+    "Prix": 937.00,
+    "Longueur": "94.3125 po (2395.0 mm)",
+    "Poids": "34.4 lb (15.6 kg)"
+  },
+  {
+    "#Produit": "ODIA2256",
+    "Watts": 2250.0,
+    "Tension": "600V",
+    "Watts 240/208V": "2250/1688",
+    "#Produit 240/208V": "ODIA2250",
+    "Prix": 937.00,
+    "Longueur": "94.3125 po (2395.0 mm)",
+    "Poids": "34.4 lb (15.6 kg)"
+  },
+  {
+    "#Produit": "ODIA2508",
+    "Watts": 2500.0,
+    "Tension": "208V",
+    "Watts 240/208V": "2500/1875",
+    "#Produit 240/208V": "ODIA2500",
+    "Prix": 936.00,
+    "Longueur": "103.4375 po (2627.0 mm)",
+    "Poids": "37.6 lb (17.1 kg)"
+  },
+  {
+    "#Produit": "ODIA2507",
+    "Watts": 2500.0,
+    "Tension": "347V",
+    "Watts 240/208V": "2500/1875",
+    "#Produit 240/208V": "ODIA2500",
+    "Prix": 936.00,
+    "Longueur": "103.4375 po (2627.0 mm)",
+    "Poids": "37.6 lb (17.1 kg)"
+  },
+  {
+    "#Produit": "ODIA2506",
+    "Watts": 2500.0,
+    "Tension": "600V",
+    "Watts 240/208V": "2500/1875",
+    "#Produit 240/208V": "ODIA2500",
+    "Prix": 936.00,
+    "Longueur": "103.4375 po (2627.0 mm)",
+    "Poids": "37.6 lb (17.1 kg)"
+  }
+]
+```
+
+-------
+
+## Tableau ODIA - Options
+
+```json
+[
+  {
+    "#Produit": "BAI",
+    "Type": "Installée en usine",
+    "Prix": "Sans frais",
+    "Description": "Entrée d'air par le dessous"
+  },
+  {
+    "#Produit": "BD",
+    "Type": "Installée en usine",
+    "Prix": 0.1,
+    "Description": "Finition unie du dos de l'appareil"
+  },
+  {
+    "#Produit": "KIT-ODIA-CE",
+    "Type": "En trousse",
+    "Prix": 362.00,
+    "Description": "Coin extérieur, 4 po (102 mm)"
+  },
+  {
+    "#Produit": "KIT-ODIA-CI",
+    "Type": "En trousse",
+    "Prix": 362.00,
+    "Description": "Coin intérieur, 4 po (102 mm)"
+  },
+  {
+    "#Produit": "KIT-ODIA-JT",
+    "Type": "En trousse",
+    "Prix": 108.00,
+    "Description": "Joint de finition, 2 po (51 mm)"
+  },
+  {
+    "#Produit": "KIT-ODIA-JT-PE",
+    "Type": "En trousse",
+    "Prix": 120.00,
+    "Description": "Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)"
+  },
+  {
+    "#Produit": "KIT-ODIA-PE",
+    "Type": "En trousse",
+    "Prix": 155.00,
+    "Description": "Trousse de piédestals ronds (2), 3 po (76 mm)"
+  },
+  {
+    "#Produit": "KIT-ODIA-PEC",
+    "Type": "En trousse",
+    "Prix": 155.00,
+    "Description": "Trousse de piédestals carrés (2), 2 po (51 mm)"
+  },
+  {
+    "#Produit": "ODIA-SV-XX",
+    "Type": "En trousse",
+    "Prix": "Sur demande",
+    "Description": "Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2625 mm)"
+  },
+  {
+    "#Produit": "KIT-ODIA-DIS203",
+    "Type": "En trousse",
+    "Prix": 172.00,
+    "Description": "Interrupteur principal, 20A à 277V max."
+  },
+  {
+    "#Produit": "DIS203",
+    "Type": "Installée en usine",
+    "Prix": 172.00,
+    "Description": "Interrupteur principal, 20A à 277V max."
+  },
+  {
+    "#Produit": "KIT-ODIA-DIS403",
+    "Type": "En trousse",
+    "Prix": 211.00,
+    "Description": "Interrupteur principal, 40A à 600V max."
+  },
+  {
+    "#Produit": "DIS403",
+    "Type": "Installée en usine",
+    "Prix": 211.00,
+    "Description": "Interrupteur principal, 40A à 600V max."
+  },
+  {
+    "#Produit": "HA",
+    "Type": "Installée en usine",
+    "Prix": "Sans frais",
+    "Description": "Protection thermique pour la haute altitude (3000 pi à 8200 pi)"
+  },
+  {
+    "#Produit": "PM",
+    "Type": "Installée en usine",
+    "Prix": 410.00,
+    "Description": "Relais pneumatique, 20A à 600V max."
+  },
+  {
+    "#Produit": "KIT-ODIA-R-347",
+    "Type": "En trousse",
+    "Prix": 175.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V"
+  },
+  {
+    "#Produit": "KIT-ODIA-R-600",
+    "Type": "En trousse",
+    "Prix": 182.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V"
+  },
+  {
+    "#Produit": "KIT-ODIA-RT-120",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V"
+  },
+  {
+    "#Produit": "KIT-ODIA-RT-208",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"
+  },
+  {
+    "#Produit": "KIT-ODIA-RT-240",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"
+  },
+  {
+    "#Produit": "KIT-ODIA-RT-277",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V"
+  },
+  {
+    "#Produit": "KIT-ODIA-RT-347",
+    "Type": "En trousse",
+    "Prix": 189.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"
+  },
+  {
+    "#Produit": "KIT-ODIA-RT-6001",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)"
+  },
+  {
+    "#Produit": "KIT-ODIA-TB6",
+    "Type": "En trousse",
+    "Prix": 154.00,
+    "Description": "Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "#Produit": "KIT-ODIA-TB262",
+    "Type": "En trousse",
+    "Prix": 250.00,
+    "Description": "Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "#Produit": "KIT-ODIA-TB6-AV",
+    "Type": "En trousse",
+    "Prix": 154.00,
+    "Description": "Thermostat bimétallique, unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "#Produit": "KIT-ODIA-TB26-AV2",
+    "Type": "En trousse",
+    "Prix": 250.00,
+    "Description": "Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "#Produit": "KIT-ODIA-TRIAC-347",
+    "Type": "En trousse",
+    "Prix": 77.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."
+  },
+  {
+    "#Produit": "KIT-ODIA-TRIAC-347T",
+    "Type": "En trousse",
+    "Prix": 105.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V"
+  },
+  {
+    "#Produit": "KIT-ODIA-TRIAC-600",
+    "Type": "En trousse",
+    "Prix": 135.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."
+  }
+]
+```

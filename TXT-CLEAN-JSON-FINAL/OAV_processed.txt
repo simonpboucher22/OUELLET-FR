@@ -1,0 +1,626 @@
+# OAV - Aérotherme vertical
+
+## Caractéristiques
+
+**Couleur**
+• Standard : amande.
+
+**Finition**
+• Standard : peinture à la poudre d'époxy/polyester.
+
+**Tension**
+• 208V, 240V, 347V, 480V, 600V, 1 ou 3 phases.
+
+**Construction**
+• Construction en acier calibre 18.
+• Protection thermique linéaire à réenclenchement automatique.
+• Bornier de commande du ventilateur permettant le contrôle à distance.
+
+**Ventilateur**
+• Commande à retardement du ventilateur; retarde le départ du ventilateur pour permettre aux éléments de se réchauffer et laisse continuer le ventilateur quelques secondes après l'arrêt du chauffage pour éliminer la chaleur résiduelle.
+• Moteur fermé à roulement à billes.
+• Moteur avec protection thermique intégrée.
+
+**Élément**
+• Élément tubulaire, mise à la terre pour plus de sécurité.
+
+-------
+
+## Régulation
+
+• Contacteur intégré standard.
+• Circuit de commande à 240V standard (avec transformateur si nécessaire).
+• Relais 24V en option avec ou sans transformateur.
+• Circuit de commande à 120V en option.
+• Température ambiante maximale de fonctionnement : 30 °C (85 °F).
+• Tout dispositif de contrôle [thermostat ou relais] doit être connecté au bornier de contrôle de l'appareil.
+
+**Installation**
+• Montage 10kW et moins : 4 trous filetés (1/2 po - 13 UNC).
+• Montage 15kW et plus : 4 crochets.
+• Cônes disponibles en option.
+
+**Garantie**
+• 3 ans contre tous vices.
+
+**Application**
+• Usine, entrepôt, centre commercial, garage.
+
+-------
+
+## Tableau OAV - Aérotherme vertical (Modèles)
+
+```json
+[
+  {
+    "#Produit": "OAV05008AM",
+    "kW": 5.0,
+    "Volts": 208,
+    "Phase": 1,
+    "Prix": 3554.00,
+    "BTU/hr": 17060.0,
+    "pcm": 450.0,
+    "Hausse_temperature_C": 19.0,
+    "Hausse_temperature_F": 34.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV05038AM",
+    "kW": 5.0,
+    "Volts": 208,
+    "Phase": 3,
+    "Prix": 3554.00,
+    "BTU/hr": 17060.0,
+    "pcm": 450.0,
+    "Hausse_temperature_C": 19.0,
+    "Hausse_temperature_F": 34.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV07538AM",
+    "kW": 7.5,
+    "Volts": 208,
+    "Phase": 3,
+    "Prix": 3624.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV10038AM",
+    "kW": 10.0,
+    "Volts": 208,
+    "Phase": 3,
+    "Prix": 3700.00,
+    "BTU/hr": 34120.0,
+    "pcm": 750.0,
+    "Hausse_temperature_C": 23.0,
+    "Hausse_temperature_F": 42.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV15038AM",
+    "kW": 15.0,
+    "Volts": 208,
+    "Phase": 3,
+    "Prix": 5824.00,
+    "BTU/hr": 51180.0,
+    "pcm": 1200.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV20038AM",
+    "kW": 20.0,
+    "Volts": 208,
+    "Phase": 3,
+    "Prix": 6045.00,
+    "BTU/hr": 68240.0,
+    "pcm": 1600.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV25038AM",
+    "kW": 25.0,
+    "Volts": 208,
+    "Phase": 3,
+    "Prix": 6323.00,
+    "BTU/hr": 85300.0,
+    "pcm": 2000.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV30038AM",
+    "kW": 30.0,
+    "Volts": 208,
+    "Phase": 3,
+    "Prix": 6522.00,
+    "BTU/hr": 102360.0,
+    "pcm": 2300.0,
+    "Hausse_temperature_C": 23.0,
+    "Hausse_temperature_F": 41.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV05000AM",
+    "kW": 5.0,
+    "Volts": 240,
+    "Phase": 1,
+    "Prix": 3554.00,
+    "BTU/hr": 17060.0,
+    "pcm": 450.0,
+    "Hausse_temperature_C": 19.0,
+    "Hausse_temperature_F": 34.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV07500AM",
+    "kW": 7.5,
+    "Volts": 240,
+    "Phase": 1,
+    "Prix": 3624.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV10000AM",
+    "kW": 10.0,
+    "Volts": 240,
+    "Phase": 1,
+    "Prix": 3700.00,
+    "BTU/hr": 34120.0,
+    "pcm": 750.0,
+    "Hausse_temperature_C": 23.0,
+    "Hausse_temperature_F": 42.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV15000AM",
+    "kW": 15.0,
+    "Volts": 240,
+    "Phase": 1,
+    "Prix": 5824.00,
+    "BTU/hr": 51180.0,
+    "pcm": 1200.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV20000AM",
+    "kW": 20.0,
+    "Volts": 240,
+    "Phase": 1,
+    "Prix": 6045.00,
+    "BTU/hr": 68240.0,
+    "pcm": 1600.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV25000AM",
+    "kW": 25.0,
+    "Volts": 240,
+    "Phase": 1,
+    "Prix": 6323.00,
+    "BTU/hr": 85300.0,
+    "pcm": 2000.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV30000AM",
+    "kW": 30.0,
+    "Volts": 240,
+    "Phase": 1,
+    "Prix": 6522.00,
+    "BTU/hr": 102360.0,
+    "pcm": 2300.0,
+    "Hausse_temperature_C": 23.0,
+    "Hausse_temperature_F": 41.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV05007AM",
+    "kW": 5.0,
+    "Volts": 347,
+    "Phase": 1,
+    "Prix": 3669.00,
+    "BTU/hr": 17060.0,
+    "pcm": 450.0,
+    "Hausse_temperature_C": 19.0,
+    "Hausse_temperature_F": 34.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV07507AM",
+    "kW": 7.5,
+    "Volts": 347,
+    "Phase": 1,
+    "Prix": 3719.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV10007AM",
+    "kW": 10.0,
+    "Volts": 347,
+    "Phase": 1,
+    "Prix": 3788.00,
+    "BTU/hr": 34120.0,
+    "pcm": 750.0,
+    "Hausse_temperature_C": 23.0,
+    "Hausse_temperature_F": 42.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV25034AM",
+    "kW": 25.0,
+    "Volts": 480,
+    "Phase": 3,
+    "Prix": 6575.00,
+    "BTU/hr": 85300.0,
+    "pcm": 2000.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV30034AM",
+    "kW": 30.0,
+    "Volts": 480,
+    "Phase": 3,
+    "Prix": 6700.00,
+    "BTU/hr": 102360.0,
+    "pcm": 2300.0,
+    "Hausse_temperature_C": 23.0,
+    "Hausse_temperature_F": 41.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV05006AM",
+    "kW": 5.0,
+    "Volts": 600,
+    "Phase": 1,
+    "Prix": 3669.00,
+    "BTU/hr": 17060.0,
+    "pcm": 450.0,
+    "Hausse_temperature_C": 19.0,
+    "Hausse_temperature_F": 34.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV05036AM",
+    "kW": 5.0,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 3669.00,
+    "BTU/hr": 17060.0,
+    "pcm": 450.0,
+    "Hausse_temperature_C": 19.0,
+    "Hausse_temperature_F": 34.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV07536AM",
+    "kW": 7.5,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 3719.00,
+    "BTU/hr": 25590.0,
+    "pcm": 600.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV10036AM",
+    "kW": 10.0,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 3788.00,
+    "BTU/hr": 34120.0,
+    "pcm": 750.0,
+    "Hausse_temperature_C": 23.0,
+    "Hausse_temperature_F": 42.0,
+    "Moteur_HP": 45682.0,
+    "Moteur_rpm": 1050.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OAV15036AM",
+    "kW": 15.0,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 6223.00,
+    "BTU/hr": 51180.0,
+    "pcm": 1200.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV20036AM",
+    "kW": 20.0,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 6448.00,
+    "BTU/hr": 68240.0,
+    "pcm": 1600.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV25036AM",
+    "kW": 25.0,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 6575.00,
+    "BTU/hr": 85300.0,
+    "pcm": 2000.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV30036AM",
+    "kW": 30.0,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 6700.00,
+    "BTU/hr": 102360.0,
+    "pcm": 2300.0,
+    "Hausse_temperature_C": 23.0,
+    "Hausse_temperature_F": 41.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1075.0,
+    "Poids_lb": 100.0,
+    "Poids_kg": 48.0
+  },
+  {
+    "#Produit": "OAV40036AM",
+    "kW": 40.0,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 8792.00,
+    "BTU/hr": 136480.0,
+    "pcm": 4800.0,
+    "Hausse_temperature_C": 15.0,
+    "Hausse_temperature_F": 26.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1140.0,
+    "Poids_lb": 215.0,
+    "Poids_kg": 98.0
+  },
+  {
+    "#Produit": "OAV50036AM",
+    "kW": 50.0,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 9853.00,
+    "BTU/hr": 170600.0,
+    "pcm": 4800.0,
+    "Hausse_temperature_C": 18.0,
+    "Hausse_temperature_F": 33.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1140.0,
+    "Poids_lb": 215.0,
+    "Poids_kg": 98.0
+  },
+  {
+    "#Produit": "OAV60036AM",
+    "kW": 60.0,
+    "Volts": 600,
+    "Phase": 3,
+    "Prix": 10840.00,
+    "BTU/hr": 204720.0,
+    "pcm": 4800.0,
+    "Hausse_temperature_C": 22.0,
+    "Hausse_temperature_F": 40.0,
+    "Moteur_HP": 45663.0,
+    "Moteur_rpm": 1140.0,
+    "Poids_lb": 215.0,
+    "Poids_kg": 98.0
+  }
+]
+```
+
+-------
+
+## Tableau OAV - Aérotherme vertical (Options)
+
+```json
+[
+  {
+    "#Produit_Installée": "120.0",
+    "#Produit_Trousse": "-",
+    "Prix": 205.00,
+    "Description": "Circuit de commande à 120V"
+  },
+  {
+    "#Produit_Installée": "3P",
+    "#Produit_Trousse": "-",
+    "Prix": 93.00,
+    "Description": "Contacteur 3 pôles"
+  },
+  {
+    "#Produit_Installée": "-",
+    "#Produit_Trousse": "KIT-OAV-CJ-1AM",
+    "Prix": 110.00,
+    "Description": "Cône jet, unités de 5 à 10kW"
+  },
+  {
+    "#Produit_Installée": "-",
+    "#Produit_Trousse": "KIT-OAV-CJ-2AM",
+    "Prix": 129.00,
+    "Description": "Cône jet, unités de 15 à 30kW"
+  },
+  {
+    "#Produit_Installée": "-",
+    "#Produit_Trousse": "KIT-OAV-CJ-3AM",
+    "Prix": 152.00,
+    "Description": "Cône jet, unités de 40 à 60kW"
+  },
+  {
+    "#Produit_Installée": "-",
+    "#Produit_Trousse": "KIT-OAV-CS-1AM",
+    "Prix": 129.00,
+    "Description": "Cône simple, unités de 5 à 10kW"
+  },
+  {
+    "#Produit_Installée": "-",
+    "#Produit_Trousse": "KIT-OAV-CS-2AM",
+    "Prix": 152.00,
+    "Description": "Cône simple, unités de 15 à 30kW"
+  },
+  {
+    "#Produit_Installée": "-",
+    "#Produit_Trousse": "KIT-OAV-CS-3AM",
+    "Prix": 171.00,
+    "Description": "Cône simple, unités de 40 à 60kW"
+  },
+  {
+    "#Produit_Installée": "-",
+    "#Produit_Trousse": "KIT-OAV-CT-1AM",
+    "Prix": 216.00,
+    "Description": "Cône triple, unités de 5 à 10kW"
+  },
+  {
+    "#Produit_Installée": "-",
+    "#Produit_Trousse": "KIT-OAV-CT-2AM",
+    "Prix": 432.00,
+    "Description": "Cône triple, unités de 15 à 30kW"
+  },
+  {
+    "#Produit_Installée": "-",
+    "#Produit_Trousse": "KIT-OAV-CT-3AM",
+    "Prix": 648.00,
+    "Description": "Cône triple, unités de 40 à 60kW"
+  },
+  {
+    "#Produit_Installée": "DIS40",
+    "#Produit_Trousse": "-",
+    "Prix": 221.00,
+    "Description": "Interrupteur principal, tripolaire, 40A à 600V"
+  },
+  {
+    "#Produit_Installée": "DIS80",
+    "#Produit_Trousse": "-",
+    "Prix": 270.00,
+    "Description": "Interrupteur principal, tripolaire, 80A à 600V"
+  },
+  {
+    "#Produit_Installée": "DIS100",
+    "#Produit_Trousse": "-",
+    "Prix": 840.00,
+    "Description": "Interrupteur principal, tripolaire, 100A à 600V"
+  },
+  {
+    "#Produit_Installée": "R",
+    "#Produit_Trousse": "KIT-OAV-R",
+    "Prix": 193.00,
+    "Description": "Relais 24V, sans transformateur"
+  },
+  {
+    "#Produit_Installée": "RT",
+    "#Produit_Trousse": "KIT-OAV-RT",
+    "Prix": 214.00,
+    "Description": "Relais 24V, avec transformateur"
+  }
+]
+```

@@ -1,0 +1,513 @@
+# OTP-P Thermopompe simple zone Pacific sans conduit de ventilation
+
+## Caractéristiques
+
+### Mode de fonctionnement
+• Climatisation, chauffage, déshumidification, ventilation et auto
+
+### Capacité nominale
+• 9000, 12000, 18000, 24000 BTU/hr.
+
+### Tension
+• 230/208V, 60 Hz, 1 phase.
+
+### Unité intérieure
+• Installation en haut de mur, pouvant être raccordée de chaque côté.
+• Boîtier en plastique, standard blanc.
+• Ventilateur à courant transversal à 7 vitesses (auto, turbo, élevée, moyenne-élevée, moyenne, faible et très faible).
+• Filtres lavables.
+
+### Unité extérieure
+• Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.
+• Vanne d'expansion électronique pour un contrôle précis du débit de réfrigérant.
+• Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.
+• Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.
+• Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.
+• Couverture et technologie de préchauffage du compresseur.
+• Installation sur support mural ou au sol en aluminium en option.
+
+-------
+
+### Tuyauterie de raccordement
+• Longueur minimale de la tuyauterie de 10 pi (3 m).
+• Raccords évasés.
+
+### Régulation
+• Télécommande sans fil incluse.
+• Contrôleur mural en option.
+• Wi-Fi en option.
+• Interface (options HP6000ZB-GE et GT130 requises).
+• Température de consigne : 16 à 30 °C (61 à 86 °F).
+• Format d'affichage de la température : °C ou °F.
+
+### Garantie
+• Garantie de base 10 ans pièces et 10 ans compresseur (main-d'œuvre non incluse).
+• Garantie main-d'œuvre (vendue séparément) de la 1ère à la 10e année, couvre pièces et main-d'œuvre avec remplacement du système si défaillance du compresseur.
+
+### Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant.
+
+-------
+
+## Tableau OTP-P - Thermopompe simple zone Pacific sans conduit de ventilation
+
+```json
+[
+  {
+    "#Produit": "PUD09KCH25S",
+    "Modèle intérieur": "PUD09KCH25S-I",
+    "Modèle extérieur": "PUD09KCH25S-O",
+    "Tension": "230/208V",
+    "Capacité en climatisation": {
+      "Nominale": "9100 BTU/hr (2667W)",
+      "Min-Max": "1535-10748 BTU/hr (450-3150W)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "10500 BTU/hr (3077W)",
+      "Min-Max": "3412-14671 BTU/hr (1000-4300W)"
+    },
+    "Puissance consommée": {
+      "Climatisation nominale": "619W",
+      "Climatisation Min-Max": "130-1013W",
+      "Chauffage nominale": "848W",
+      "Chauffage Min-Max": "228-1343W",
+      "Nominale": "1343W"
+    },
+    "Courant nominal": "4.73A",
+    "MCA": "10.0A",
+    "Disjoncteur/fusible max": "15.0A",
+    "SEER2 (SEER)": "25.5 (25.5)",
+    "HSPF2 (HSPF)": "10.2 (12)",
+    "TRÉ (EER)": "4.31",
+    "COP": "3.90",
+    "Numéro AHRI": "210534142.0",
+    "ENERGY STAR": "✓",
+    "Unité intérieure": {
+      "Déshumidification": "1.69 pt/hr (0.80 l/hr)",
+      "Débit d'air volumique": "353/323/294/264/235/176/158 pcm",
+      "Niveau sonore": "50/47/45/42/39/36/35 dB(A)",
+      "Puissance moteur ventilateur": "15.0W",
+      "RLA moteur ventilateur": "0.22A",
+      "Puissance moteur déflecteur": "1.5W",
+      "Poids net": "21 lb (9.5 kg)",
+      "Dimensions": {
+        "L": "34.375 po (848 mm)",
+        "H": "11.5 po (291 mm)",
+        "P": "8.3125 po (211 mm)",
+        "A": "5.875 po (149 mm)",
+        "B": "21.3125 po (542 mm)",
+        "C": "8.03125 po (204 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique": "2200.0 m3/hr",
+      "Niveau sonore": "52.0 dB(A)",
+      "Puissance compresseur": "800.0W",
+      "RLA compresseur": "6.50A",
+      "Puissance moteur ventilateur": "30.0W",
+      "RLA moteur ventilateur": "0.4A",
+      "Volume réfrigérant": "35.28 oz (1000 g)",
+      "Poids": "70.5 lb (32 kg)",
+      "Dimensions": {
+        "L": "31.578125 po (802 mm)",
+        "H": "21.84375 po (555 mm)",
+        "P": "13.78125 po (350 mm)",
+        "A": "20.15625 po (512 mm)",
+        "B": "13.078125 po (332 mm)"
+      }
+    },
+    "Température ambiante": {
+      "Climatisation": "-29 à 50 °C (-20 à 122 °F)",
+      "Chauffage": "-30 à 30 °C (-22 à 86 °F)"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement": "25 pi (7.5 m)",
+      "Volume additionnel réfrigérant": "0.2 oz/pi (20 g/m)",
+      "Diamètre tuyau liquide": "1/4 po",
+      "Diamètre tuyau gaz": "3/8 po",
+      "Différence hauteur max": "40 pi (12.2 m)",
+      "Longueur totale max": "66 pi (20 m)"
+    }
+  },
+  {
+    "#Produit": "PUD12KCH24S",
+    "Modèle intérieur": "PUD12KCH24S-I",
+    "Modèle extérieur": "PUD12KCH24S-O",
+    "Tension": "230/208V",
+    "Capacité en climatisation": {
+      "Nominale": "12000 BTU/hr (3517W)",
+      "Min-Max": "3070-14100 BTU/hr (900-4132W)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "12000 BTU/hr (3517W)",
+      "Min-Max": "3071-15500 BTU/hr (900-4543W)"
+    },
+    "Puissance consommée": {
+      "Climatisation nominale": "961W",
+      "Climatisation Min-Max": "220-1400W",
+      "Chauffage nominale": "923W",
+      "Chauffage Min-Max": "220-1500W",
+      "Nominale": "1500W"
+    },
+    "Courant nominal": "6.30A",
+    "MCA": "10.0A",
+    "Disjoncteur/fusible max": "15.0A",
+    "SEER2 (SEER)": "24 (24)",
+    "HSPF2 (HSPF)": "9 (11)",
+    "TRÉ (EER)": "3.66",
+    "COP": "3.81",
+    "Numéro AHRI": "210534143.0",
+    "ENERGY STAR": "✓",
+    "Unité intérieure": {
+      "Déshumidification": "2.96 pt/hr (1.4 l/hr)",
+      "Débit d'air volumique": "400/364/329/288/264/247/229 pcm",
+      "Niveau sonore": "53/48/46/44/42/40/37 dB(A)",
+      "Puissance moteur ventilateur": "15.0W",
+      "RLA moteur ventilateur": "0.20A",
+      "Puissance moteur déflecteur": "1.5W",
+      "Poids net": "21 lb (9.5 kg)",
+      "Dimensions": {
+        "L": "34.375 po (848 mm)",
+        "H": "11.5 po (291 mm)",
+        "P": "8.3125 po (211 mm)",
+        "A": "5.875 po (149 mm)",
+        "B": "21.3125 po (542 mm)",
+        "C": "8.03125 po (204 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique": "2200.0 m3/hr",
+      "Niveau sonore": "52.0 dB(A)",
+      "Puissance compresseur": "784.0W",
+      "RLA compresseur": "6.80A",
+      "Puissance moteur ventilateur": "30.0W",
+      "RLA moteur ventilateur": "0.4A",
+      "Volume réfrigérant": "42.33 oz (1200 g)",
+      "Poids": "70.5 lb (32 kg)",
+      "Dimensions": {
+        "L": "31.578125 po (802 mm)",
+        "H": "21.84375 po (555 mm)",
+        "P": "13.78125 po (350 mm)",
+        "A": "20.15625 po (512 mm)",
+        "B": "13.078125 po (332 mm)"
+      }
+    },
+    "Température ambiante": {
+      "Climatisation": "-29 à 50 °C (-20 à 122 °F)",
+      "Chauffage": "-30 à 30 °C (-22 à 86 °F)"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement": "25 pi (7.5 m)",
+      "Volume additionnel réfrigérant": "0.2 oz/pi (20 g/m)",
+      "Diamètre tuyau liquide": "1/4 po",
+      "Diamètre tuyau gaz": "1/2 po",
+      "Différence hauteur max": "40 pi (12.2 m)",
+      "Longueur totale max": "66 pi (20 m)"
+    }
+  },
+  {
+    "#Produit": "PUD18KCH23S",
+    "Modèle intérieur": "PUD18KCH23S-I",
+    "Modèle extérieur": "PUD18KCH23S-O",
+    "Tension": "230/208V",
+    "Capacité en climatisation": {
+      "Nominale": "18000 BTU/hr (5275W)",
+      "Min-Max": "5118-21154 BTU/hr (1500-6200W)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "18000 BTU/hr (5275W)",
+      "Min-Max": "5118-21154 BTU/hr (1500-6200W)"
+    },
+    "Puissance consommée": {
+      "Climatisation nominale": "1384W",
+      "Climatisation Min-Max": "130-2300W",
+      "Chauffage nominale": "1384W",
+      "Chauffage Min-Max": "250-2350W",
+      "Nominale": "2350W"
+    },
+    "Courant nominal": "11.50A",
+    "MCA": "14.0A",
+    "Disjoncteur/fusible max": "20.0A",
+    "SEER2 (SEER)": "23.5 (23)",
+    "HSPF2 (HSPF)": "9 (11)",
+    "TRÉ (EER)": "3.81",
+    "COP": "3.81",
+    "Numéro AHRI": "211619266.0",
+    "ENERGY STAR": "✓",
+    "Unité intérieure": {
+      "Déshumidification": "3.80 pt/hr (1.8 l/hr)",
+      "Débit d'air volumique": "589/500/441/412/383/353/324 pcm",
+      "Niveau sonore": "59/53/51/50/47/43/39 dB(A)",
+      "Puissance moteur ventilateur": "45.0W",
+      "RLA moteur ventilateur": "0.35A",
+      "Puissance moteur déflecteur": "1.5W",
+      "Poids net": "29 lb (13.5 kg)",
+      "Dimensions": {
+        "L": "39.1875 po (995 mm)",
+        "H": "12.25 po (311 mm)",
+        "P": "8.6875 po (221 mm)",
+        "A": "8.5 po (203 mm)",
+        "B": "27.0 po (686 mm)",
+        "C": "9.25 po (235 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique": "3600.0 m3/hr",
+      "Niveau sonore": "59.0 dB(A)",
+      "Puissance compresseur": "1196.0W",
+      "RLA compresseur": "9.25A",
+      "Puissance moteur ventilateur": "60.0W",
+      "RLA moteur ventilateur": "0.9A",
+      "Volume réfrigérant": "54.70 oz (1550 g)",
+      "Poids": "98 lb (44.5 kg)",
+      "Dimensions": {
+        "L": "37.71875 po (958 mm)",
+        "H": "26.0 po (660 mm)",
+        "P": "15.828125 po (402 mm)",
+        "A": "24.0 po (610 mm)",
+        "B": "15.5625 po (395 mm)"
+      }
+    },
+    "Température ambiante": {
+      "Climatisation": "-29 à 50 °C (-20 à 122 °F)",
+      "Chauffage": "-30 à 30 °C (-22 à 86 °F)"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement": "25 pi (7.5 m)",
+      "Volume additionnel réfrigérant": "0.5 oz/pi (50 g/m)",
+      "Diamètre tuyau liquide": "1/4 po",
+      "Diamètre tuyau gaz": "5/8 po",
+      "Différence hauteur max": "66 pi (20 m)",
+      "Longueur totale max": "82 pi (25 m)"
+    }
+  },
+  {
+    "#Produit": "PUD24KCH24S",
+    "Modèle intérieur": "PUD24KCH24S-I",
+    "Modèle extérieur": "PUD24KCH24S-O",
+    "Tension": "230/208V",
+    "Capacité en climatisation": {
+      "Nominale": "22000 BTU/hr (6450W)",
+      "Min-Max": "8870-28000 BTU/hr (2600-8200W)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "24000 BTU/hr (7040W)",
+      "Min-Max": "7200-30708 BTU/hr (2100-9000W)"
+    },
+    "Puissance consommée": {
+      "Climatisation nominale": "1679W",
+      "Climatisation Min-Max": "290-2600W",
+      "Chauffage nominale": "1870W",
+      "Chauffage Min-Max": "470-3100W",
+      "Nominale": "3100W"
+    },
+    "Courant nominal": "15.30A",
+    "MCA": "16.0A",
+    "Disjoncteur/fusible max": "25.0A",
+    "SEER2 (SEER)": "24.5 (24)",
+    "HSPF2 (HSPF)": "9.5 (11)",
+    "TRÉ (EER)": "3.85",
+    "COP": "3.79",
+    "Numéro AHRI": "210534144.0",
+    "ENERGY STAR": "✓",
+    "Unité intérieure": {
+      "Déshumidification": "5 pt/hr (2.40 l/hr)",
+      "Débit d'air volumique": "736/588/530/471/441/412/383 pcm",
+      "Niveau sonore": "62/54/52/49/48/46/44 dB(A)",
+      "Puissance moteur ventilateur": "60.0W",
+      "RLA moteur ventilateur": "0.30A",
+      "Puissance moteur déflecteur": "1.5W",
+      "Poids net": "35 lb (16 kg)",
+      "Dimensions": {
+        "L": "43.5 po (1105 mm)",
+        "H": "13.109375 po (333 mm)",
+        "P": "9.6875 po (246 mm)",
+        "A": "8.5 po (203 mm)",
+        "B": "27.0 po (686 mm)",
+        "C": "9.25 po (235 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique": "4500.0 m3/hr",
+      "Niveau sonore": "62.0 dB(A)",
+      "Puissance compresseur": "1350.0W",
+      "RLA compresseur": "11.0A",
+      "Puissance moteur ventilateur": "90.0W",
+      "RLA moteur ventilateur": "0.6A",
+      "Volume réfrigérant": "60 oz (1700 g)",
+      "Poids": "108 lb (49 kg)",
+      "Dimensions": {
+        "L": "39.375 po (1000 mm)",
+        "H": "29.375 po (746 mm)",
+        "P": "16.8125 po (427 mm)",
+        "A": "24.0 po (610 mm)",
+        "B": "15.5625 po (395 mm)"
+      }
+    },
+    "Température ambiante": {
+      "Climatisation": "-29 à 50 °C (-20 à 122 °F)",
+      "Chauffage": "-30 à 30 °C (-22 à 86 °F)"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement": "25 pi (7.5 m)",
+      "Volume additionnel réfrigérant": "0.5 oz/pi (50 g/m)",
+      "Diamètre tuyau liquide": "1/4 po",
+      "Diamètre tuyau gaz": "5/8 po",
+      "Différence hauteur max": "82 pi (25 m)",
+      "Longueur totale max": "131 pi (40 m)"
+    }
+  },
+  {
+    "#Produit": "PUD30KCH20S",
+    "Modèle intérieur": "PUD30KCH20S-I",
+    "Modèle extérieur": "PUD30KCH20S-O",
+    "Tension": "230/208V",
+    "Capacité en climatisation": {
+      "Nominale": "30000 BTU/hr (8800W)",
+      "Min-Max": "7780-35500 BTU/hr (2280-10400W)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "30000 BTU/hr (8800W)",
+      "Min-Max": "9100-36850 BTU/hr (2670-10800W)"
+    },
+    "Puissance consommée": {
+      "Climatisation nominale": "2667W",
+      "Climatisation Min-Max": "650-3600W",
+      "Chauffage nominale": "2588W",
+      "Chauffage Min-Max": "650-3900W",
+      "Nominale": "3900W"
+    },
+    "Courant nominal": "19.0A",
+    "MCA": "20.0A",
+    "Disjoncteur/fusible max": "30.0A",
+    "SEER2 (SEER)": "20 (19)",
+    "HSPF2 (HSPF)": "8.5 (10)",
+    "TRÉ (EER)": "3.30",
+    "COP": "3.40",
+    "Numéro AHRI": "211709659.0",
+    "ENERGY STAR": "-",
+    "Unité intérieure": {
+      "Déshumidification": "7.4 pt/hr (3.50 l/hr)",
+      "Débit d'air volumique": "912/736/706/647/588/530/471 pcm",
+      "Niveau sonore": "66/60/57/55/52/50/47 dB(A)",
+      "Puissance moteur ventilateur": "70.0W",
+      "RLA moteur ventilateur": "0.6A",
+      "Puissance moteur déflecteur": "1.5W",
+      "Poids net": "44 lb (24.5 kg)",
+      "Dimensions": {
+        "L": "53.15625 po (1350 mm)",
+        "H": "12.8125 po (326 mm)",
+        "P": "9.9375 po (253 mm)",
+        "A": "13.75 po (350 mm)",
+        "B": "29.375 po (746 mm)",
+        "C": "10.0 po (254 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique": "4500.0 m3/hr",
+      "Niveau sonore": "72.0 dB(A)",
+      "Puissance compresseur": "2020.0W",
+      "RLA compresseur": "14.2A",
+      "Puissance moteur ventilateur": "90.0W",
+      "RLA moteur ventilateur": "0.90A",
+      "Volume réfrigérant": "74.1 oz (2100 g)",
+      "Poids": "113.6 lb (56.5 kg)",
+      "Dimensions": {
+        "L": "39.375 po (1000 mm)",
+        "H": "29.375 po (746 mm)",
+        "P": "16.8125 po (427 mm)",
+        "A": "24.0 po (610 mm)",
+        "B": "15.5625 po (395 mm)"
+      }
+    },
+    "Température ambiante": {
+      "Climatisation": "-29 à 50 °C (-20 à 122 °F)",
+      "Chauffage": "-30 à 30 °C (-22 à 86 °F)"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement": "25 pi (7.5 m)",
+      "Volume additionnel réfrigérant": "0.5 oz/pi (50 g/m)",
+      "Diamètre tuyau liquide": "1/4 po",
+      "Diamètre tuyau gaz": "5/8 po",
+      "Différence hauteur max": "82 pi (25 m)",
+      "Longueur totale max": "82 pi (25 m)"
+    }
+  },
+  {
+    "#Produit": "PUD36KCH20S",
+    "Modèle intérieur": "PUD36KCH20S-I",
+    "Modèle extérieur": "PUD36KCH20S-O",
+    "Tension": "230/208V",
+    "Capacité en climatisation": {
+      "Nominale": "33600 BTU/hr (9850W)",
+      "Min-Max": "7500-37200 BTU/hr (2200-10900W)"
+    },
+    "Capacité en chauffage": {
+      "Nominale": "34600 BTU/hr (10140W)",
+      "Min-Max": "10200-38500 BTU/hr (3000-11300W)"
+    },
+    "Puissance consommée": {
+      "Climatisation nominale": "3200W",
+      "Climatisation Min-Max": "670-4000W",
+      "Chauffage nominale": "3200W",
+      "Chauffage Min-Max": "600-3950W",
+      "Nominale": "4000W"
+    },
+    "Courant nominal": "20.0A",
+    "MCA": "23.0A",
+    "Disjoncteur/fusible max": "35.0A",
+    "SEER2 (SEER)": "20 (20)",
+    "HSPF2 (HSPF)": "8.5 (9)",
+    "TRÉ (EER)": "3.08",
+    "COP": "3.17",
+    "Numéro AHRI": "211709660.0",
+    "ENERGY STAR": "-",
+    "Unité intérieure": {
+      "Déshumidification": "7.4 pt/hr (3.50 l/hr)",
+      "Débit d'air volumique": "912/736/706/647/588/530/471 pcm",
+      "Niveau sonore": "66/60/57/55/52/50/47 dB(A)",
+      "Puissance moteur ventilateur": "70.0W",
+      "RLA moteur ventilateur": "0.75A",
+      "Puissance moteur déflecteur": "1.5W",
+      "Poids net": "44 lb (24.5 kg)",
+      "Dimensions": {
+        "L": "53.15625 po (1350 mm)",
+        "H": "12.8125 po (326 mm)",
+        "P": "9.9375 po (253 mm)",
+        "A": "13.75 po (350 mm)",
+        "B": "29.375 po (746 mm)",
+        "C": "10.0 po (254 mm)"
+      }
+    },
+    "Unité extérieure": {
+      "Débit d'air volumique": "4500.0 m3/hr",
+      "Niveau sonore": "72.0 dB(A)",
+      "Puissance compresseur": "2294.0W",
+      "RLA compresseur": "16.0A",
+      "Puissance moteur ventilateur": "90.0W",
+      "RLA moteur ventilateur": "1.50A",
+      "Volume réfrigérant": "84.7 oz (2400 g)",
+      "Poids": "127.9 lb (58 kg)",
+      "Dimensions": {
+        "L": "39.375 po (1000 mm)",
+        "H": "29.375 po (746 mm)",
+        "P": "16.8125 po (427 mm)",
+        "A": "24.0 po (610 mm)",
+        "B": "15.5625 po (395 mm)"
+      }
+    },
+    "Température ambiante": {
+      "Climatisation": "-29 à 50 °C (-20 à 122 °F)",
+      "Chauffage": "-30 à 30 °C (-22 à 86 °F)"
+    },
+    "Tuyauterie": {
+      "Longueur préchargement": "25 pi (7.5 m)",
+      "Volume additionnel réfrigérant": "0.5 oz/pi (50 g/m)",
+      "Diamètre tuyau liquide": "1/4 po",
+      "Diamètre tuyau gaz": "5/8 po",
+      "Différence hauteur max": "82 pi (25 m)",
+      "Longueur totale max": "82 pi (25 m)"
+    }
+  }
+]
+```

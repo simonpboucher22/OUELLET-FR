@@ -1,0 +1,201 @@
+# OCF Chauffe-terrasse infrarouge
+
+## Caractéristiques
+
+### Finition
+• Aluminium anodisé noir.
+
+### Tension
+• 120V, 240/208V, 60 Hz, 1 phase.
+
+### Construction
+• Construction certifiée IP65 pour utilisation extérieure.
+• Boîtier en extrusion d'aluminium de 2 mm d'épaisseur.
+• Réflecteur optique en aluminium de haute qualité.
+• Cordon d'alimentation de haute qualité :
+  - Modèle 120V : 7.5 pi (2.25 m) avec fiche NEMA 5-15P.
+  - Modèles 240/208V : 6 pi (1.8 m) avec raccordement fixe.
+
+### Élément
+• Filament en fibre de carbone dans un tubulaire de 15 mm au Quartz.
+• Longévité de l'élément ± 5000h.
+
+### Longueur d'onde
+• Onde moyenne (2 µm).
+
+### Régulation
+• Modèles 1500W et 3000W : Régulateur intégré On/Off et télécommande à 6 réglages de chaleur.
+• Modèles 4000W et 6000W : Deux niveaux de chauffage, 50% et 100%. L'appareil peut être câblé pour contourner la télécommande si nécessaire.
+
+-------
+
+### Certification
+• Conforme aux normes UL2021:2015 Ed.4 et C22.2 No.46 : 2013 Ed.9.
+
+### Installation
+• Installation horizontale seulement.
+• Supports de fixation mural pivotant inclus (modèles 120V et 240/208V).
+• Supports de fixation pour suspension au plafond inclus (modèles 240/208V).
+• Distances minimales d'installation :
+  - Modèle 1500W : 6 pi 7po (2.0 m) du plancher.
+  - Modèles 3000W, 4000W et 6000W : 8 pi (2.4 m) du plancher.
+  - Tous les modèles : 12 po (30 cm) du plafond, 18 po (45 cm) du bout de l'appareil au mur et 24 po (61cm) du côté long de l'appareil au mur.
+• Modèle 120V : Installation au mur seulement. Se branche dans une prise à 3 bornes avec mise à la terre de 15A, 120VAC.
+• Modèles 240/208V : Installation au mur et au plafond. Raccordement fixe dans une boîte de jonction électrique (non incluse).
+
+### Garantie
+• 1 an contre tous vices.
+• 90 jours sur l'élément (pour les applications industrielles seulement).
+
+### Application
+• Chauffage d'appoint temporaire, atelier, garage, solarium, piscine et spa, balcon, terrasse, bar, restaurant, hôtel, église
+
+-------
+
+## Tableau OCF - Chauffe-terrasse infrarouge
+
+```json
+[
+  {
+    "#Produit": "CF15120B",
+    "Watts": 1500.0,
+    "Volts": 120.0,
+    "Prix": 495.00,
+    "Prise": "15A, 120VAC",
+    "Dimensions": {
+      "Longueur": {"po": 27.0, "mm": 685.8},
+      "Hauteur": {"po": 6.5, "mm": 165.0},
+      "Profondeur": {"po": 6.3125, "mm": 161.0}
+    },
+    "Poids": {"lb": 10.0, "kg": 4.5}
+  },
+  {
+    "#Produit": "CF30240B2",
+    "Watts": "3000/2250",
+    "Volts": "240/208",
+    "Prix": 636.00,
+    "Prise": "-",
+    "Dimensions": {
+      "Longueur": {"po": 38.0, "mm": 965.2},
+      "Hauteur": {"po": 6.5, "mm": 165.0},
+      "Profondeur": {"po": 6.3125, "mm": 161.0}
+    },
+    "Poids": {"lb": 14.3, "kg": 6.4}
+  },
+  {
+    "#Produit": "CF40240B2",
+    "Watts": "4000/3000",
+    "Volts": "240/208",
+    "Prix": 914.00,
+    "Prise": "-",
+    "Dimensions": {
+      "Longueur": {"po": 42.0, "mm": 1066.8},
+      "Hauteur": {"po": 9.0, "mm": 228.6},
+      "Profondeur": {"po": 9.0, "mm": 228.6}
+    },
+    "Poids": {"lb": 40.0, "kg": 18.2}
+  },
+  {
+    "#Produit": "CF60240B2",
+    "Watts": "6000/4500",
+    "Volts": "240/208",
+    "Prix": 1001.00,
+    "Prise": "-",
+    "Dimensions": {
+      "Longueur": {"po": 42.0, "mm": 1066.8},
+      "Hauteur": {"po": 9.0, "mm": 228.6},
+      "Profondeur": {"po": 9.0, "mm": 228.6}
+    },
+    "Poids": {"lb": 40.0, "kg": 18.2}
+  }
+]
+```
+
+-------
+
+## Tableau OCF - Aire de chauffage
+
+```json
+[
+  {
+    "Type": "Installation au mur",
+    "Modèles": [
+      {
+        "Watts": "1500W",
+        "Hauteur": {"pi": "8'", "m": 2.44},
+        "Dimensions": {
+          "A": {"pi": 8.0, "m": 2.44},
+          "B": {"pi": 8.0, "m": 2.44},
+          "C": {"pi": 9.0, "m": 2.74}
+        },
+        "Aire_de_chauffage": {"pi2": 72.0, "m2": 6.7}
+      },
+      {
+        "Watts": "3000W",
+        "Hauteur": {"pi": "8'", "m": 2.44},
+        "Dimensions": {
+          "A": {"pi": 11.0, "m": 3.35},
+          "B": {"pi": 10.0, "m": 3.05},
+          "C": {"pi": 12.0, "m": 3.66}
+        },
+        "Aire_de_chauffage": {"pi2": 120.0, "m2": 11.2}
+      },
+      {
+        "Watts": "4000W",
+        "Hauteur": {"pi": "8' 2\"", "m": 2.49},
+        "Dimensions": {
+          "A": {"pi": 11.0, "m": 3.35},
+          "B": {"pi": 10.0, "m": 3.05},
+          "C": {"pi": 12.0, "m": 3.66}
+        },
+        "Aire_de_chauffage": {"pi2": 140.0, "m2": 13.0}
+      },
+      {
+        "Watts": "6000W",
+        "Hauteur": {"pi": "10'", "m": 3.05},
+        "Dimensions": {
+          "A": {"pi": 12.0, "m": 3.66},
+          "B": {"pi": 10.0, "m": 3.05},
+          "C": {"pi": 12.0, "m": 3.66}
+        },
+        "Aire_de_chauffage": {"pi2": 150.0, "m2": 13.9}
+      }
+    ]
+  },
+  {
+    "Type": "Installation au plafond",
+    "Modèles": [
+      {
+        "Watts": "3000W",
+        "Hauteur": {"pi": "8'", "m": 2.44},
+        "Dimensions": {
+          "A": {"pi": 11.0, "m": 3.35},
+          "B": {"pi": 11.0, "m": 3.35},
+          "C": {"pi": 11.0, "m": 3.35}
+        },
+        "Aire_de_chauffage": {"pi2": 120.0, "m2": 11.2}
+      },
+      {
+        "Watts": "4000W",
+        "Hauteur": {"pi": "8'", "m": 2.44},
+        "Dimensions": {
+          "A": {"pi": 11.0, "m": 3.35},
+          "B": {"pi": 12.0, "m": 3.66},
+          "C": {"pi": 12.0, "m": 3.66}
+        },
+        "Aire_de_chauffage": {"pi2": 140.0, "m2": 13.0}
+      },
+      {
+        "Watts": "6000W",
+        "Hauteur": {"pi": "8'", "m": 2.44},
+        "Dimensions": {
+          "A": {"pi": 12.0, "m": 3.66},
+          "B": {"pi": 12.0, "m": 3.66},
+          "C": {"pi": 12.0, "m": 3.66}
+        },
+        "Aire_de_chauffage": {"pi2": 150.0, "m2": 13.9}
+      }
+    ]
+  }
+]
+```

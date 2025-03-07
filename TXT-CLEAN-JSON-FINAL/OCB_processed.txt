@@ -1,0 +1,922 @@
+# OCB - Plinthe coupe-brise robuste en aluminium
+
+-------
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+• Optionnelle : aluminium anodisé.
+
+### Tension
+• 120V, 208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.
+
+### Construction
+• Devant en aluminium extrudé de calibre 14 (0.0787 po [2 mm]).
+• Boîtier en acier satiné de calibre 18.
+• Canalisation de câblage intégrée pleine longueur.
+• Canalisation de câblage 24V (-WW) en option.
+• Ouvertures inférieures à 1/4 po (6.4 mm) évitant l'intrusion de petits objets à l'intérieur.
+• Entrée d'air frais par l'avant; sortie d'air chaud par le dessus.
+- Entrée d'air frais par le dessous (-BAI) en option.
+• Finition unie du dos de l'appareil (-BD) en option.
+• Protection thermique linéaire pleine longueur, à réenclenchement automatique.
+• Bouts inclus.
+
+### Élément
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+### Densité
+• Densité moyenne standard de 275W/pi.
+• Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.
+
+### Régulation
+• Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale (installation du côté droit seulement).
+• Relais mécanique, relais électronique ou relais pneumatique en option (installation du côté droit seulement).
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+• L'appareil doit être installé à 3 po (76 mm) au-dessus du plancher (pour l'option -BAI).
+• Trous de montage espacés de 1 po (25.4 mm) afin de faciliter la pose.
+• Installation au plancher ou au mur.
+• Variété d'accessoires pour l'installation en continu en option.
+• Trousse de piédestals en option.
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Édifice commercial, immeuble de bureaux, hôpital, école, résidence privée.
+
+-------
+
+## Tableau OCB - Modèles à densité moyenne standard de 275W/pi
+
+```json
+[
+  {
+    "#Produit": "OCB0502",
+    "Watts": 500.0,
+    "Tension": "120V",
+    "Longueur": "28.0 po (711.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Prix": 597.00
+  },
+  {
+    "#Produit": "OCB0508",
+    "Watts": 500.0,
+    "Tension": "208V",
+    "Longueur": "28.0 po (711.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Prix": 597.00
+  },
+  {
+    "#Produit": "OCB0507",
+    "Watts": 500.0,
+    "Tension": "347V",
+    "Longueur": "28.0 po (711.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Prix": 597.00
+  },
+  {
+    "#Produit": "OCB0500",
+    "Watts": "500/375",
+    "Tension": "240/208V",
+    "Longueur": "28.0 po (711.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Prix": 597.00
+  },
+  {
+    "#Produit": "OCB0752",
+    "Watts": 750.0,
+    "Tension": "120V",
+    "Longueur": "38.0 po (965.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 641.00
+  },
+  {
+    "#Produit": "OCB0758",
+    "Watts": 750.0,
+    "Tension": "208V",
+    "Longueur": "38.0 po (965.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 641.00
+  },
+  {
+    "#Produit": "OCB0757",
+    "Watts": 750.0,
+    "Tension": "347V",
+    "Longueur": "38.0 po (965.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 641.00
+  },
+  {
+    "#Produit": "OCB0756",
+    "Watts": 750.0,
+    "Tension": "600V",
+    "Longueur": "38.0 po (965.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 641.00
+  },
+  {
+    "#Produit": "OCB0750",
+    "Watts": "750/563",
+    "Tension": "240/208V",
+    "Longueur": "38.0 po (965.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 641.00
+  },
+  {
+    "#Produit": "OCB1002",
+    "Watts": 1000.0,
+    "Tension": "120V",
+    "Longueur": "48.1875 po (1224.0 mm)",
+    "Poids": "13.7 lb (6.2 kg)",
+    "Prix": 683.00
+  },
+  {
+    "#Produit": "OCB1008",
+    "Watts": 1000.0,
+    "Tension": "208V",
+    "Longueur": "48.1875 po (1224.0 mm)",
+    "Poids": "13.7 lb (6.2 kg)",
+    "Prix": 683.00
+  },
+  {
+    "#Produit": "OCB1007",
+    "Watts": 1000.0,
+    "Tension": "347V",
+    "Longueur": "48.1875 po (1224.0 mm)",
+    "Poids": "13.7 lb (6.2 kg)",
+    "Prix": 683.00
+  },
+  {
+    "#Produit": "OCB1006",
+    "Watts": 1000.0,
+    "Tension": "600V",
+    "Longueur": "48.1875 po (1224.0 mm)",
+    "Poids": "13.7 lb (6.2 kg)",
+    "Prix": 683.00
+  },
+  {
+    "#Produit": "OCB1000",
+    "Watts": "1000/750",
+    "Tension": "240/208V",
+    "Longueur": "48.1875 po (1224.0 mm)",
+    "Poids": "13.7 lb (6.2 kg)",
+    "Prix": 683.00
+  },
+  {
+    "#Produit": "OCB1252",
+    "Watts": 1250.0,
+    "Tension": "120V",
+    "Longueur": "57.6875 po (1465.0 mm)",
+    "Poids": "16.4 lb (7.5 kg)",
+    "Prix": 735.00
+  },
+  {
+    "#Produit": "OCB1258",
+    "Watts": 1250.0,
+    "Tension": "208V",
+    "Longueur": "57.6875 po (1465.0 mm)",
+    "Poids": "16.4 lb (7.5 kg)",
+    "Prix": 735.00
+  },
+  {
+    "#Produit": "OCB1257",
+    "Watts": 1250.0,
+    "Tension": "347V",
+    "Longueur": "57.6875 po (1465.0 mm)",
+    "Poids": "16.4 lb (7.5 kg)",
+    "Prix": 735.00
+  },
+  {
+    "#Produit": "OCB1256",
+    "Watts": 1250.0,
+    "Tension": "600V",
+    "Longueur": "57.6875 po (1465.0 mm)",
+    "Poids": "16.4 lb (7.5 kg)",
+    "Prix": 735.00
+  },
+  {
+    "#Produit": "OCB1250",
+    "Watts": "1250/938",
+    "Tension": "240/208V",
+    "Longueur": "57.6875 po (1465.0 mm)",
+    "Poids": "16.4 lb (7.5 kg)",
+    "Prix": 735.00
+  },
+  {
+    "#Produit": "OCB1502",
+    "Watts": 1500.0,
+    "Tension": "120V",
+    "Longueur": "66.4375 po (1687.0 mm)",
+    "Poids": "18.8 lb (8.6 kg)",
+    "Prix": 790.00
+  },
+  {
+    "#Produit": "OCB1508",
+    "Watts": 1500.0,
+    "Tension": "208V",
+    "Longueur": "66.4375 po (1687.0 mm)",
+    "Poids": "18.8 lb (8.6 kg)",
+    "Prix": 790.00
+  },
+  {
+    "#Produit": "OCB1507",
+    "Watts": 1500.0,
+    "Tension": "347V",
+    "Longueur": "66.4375 po (1687.0 mm)",
+    "Poids": "18.8 lb (8.6 kg)",
+    "Prix": 790.00
+  },
+  {
+    "#Produit": "OCB1506",
+    "Watts": 1500.0,
+    "Tension": "600V",
+    "Longueur": "66.4375 po (1687.0 mm)",
+    "Poids": "18.8 lb (8.6 kg)",
+    "Prix": 790.00
+  },
+  {
+    "#Produit": "OCB1500",
+    "Watts": "1500/1125",
+    "Tension": "240/208V",
+    "Longueur": "66.4375 po (1687.0 mm)",
+    "Poids": "18.8 lb (8.6 kg)",
+    "Prix": 790.00
+  },
+  {
+    "#Produit": "OCB1758",
+    "Watts": 1750.0,
+    "Tension": "208V",
+    "Longueur": "75.8125 po (1925.0 mm)",
+    "Poids": "21.5 lb (9.8 kg)",
+    "Prix": 851.00
+  },
+  {
+    "#Produit": "OCB1757",
+    "Watts": 1750.0,
+    "Tension": "347V",
+    "Longueur": "75.8125 po (1925.0 mm)",
+    "Poids": "21.5 lb (9.8 kg)",
+    "Prix": 851.00
+  },
+  {
+    "#Produit": "OCB1756",
+    "Watts": 1750.0,
+    "Tension": "600V",
+    "Longueur": "75.8125 po (1925.0 mm)",
+    "Poids": "21.5 lb (9.8 kg)",
+    "Prix": 851.00
+  },
+  {
+    "#Produit": "OCB1750",
+    "Watts": "1750/1313",
+    "Tension": "240/208V",
+    "Longueur": "75.8125 po (1925.0 mm)",
+    "Poids": "21.5 lb (9.8 kg)",
+    "Prix": 851.00
+  },
+  {
+    "#Produit": "OCB2008",
+    "Watts": 2000.0,
+    "Tension": "208V",
+    "Longueur": "84.5625 po (2148.0 mm)",
+    "Poids": "24.0 lb (10.9 kg)",
+    "Prix": 914.00
+  },
+  {
+    "#Produit": "OCB2007",
+    "Watts": 2000.0,
+    "Tension": "347V",
+    "Longueur": "84.5625 po (2148.0 mm)",
+    "Poids": "24.0 lb (10.9 kg)",
+    "Prix": 914.00
+  },
+  {
+    "#Produit": "OCB2006",
+    "Watts": 2000.0,
+    "Tension": "600V",
+    "Longueur": "84.5625 po (2148.0 mm)",
+    "Poids": "24.0 lb (10.9 kg)",
+    "Prix": 914.00
+  },
+  {
+    "#Produit": "OCB2000",
+    "Watts": "2000/1500",
+    "Tension": "240/208V",
+    "Longueur": "84.5625 po (2148.0 mm)",
+    "Poids": "24.0 lb (10.9 kg)",
+    "Prix": 914.00
+  },
+  {
+    "#Produit": "OCB2258",
+    "Watts": 2250.0,
+    "Tension": "208V",
+    "Longueur": "93.5 po (2375.0 mm)",
+    "Poids": "26.5 lb (12.1 kg)",
+    "Prix": 988.00
+  },
+  {
+    "#Produit": "OCB2257",
+    "Watts": 2250.0,
+    "Tension": "347V",
+    "Longueur": "93.5 po (2375.0 mm)",
+    "Poids": "26.5 lb (12.1 kg)",
+    "Prix": 988.00
+  },
+  {
+    "#Produit": "OCB2256",
+    "Watts": 2250.0,
+    "Tension": "600V",
+    "Longueur": "93.5 po (2375.0 mm)",
+    "Poids": "26.5 lb (12.1 kg)",
+    "Prix": 988.00
+  },
+  {
+    "#Produit": "OCB2250",
+    "Watts": "2250/1688",
+    "Tension": "240/208V",
+    "Longueur": "93.5 po (2375.0 mm)",
+    "Poids": "26.5 lb (12.1 kg)",
+    "Prix": 988.00
+  },
+  {
+    "#Produit": "OCB2508",
+    "Watts": 2500.0,
+    "Tension": "208V",
+    "Longueur": "102.625 po (2606.0 mm)",
+    "Poids": "29.1 lb (13.2 kg)",
+    "Prix": 1046.00
+  },
+  {
+    "#Produit": "OCB2507",
+    "Watts": 2500.0,
+    "Tension": "347V",
+    "Longueur": "102.625 po (2606.0 mm)",
+    "Poids": "29.1 lb (13.2 kg)",
+    "Prix": 1046.00
+  },
+  {
+    "#Produit": "OCB2506",
+    "Watts": 2500.0,
+    "Tension": "600V",
+    "Longueur": "102.625 po (2606.0 mm)",
+    "Poids": "29.1 lb (13.2 kg)",
+    "Prix": 1046.00
+  },
+  {
+    "#Produit": "OCB2500",
+    "Watts": "2500/1875",
+    "Tension": "240/208V",
+    "Longueur": "102.625 po (2606.0 mm)",
+    "Poids": "29.1 lb (13.2 kg)",
+    "Prix": 1046.00
+  }
+]
+```
+
+-------
+
+## Tableau OCB - Modèles à basse densité moyenne
+
+```json
+[
+  {
+    "#Produit": "OCB020X-711",
+    "Prix": 597.00,
+    "Longueur": "28\" (711mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Densité moyenne": "100.0 W/pi",
+    "Watts": 200.0,
+    "Watts 240/208V": "200/150",
+    "Tensions disponibles": ["120V", "208V", "240/208V"]
+  },
+  {
+    "#Produit": "OCB030X-711",
+    "Prix": 597.00,
+    "Longueur": "28\" (711mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Densité moyenne": "150.0 W/pi",
+    "Watts": 300.0,
+    "Watts 240/208V": "300/225",
+    "Tensions disponibles": ["120V", "208V", "240/208V"]
+  },
+  {
+    "#Produit": "OCB040X-711",
+    "Prix": 597.00,
+    "Longueur": "28\" (711mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Densité moyenne": "200.0 W/pi",
+    "Watts": 400.0,
+    "Watts 240/208V": "400/300",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "OCB030X-965",
+    "Prix": 641.00,
+    "Longueur": "38\" (965 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Densité moyenne": "100.0 W/pi",
+    "Watts": 300.0,
+    "Watts 240/208V": "300/225",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "OCB045X-965",
+    "Prix": 641.00,
+    "Longueur": "38\" (965 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Densité moyenne": "150.0 W/pi",
+    "Watts": 450.0,
+    "Watts 240/208V": "450/338",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "OCB060X-965",
+    "Prix": 641.00,
+    "Longueur": "38\" (965 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Densité moyenne": "200.0 W/pi",
+    "Watts": 600.0,
+    "Watts 240/208V": "600/450",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "OCB040X-1224",
+    "Prix": 683.00,
+    "Longueur": "48 3/16\" (1224 mm)",
+    "Poids": "13.7 lb (6.2 kg)",
+    "Densité moyenne": "100.0 W/pi",
+    "Watts": 400.0,
+    "Watts 240/208V": "400/300",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "OCB060X-1224",
+    "Prix": 683.00,
+    "Longueur": "48 3/16\" (1224 mm)",
+    "Poids": "13.7 lb (6.2 kg)",
+    "Densité moyenne": "150.0 W/pi",
+    "Watts": 600.0,
+    "Watts 240/208V": "600/450",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "OCB080X-1224",
+    "Prix": 683.00,
+    "Longueur": "48 3/16\" (1224 mm)",
+    "Poids": "13.7 lb (6.2 kg)",
+    "Densité moyenne": "200.0 W/pi",
+    "Watts": 800.0,
+    "Watts 240/208V": "800/600",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB050X-1465",
+    "Prix": 735.00,
+    "Longueur": "57 11/16\" (1465 mm)",
+    "Poids": "16.4 lb (7.5 kg)",
+    "Densité moyenne": "100.0 W/pi",
+    "Watts": 500.0,
+    "Watts 240/208V": "500/375",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "OCB075X-1465",
+    "Prix": 735.00,
+    "Longueur": "57 11/16\" (1465 mm)",
+    "Poids": "16.4 lb (7.5 kg)",
+    "Densité moyenne": "150.0 W/pi",
+    "Watts": 750.0,
+    "Watts 240/208V": "750/563",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB100X-1465",
+    "Prix": 735.00,
+    "Longueur": "57 11/16\" (1465 mm)",
+    "Poids": "16.4 lb (7.5 kg)",
+    "Densité moyenne": "200.0 W/pi",
+    "Watts": 1000.0,
+    "Watts 240/208V": "1000/750",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB060X-1687",
+    "Prix": 790.00,
+    "Longueur": "66 7/16\" (1687 mm)",
+    "Poids": "18.8 lb (8.6 kg)",
+    "Densité moyenne": "100.0 W/pi",
+    "Watts": 600.0,
+    "Watts 240/208V": "600/450",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB090X-1687",
+    "Prix": 790.00,
+    "Longueur": "66 7/16\" (1687 mm)",
+    "Poids": "18.8 lb (8.6 kg)",
+    "Densité moyenne": "150.0 W/pi",
+    "Watts": 900.0,
+    "Watts 240/208V": "900/675",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB120X-1687",
+    "Prix": 790.00,
+    "Longueur": "66 7/16\" (1687 mm)",
+    "Poids": "18.8 lb (8.6 kg)",
+    "Densité moyenne": "200.0 W/pi",
+    "Watts": 1200.0,
+    "Watts 240/208V": "1200/900",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB070X-1925",
+    "Prix": 851.00,
+    "Longueur": "75 13/16\" (1925 mm)",
+    "Poids": "21.5 lb (9.8 kg)",
+    "Densité moyenne": "100.0 W/pi",
+    "Watts": 700.0,
+    "Watts 240/208V": "700/525",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB105X-1925",
+    "Prix": 851.00,
+    "Longueur": "75 13/16\" (1925 mm)",
+    "Poids": "21.5 lb (9.8 kg)",
+    "Densité moyenne": "150.0 W/pi",
+    "Watts": 1050.0,
+    "Watts 240/208V": "1050/788",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB140X-1925",
+    "Prix": 851.00,
+    "Longueur": "75 13/16\" (1925 mm)",
+    "Poids": "21.5 lb (9.8 kg)",
+    "Densité moyenne": "200.0 W/pi",
+    "Watts": 1400.0,
+    "Watts 240/208V": "1400/1050",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB080X-2148",
+    "Prix": 914.00,
+    "Longueur": "84 9/16\" (2148 mm)",
+    "Poids": "24.0 lb (10.9 kg)",
+    "Densité moyenne": "100.0 W/pi",
+    "Watts": 800.0,
+    "Watts 240/208V": "800/600",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB120X-2148",
+    "Prix": 914.00,
+    "Longueur": "84 9/16\" (2148 mm)",
+    "Poids": "24.0 lb (10.9 kg)",
+    "Densité moyenne": "150.0 W/pi",
+    "Watts": 1200.0,
+    "Watts 240/208V": "1200/900",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB160X-2148",
+    "Prix": 914.00,
+    "Longueur": "84 9/16\" (2148 mm)",
+    "Poids": "24.0 lb (10.9 kg)",
+    "Densité moyenne": "200.0 W/pi",
+    "Watts": 1600.0,
+    "Watts 240/208V": "1600/1200",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB090X-2375",
+    "Prix": 988.00,
+    "Longueur": "93 1/2\" (2375 mm)",
+    "Poids": "26.5 lb (12.1 kg)",
+    "Densité moyenne": "100.0 W/pi",
+    "Watts": 900.0,
+    "Watts 240/208V": "900/675",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB135X-2375",
+    "Prix": 988.00,
+    "Longueur": "93 1/2\" (2375 mm)",
+    "Poids": "26.5 lb (12.1 kg)",
+    "Densité moyenne": "150.0 W/pi",
+    "Watts": 1350.0,
+    "Watts 240/208V": "1350/1013",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB180X-2375",
+    "Prix": 988.00,
+    "Longueur": "93 1/2\" (2375 mm)",
+    "Poids": "26.5 lb (12.1 kg)",
+    "Densité moyenne": "200.0 W/pi",
+    "Watts": 1800.0,
+    "Watts 240/208V": "1800/1350",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB100X-2606",
+    "Prix": 1046.00,
+    "Longueur": "102 5/8\" (2606 mm)",
+    "Poids": "29.1 lb (13.2 kg)",
+    "Densité moyenne": "100.0 W/pi",
+    "Watts": 1000.0,
+    "Watts 240/208V": "1000/750",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB150X-2606",
+    "Prix": 1046.00,
+    "Longueur": "102 5/8\" (2606 mm)",
+    "Poids": "29.1 lb (13.2 kg)",
+    "Densité moyenne": "150.0 W/pi",
+    "Watts": 1500.0,
+    "Watts 240/208V": "1500/1125",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "OCB200X-2606",
+    "Prix": 1046.00,
+    "Longueur": "102 5/8\" (2606 mm)",
+    "Poids": "29.1 lb (13.2 kg)",
+    "Densité moyenne": "200.0 W/pi",
+    "Watts": 2000.0,
+    "Watts 240/208V": "2000/1500",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  }
+]
+```
+
+-------
+
+## Tableau OCB - Options
+
+```json
+[
+  {
+    "#Produit": "BAI",
+    "Type": "Installée en usine",
+    "Prix": "Sans frais",
+    "Description": "Entrée d'air par le dessous"
+  },
+  {
+    "#Produit": "BD1",
+    "Type": "Installée en usine",
+    "Prix": 0.1,
+    "Description": "Finition unie du dos de l'appareil"
+  },
+  {
+    "#Produit": "KIT-OCB-CE",
+    "Type": "En trousse",
+    "Prix": 377.00,
+    "Description": "Coin extérieur, 6 po (152 mm)"
+  },
+  {
+    "#Produit": "KIT-OCB-CI",
+    "Type": "En trousse",
+    "Prix": 377.00,
+    "Description": "Coin intérieur, 6 po (152 mm)"
+  },
+  {
+    "#Produit": "KIT-OCB-JT",
+    "Type": "En trousse",
+    "Prix": 87.00,
+    "Description": "Joint de finition, 1 3/16 po (30 mm)"
+  },
+  {
+    "#Produit": "KIT-OCB-JT-PE",
+    "Type": "En trousse",
+    "Prix": 95.00,
+    "Description": "Joint contour de finition pour option BD et/ou unité avec piédestals, 1 3/16 po (30 mm)"
+  },
+  {
+    "#Produit": "KIT-OCB-PE",
+    "Type": "En trousse",
+    "Prix": 128.00,
+    "Description": "Trousse de piédestals ronds (2), 3 po (76 mm)"
+  },
+  {
+    "#Produit": "KIT-OCB-PEC",
+    "Type": "En trousse",
+    "Prix": 128.00,
+    "Description": "Trousse de piédestals carrés (2), 3 po (76 mm)"
+  },
+  {
+    "#Produit": "OCB-SV-XX",
+    "Type": "En trousse",
+    "Prix": "Sur demande",
+    "Description": "Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2606 mm)"
+  },
+  {
+    "#Produit": "KIT-OCB-DIS203",
+    "Type": "En trousse",
+    "Prix": 172.00,
+    "Description": "Interrupteur principal, 20A à 277V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "DIS203",
+    "Type": "Installée en usine",
+    "Prix": 172.00,
+    "Description": "Interrupteur principal, 20A à 277V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "PM",
+    "Type": "Installée en usine",
+    "Prix": 410.00,
+    "Description": "Relais pneumatique, 20A à 600V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-R-347",
+    "Type": "En trousse",
+    "Prix": 175.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "R",
+    "Type": "Installée en usine",
+    "Prix": 175.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-R-600",
+    "Type": "En trousse",
+    "Prix": 182.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-RT-120",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "RT",
+    "Type": "Installée en usine",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-RT-208",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-RT-240",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-RT-277",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-RT-347",
+    "Type": "En trousse",
+    "Prix": 189.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-RT-6002",
+    "Type": "En trousse",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "RT2",
+    "Type": "Installée en usine",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-T",
+    "Type": "En trousse",
+    "Prix": 137.00,
+    "Description": "Thermostat unipolaire : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "T",
+    "Type": "Installée en usine",
+    "Prix": 137.00,
+    "Description": "Thermostat unipolaire : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-T24",
+    "Type": "En trousse",
+    "Prix": 228.00,
+    "Description": "Thermostat bipolaire : 30A à 120, 208V, 240V - 15A à 277V, 347V, 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "T24",
+    "Type": "Installée en usine",
+    "Prix": 228.00,
+    "Description": "Thermostat bipolaire : 30A à 120, 208V, 240V - 15A à 277V, 347V, 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-T-AV",
+    "Type": "En trousse",
+    "Prix": 137.00,
+    "Description": "Thermostat unipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "TAV",
+    "Type": "Installée en usine",
+    "Prix": 137.00,
+    "Description": "Thermostat unipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-T2-AV4",
+    "Type": "En trousse",
+    "Prix": 228.00,
+    "Description": "Thermostat bipolaire, anti-vandale : 30A à 120, 208V, 240V - 15A à 277V, 347V, 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "T2AV4",
+    "Type": "Installée en usine",
+    "Prix": 228.00,
+    "Description": "Thermostat bipolaire, anti-vandale : 30A à 120, 208V, 240V - 15A à 277V, 347V, 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-TRIAC-347",
+    "Type": "En trousse",
+    "Prix": 77.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "TRIAC",
+    "Type": "Installée en usine",
+    "Prix": 77.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-TRIAC-347T",
+    "Type": "En trousse",
+    "Prix": 105.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "TRIACT",
+    "Type": "Installée en usine",
+    "Prix": 105.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "KIT-OCB-TRIAC-600",
+    "Type": "En trousse",
+    "Prix": 135.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit": "WW",
+    "Type": "Installée en usine",
+    "Prix": 46.00,
+    "Description": "Canalisation de câblage 24V",
+    "Catégorie": "Contrôles"
+  }
+]
+```

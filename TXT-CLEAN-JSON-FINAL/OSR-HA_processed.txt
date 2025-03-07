@@ -1,0 +1,947 @@
+# OSR-HA Câble chauffant autorégulant haute température ELSR-HA
+
+-------
+
+## Caractéristiques techniques
+
+**Surgaine**
+• Fluoropolymère (BOT).
+
+**Conducteur d'alimentation**
+• Cuivre nickelé, 16 AWG.
+
+**Température minimale de démarrage**
+• -30 °C (-22 °F).
+
+**Température maximale maintenue (sous tension)**
+• 120 °C (248 °F).
+
+**Température d'exposition continue maximale (hors tension)**
+• 150 °C (302 °F), continu.
+• 200 °C (392 °F), hors tension pendant 1000 heures.
+
+**Tension nominale**
+• 120V, 240/208V.
+
+**Rayon de courbure minimal**
+• 25 mm (1 po).
+
+**Température minimale d'installation**
+• AO, BO : -45 °C (-49 °F).
+• BOT : -25 °C (-13 °F).
+
+**Classifications**
+• II 2G Ex e IIC T6 Gb II 2D Ex tb IIIC.
+• T 80 °C Db.
+• Classe I, Division 2, Groupes A, B, C, D.
+• Classe II, Division 2, Groupes E, F, G.
+• Classe III, T6.
+• Classe I, Zone 1, AEx / Exe II, T6.
+• Classe 1, Division 1, Groupes B, C, D (Contacter le manufacturier).
+
+**Normes**
+• CSA C22.2.130.03; -WS.
+• CAN/CSA 60079-7:12, 60079-0-11.
+• ANSI/IEEE 515, 515.
+
+**Certifications**
+• IECEx EPS 12.0006U.
+• 12ATEX1431U.
+• CSA C US 2547790.
+
+**Classement**
+• Applications extérieures et endroits humides (WS).
+
+**Garantie**
+• Garantie de base de 1 an sur le câble chauffant.
+
+**Application**
+• Protection contre le gel, réservoir, tuyaux, canalisations, industrie chimique et pétrochimique, industrie automobile, industrie alimentaire, traçage d'instrumentation
+
+-------
+
+## Tableau ELSR-HA - Câble chauffant autorégulant haute température
+
+```json
+[
+  {
+    "#Produit": "ELSR-HA-3-1-BOT",
+    "Puissance nominale W/pi": "3.0",
+    "Tension": "120V",
+    "Surgaine/Protection mécanique": "✓",
+    "Prix/pi": "26.00",
+    "Dimensions approx. du câble (mm)": "12.4 x 5.9"
+  },
+  {
+    "#Produit": "ELSR-HA-3-2-BOT",
+    "Puissance nominale W/pi": "3.0",
+    "Tension": "240V",
+    "Surgaine/Protection mécanique": "✓",
+    "Prix/pi": "26.00",
+    "Dimensions approx. du câble (mm)": "12.4 x 5.9"
+  },
+  {
+    "#Produit": "ELSR-HA-7-1-BOT",
+    "Puissance nominale W/pi": "7.0",
+    "Tension": "120V",
+    "Surgaine/Protection mécanique": "✓",
+    "Prix/pi": "26.00",
+    "Dimensions approx. du câble (mm)": "12.4 x 5.9"
+  },
+  {
+    "#Produit": "ELSR-HA-10-1-BOT",
+    "Puissance nominale W/pi": "10.0",
+    "Tension": "120V",
+    "Surgaine/Protection mécanique": "✓",
+    "Prix/pi": "26.00",
+    "Dimensions approx. du câble (mm)": "12.4 x 5.9"
+  },
+  {
+    "#Produit": "ELSR-HA-10-2-BOT",
+    "Puissance nominale W/pi": "10.0",
+    "Tension": "240V",
+    "Surgaine/Protection mécanique": "✓",
+    "Prix/pi": "26.00",
+    "Dimensions approx. du câble (mm)": "12.4 x 5.9"
+  },
+  {
+    "#Produit": "ELSR-HA-15-1-BOT",
+    "Puissance nominale W/pi": "15.0",
+    "Tension": "120V",
+    "Surgaine/Protection mécanique": "✓",
+    "Prix/pi": "26.00",
+    "Dimensions approx. du câble (mm)": "12.4 x 5.9"
+  },
+  {
+    "#Produit": "ELSR-HA-15-2-BOT",
+    "Puissance nominale W/pi": "15.0",
+    "Tension": "240V",
+    "Surgaine/Protection mécanique": "✓",
+    "Prix/pi": "26.00",
+    "Dimensions approx. du câble (mm)": "12.4 x 5.9"
+  },
+  {
+    "#Produit": "ELSR-HA-20-1-BOT",
+    "Puissance nominale W/pi": "20.0",
+    "Tension": "120V",
+    "Surgaine/Protection mécanique": "✓",
+    "Prix/pi": "26.00",
+    "Dimensions approx. du câble (mm)": "12.4 x 5.9"
+  },
+  {
+    "#Produit": "ELSR-HA-20-2-BOT",
+    "Puissance nominale W/pi": "20.0",
+    "Tension": "240V",
+    "Surgaine/Protection mécanique": "✓",
+    "Prix/pi": "26.00",
+    "Dimensions approx. du câble (mm)": "12.4 x 5.9"
+  }
+]
+```
+
+-------
+
+## Tableau Longueur de circuit chauffant pour le modèle ELSR-HA - 120V
+
+```json
+[
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "ELSR-HA-3-1": "261.0",
+    "ELSR-HA-7-1": "137.0",
+    "ELSR-HA-10-1": "113.0",
+    "ELSR-HA-15-1": "72.0",
+    "ELSR-HA-20-1": "53.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "ELSR-HA-3-1": "391.0",
+    "ELSR-HA-7-1": "205.0",
+    "ELSR-HA-10-1": "169.0",
+    "ELSR-HA-15-1": "108.0",
+    "ELSR-HA-20-1": "79.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "ELSR-HA-3-1": "521.0",
+    "ELSR-HA-7-1": "273.0",
+    "ELSR-HA-10-1": "225.0",
+    "ELSR-HA-15-1": "145.0",
+    "ELSR-HA-20-1": "105.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "342.0",
+    "ELSR-HA-10-1": "282.0",
+    "ELSR-HA-15-1": "181.0",
+    "ELSR-HA-20-1": "132.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "411.0",
+    "ELSR-HA-10-1": "338.0",
+    "ELSR-HA-15-1": "217.0",
+    "ELSR-HA-20-1": "158.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "35.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "411.0",
+    "ELSR-HA-10-1": "374.0",
+    "ELSR-HA-15-1": "253.0",
+    "ELSR-HA-20-1": "184.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "40.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "411.0",
+    "ELSR-HA-10-1": "374.0",
+    "ELSR-HA-15-1": "279.0",
+    "ELSR-HA-20-1": "200.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "ELSR-HA-3-1": "249.0",
+    "ELSR-HA-7-1": "132.0",
+    "ELSR-HA-10-1": "108.0",
+    "ELSR-HA-15-1": "70.0",
+    "ELSR-HA-20-1": "50.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "ELSR-HA-3-1": "374.0",
+    "ELSR-HA-7-1": "198.0",
+    "ELSR-HA-10-1": "162.0",
+    "ELSR-HA-15-1": "104.0",
+    "ELSR-HA-20-1": "75.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "ELSR-HA-3-1": "499.0",
+    "ELSR-HA-7-1": "264.0",
+    "ELSR-HA-10-1": "216.0",
+    "ELSR-HA-15-1": "139.0",
+    "ELSR-HA-20-1": "100.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "330.0",
+    "ELSR-HA-10-1": "270.0",
+    "ELSR-HA-15-1": "174.0",
+    "ELSR-HA-20-1": "125.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "396.0",
+    "ELSR-HA-10-1": "324.0",
+    "ELSR-HA-15-1": "209.0",
+    "ELSR-HA-20-1": "150.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "35.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "411.0",
+    "ELSR-HA-10-1": "374.0",
+    "ELSR-HA-15-1": "244.0",
+    "ELSR-HA-20-1": "175.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "40.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "411.0",
+    "ELSR-HA-10-1": "374.0",
+    "ELSR-HA-15-1": "279.0",
+    "ELSR-HA-20-1": "200.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "ELSR-HA-3-1": "239.0",
+    "ELSR-HA-7-1": "128.0",
+    "ELSR-HA-10-1": "104.0",
+    "ELSR-HA-15-1": "67.0",
+    "ELSR-HA-20-1": "48.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "ELSR-HA-3-1": "358.0",
+    "ELSR-HA-7-1": "192.0",
+    "ELSR-HA-10-1": "156.0",
+    "ELSR-HA-15-1": "101.0",
+    "ELSR-HA-20-1": "72.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "ELSR-HA-3-1": "477.0",
+    "ELSR-HA-7-1": "256.0",
+    "ELSR-HA-10-1": "208.0",
+    "ELSR-HA-15-1": "134.0",
+    "ELSR-HA-20-1": "95.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "320.0",
+    "ELSR-HA-10-1": "260.0",
+    "ELSR-HA-15-1": "168.0",
+    "ELSR-HA-20-1": "119.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "384.0",
+    "ELSR-HA-10-1": "312.0",
+    "ELSR-HA-15-1": "201.0",
+    "ELSR-HA-20-1": "143.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "35.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "411.0",
+    "ELSR-HA-10-1": "364.0",
+    "ELSR-HA-15-1": "235.0",
+    "ELSR-HA-20-1": "167.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "40.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "411.0",
+    "ELSR-HA-10-1": "374.0",
+    "ELSR-HA-15-1": "269.0",
+    "ELSR-HA-20-1": "191.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "ELSR-HA-3-1": "220.0",
+    "ELSR-HA-7-1": "120.0",
+    "ELSR-HA-10-1": "97.0",
+    "ELSR-HA-15-1": "63.0",
+    "ELSR-HA-20-1": "43.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "ELSR-HA-3-1": "330.0",
+    "ELSR-HA-7-1": "180.0",
+    "ELSR-HA-10-1": "145.0",
+    "ELSR-HA-15-1": "94.0",
+    "ELSR-HA-20-1": "65.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "ELSR-HA-3-1": "440.0",
+    "ELSR-HA-7-1": "240.0",
+    "ELSR-HA-10-1": "193.0",
+    "ELSR-HA-15-1": "125.0",
+    "ELSR-HA-20-1": "87.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "ELSR-HA-3-1": "550.0",
+    "ELSR-HA-7-1": "300.0",
+    "ELSR-HA-10-1": "242.0",
+    "ELSR-HA-15-1": "157.0",
+    "ELSR-HA-20-1": "109.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "360.0",
+    "ELSR-HA-10-1": "290.0",
+    "ELSR-HA-15-1": "188.0",
+    "ELSR-HA-20-1": "130.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "35.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "411.0",
+    "ELSR-HA-10-1": "338.0",
+    "ELSR-HA-15-1": "220.0",
+    "ELSR-HA-20-1": "152.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "40.0",
+    "ELSR-HA-3-1": "559.0",
+    "ELSR-HA-7-1": "411.0",
+    "ELSR-HA-10-1": "374.0",
+    "ELSR-HA-15-1": "251.0",
+    "ELSR-HA-20-1": "174.0"
+  }
+]
+```
+
+-------
+
+## Tableau Longueur de circuit chauffant pour le modèle ELSR-HA - 240V
+
+```json
+[
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "ELSR-HA-3-2": "649.0",
+    "ELSR-HA-10-2": "181.0",
+    "ELSR-HA-15-2": "115.0",
+    "ELSR-HA-20-2": "97.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "ELSR-HA-3-2": "973.0",
+    "ELSR-HA-10-2": "271.0",
+    "ELSR-HA-15-2": "173.0",
+    "ELSR-HA-20-2": "146.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "361.0",
+    "ELSR-HA-15-2": "231.0",
+    "ELSR-HA-20-2": "194.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "452.0",
+    "ELSR-HA-15-2": "288.0",
+    "ELSR-HA-20-2": "243.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "542.0",
+    "ELSR-HA-15-2": "346.0",
+    "ELSR-HA-20-2": "291.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "35.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "632.0",
+    "ELSR-HA-15-2": "404.0",
+    "ELSR-HA-20-2": "340.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur Valeur nominale (A)": "40.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "716.0",
+    "ELSR-HA-15-2": "461.0",
+    "ELSR-HA-20-2": "389.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "ELSR-HA-3-2": "610.0",
+    "ELSR-HA-10-2": "171.0",
+    "ELSR-HA-15-2": "110.0",
+    "ELSR-HA-20-2": "92.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "ELSR-HA-3-2": "915.0",
+    "ELSR-HA-10-2": "256.0",
+    "ELSR-HA-15-2": "165.0",
+    "ELSR-HA-20-2": "138.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "ELSR-HA-3-2": "1220.0",
+    "ELSR-HA-10-2": "341.0",
+    "ELSR-HA-15-2": "220.0",
+    "ELSR-HA-20-2": "184.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "427.0",
+    "ELSR-HA-15-2": "275.0",
+    "ELSR-HA-20-2": "230.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "512.0",
+    "ELSR-HA-15-2": "330.0",
+    "ELSR-HA-20-2": "276.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "35.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "597.0",
+    "ELSR-HA-15-2": "385.0",
+    "ELSR-HA-20-2": "322.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur Valeur nominale (A)": "40.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "683.0",
+    "ELSR-HA-15-2": "440.0",
+    "ELSR-HA-20-2": "368.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "ELSR-HA-3-2": "576.0",
+    "ELSR-HA-10-2": "162.0",
+    "ELSR-HA-15-2": "105.0",
+    "ELSR-HA-20-2": "87.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "ELSR-HA-3-2": "864.0",
+    "ELSR-HA-10-2": "243.0",
+    "ELSR-HA-15-2": "158.0",
+    "ELSR-HA-20-2": "131.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "ELSR-HA-3-2": "1152.0",
+    "ELSR-HA-10-2": "324.0",
+    "ELSR-HA-15-2": "211.0",
+    "ELSR-HA-20-2": "175.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "405.0",
+    "ELSR-HA-15-2": "263.0",
+    "ELSR-HA-20-2": "219.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "486.0",
+    "ELSR-HA-15-2": "316.0",
+    "ELSR-HA-20-2": "262.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "35.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "567.0",
+    "ELSR-HA-15-2": "369.0",
+    "ELSR-HA-20-2": "306.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur Valeur nominale (A)": "40.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "648.0",
+    "ELSR-HA-15-2": "421.0",
+    "ELSR-HA-20-2": "350.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "10.0",
+    "ELSR-HA-3-2": "518.0",
+    "ELSR-HA-10-2": "147.0",
+    "ELSR-HA-15-2": "97.0",
+    "ELSR-HA-20-2": "80.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "15.0",
+    "ELSR-HA-3-2": "777.0",
+    "ELSR-HA-10-2": "220.0",
+    "ELSR-HA-15-2": "145.0",
+    "ELSR-HA-20-2": "119.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "20.0",
+    "ELSR-HA-3-2": "1036.0",
+    "ELSR-HA-10-2": "293.0",
+    "ELSR-HA-15-2": "193.0",
+    "ELSR-HA-20-2": "159.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "25.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "367.0",
+    "ELSR-HA-15-2": "242.0",
+    "ELSR-HA-20-2": "199.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "30.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "440.0",
+    "ELSR-HA-15-2": "290.0",
+    "ELSR-HA-20-2": "239.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "35.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "513.0",
+    "ELSR-HA-15-2": "338.0",
+    "ELSR-HA-20-2": "278.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur Valeur nominale (A)": "40.0",
+    "ELSR-HA-3-2": "1267.0",
+    "ELSR-HA-10-2": "587.0",
+    "ELSR-HA-15-2": "387.0",
+    "ELSR-HA-20-2": "318.0"
+  }
+]
+```
+
+-------
+
+## Tableau Câble chauffant Multiplicateur/facteurs de correction
+
+```json
+[
+  {
+    "Option": "ELSR-HA-XX-2",
+    "Puissance nominale 208V vs. 240V": "0.74",
+    "Longueur de circuit chauffant 208V vs. 240V": "1.00"
+  }
+]
+```
+
+-------
+
+## Tableau Produits En trousse - Série OSR-HA
+
+```json
+[
+  {
+    "#Produit En trousse": "ECA-JB1",
+    "Prix": "355.00",
+    "Description": "Boîte de jonction pour branchement simple, étiquette et bande de serrage"
+  },
+  {
+    "#Produit En trousse": "ECA-JB2",
+    "Prix": "506.00",
+    "Description": "Boîte de jonction pour branchement double, étiquette et bande de serrage"
+  },
+  {
+    "#Produit En trousse": "EL-ECH-EX1",
+    "Prix": "25.00",
+    "Description": "Terminaison de fin pour ELSR-HA"
+  },
+  {
+    "#Produit En trousse": "ELAK-3-7",
+    "Prix": "626.00",
+    "Description": "Boîte de jonction avec support de montage pour environnements ordinaires et dangereux"
+  },
+  {
+    "#Produit En trousse": "ELVB-SRAH",
+    "Prix": "46.00",
+    "Description": "Raccord d'alimentation sans connecteur"
+  },
+  {
+    "#Produit En trousse": "ELVB-SRAH-34-ST",
+    "Prix": "80.00",
+    "Description": "Raccord d'alimentation avec connecteur en zinc/acier, 3/4\" NPT, emplacements ordinaires"
+  },
+  {
+    "#Produit En trousse": "ELVB-SREX-34-HT1",
+    "Prix": "216.00",
+    "Description": "Raccord d'alimentation avec connecteur plaqué de nickel 3/4\" NPT, emplacements dangereux"
+  },
+  {
+    "#Produit En trousse": "ELVB-SREX-M20-HT1",
+    "Prix": "192.00",
+    "Description": "Raccord d'alimentation avec connecteur plaqué de nickel, M20, emplacements dangereux"
+  },
+  {
+    "#Produit En trousse": "EX-IT-LAG",
+    "Prix": "525.00",
+    "Description": "Dispositif de terminaison de ligne avec voyant DEL vert et trousse de terminaison. NEMA 4X pour emplacements ordinaires."
+  },
+  {
+    "#Produit En trousse": "EX-IT-LAR",
+    "Prix": "525.00",
+    "Description": "Dispositif de terminaison de ligne avec voyant DEL rouge et trousse de terminaison. NEMA 4X pour emplacements ordinaires."
+  },
+  {
+    "#Produit En trousse": "KIT-OSR-ELSR-HA",
+    "Prix": "92.00",
+    "Description": "Kit de terminaison et de raccord d'alimentation avec étiquette d'avertissement Série HA"
+  }
+]
+```
+
+-------
+
+## Tableau Produits En trousse - Toutes les séries OSR
+
+```json
+[
+  {
+    "#Produit": "KIT-OSR-EL-WS03",
+    "Prix": "2.00",
+    "Description": "Étiquette de signalisation bilingue (Anglais / Français)"
+  },
+  {
+    "#Produit": "ELB-20",
+    "Prix": "14.00",
+    "Description": "Plaque de fixation 90° en acier inoxydable pour tuyau de descente de gouttière avec attaches en plastique (de type «tie-wrap»)"
+  },
+  {
+    "#Produit": "ELB-21",
+    "Prix": "18.00",
+    "Description": "Plaque de fixation en acier inoxydable pour gouttière avec attaches en plastique (de type «tie-wrap»)"
+  },
+  {
+    "#Produit": "ELB-RCLIP",
+    "Prix": "44.00",
+    "Description": "Attaches de toiture pour câble, qté 25"
+  },
+  {
+    "#Produit": "ELB-02B",
+    "Prix": "61.00",
+    "Description": "Ruban autocollant en tissu de fibre de verre, temp. max. = 90 °C (194 °F), 165 pi (50 m)"
+  },
+  {
+    "#Produit": "ELB-06",
+    "Prix": "57.00",
+    "Description": "Ruban autocollant en aluminium, temp. max. 140 °C (284 °F) 165 pi (50 m)"
+  },
+  {
+    "#Produit": "ELB-06C",
+    "Prix": "46.00",
+    "Description": "Ruban autocollant en aluminium, temp. max. = 80 °C (176 °F), 165 pi (50 m)"
+  }
+]
+```
+
+-------
+
+## Tableau Contrôles - Options de contrôleur pour déglaçage de toitures et gouttières
+
+```json
+[
+  {
+    "#Produit": "DS-2C1",
+    "Prix": "889.00",
+    "Description": "Sonde et contrôleur à montage aérien pour détecter l'humidité et la température 30A : 100V à 277V, 20A : 28VDC"
+  },
+  {
+    "#Produit": "DS-8C1",
+    "Prix": "953.00",
+    "Description": "Sonde et contrôleur à montage aérien pour détecter la température ainsi qu'une sonde pour détecter l'humidité avec 10 pi (3 m) de câble 30A 100V à 277V"
+  },
+  {
+    "#Produit": "DS-9C1",
+    "Prix": "953.00",
+    "Description": "Sonde et contrôleur à montage aérien pour détecter la température ainsi qu'une sonde pour détecter l'humidité avec 10 pi (3 m) de câble 2 x 30A 100V à 277V"
+  },
+  {
+    "#Produit": "EX-50",
+    "Prix": "257.00",
+    "Description": "Trousse d'extension de 50 pi (15 m) avec raccord de connexion pour sonde d'humidité"
+  },
+  {
+    "#Produit": "CDP-2",
+    "Prix": "291.00",
+    "Description": "Contrôleur et afficheur intérieur pour les produits DS"
+  },
+  {
+    "#Produit": "ETO21",
+    "Prix": "825.00",
+    "Description": "Contrôleur électronique bizone 1 zone : 3 x 16A, 2 zones : 2 x 16A, 120V à 240V"
+  },
+  {
+    "#Produit": "ETF-744-99",
+    "Prix": "206.00",
+    "Description": "Sonde extérieure 24V pour détecter la température"
+  },
+  {
+    "#Produit": "ETOR-55",
+    "Prix": "401.00",
+    "Description": "Sonde de gouttière pour détecter l'humidité avec câble de 33 pi (10 m)"
+  }
+]
+```
+
+-------
+
+## Tableau Contrôles - Options de contrôleur pour traçage des tuyaux pour usage en environnement ordinaire
+
+```json
+[
+  {
+    "#Produit": "ECA-E55-R25HT1",
+    "Prix": "1620.00",
+    "Description": "Thermostat SPDT NEMA 4X boîtier en aluminium moulé 22A à 120/250/480V avec bulbe et capillaire en acier inoxydable de 10 pi (3 m)"
+  },
+  {
+    "#Produit": "TPR-L1N-3X-Q101",
+    "Prix": "495.00",
+    "Description": "Thermostat SPDT NEMA 4X boîtier en polycarbonate 22A à 120/250/480V avec bulbe et capillaire en cuivre étamé de 3 pi (1 m)"
+  },
+  {
+    "#Produit": "TPR-L1N-10X-Q101",
+    "Prix": "645.00",
+    "Description": "Thermostat SPDT NEMA 4X boîtier en polycarbonate 22A à 120/250/480V avec bulbe et capillaire en cuivre étamé de 10 pi (3 m)"
+  },
+  {
+    "#Produit": "TRF115-0051",
+    "Prix": "174.00",
+    "Description": "Thermostat SPDT NEMA 4X plage de -17 °C à 49 °C (0 °F à 120 °F) 25A à 120/208/240/277V avec bulbe et capillaire en acier inoxydable de 5 pi (1.5 m)"
+  },
+  {
+    "#Produit": "TRF115-0071",
+    "Prix": "179.00",
+    "Description": "Thermostat SPDT NEMA 4X plage de -35 °C à 38 °C (-30 °F à 100 °F) 25A à 120/208/240/277V avec bulbe et capillaire en cuivre de 8 pi (2.4 m)"
+  },
+  {
+    "#Produit": "ELTC-14-RTD1",
+    "Prix": "898.00",
+    "Description": "Contrôle de température digital 20A à 90-260V inclus RTD 3 fils (Pt-100) élément sensitif de 5 x 50 mm avec fils d'alimentation en fluoropolymère de 5 m plage de 0 °C à 250 °C (32 °F à 482 °F). Convient pour une utilisation avec les panneaux GFEP"
+  },
+  {
+    "#Produit": "GPT-130",
+    "Prix": "1608.00",
+    "Description": "Contrôleur à point unique pour câbles chauffants de traçage NEMA 4X IP66 100-277V 30A avec GFEP 30 mA intégré et câble de 20 pieds (6 m), 100k ohms à 25 °C (77 °F) thermistance. Plage de -40 °C à 110 °C (-40 °F à 230 °F)"
+  },
+  {
+    "#Produit": "S1-A",
+    "Prix": "2964.00",
+    "Description": "Contrôleur électronique NEMA 4X IP67 à point unique pour câbles chauffants de traçage avec GFEP 30 mA, thermistance de 10K ohms, 30A @ 100-277V, Wi-Fi, Ethernet, fonctionnalité Modbus et BACnet3"
+  },
+  {
+    "#Produit": "S1-B",
+    "Prix": "2054.00",
+    "Description": "Contrôleur électronique NEMA 4X IP67 à point unique pour câbles chauffants de traçage avec GFEP 30 mA, thermistance de 10K ohms, 30A @ 100-277V, Wi-Fi, Ethernet"
+  },
+  {
+    "#Produit": "GATEWAY-PCKG",
+    "Prix": "4524.00",
+    "Description": "Passerelle BACnet dans boîtier NEMA 4X 24VDC avec alimentation et transformateur 24VDC pour la Série S1"
+  },
+  {
+    "#Produit": "GATEWAY",
+    "Prix": "3276.00",
+    "Description": "Passerelle BACnet 24VDC seulement pour la Série S1"
+  }
+]
+```
+
+-------
+
+## Tableau Contrôles - Options de contrôleur pour traçage des tuyaux pour usage en environnement dangereux
+
+```json
+[
+  {
+    "#Produit": "E121-132731",
+    "Prix": "1664.00",
+    "Description": "Thermostat SPDT anti-déflagrant NEMA 4X 7, 9 et IP66 en aluminium moulé peint à l'époxy 22A@120-480V avec bulbe et capillaire de 10' (3 m) en acier inoxydable"
+  },
+  {
+    "#Produit": "TM-1SIH1-E5-RTD-A1",
+    "Prix": "2395.00",
+    "Description": "Thermostat électronique DDFT simple circuit à 120V TraceMateTM I, 30A"
+  },
+  {
+    "#Produit": "TM-1DIH2-E5-RTD-A1",
+    "Prix": "2851.00",
+    "Description": "Thermostat électronique DDFT simple circuit à 240/208V TraceMateTM I, 30A"
+  },
+  {
+    "#Produit": "TM-2SIH1-E5-RTD",
+    "Prix": "4015.00",
+    "Description": "Thermostat électronique DDFT double circuit à 120V TraceMateTM II, 2 x 30A"
+  },
+  {
+    "#Produit": "TM-2DIH2-E5-RTD",
+    "Prix": "4809.00",
+    "Description": "Thermostat électronique DDFT double circuit à 240/208V TraceMateTM II, 2 x 30A"
+  },
+  {
+    "#Produit": "MS-21012",
+    "Prix": "4672.00",
+    "Description": "Contrôleur DDFT électronique simple circuit double pôle MasterTrace 85V à 300V 30A avec interface utilisateur"
+  },
+  {
+    "#Produit": "MS-21022",
+    "Prix": "5617.00",
+    "Description": "Contrôleur DDFT électronique double circuit simple pôle MasterTrace 120V ou 277V 30A avec interface utilisateur"
+  },
+  {
+    "#Produit": "RTD-7",
+    "Prix": "406.00",
+    "Description": "Sonde RTD pour contrôleur MasterTrace"
+  }
+]
+```
+
+-------
+
+## Tableau Contrôles - Options de panneau de contrôle
+
+```json
+[
+  {
+    "#Produit": "SR-4CIR-240",
+    "Prix": "5876.00",
+    "Description": "Panneau de contrôle GFEP 4 circuits 30A 240V avec contacteur et transfo. de contrôle 240-120V (HxLxP : 20x16x8 po)"
+  },
+  {
+    "#Produit": "SR-6CIR-240",
+    "Prix": "6396.00",
+    "Description": "Panneau de contrôle GFEP 6 circuits 30A 240V avec contacteur et transfo. de contrôle 240-120V (HxLxP : 20x16x8 po)"
+  },
+  {
+    "#Produit": "SR-8CIR-240",
+    "Prix": "6994.00",
+    "Description": "Panneau de contrôle GFEP 8 circuits 30A 240V avec contacteur et transfo. de contrôle 240-120V (HxLxP : 24x20x8 po)"
+  },
+  {
+    "#Produit": "SR-12CIR-240",
+    "Prix": "8138.00",
+    "Description": "Panneau de contrôle GFEP 12 circuits 30A 240V avec contacteur et transfo. de contrôle 240-120V (HxLxP : 24x24x8 po)"
+  }
+]
+```

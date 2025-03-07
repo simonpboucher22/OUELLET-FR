@@ -1,0 +1,240 @@
+# OTS - Convecteur de tranchée
+
+## Caractéristiques
+
+**Couleur**
+• Standard : noir semi-lustré.
+• Optionnelles (surcharge applicable) : blanc, amande, argent étoilé, bronze, charcoal métallique, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+**Finition**
+• Standard : peinture à la poudre d'époxy/polyester.
+
+**Tension**
+• 120V, 208V, 240/208V, 277V, 347V, 480V, 600V, 1 phase.
+
+**Construction**
+• Construction robuste en acier de calibre 20.
+• Protection thermique linéaire à réenclenchement automatique.
+• Protection thermique linéaire à réenclenchement manuel.
+
+**Élément**
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+**Densité**
+• Densité moyenne standard de 250W/pi.
+• Basse densité moyenne de 200W/pi, 167W/pi.
+
+**Régulation**
+• Relais mécanique et électronique en option (installation du côté droit seulement).
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+**Installation**
+• Doit être installé à l'intérieur d'une tranchée dans le plancher avec une grille de dessus de tranchée compatible (non fournie), laquelle doit couvrir toute la longueur de l'appareil. Se référer au tableau des Modèles de grille de dessus de tranchée compatibles.
+• 2 trous de fixation dans le fond de l'appareil.
+
+**Garantie**
+• 3 ans contre tous vices.
+• 10 ans sur l'élément.
+
+**Application**
+• Baie vitrée, édifice commercial, immeuble de bureaux, condos, restaurant
+
+-------
+
+## Tableau OTS - Convecteur de tranchée - Modèles à densité moyenne standard de 250W/pi
+
+```json
+[
+  {
+    "#Produit": "OTS0752",
+    "Watts": 750.0,
+    "Tension": "120V",
+    "Longueur": "36.0 po (915.0 mm)",
+    "Poids": "8.4 lb (3.8 kg)",
+    "Prix": 374.00
+  },
+  {
+    "#Produit": "OTS0758",
+    "Watts": 750.0,
+    "Tension": "208V",
+    "Longueur": "36.0 po (915.0 mm)",
+    "Poids": "8.4 lb (3.8 kg)",
+    "Prix": 374.00
+  },
+  {
+    "#Produit": "OTS0777",
+    "Watts": 750.0,
+    "Tension": "277V",
+    "Longueur": "36.0 po (915.0 mm)",
+    "Poids": "8.4 lb (3.8 kg)",
+    "Prix": 374.00
+  },
+  {
+    "#Produit": "OTS0750",
+    "Watts": "750/563",
+    "Tension": "240/208V",
+    "Longueur": "36.0 po (915.0 mm)",
+    "Poids": "8.4 lb (3.8 kg)",
+    "Prix": 374.00
+  },
+  {
+    "#Produit": "OTS1008",
+    "Watts": 1000.0,
+    "Tension": "208V",
+    "Longueur": "48.0 po (1220.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 405.00
+  },
+  {
+    "#Produit": "OTS1077",
+    "Watts": 1000.0,
+    "Tension": "277V",
+    "Longueur": "48.0 po (1220.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 405.00
+  },
+  {
+    "#Produit": "OTS1007",
+    "Watts": 1000.0,
+    "Tension": "347V",
+    "Longueur": "48.0 po (1220.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 405.00
+  },
+  {
+    "#Produit": "OTS1006",
+    "Watts": 1000.0,
+    "Tension": "600V",
+    "Longueur": "48.0 po (1220.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 405.00
+  },
+  {
+    "#Produit": "OTS1000",
+    "Watts": "1000/750",
+    "Tension": "240/208V",
+    "Longueur": "48.0 po (1220.0 mm)",
+    "Poids": "10.8 lb (4.9 kg)",
+    "Prix": 405.00
+  },
+  {
+    "#Produit": "OTS1258",
+    "Watts": 1250.0,
+    "Tension": "208V",
+    "Longueur": "60.0 po (1525.0 mm)",
+    "Poids": "13.2 lb (6.0 kg)",
+    "Prix": 428.00
+  },
+  {
+    "#Produit": "OTS1277",
+    "Watts": 1250.0,
+    "Tension": "277V",
+    "Longueur": "60.0 po (1525.0 mm)",
+    "Poids": "13.2 lb (6.0 kg)",
+    "Prix": 428.00
+  },
+  {
+    "#Produit": "OTS1257",
+    "Watts": 1250.0,
+    "Tension": "347V",
+    "Longueur": "60.0 po (1525.0 mm)",
+    "Poids": "13.2 lb (6.0 kg)",
+    "Prix": 428.00
+  },
+  {
+    "#Produit": "OTS1256",
+    "Watts": 1250.0,
+    "Tension": "600V",
+    "Longueur": "60.0 po (1525.0 mm)",
+    "Poids": "13.2 lb (6.0 kg)",
+    "Prix": 428.00
+  },
+  {
+    "#Produit": "OTS1250",
+    "Watts": "1250/938",
+    "Tension": "240/208V",
+    "Longueur": "60.0 po (1525.0 mm)",
+    "Poids": "13.2 lb (6.0 kg)",
+    "Prix": 428.00
+  }
+]
+```
+
+-------
+
+## Tableau OTS - Convecteur de tranchée - Options
+
+```json
+[
+  {
+    "#Produit": "KIT-OTS-DIS20",
+    "Produit_Installé_en_usine": "DIS20",
+    "Prix": 147.00,
+    "Description": "Interrupteur principal, 20A à 277V max."
+  },
+  {
+    "#Produit": "KIT-OTS-DIS40",
+    "Produit_Installé_en_usine": "-",
+    "Prix": 181.00,
+    "Description": "Interrupteur principal, 40A à 600V max. 120 mm de hauteur"
+  },
+  {
+    "#Produit": "KIT-OTS-R-3471",
+    "Produit_Installé_en_usine": "R1",
+    "Prix": 230.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur : 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V"
+  },
+  {
+    "#Produit": "KIT-OTS-R-6001",
+    "Produit_Installé_en_usine": "R1",
+    "Prix": 230.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur : 10A à 480V, 600V"
+  },
+  {
+    "#Produit": "KIT-OTS-RT-2081",
+    "Produit_Installé_en_usine": "RT1",
+    "Prix": 242.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"
+  },
+  {
+    "#Produit": "KIT-OTS-RT-2401",
+    "Produit_Installé_en_usine": "RT1",
+    "Prix": 242.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"
+  },
+  {
+    "#Produit": "KIT-OTS-RT-2771",
+    "Produit_Installé_en_usine": "RT1",
+    "Prix": 242.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V"
+  },
+  {
+    "#Produit": "KIT-OTS-RT-3471",
+    "Produit_Installé_en_usine": "RT1",
+    "Prix": 242.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"
+  },
+  {
+    "#Produit": "KIT-OTS-TRIAC-3471",
+    "Produit_Installé_en_usine": "TRIAC1",
+    "Prix": 92.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur : 10A max. à 347V max."
+  },
+  {
+    "#Produit": "KIT-OTS-TRIAC-347T1",
+    "Produit_Installé_en_usine": "TRIACT1",
+    "Prix": 134.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur : 10A max. à 347V max."
+  },
+  {
+    "#Produit": "KIT-OTS-TRIAC-6001",
+    "Produit_Installé_en_usine": "TRIAC1",
+    "Prix": 179.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur : 6A à 600V max."
+  }
+]
+```
+
+*Note: Pour installation en usine

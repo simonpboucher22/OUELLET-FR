@@ -1,0 +1,101 @@
+# OFH - Ventilo-convecteur de plancher
+
+## Caractéristiques
+
+### Couleur
+• Standards : bronze, blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 120V, 240/208V, 1 phase.
+
+### Construction
+• Construction en acier soudé de calibre 20.
+• Grillage à lames robustes de calibre 14.
+• Grillage de protection empêchant les corps étrangers de pénétrer à l'intérieur de l'appareil.
+• Protection thermique à réenclenchement manuel pour plus de sécurité.
+
+-------
+
+### Ventilateur
+• Ventilateur silencieux de 43.9 dBA à 80 pcm, à grand diamètre.
+• Moteur lubrifié à vie.
+
+### Élément
+• Élément tubulaire à ailettes très robuste.
+
+### Installation
+• Distance minimale des murs adjacents : 6 po (15.2 cm).
+• Vaste compartiment de câblage.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Porte patio, baie vitrée.
+
+### Note
+Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+
+-------
+
+## Tableau OFH - Ventilo-convecteur de plancher
+
+```json
+[
+  {
+    "#Produit": "OFH0502",
+    "Watts": 500.0,
+    "Volts": 120.0,
+    "Prix": 723.00,
+    "Poids_lb": 16.0,
+    "Poids_kg": 7.3
+  },
+  {
+    "#Produit": "OFH1002",
+    "Watts": 1000.0,
+    "Volts": 120.0,
+    "Prix": 746.00,
+    "Poids_lb": 16.0,
+    "Poids_kg": 7.3
+  },
+  {
+    "#Produit": "OFH1502",
+    "Watts": 1500.0,
+    "Volts": 120.0,
+    "Prix": 760.00,
+    "Poids_lb": 16.0,
+    "Poids_kg": 7.3
+  },
+  {
+    "#Produit": "OFH0500",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Prix": 723.00,
+    "Poids_lb": 16.0,
+    "Poids_kg": 7.3
+  },
+  {
+    "#Produit": "OFH1000",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Prix": 746.00,
+    "Poids_lb": 16.0,
+    "Poids_kg": 7.3
+  },
+  {
+    "#Produit": "OFH1500",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Prix": 760.00,
+    "Poids_lb": 16.0,
+    "Poids_kg": 7.3
+  }
+]
+```
+
+-------

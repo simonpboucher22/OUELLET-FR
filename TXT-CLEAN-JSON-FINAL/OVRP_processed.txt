@@ -1,0 +1,226 @@
+# OVRP - Ventilo-convecteur compact de plafond
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Construction
+• Boîtier en acier de calibre 20.
+• Devant en acier de calibre 22.
+• Protection thermique à réenclenchement automatique.
+
+### Ventilateur
+• Ventilateur silencieux.
+• Modèles 120V, 208V, 240/208V :
+  40 pcm de 500W à 1000W et 80 pcm de 1250W à 2000W.
+• Modèles 347V : 80 pcm.
+• Moteur lubrifié à vie.
+
+-------
+
+### Élément
+• 120V, 208V, 208/240V : élément tubulaire à ailettes très robuste.
+  - Élément scellé en usine en option.
+• 347V : Alliage fer-chrome-aluminium.
+
+### Régulation
+• Si un thermostat électronique est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+
+### Installation
+• Installation rapide grâce aux trous de fixation du boîtier d'encastrement.
+• Vaste compartiment de câblage.
+• Boîtier de montage en surface en option.
+• Boîtier d'encastrement en «V» permettant une installation ajustée.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Vestibule, salle d'eau, salle à manger-cuisine, salle familiale, corridor.
+
+-------
+
+## Caractéristiques OVRP
+
+### Tension
+• 120V, 240/208V, 347V, 1 phase.
+
+### Régulation
+• Doit être utilisé avec un thermostat mural compatible (non inclus).
+• Relais électronique en option.
+
+### Installation
+• Installation au plafond seulement.
+• La sortie d'air doit être installée à une distance minimale de 10 po (25.4 cm) du mur.
+• S'encastre dans un plafond
+
+-------
+
+## Tableau OVRP - Ventilo-convecteur compact de plafond
+
+```json
+[
+  {
+    "#Produit": "OVRP0502",
+    "Watts": 500.0,
+    "Volts": 120.0,
+    "Prix": 355.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP0752",
+    "Watts": 750.0,
+    "Volts": 120.0,
+    "Prix": 355.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP1002",
+    "Watts": 1000.0,
+    "Volts": 120.0,
+    "Prix": 378.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP1252",
+    "Watts": 1250.0,
+    "Volts": 120.0,
+    "Prix": 415.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP1502",
+    "Watts": 1500.0,
+    "Volts": 120.0,
+    "Prix": 415.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP0500",
+    "Watts": "500/375",
+    "Volts": "240/208",
+    "Prix": 346.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP0750",
+    "Watts": "750/563",
+    "Volts": "240/208",
+    "Prix": 346.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP1000",
+    "Watts": "1000/750",
+    "Volts": "240/208",
+    "Prix": 366.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP1250",
+    "Watts": "1250/938",
+    "Volts": "240/208",
+    "Prix": 366.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP1500",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Prix": 405.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP0507",
+    "Watts": 500.0,
+    "Volts": 347.0,
+    "Prix": 533.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP1007",
+    "Watts": 1000.0,
+    "Volts": 347.0,
+    "Prix": 559.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP1507",
+    "Watts": 1500.0,
+    "Volts": 347.0,
+    "Prix": 598.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  },
+  {
+    "#Produit": "OVRP2007",
+    "Watts": 2000.0,
+    "Volts": 347.0,
+    "Prix": 663.00,
+    "Poids_lb": 9.0,
+    "Poids_kg": 4.1
+  }
+]
+```
+
+-------
+
+## Tableau OVRP - Options
+
+```json
+[
+  {
+    "#Produit": "KIT-OVR-BS",
+    "En_trousse": true,
+    "Installée_en_usine": false,
+    "Prix": 73.00,
+    "Description": "Boîtier pour montage en surface"
+  },
+  {
+    "#Produit": "KIT-OVR-DIS1",
+    "En_trousse": true,
+    "Installée_en_usine": "DIS1",
+    "Prix": 179.00,
+    "Description": "Interrupteur principal, 20A à 277V max. (120V, 240/208V seulement)"
+  },
+  {
+    "#Produit": "ES2",
+    "En_trousse": false,
+    "Installée_en_usine": true,
+    "Prix": 33.00,
+    "Description": "Élément scellé en usine (120V, 240/208V seulement)"
+  },
+  {
+    "#Produit": "TRIAC4",
+    "En_trousse": false,
+    "Installée_en_usine": true,
+    "Prix": 83.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."
+  },
+  {
+    "#Produit": "TRIACT4",
+    "En_trousse": false,
+    "Installée_en_usine": true,
+    "Prix": 113.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 277V, 347V"
+  }
+]
+```

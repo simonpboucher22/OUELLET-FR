@@ -1,0 +1,736 @@
+# OHB - Plinthe coupe-brise haute densité en aluminium
+
+-------
+
+## Caractéristiques
+
+### Couleur
+- Standards : blanc, amande.
+- Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+- Couleurs sur mesure disponibles sur demande.
+
+### Finition
+- Standard : peinture à la poudre d'époxy/polyester.
+- Optionnelle : aluminium anodisé.
+
+### Tension
+- 208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.
+
+### Construction
+- Devant et dessus en aluminium de calibre 14 (0.0787 po [2 mm]).
+- Boîtier en acier satiné de calibre 18.
+- Assemblage vissé pour une plus grande robustesse.
+- Canalisation de câblage intégrée pleine longueur.
+- Canalisation de câblage 24V (-WW) en option.
+- Ouvertures inférieures à 1/4 po (6.4 mm) évitant l'intrusion de petits objets à l'intérieur.
+- Entrée d'air frais par le dessous et sortie d'air chaud par le dessus.
+- Finition unie du dos de l'appareil (-BD) en option.
+- Protection thermique linéaire pleine longueur à réenclenchement automatique.
+- Protection thermique pour la haute altitude (-HA) en option.
+- Bouts inclus.
+
+### Élément
+- Deux éléments tubulaires en acier inoxydable recouverts d'ailettes en aluminium.
+- Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+### Densité
+- Densité moyenne standard de 355W/pi.
+- Basse densité moyenne de 175W/pi, 250W/pi.
+- Haute densité moyenne de 500W/pi.
+
+### Régulation
+- Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+- Relais mécanique, relais électronique ou relais pneumatique en option.
+- Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+- Usage non-résidentiel aux États-Unis.
+- L'appareil doit être installé à 3 po (76 mm) au-dessus du plancher.
+- Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.
+- Installation au plancher avec piédestals ou au mur.
+- Trousse de piédestals en option.
+- Variété d'accessoires pour l'installation en continu en option.
+
+### Garantie
+- 3 ans contre tous vices.
+
+### Application
+- Édifice commercial, immeuble de bureaux, hôpital, école, résidence privée
+
+-------
+
+## Tableau OHB - Modèles à densité moyenne standard de 355W/pi
+
+```json
+[
+  {
+    "#Produit": "OHB0750",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "750/563",
+    "Watts_208V": "750.0",
+    "Watts_347V": "750.0",
+    "Watts_600V": "-",
+    "Prix": "651.00",
+    "Longueur_po": "23.625",
+    "Longueur_mm": "600.0",
+    "Poids_lb": "10.7",
+    "Poids_kg": "4.8",
+    "Densité": "355W/pi",
+    "Code_208V": "OHB0758",
+    "Code_347V": "OHB0757",
+    "Code_600V": "-"
+  },
+  {
+    "#Produit": "OHB1000",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "1000/750",
+    "Watts_208V": "1000.0",
+    "Watts_347V": "1000.0",
+    "Watts_600V": "-",
+    "Prix": "737.00",
+    "Longueur_po": "35.4375",
+    "Longueur_mm": "900.0",
+    "Poids_lb": "14.1",
+    "Poids_kg": "6.4",
+    "Densité": "355W/pi",
+    "Code_208V": "OHB1008",
+    "Code_347V": "OHB1007",
+    "Code_600V": "-"
+  },
+  {
+    "#Produit": "OHB1400",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "1400/1050",
+    "Watts_208V": "1400.0",
+    "Watts_347V": "1400.0",
+    "Watts_600V": "1400.0",
+    "Prix": "840.00",
+    "Longueur_po": "47.25",
+    "Longueur_mm": "1200.0",
+    "Poids_lb": "17.6",
+    "Poids_kg": "8.0",
+    "Densité": "355W/pi",
+    "Code_208V": "OHB1408",
+    "Code_347V": "OHB1407",
+    "Code_600V": "OHB1406"
+  },
+  {
+    "#Produit": "OHB1750",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "1750/1313",
+    "Watts_208V": "1750.0",
+    "Watts_347V": "1750.0",
+    "Watts_600V": "1750.0",
+    "Prix": "950.00",
+    "Longueur_po": "59.0625",
+    "Longueur_mm": "1500.0",
+    "Poids_lb": "21.1",
+    "Poids_kg": "9.6",
+    "Densité": "355W/pi",
+    "Code_208V": "OHB1758",
+    "Code_347V": "OHB1757",
+    "Code_600V": "OHB1756"
+  },
+  {
+    "#Produit": "OHB2100",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "2100/1577",
+    "Watts_208V": "2100.0",
+    "Watts_347V": "2100.0",
+    "Watts_600V": "2100.0",
+    "Prix": "1083.00",
+    "Longueur_po": "70.875",
+    "Longueur_mm": "1800.0",
+    "Poids_lb": "24.6",
+    "Poids_kg": "11.1",
+    "Densité": "355W/pi",
+    "Code_208V": "OHB2108",
+    "Code_347V": "OHB2107",
+    "Code_600V": "OHB2106"
+  },
+  {
+    "#Produit": "OHB2450",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "2450/1840",
+    "Watts_208V": "2450.0",
+    "Watts_347V": "2450.0",
+    "Watts_600V": "2450.0",
+    "Prix": "1227.00",
+    "Longueur_po": "82.6875",
+    "Longueur_mm": "2100.0",
+    "Poids_lb": "28.0",
+    "Poids_kg": "12.7",
+    "Densité": "355W/pi",
+    "Code_208V": "OHB2458",
+    "Code_347V": "OHB2457",
+    "Code_600V": "OHB2456"
+  },
+  {
+    "#Produit": "OHB2800",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "2800/2103",
+    "Watts_208V": "2800.0",
+    "Watts_347V": "2800.0",
+    "Watts_600V": "2800.0",
+    "Prix": "1394.00",
+    "Longueur_po": "94.5",
+    "Longueur_mm": "2400.0",
+    "Poids_lb": "31.5",
+    "Poids_kg": "14.3",
+    "Densité": "355W/pi",
+    "Code_208V": "OHB2808",
+    "Code_347V": "OHB2807",
+    "Code_600V": "OHB2806"
+  }
+]
+```
+
+-------
+
+## Tableau OHB - Modèles à basse densité moyenne
+
+```json
+[
+  {
+    "#Produit": "OHB040X-600",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "651.00",
+    "Longueur": "23 5/8\" (600 mm)",
+    "Poids": "10.7 lb (4.8 kg)",
+    "Densité_moyenne_W/pi": "175.0",
+    "Watts": "375.0",
+    "Watts_240/208V": "375/281",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "-",
+    "Tension_600V": "-"
+  },
+  {
+    "#Produit": "OHB050X-600",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "651.00",
+    "Longueur": "23 5/8\" (600 mm)",
+    "Poids": "10.7 lb (4.8 kg)",
+    "Densité_moyenne_W/pi": "250.0",
+    "Watts": "500.0",
+    "Watts_240/208V": "500/375",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "-",
+    "Tension_600V": "-"
+  },
+  {
+    "#Produit": "OHB050X-900",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "737.00",
+    "Longueur": "35 7/16\" (900 mm)",
+    "Poids": "14.1 lb (6.4 kg)",
+    "Densité_moyenne_W/pi": "175.0",
+    "Watts": "500.0",
+    "Watts_240/208V": "500/375",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "-"
+  },
+  {
+    "#Produit": "OHB075X-900",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "737.00",
+    "Longueur": "35 7/16\" (900 mm)",
+    "Poids": "14.1 lb (6.4 kg)",
+    "Densité_moyenne_W/pi": "250.0",
+    "Watts": "750.0",
+    "Watts_240/208V": "750/563",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "-"
+  },
+  {
+    "#Produit": "OHB070X-1200",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "840.00",
+    "Longueur": "47 1/4\" (1200 mm)",
+    "Poids": "17.6 lb (8.0 kg)",
+    "Densité_moyenne_W/pi": "175.0",
+    "Watts": "700.0",
+    "Watts_240/208V": "700/525",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  },
+  {
+    "#Produit": "OHB100X-1200",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "840.00",
+    "Longueur": "47 1/4\" (1200 mm)",
+    "Poids": "17.6 lb (8.0 kg)",
+    "Densité_moyenne_W/pi": "250.0",
+    "Watts": "1000.0",
+    "Watts_240/208V": "1000/750",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  },
+  {
+    "#Produit": "OHB087X-1500",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "950.00",
+    "Longueur": "59 1/16\" (1500 mm)",
+    "Poids": "21.1 lb (9.6 kg)",
+    "Densité_moyenne_W/pi": "175.0",
+    "Watts": "875.0",
+    "Watts_240/208V": "875/656",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  },
+  {
+    "#Produit": "OHB125X-1500",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "950.00",
+    "Longueur": "59 1/16\" (1500 mm)",
+    "Poids": "21.1 lb (9.6 kg)",
+    "Densité_moyenne_W/pi": "250.0",
+    "Watts": "1250.0",
+    "Watts_240/208V": "1250/938",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  },
+  {
+    "#Produit": "OHB105X-1800",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "1083.00",
+    "Longueur": "70 7/8\" (1800 mm)",
+    "Poids": "24.6 lb (11.1 kg)",
+    "Densité_moyenne_W/pi": "175.0",
+    "Watts": "1050.0",
+    "Watts_240/208V": "1050/788",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  },
+  {
+    "#Produit": "OHB150X-1800",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "1083.00",
+    "Longueur": "70 7/8\" (1800 mm)",
+    "Poids": "24.6 lb (11.1 kg)",
+    "Densité_moyenne_W/pi": "250.0",
+    "Watts": "1500.0",
+    "Watts_240/208V": "1500/1125",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  },
+  {
+    "#Produit": "OHB122X-2100",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "1227.00",
+    "Longueur": "82 11/16\" (2100 mm)",
+    "Poids": "28.0 lb (12.7 kg)",
+    "Densité_moyenne_W/pi": "175.0",
+    "Watts": "1225.0",
+    "Watts_240/208V": "1225/919",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  },
+  {
+    "#Produit": "OHB175X-2100",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "1227.00",
+    "Longueur": "82 11/16\" (2100 mm)",
+    "Poids": "28.0 lb (12.7 kg)",
+    "Densité_moyenne_W/pi": "250.0",
+    "Watts": "1750.0",
+    "Watts_240/208V": "1750/1313",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  },
+  {
+    "#Produit": "OHB140X-2400",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "1394.00",
+    "Longueur": "94 1/2\" (2400 mm)",
+    "Poids": "31.5 lb (14.3 kg)",
+    "Densité_moyenne_W/pi": "175.0",
+    "Watts": "1400.0",
+    "Watts_240/208V": "1400/1050",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  },
+  {
+    "#Produit": "OHB200X-2400",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Prix": "1394.00",
+    "Longueur": "94 1/2\" (2400 mm)",
+    "Poids": "31.5 lb (14.3 kg)",
+    "Densité_moyenne_W/pi": "250.0",
+    "Watts": "2000.0",
+    "Watts_240/208V": "2000/1500",
+    "Tension_208V": "✓",
+    "Tension_240/208V": "✓",
+    "Tension_347V": "✓",
+    "Tension_600V": "✓"
+  }
+]
+```
+
+-------
+
+## Tableau OHBH - Modèles à haute densité moyenne de 500W/pi
+
+```json
+[
+  {
+    "#Produit": "OHBH1000",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "1000/750",
+    "Watts_208V": "1000.0",
+    "Watts_347V": "1000.0",
+    "Watts_600V": "-",
+    "Prix": "651.00",
+    "Longueur_po": "23.625",
+    "Longueur_mm": "600.0",
+    "Poids_lb": "10.7",
+    "Poids_kg": "4.8",
+    "Densité": "500W/pi",
+    "Code_208V": "OHBH1008",
+    "Code_347V": "OHBH1007",
+    "Code_600V": "-"
+  },
+  {
+    "#Produit": "OHBH1500",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "1500/1125",
+    "Watts_208V": "1500.0",
+    "Watts_347V": "1500.0",
+    "Watts_600V": "1500.0",
+    "Prix": "737.00",
+    "Longueur_po": "35.4375",
+    "Longueur_mm": "900.0",
+    "Poids_lb": "14.1",
+    "Poids_kg": "6.4",
+    "Densité": "500W/pi",
+    "Code_208V": "OHBH1508",
+    "Code_347V": "OHBH1507",
+    "Code_600V": "OHBH1506"
+  },
+  {
+    "#Produit": "OHBH2000",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "2000/1500",
+    "Watts_208V": "2000.0",
+    "Watts_347V": "2000.0",
+    "Watts_600V": "2000.0",
+    "Prix": "840.00",
+    "Longueur_po": "47.25",
+    "Longueur_mm": "1200.0",
+    "Poids_lb": "17.6",
+    "Poids_kg": "8.0",
+    "Densité": "500W/pi",
+    "Code_208V": "OHBH2008",
+    "Code_347V": "OHBH2007",
+    "Code_600V": "OHBH2006"
+  },
+  {
+    "#Produit": "OHBH2500",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "2500/1875",
+    "Watts_208V": "2500.0",
+    "Watts_347V": "2500.0",
+    "Watts_600V": "2500.0",
+    "Prix": "950.00",
+    "Longueur_po": "59.0625",
+    "Longueur_mm": "1500.0",
+    "Poids_lb": "21.1",
+    "Poids_kg": "9.6",
+    "Densité": "500W/pi",
+    "Code_208V": "OHBH2508",
+    "Code_347V": "OHBH2507",
+    "Code_600V": "OHBH2506"
+  },
+  {
+    "#Produit": "OHBH3000",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "3000/2250",
+    "Watts_208V": "3000.0",
+    "Watts_347V": "3000.0",
+    "Watts_600V": "3000.0",
+    "Prix": "1083.00",
+    "Longueur_po": "70.875",
+    "Longueur_mm": "1800.0",
+    "Poids_lb": "24.6",
+    "Poids_kg": "11.1",
+    "Densité": "500W/pi",
+    "Code_208V": "OHBH3008",
+    "Code_347V": "OHBH3007",
+    "Code_600V": "OHBH3006"
+  },
+  {
+    "#Produit": "OHBH3500",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "3500/2625",
+    "Watts_208V": "3500.0",
+    "Watts_347V": "3500.0",
+    "Watts_600V": "3500.0",
+    "Prix": "1227.00",
+    "Longueur_po": "82.6875",
+    "Longueur_mm": "2100.0",
+    "Poids_lb": "28.0",
+    "Poids_kg": "12.7",
+    "Densité": "500W/pi",
+    "Code_208V": "OHBH3508",
+    "Code_347V": "OHBH3507",
+    "Code_600V": "OHBH3506"
+  },
+  {
+    "#Produit": "OHBH4000",
+    "Description": "Plinthe coupe-brise haute densité en aluminium",
+    "Watts_240/208V": "4000/3000",
+    "Watts_208V": "4000.0",
+    "Watts_347V": "4000.0",
+    "Watts_600V": "4000.0",
+    "Prix": "1394.00",
+    "Longueur_po": "94.5",
+    "Longueur_mm": "2400.0",
+    "Poids_lb": "31.5",
+    "Poids_kg": "14.3",
+    "Densité": "500W/pi",
+    "Code_208V": "OHBH4008",
+    "Code_347V": "OHBH4007",
+    "Code_600V": "OHBH4006"
+  }
+]
+```
+
+-------
+
+## Tableau OHB - Options
+
+```json
+[
+  {
+    "#Produit": "BD1",
+    "Description": "Finition unie du dos de l'appareil",
+    "Prix": "0.1",
+    "Catégorie": "Finition",
+    "Type": "Installée en usine",
+    "En_trousse": "-"
+  },
+  {
+    "#Produit": "KIT-OHB-CE",
+    "Description": "Coin extérieur, 8 po (203 mm)",
+    "Prix": "617.00",
+    "Catégorie": "Finition",
+    "Type": "En trousse",
+    "En_trousse": "KIT-OHB-CE"
+  },
+  {
+    "#Produit": "KIT-OHB-CI",
+    "Description": "Coin intérieur, 8 po (203 mm)",
+    "Prix": "617.00",
+    "Catégorie": "Finition",
+    "Type": "En trousse",
+    "En_trousse": "KIT-OHB-CI"
+  },
+  {
+    "#Produit": "KIT-OHB-JT",
+    "Description": "Joint de finition, 2 po (51 mm)",
+    "Prix": "145.00",
+    "Catégorie": "Finition",
+    "Type": "En trousse",
+    "En_trousse": "KIT-OHB-JT"
+  },
+  {
+    "#Produit": "KIT-OHB-JT-PE",
+    "Description": "Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)",
+    "Prix": "154.00",
+    "Catégorie": "Finition",
+    "Type": "En trousse",
+    "En_trousse": "KIT-OHB-JT-PE"
+  },
+  {
+    "#Produit": "KIT-OHB-PEC",
+    "Description": "Trousse de piédestals carrés (2), 3 po (76 mm)",
+    "Prix": "148.00",
+    "Catégorie": "Finition",
+    "Type": "En trousse",
+    "En_trousse": "KIT-OHB-PEC"
+  },
+  {
+    "#Produit": "OHB-SV-XX",
+    "Description": "Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2400 mm)",
+    "Prix": "Sur demande",
+    "Catégorie": "Finition",
+    "Type": "En trousse",
+    "En_trousse": "OHB-SV-XX"
+  },
+  {
+    "#Produit": "DIS203",
+    "Description": "Interrupteur principal, 20A à 277V max.",
+    "Prix": "172.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-DIS203"
+  },
+  {
+    "#Produit": "DIS403",
+    "Description": "Interrupteur principal, 40A à 600V max.",
+    "Prix": "211.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-DIS403"
+  },
+  {
+    "#Produit": "HA",
+    "Description": "Protection thermique pour la haute altitude (3000 pi à 8200 pi)",
+    "Prix": "Sans frais",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "-"
+  },
+  {
+    "#Produit": "PM",
+    "Description": "Relais pneumatique, 20A à 600V max.",
+    "Prix": "410.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "-"
+  },
+  {
+    "#Produit": "R",
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 19A à 277V - 18A à 347V",
+    "Prix": "175.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-R-347"
+  },
+  {
+    "#Produit": "R",
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V",
+    "Prix": "182.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-R-600"
+  },
+  {
+    "#Produit": "RT",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V",
+    "Prix": "195.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-RT-208"
+  },
+  {
+    "#Produit": "RT",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V",
+    "Prix": "195.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-RT-240"
+  },
+  {
+    "#Produit": "RT",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V",
+    "Prix": "195.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-RT-277"
+  },
+  {
+    "#Produit": "RT",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V",
+    "Prix": "189.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-RT-347"
+  },
+  {
+    "#Produit": "RT2",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)",
+    "Prix": "195.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-RT-6002"
+  },
+  {
+    "#Produit": "T",
+    "Description": "Thermostat unipolaire : 25A à 208V, 240V - 10A à 277V, 347V, 480V, 600V",
+    "Prix": "137.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-T"
+  },
+  {
+    "#Produit": "T24",
+    "Description": "Thermostat bipolaire : 30A à 208V, 240V - 15A à 277V, 347V, 600V",
+    "Prix": "228.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-T24"
+  },
+  {
+    "#Produit": "TAV",
+    "Description": "Thermostat unipolaire, anti-vandale : 25A à 208V, 240V - 10A à 277V, 347V, 480V, 600V",
+    "Prix": "137.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-T-AV"
+  },
+  {
+    "#Produit": "T2AV4",
+    "Description": "Thermostat bipolaire, anti-vandale : 30A à 208V, 240V - 15A à 277V, 347V, 600V",
+    "Prix": "228.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-T2-AV4"
+  },
+  {
+    "#Produit": "TRIAC",
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.",
+    "Prix": "77.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-TRIAC-347"
+  },
+  {
+    "#Produit": "TRIACT",
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V",
+    "Prix": "105.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-TRIAC-347T"
+  },
+  {
+    "#Produit": "TRIAC",
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.",
+    "Prix": "135.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "KIT-OHB-TRIAC-600"
+  },
+  {
+    "#Produit": "WW",
+    "Description": "Canalisation de câblage 24V incluant fils haute température",
+    "Prix": "46.00",
+    "Catégorie": "Contrôles",
+    "Type": "Installée en usine",
+    "En_trousse": "-"
+  }
+]
+```

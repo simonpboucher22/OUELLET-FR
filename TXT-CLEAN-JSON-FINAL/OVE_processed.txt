@@ -1,0 +1,128 @@
+# OVE - Ventilo-convecteur de style européen pour salle de bain
+
+## Caractéristiques
+
+### Couleur
+- Standards : blanc, amande.
+- Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+- Couleurs sur mesure disponibles sur demande.
+
+### Finition
+- Standard : peinture à la poudre d'époxy/polyester.
+- Optionnelle : acier inoxydable (les grilles et le dos de l'appareil sont peints en noir).
+
+### Tension
+- 120V, 240/208V, 1 phase.
+
+### Construction
+- Acier de calibre 20 ou acier inoxydable de calibre 22.
+- Sortie d'air chaud à effet propulsif, qui dirige l'air vers le centre de la pièce.
+- Grilles à lames limitant l'insertion de petits objets, recouvertes d'une peinture à faible porosité lavable et anti-jaunissement.
+- Protection thermique à réenclenchement automatique.
+
+### Ventilateur
+- Ventilateur à cage d'écureuil ultra silencieux.
+- Moteur lubrifié à vie.
+
+-------
+
+### Élément
+- Fil tissé en alliage nickel-chrome protégé par des isolateurs en mica.
+- Élément produisant une chaleur instantanée.
+
+### Régulation
+- Thermostat à bulbe (modèles -T et -TM).
+- Minuterie mécanique, 0-60 minutes (modèle -TM).
+- Note : Si un thermostat électronique mural est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.
+
+### Installation
+- Installation au mur à 12 po (306 mm) minimum du plancher.
+- Montage en surface sans adaptateur ou encastré dans une structure de mur en 2 po X 3 po.
+- Installation et raccordement rapides grâce aux trous de fixation et aux débouchures (vis de fixation incluses).
+
+### Garantie
+- 5 ans contre tous vices.
+
+### Application
+- Vestibule, salle d'eau, salle à manger-cuisine, salle familiale, corridor.
+
+-------
+
+## Tableau OVE - Ventilo-convecteur de style européen pour salle de bain
+
+```json
+[
+  {
+    "#Produit": "OVE15021",
+    "Watts": 1500.0,
+    "Volts": 120.0,
+    "Modèle": "Standard",
+    "Prix": 446.00,
+    "Prix_Acier_Inoxydable": 572.00,
+    "Poids_lb": 14.0,
+    "Poids_kg": 6.4
+  },
+  {
+    "#Produit": "OVE1502-T",
+    "Watts": 1500.0,
+    "Volts": 120.0,
+    "Modèle": "Avec thermostat à bulbe",
+    "Prix": 513.00,
+    "Prix_Acier_Inoxydable": 655.00,
+    "Poids_lb": 14.0,
+    "Poids_kg": 6.4
+  },
+  {
+    "#Produit": "OVE1502-TM",
+    "Watts": 1500.0,
+    "Volts": 120.0,
+    "Modèle": "Avec thermostat à bulbe et minuterie mécanique",
+    "Prix": 556.00,
+    "Prix_Acier_Inoxydable": 710.00,
+    "Poids_lb": 14.0,
+    "Poids_kg": 6.4
+  },
+  {
+    "#Produit": "OVE15001",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Modèle": "Standard",
+    "Prix": 377.00,
+    "Prix_Acier_Inoxydable": 482.00,
+    "Poids_lb": 14.0,
+    "Poids_kg": 6.4
+  },
+  {
+    "#Produit": "OVE1500-T",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Modèle": "Avec thermostat à bulbe",
+    "Prix": 433.00,
+    "Prix_Acier_Inoxydable": 557.00,
+    "Poids_lb": 14.0,
+    "Poids_kg": 6.4
+  },
+  {
+    "#Produit": "OVE1500-TM2",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Modèle": "Avec thermostat à bulbe et minuterie mécanique",
+    "Prix": 471.00,
+    "Prix_Acier_Inoxydable": 602.00,
+    "Poids_lb": 14.0,
+    "Poids_kg": 6.4
+  },
+  {
+    "#Produit": "OVE1500BL-TM3",
+    "Watts": "1500/1125",
+    "Volts": "240/208",
+    "Modèle": "Avec thermostat à bulbe et minuterie mécanique (version spéciale)",
+    "Prix": 306.00,
+    "Prix_Acier_Inoxydable": "-",
+    "Poids_lb": 14.0,
+    "Poids_kg": 6.4
+  }
+]
+```
+
+-------

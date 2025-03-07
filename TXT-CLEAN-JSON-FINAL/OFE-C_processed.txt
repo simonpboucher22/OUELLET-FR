@@ -1,0 +1,132 @@
+# OFE-C Fournaise électrique Confort
+
+## Caractéristiques
+
+### Finition
+• Acier galvanisé non peint.
+
+### Tension
+• 240/208V, 1 phase.
+
+### Construction
+• Boîtier robuste en acier galvanisé complètement isolé pour une diminution des pertes de chaleur et du bruit.
+• Un seul panneau donnant accès à toutes les composantes internes.
+
+### Ventilateur
+• Ventilateur de qualité supérieure équilibré pour un fonctionnement optimal et silencieux.
+
+### Moteur
+• Moteur standard (PSC), lubrifié à vie et monté sur des supports en caoutchouc pour réduire au maximum les risques de bruits et de vibrations.
+• Relais et carte de circuits imprimés contrôlant le fonctionnement automatique du moteur et permettant l'ajout d'un climatiseur ou d'une pompe à chaleur.
+
+### Élément
+• Fils hélicoïdaux en alliage nickel-chrome 4kW et 5kW robustes, fiables et assurant un meilleur transfert de chaleur et moins de restriction au passage de l'air.
+• Éléments chauffants remplaçables individuellement.
+• Protection thermique à réenclenchement automatique.
+• Éléments activés à intervalles progressifs par une carte de circuits imprimés bas voltage afin d'éviter les variations électriques.
+
+### Régulation
+• Transformateur robuste de 24VAC qui alimente les relais et contrôles.
+• Disjoncteurs intégrés à réenclenchement manuel.
+• Compatible avec un thermostat à 1 ou 2 stages avec ou sans unité externe.
+• Bornier d'alimentation 120V permettant l'ajout d'accessoires tels qu'un humidificateur et un filtre électronique (jusqu'à un maximum de 2A).
+
+### Installation
+• Installation multi-positions avec retour d'air sur les côtés, l'arrière ou le dessous.
+• Approuvée pour une installation contre les surfaces combustibles sans aucun dégagement.
+
+### Garantie
+• 5 ans contre tous vices.
+
+### Application
+• Pour la maison, le bureau ou le chalet, aussi approuvée pour installation dans les maisons mobiles. S'installe n'importe où : sous-sol, placard, vide sanitaire ou tout autre espace libre.
+
+-------
+
+## Tableau OFE-C - Fournaise électrique Confort (Modèles avec moteur standard PSC)
+
+```json
+[
+  {
+    "#Produit": "OFEC10000",
+    "Volts": "240/208",
+    "kW": "10.0 (34120)/7.5 (25628)",
+    "Amp_incluant_moteur": "44.0/38.2",
+    "Moteur_HP": "45660.0",
+    "Pression_statique": {
+      "Vitesse_du_moteur": "Basse",
+      "pcm": "595.0"
+    },
+    "Poids": {
+      "lb": "105.0",
+      "kg": "48.0"
+    }
+  },
+  {
+    "#Produit": "OFEC15000",
+    "Volts": "240/208",
+    "kW": "15.0 (51180)/11.3 (38442)",
+    "Amp_incluant_moteur": "64.7/56.1",
+    "Moteur_HP": "45660.0",
+    "Pression_statique": {
+      "Vitesse_du_moteur": "Basse",
+      "pcm": "595.0"
+    },
+    "Poids": {
+      "lb": "105.0",
+      "kg": "48.0"
+    }
+  },
+  {
+    "#Produit": "OFEC18000",
+    "Volts": "240/208",
+    "kW": "18.0 (61420)/13.5 (46130)",
+    "Amp_incluant_moteur": "78.4/68.0",
+    "Moteur_HP": "45660.0",
+    "Pression_statique": {
+      "Vitesse_du_moteur": "Basse",
+      "pcm": "595.0"
+    },
+    "Poids": {
+      "lb": "105.0",
+      "kg": "48.0"
+    }
+  },
+  {
+    "#Produit": "OFEC20000",
+    "Volts": "240/208",
+    "kW": "20.0 (68240)/15.0 (51256)",
+    "Amp_incluant_moteur": "85.4/74.1",
+    "Moteur_HP": "45660.0",
+    "Pression_statique": {
+      "Vitesse_du_moteur": "Basse",
+      "pcm": "595.0"
+    },
+    "Poids": {
+      "lb": "105.0",
+      "kg": "48.0"
+    }
+  }
+]
+```
+
+-------
+
+## Tableau OFE-C - Options
+
+```json
+[
+  {
+    "#Produit": "OFE-SO2",
+    "Type": "En trousse",
+    "Description": "Socle de fournaise pour installation en débit descendant"
+  },
+  {
+    "#Produit": "OFE-AK2",
+    "Type": "En trousse",
+    "Description": "Raccord d'installation pour conduit 17 po X 17 po"
+  }
+]
+```
+
+-------

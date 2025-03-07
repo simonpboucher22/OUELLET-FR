@@ -1,0 +1,673 @@
+# XB Convecteur antidéflagrant
+
+## Caractéristiques
+Tension
+• 120V, 208V, 240V, 480V, 600V, 1 phase.
+
+Construction
+• Conception unique.
+• Convecteur en aluminium très efficace.
+• Grilles de protection standard. 1
+• Convection à basse température.
+• Boîte de jonction scellée. 2
+
+Élément
+• Élément chauffant tubulaire inséré dans un dissipateur d'aluminium. 3
+
+Densité
+• Variable selon le code de température.
+
+-------
+
+Régulation
+• Thermostat intégré ou mural en option.
+
+Installation
+• Support mural intégré. 4, 5
+
+Garantie
+• 1 an contre tous vices.
+
+Application
+• Raffinerie, mine, entrepôt de matières dangereuses.
+• Température ambiante maximum : 25 °C (77 °F). Consulter le Code de l'électricité de votre région avant de faire l'installation de ces unités.
+
+-------
+
+## Tableau XB - Convecteur antidéflagrant (Modèles)
+
+```json
+[
+  {
+    "#Produit": "XB1-1047T2D11",
+    "Watts": 475.0,
+    "Volts": 120.0,
+    "Prix": 2864.00,
+    "Code de température": "T2D",
+    "Type": 1.0,
+    "Dimensions": {
+      "L": {
+        "po": 10.0,
+        "mm": 254.0
+      },
+      "M": {
+        "po": 7.3125,
+        "mm": 184.0
+      }
+    },
+    "Poids": {
+      "lb": 10.0,
+      "kg": 4.5
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB1-4100T2D11",
+    "Watts": 1000.0,
+    "Volts": 120.0,
+    "Prix": 4067.00,
+    "Code de température": "T2D",
+    "Type": 1.0,
+    "Dimensions": {
+      "L": {
+        "po": 23.4375,
+        "mm": 594.0
+      },
+      "M": {
+        "po": 7.3125,
+        "mm": 184.0
+      }
+    },
+    "Poids": {
+      "lb": 20.0,
+      "kg": 9.1
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB2-3150T2D11",
+    "Watts": 1500.0,
+    "Volts": 120.0,
+    "Prix": 4772.00,
+    "Code de température": "T2D",
+    "Type": 2.0,
+    "Dimensions": {
+      "L": {
+        "po": 16.75,
+        "mm": 424.0
+      },
+      "M": {
+        "po": 16.125,
+        "mm": 410.0
+      }
+    },
+    "Poids": {
+      "lb": 30.0,
+      "kg": 13.6
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB1-4100T2D21",
+    "Watts": 1000.0,
+    "Volts": 208.0,
+    "Prix": 4067.00,
+    "Code de température": "T2D",
+    "Type": 1.0,
+    "Dimensions": {
+      "L": {
+        "po": 23.4375,
+        "mm": 594.0
+      },
+      "M": {
+        "po": 7.3125,
+        "mm": 184.0
+      }
+    },
+    "Poids": {
+      "lb": 20.0,
+      "kg": 9.1
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB2-3150T2D21",
+    "Watts": 1500.0,
+    "Volts": 208.0,
+    "Prix": 4772.00,
+    "Code de température": "T2D",
+    "Type": 2.0,
+    "Dimensions": {
+      "L": {
+        "po": 16.75,
+        "mm": 424.0
+      },
+      "M": {
+        "po": 16.125,
+        "mm": 410.0
+      }
+    },
+    "Poids": {
+      "lb": 30.0,
+      "kg": 13.6
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB2-4200T2D21",
+    "Watts": 2000.0,
+    "Volts": 208.0,
+    "Prix": 8341.00,
+    "Code de température": "T2D",
+    "Type": 2.0,
+    "Dimensions": {
+      "L": {
+        "po": 23.4375,
+        "mm": 594.0
+      },
+      "M": {
+        "po": 16.125,
+        "mm": 410.0
+      }
+    },
+    "Poids": {
+      "lb": 40.0,
+      "kg": 18.1
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB3-4300T2D21",
+    "Watts": 3000.0,
+    "Volts": 208.0,
+    "Prix": 8341.00,
+    "Code de température": "T2D",
+    "Type": 3.0,
+    "Dimensions": {
+      "L": {
+        "po": 23.4375,
+        "mm": 594.0
+      },
+      "M": {
+        "po": 25.0,
+        "mm": 635.0
+      }
+    },
+    "Poids": {
+      "lb": 60.0,
+      "kg": 27.2
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB4-6450T2D21",
+    "Watts": 4500.0,
+    "Volts": 208.0,
+    "Prix": 12388.00,
+    "Code de température": "T2D",
+    "Type": 4.0,
+    "Dimensions": {
+      "L": {
+        "po": 30.125,
+        "mm": 765.0
+      },
+      "M": {
+        "po": 33.9375,
+        "mm": 860.0
+      }
+    },
+    "Poids": {
+      "lb": 100.0,
+      "kg": 45.4
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB1-4100T2D31",
+    "Watts": 1000.0,
+    "Volts": 240.0,
+    "Prix": 4067.00,
+    "Code de température": "T2D",
+    "Type": 1.0,
+    "Dimensions": {
+      "L": {
+        "po": 23.4375,
+        "mm": 594.0
+      },
+      "M": {
+        "po": 7.3125,
+        "mm": 184.0
+      }
+    },
+    "Poids": {
+      "lb": 20.0,
+      "kg": 9.1
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB2-3150T2D31",
+    "Watts": 1500.0,
+    "Volts": 240.0,
+    "Prix": 4772.00,
+    "Code de température": "T2D",
+    "Type": 2.0,
+    "Dimensions": {
+      "L": {
+        "po": 16.75,
+        "mm": 424.0
+      },
+      "M": {
+        "po": 16.125,
+        "mm": 410.0
+      }
+    },
+    "Poids": {
+      "lb": 30.0,
+      "kg": 13.6
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB2-4200T2D31",
+    "Watts": 2000.0,
+    "Volts": 240.0,
+    "Prix": 8341.00,
+    "Code de température": "T2D",
+    "Type": 2.0,
+    "Dimensions": {
+      "L": {
+        "po": 23.4375,
+        "mm": 594.0
+      },
+      "M": {
+        "po": 16.125,
+        "mm": 410.0
+      }
+    },
+    "Poids": {
+      "lb": 40.0,
+      "kg": 18.1
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB3-4300T2D31",
+    "Watts": 3000.0,
+    "Volts": 240.0,
+    "Prix": 8341.00,
+    "Code de température": "T2D",
+    "Type": 3.0,
+    "Dimensions": {
+      "L": {
+        "po": 23.4375,
+        "mm": 594.0
+      },
+      "M": {
+        "po": 25.0,
+        "mm": 635.0
+      }
+    },
+    "Poids": {
+      "lb": 60.0,
+      "kg": 27.2
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB4-6450T2D31",
+    "Watts": 4500.0,
+    "Volts": 240.0,
+    "Prix": 12388.00,
+    "Code de température": "T2D",
+    "Type": 4.0,
+    "Dimensions": {
+      "L": {
+        "po": 30.125,
+        "mm": 765.0
+      },
+      "M": {
+        "po": 33.9375,
+        "mm": 860.0
+      }
+    },
+    "Poids": {
+      "lb": 100.0,
+      "kg": 45.4
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB1-4100T2D71",
+    "Watts": 1000.0,
+    "Volts": 480.0,
+    "Prix": 4539.00,
+    "Code de température": "T2D",
+    "Type": 1.0,
+    "Dimensions": {
+      "L": {
+        "po": 17.75,
+        "mm": 451.0
+      },
+      "M": {
+        "po": 7.3125,
+        "mm": 184.0
+      }
+    },
+    "Poids": {
+      "lb": 20.0,
+      "kg": 9.1
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB2-4200T2D71",
+    "Watts": 2000.0,
+    "Volts": 480.0,
+    "Prix": 7947.00,
+    "Code de température": "T2D",
+    "Type": 2.0,
+    "Dimensions": {
+      "L": {
+        "po": 17.75,
+        "mm": 451.0
+      },
+      "M": {
+        "po": 16.125,
+        "mm": 410.0
+      }
+    },
+    "Poids": {
+      "lb": 40.0,
+      "kg": 18.1
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB3-4300T2D71",
+    "Watts": 3000.0,
+    "Volts": 480.0,
+    "Prix": 7947.00,
+    "Code de température": "T2D",
+    "Type": 3.0,
+    "Dimensions": {
+      "L": {
+        "po": 17.75,
+        "mm": 451.0
+      },
+      "M": {
+        "po": 25.0,
+        "mm": 635.0
+      }
+    },
+    "Poids": {
+      "lb": 60.0,
+      "kg": 27.2
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB4-6450T2D71",
+    "Watts": 4500.0,
+    "Volts": 480.0,
+    "Prix": 11795.00,
+    "Code de température": "T2D",
+    "Type": 4.0,
+    "Dimensions": {
+      "L": {
+        "po": 30.125,
+        "mm": 765.0
+      },
+      "M": {
+        "po": 33.9375,
+        "mm": 860.0
+      }
+    },
+    "Poids": {
+      "lb": 100.0,
+      "kg": 45.4
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB1-4100T2D81",
+    "Watts": 1000.0,
+    "Volts": 600.0,
+    "Prix": 4762.00,
+    "Code de température": "T2D",
+    "Type": 1.0,
+    "Dimensions": {
+      "L": {
+        "po": 17.75,
+        "mm": 451.0
+      },
+      "M": {
+        "po": 7.3125,
+        "mm": 184.0
+      }
+    },
+    "Poids": {
+      "lb": 20.0,
+      "kg": 9.1
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB2-4200T2D81",
+    "Watts": 2000.0,
+    "Volts": 600.0,
+    "Prix": 8341.00,
+    "Code de température": "T2D",
+    "Type": 2.0,
+    "Dimensions": {
+      "L": {
+        "po": 17.75,
+        "mm": 451.0
+      },
+      "M": {
+        "po": 16.125,
+        "mm": 410.0
+      }
+    },
+    "Poids": {
+      "lb": 40.0,
+      "kg": 18.1
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB3-4300T2D81",
+    "Watts": 3000.0,
+    "Volts": 600.0,
+    "Prix": 8341.00,
+    "Code de température": "T2D",
+    "Type": 3.0,
+    "Dimensions": {
+      "L": {
+        "po": 17.75,
+        "mm": 451.0
+      },
+      "M": {
+        "po": 25.0,
+        "mm": 635.0
+      }
+    },
+    "Poids": {
+      "lb": 60.0,
+      "kg": 27.2
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB4-6450T2D81",
+    "Watts": 4500.0,
+    "Volts": 600.0,
+    "Prix": 12388.00,
+    "Code de température": "T2D",
+    "Type": 4.0,
+    "Dimensions": {
+      "L": {
+        "po": 30.125,
+        "mm": 765.0
+      },
+      "M": {
+        "po": 33.9375,
+        "mm": 860.0
+      }
+    },
+    "Poids": {
+      "lb": 100.0,
+      "kg": 45.4
+    },
+    "Classification": "Classe I, Division 1, Groupes A, B, C et D"
+  },
+  {
+    "#Produit": "XB3-6225T3B11",
+    "Watts": 2250.0,
+    "Volts": 120.0,
+    "Prix": 7430.00,
+    "Code de température": "T3B",
+    "Type": 3.0,
+    "Dimensions": {
+      "L": {
+        "po": 30.125,
+        "mm": 765.0
+      },
+      "M": {
+        "po": 25.0,
+        "mm": 635.0
+      }
+    },
+    "Poids": {
+      "lb": 75.0,
+      "kg": 34.0
+    },
+    "Classification": "Classe I, Divisions 1 et 2, Groupes A, B, C et D, Classe II, Divisions 1 et 2, Groupes E, F et G - Classe III, Division 1"
+  },
+  {
+    "#Produit": "XB3-6225T3B21",
+    "Watts": 2250.0,
+    "Volts": 208.0,
+    "Prix": 7430.00,
+    "Code de température": "T3B",
+    "Type": 3.0,
+    "Dimensions": {
+      "L": {
+        "po": 30.125,
+        "mm": 765.0
+      },
+      "M": {
+        "po": 25.0,
+        "mm": 635.0
+      }
+    },
+    "Poids": {
+      "lb": 75.0,
+      "kg": 34.0
+    },
+    "Classification": "Classe I, Divisions 1 et 2, Groupes A, B, C et D, Classe II, Divisions 1 et 2, Groupes E, F et G - Classe III, Division 1"
+  },
+  {
+    "#Produit": "XB3-6225T3B31",
+    "Watts": 2250.0,
+    "Volts": 240.0,
+    "Prix": 7430.00,
+    "Code de température": "T3B",
+    "Type": 3.0,
+    "Dimensions": {
+      "L": {
+        "po": 30.125,
+        "mm": 765.0
+      },
+      "M": {
+        "po": 25.0,
+        "mm": 635.0
+      }
+    },
+    "Poids": {
+      "lb": 75.0,
+      "kg": 34.0
+    },
+    "Classification": "Classe I, Divisions 1 et 2, Groupes A, B, C et D, Classe II, Divisions 1 et 2, Groupes E, F et G - Classe III, Division 1"
+  },
+  {
+    "#Produit": "XB3-6225T3B71",
+    "Watts": 2250.0,
+    "Volts": 480.0,
+    "Prix": 7430.00,
+    "Code de température": "T3B",
+    "Type": 3.0,
+    "Dimensions": {
+      "L": {
+        "po": 30.125,
+        "mm": 765.0
+      },
+      "M": {
+        "po": 25.0,
+        "mm": 635.0
+      }
+    },
+    "Poids": {
+      "lb": 75.0,
+      "kg": 34.0
+    },
+    "Classification": "Classe I, Divisions 1 et 2, Groupes A, B, C et D, Classe II, Divisions 1 et 2, Groupes E, F et G - Classe III, Division 1"
+  },
+  {
+    "#Produit": "XB3-6225T3B81",
+    "Watts": 2250.0,
+    "Volts": 600.0,
+    "Prix": 7430.00,
+    "Code de température": "T3B",
+    "Type": 3.0,
+    "Dimensions": {
+      "L": {
+        "po": 30.125,
+        "mm": 765.0
+      },
+      "M": {
+        "po": 25.0,
+        "mm": 635.0
+      }
+    },
+    "Poids": {
+      "lb": 75.0,
+      "kg": 34.0
+    },
+    "Classification": "Classe I, Divisions 1 et 2, Groupes A, B, C et D, Classe II, Divisions 1 et 2, Groupes E, F et G - Classe III, Division 1"
+  }
+]
+```
+
+-------
+
+## Tableau XB - Convecteur antidéflagrant (Options)
+
+```json
+[
+  {
+    "#Produit": "-",
+    "En trousse": "T",
+    "Prix": 1035.00,
+    "Description": "Thermostat unipolaire disponible pour unité à simple phase seulement"
+  },
+  {
+    "#Produit": "-",
+    "En trousse": "T2",
+    "Prix": 1035.00,
+    "Description": "Thermostat bipolaire"
+  },
+  {
+    "#Produit": "XB-TM",
+    "En trousse": "-",
+    "Prix": 1044.00,
+    "Description": "Thermostat mural antidéflagrant, plage de -18 °C à 40 °C (0 °F à 100 °F) : 15A à 600V, 25A à 277V"
+  },
+  {
+    "#Produit": "XB-TM2",
+    "En trousse": "-",
+    "Prix": 1140.00,
+    "Description": "Thermostat mural antidéflagrant bipolaire, plage de -18 °C à 40 °C (0 °F à 100 °F) : 15A à 600V, 25A à 277V"
+  }
+]
+```

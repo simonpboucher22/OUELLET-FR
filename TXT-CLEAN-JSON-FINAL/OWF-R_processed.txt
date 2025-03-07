@@ -1,0 +1,500 @@
+# OWF-R Câble de plancher chauffant pour pose sur gabarit
+
+-------
+
+## Caractéristiques
+
+**Tension**
+• 120V, 240/208V, 1 phase.
+
+**Longueur de la liaison froide**
+• 10' (3 m).
+
+**Construction**
+• Câble chauffant de type double conducteur pour une installation plus simple et plus rapide, à émission magnétique négligeable.
+
+**Densité**
+• 12W/pi² (130W/m²), installation aux 3'' (76 mm).
+• 9W/pi² (100W/m²), installation aux 4'' (102 mm).
+
+**Matériel inclus**
+• Gabarit de pose en plastique.
+• Sonde de sol de 15' (4.6 m).
+• Étiquette de tableau de mesures (à apposer au panneau électrique).
+
+**Installation**
+• Ne jamais couper ou tenter de raccourcir le câble.
+• Pour applications intérieures seulement.
+• S'installe sur un sous-plancher de contreplaqué ou sur une chape de béton.
+
+-------
+
+## Régulation
+
+• Deux types de régulation possible (voir manuel d'installation pour les détails) :
+- Régulation de la température de la surface avec un thermostat électronique en mode plancher (F) et sonde de sol.
+- Régulation de la température ambiante avec un thermostat électronique en mode ambiant avec limite de plancher (A ou AF) et sonde de sol.
+
+Note : Ce produit doit être utilisé avec un disjoncteur-détecteur de fuite à la terre (DDFT) sauf si exempté par le code national et/ou local en vigueur dans la région d'installation.
+
+**Garantie**
+• 25 ans sur le câble chauffant.
+
+**Application**
+• Vestibule, salle d'eau, salle à manger-cuisine, salle de séjour, salle familiale
+
+-------
+
+## Tableau OWF-R - Câble de plancher chauffant pour pose sur gabarit
+
+```json
+[
+  {
+    "#Produit": "OWF-R0082",
+    "Tension": "120V",
+    "Watts": 85.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 172.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 8.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 11.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 32.0, "Unité": "pi", "Valeur métrique": 9.75, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "25.0"
+  },
+  {
+    "#Produit": "OWF-R0122",
+    "Tension": "120V",
+    "Watts": 120.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 184.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 10.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 13.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 40.0, "Unité": "pi", "Valeur métrique": 12.19, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "25.0"
+  },
+  {
+    "#Produit": "OWF-R0152",
+    "Tension": "120V",
+    "Watts": 150.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 208.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 13.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 17.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 53.0, "Unité": "pi", "Valeur métrique": 16.15, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "25.0"
+  },
+  {
+    "#Produit": "OWF-R0170",
+    "Tension": "240/208V",
+    "Watts": 170.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 221.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 15.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 20.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 61.0, "Unité": "pi", "Valeur métrique": 18.59, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "25.0"
+  },
+  {
+    "#Produit": "OWF-R0172",
+    "Tension": "120V",
+    "Watts": 170.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 221.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 15.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 20.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 61.0, "Unité": "pi", "Valeur métrique": 18.59, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "25.0"
+  },
+  {
+    "#Produit": "OWF-R0240",
+    "Tension": "240/208V",
+    "Watts": 240.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 275.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 20.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 27.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 80.0, "Unité": "pi", "Valeur métrique": 24.38, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "25.0"
+  },
+  {
+    "#Produit": "OWF-R0242",
+    "Tension": "120V",
+    "Watts": 240.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 275.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 20.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 27.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 80.0, "Unité": "pi", "Valeur métrique": 24.38, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "25.0"
+  },
+  {
+    "#Produit": "OWF-R0300",
+    "Tension": "240/208V",
+    "Watts": 300.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 315.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 25.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 33.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 101.0, "Unité": "pi", "Valeur métrique": 30.78, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "25.0"
+  },
+  {
+    "#Produit": "OWF-R0302",
+    "Tension": "120V",
+    "Watts": 300.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 315.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 25.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 33.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 101.0, "Unité": "pi", "Valeur métrique": 30.78, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "25.0"
+  },
+  {
+    "#Produit": "OWF-R0360",
+    "Tension": "240/208V",
+    "Watts": 360.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 353.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 30.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 40.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 120.0, "Unité": "pi", "Valeur métrique": 36.58, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "50.0"
+  },
+  {
+    "#Produit": "OWF-R0362",
+    "Tension": "120V",
+    "Watts": 360.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 353.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 30.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 40.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 120.0, "Unité": "pi", "Valeur métrique": 36.58, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "50.0"
+  },
+  {
+    "#Produit": "OWF-R0420",
+    "Tension": "240/208V",
+    "Watts": 420.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 362.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 35.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 47.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 141.0, "Unité": "pi", "Valeur métrique": 42.98, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "50.0"
+  },
+  {
+    "#Produit": "OWF-R0422",
+    "Tension": "120V",
+    "Watts": 420.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 362.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 35.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 47.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 141.0, "Unité": "pi", "Valeur métrique": 42.98, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "50.0"
+  },
+  {
+    "#Produit": "OWF-R0475",
+    "Tension": "240/208V",
+    "Watts": 475.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 370.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 40.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 53.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 160.0, "Unité": "pi", "Valeur métrique": 48.76, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "50.0"
+  },
+  {
+    "#Produit": "OWF-R0472",
+    "Tension": "120V",
+    "Watts": 475.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 370.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 40.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 53.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 160.0, "Unité": "pi", "Valeur métrique": 48.76, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "50.0"
+  },
+  {
+    "#Produit": "OWF-R0600",
+    "Tension": "240/208V",
+    "Watts": 600.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 437.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 50.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 67.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 200.0, "Unité": "pi", "Valeur métrique": 60.96, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "50.0"
+  },
+  {
+    "#Produit": "OWF-R0602",
+    "Tension": "120V",
+    "Watts": 600.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 437.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 50.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 67.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 200.0, "Unité": "pi", "Valeur métrique": 60.96, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "50.0"
+  },
+  {
+    "#Produit": "OWF-R0720",
+    "Tension": "240/208V",
+    "Watts": 720.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 490.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 60.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 80.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 240.0, "Unité": "pi", "Valeur métrique": 73.15, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "75.0"
+  },
+  {
+    "#Produit": "OWF-R0722",
+    "Tension": "120V",
+    "Watts": 720.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 490.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 60.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 80.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 240.0, "Unité": "pi", "Valeur métrique": 73.15, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "75.0"
+  },
+  {
+    "#Produit": "OWF-R0840",
+    "Tension": "240/208V",
+    "Watts": 840.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 506.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 70.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 93.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 280.0, "Unité": "pi", "Valeur métrique": 85.34, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "75.0"
+  },
+  {
+    "#Produit": "OWF-R0842",
+    "Tension": "120V",
+    "Watts": 840.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 506.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 70.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 93.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 280.0, "Unité": "pi", "Valeur métrique": 85.34, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "75.0"
+  },
+  {
+    "#Produit": "OWF-R0960",
+    "Tension": "240/208V",
+    "Watts": 960.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 578.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 80.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 107.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 320.0, "Unité": "pi", "Valeur métrique": 97.54, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "75.0"
+  },
+  {
+    "#Produit": "OWF-R0962",
+    "Tension": "120V",
+    "Watts": 960.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 578.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 80.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 107.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 320.0, "Unité": "pi", "Valeur métrique": 97.54, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "75.0"
+  },
+  {
+    "#Produit": "OWF-R1080",
+    "Tension": "240/208V",
+    "Watts": 1080.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 580.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 90.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 120.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 360.0, "Unité": "pi", "Valeur métrique": 109.73, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "100.0"
+  },
+  {
+    "#Produit": "OWF-R1142",
+    "Tension": "120V",
+    "Watts": 1140.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 599.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 95.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 127.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 380.0, "Unité": "pi", "Valeur métrique": 115.82, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "100.0"
+  },
+  {
+    "#Produit": "OWF-R1200",
+    "Tension": "240/208V",
+    "Watts": 1200.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 642.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 100.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 133.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 400.0, "Unité": "pi", "Valeur métrique": 121.92, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "100.0"
+  },
+  {
+    "#Produit": "OWF-R1322",
+    "Tension": "120V",
+    "Watts": 1320.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 623.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 110.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 147.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 440.0, "Unité": "pi", "Valeur métrique": 134.11, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "100.0"
+  },
+  {
+    "#Produit": "OWF-R1440",
+    "Tension": "240/208V",
+    "Watts": 1440.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 698.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 120.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 160.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 480.0, "Unité": "pi", "Valeur métrique": 146.30, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "100.0"
+  },
+  {
+    "#Produit": "OWF-R1452",
+    "Tension": "120V",
+    "Watts": 1450.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 645.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 120.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 160.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 480.0, "Unité": "pi", "Valeur métrique": 146.30, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "100.0"
+  },
+  {
+    "#Produit": "OWF-R1502",
+    "Tension": "120V",
+    "Watts": 1500.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 698.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 125.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 167.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 500.0, "Unité": "pi", "Valeur métrique": 152.40, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "125.0"
+  },
+  {
+    "#Produit": "OWF-R1600",
+    "Tension": "240/208V",
+    "Watts": 1600.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 762.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 140.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 187.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 560.0, "Unité": "pi", "Valeur métrique": 170.69, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "125.0"
+  },
+  {
+    "#Produit": "OWF-R1682",
+    "Tension": "120V",
+    "Watts": 1680.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 790.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 140.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 187.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 560.0, "Unité": "pi", "Valeur métrique": 170.69, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "125.0"
+  },
+  {
+    "#Produit": "OWF-R1920",
+    "Tension": "240/208V",
+    "Watts": 1920.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 864.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 160.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 213.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 640.0, "Unité": "pi", "Valeur métrique": 195.07, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "125.0"
+  },
+  {
+    "#Produit": "OWF-R2280",
+    "Tension": "240/208V",
+    "Watts": 2280.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 1025.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 190.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 253.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 760.0, "Unité": "pi", "Valeur métrique": 231.64, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "150.0"
+  },
+  {
+    "#Produit": "OWF-R2640",
+    "Tension": "240/208V",
+    "Watts": 2640.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 1115.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 220.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 293.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 880.0, "Unité": "pi", "Valeur métrique": 268.22, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "200.0"
+  },
+  {
+    "#Produit": "OWF-R2900",
+    "Tension": "240/208V",
+    "Watts": 2900.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 1216.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 242.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 323.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 968.0, "Unité": "pi", "Valeur métrique": 295.04, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "200.0"
+  },
+  {
+    "#Produit": "OWF-R3000",
+    "Tension": "240/208V",
+    "Watts": 3000.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 1251.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 250.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 333.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 1000.0, "Unité": "pi", "Valeur métrique": 304.80, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "200.0"
+  },
+  {
+    "#Produit": "OWF-R3360",
+    "Tension": "240/208V",
+    "Watts": 3360.0,
+    "Diamètre du câble (mm)": 4.3,
+    "Prix": 1369.00,
+    "Surface couverte 3\" (76 mm)": {"Valeur": 280.0, "Unité": "pi²", "Densité": "12W/pi²", "Densité métrique": "130W/m²"},
+    "Surface couverte 4\" (102 mm)": {"Valeur": 374.0, "Unité": "pi²", "Densité": "9W/pi²", "Densité métrique": "100W/m²"},
+    "Longueur du câble": {"Valeur": 1120.0, "Unité": "pi", "Valeur métrique": 341.38, "Unité métrique": "m"},
+    "Longueur Gabarit inclus": "200.0"
+  }
+]
+```
+
+-------
+
+## Tableau OWF-R - Options
+
+```json
+[
+  {
+    "#Produit": "OTM-CC",
+    "Prix": 41.00,
+    "Description": "CableCheck - Indicateur de défaillance électrique"
+  },
+  {
+    "#Produit": "KIT-SP1",
+    "Prix": 48.00,
+    "Description": "Trousse de réparation"
+  },
+  {
+    "#Produit": "KIT-CBL-G25",
+    "Prix": 18.00,
+    "Description": "25 pi (7.6 m) de gabarits de pose en plastique"
+  },
+  {
+    "#Produit": "KIT-CBL-SN",
+    "Prix": 29.00,
+    "Description": "Sonde de sol 15 pi (4.6 m)"
+  }
+]
+```

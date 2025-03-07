@@ -1,0 +1,705 @@
+# OSR-NA Câble chauffant autorégulant tout usage ELSR-NA
+
+## Caractéristiques
+Surgaine
+• Thermoplastique (AO, BO), Fluoropolymère (BOT).
+
+Conducteur d'alimentation
+• Cuivre nickelé, 16 AWG.
+
+Température minimale de démarrage
+• -30 °C (-22 °F).
+
+Température maximale maintenue (sous tension)
+• 60 °C (140 °F).
+
+Température d'exposition continue maximale (hors tension)
+• 80 °C (176 °F).
+
+Tension nominale
+• 120V, 240/208V.
+
+Rayon de courbure minimal
+• 25 mm (1 po).
+
+Température minimale d'installation
+• AO, BO : -45 °C (-45 °F).
+• BOT : -25 °C (-13 °F).
+
+-------
+
+## Classifications
+• II 2G Ex e IIC T6 Gb II 2D Ex tb IIIC.
+• T 80 °C Db.
+• Classe I, Division 2, Groupes A, B, C, D.
+• Classe II, Division 2, Groupes E, F, G.
+• Classe III, T6.
+• Classe I, Zone 1, AEx / Exe II, T6.
+• Classe 1, Division 1, Groupes B, C, D (Contacter le manufacturier).
+
+## Normes
+• CSA C22.2.130.03; -WS.
+• CAN/CSA 60079-7:12, 60079-0-11.
+• ANSI/IEEE 515, 515.
+
+## Certifications
+• IECEx EPS 12.0006U.
+• 12ATEX1431U.
+• CSA C US 2547790.
+
+## Classement
+• Applications extérieures et endroits humides (WS).
+
+## Garantie
+• Garantie de base de 1 an sur le câble chauffant.
+
+## Application
+• Protection contre le gel, toiture et gouttière, réservoir, tuyaux, canalisations, industrie chimique et pétrochimique, automobile, traçage d'instrumentation, industrie alimentaire, système de gicleurs.
+
+-------
+
+## Tableau ELSR-NA - Câble chauffant autorégulant tout usage
+
+```json
+[
+  {
+    "#Produit": "ELSR-NA-3-1-AO",
+    "Description": "Câble chauffant autorégulant 3.0 W/pi",
+    "Tension": "120V",
+    "Surgaine": "AO",
+    "Prix/pi": "7.00",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-3-1-BO",
+    "Description": "Câble chauffant autorégulant 3.0 W/pi",
+    "Tension": "120V",
+    "Surgaine": "BO",
+    "Prix/pi": "8.50",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-3-1-BOT",
+    "Description": "Câble chauffant autorégulant 3.0 W/pi",
+    "Tension": "120V",
+    "Surgaine": "BOT",
+    "Prix/pi": "11.50",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-5-1-AO",
+    "Description": "Câble chauffant autorégulant 5.0 W/pi",
+    "Tension": "120V",
+    "Surgaine": "AO",
+    "Prix/pi": "7.00",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-5-1-BO",
+    "Description": "Câble chauffant autorégulant 5.0 W/pi",
+    "Tension": "120V",
+    "Surgaine": "BO",
+    "Prix/pi": "8.50",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-5-1-BOT",
+    "Description": "Câble chauffant autorégulant 5.0 W/pi",
+    "Tension": "120V",
+    "Surgaine": "BOT",
+    "Prix/pi": "11.50",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-7-1-AO",
+    "Description": "Câble chauffant autorégulant 7.0 W/pi",
+    "Tension": "120V",
+    "Surgaine": "AO",
+    "Prix/pi": "7.00",
+    "Dimensions": "14.1 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-7-1-BO",
+    "Description": "Câble chauffant autorégulant 7.0 W/pi",
+    "Tension": "120V",
+    "Surgaine": "BO",
+    "Prix/pi": "8.50",
+    "Dimensions": "14.1 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-7-1-BOT",
+    "Description": "Câble chauffant autorégulant 7.0 W/pi",
+    "Tension": "120V",
+    "Surgaine": "BOT",
+    "Prix/pi": "11.50",
+    "Dimensions": "14.1 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-4-2-BOT",
+    "Description": "Câble chauffant autorégulant 4.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "BOT",
+    "Prix/pi": "11.50",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-6-2-AO",
+    "Description": "Câble chauffant autorégulant 6.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "AO",
+    "Prix/pi": "7.00",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-6-2-BO",
+    "Description": "Câble chauffant autorégulant 6.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "BO",
+    "Prix/pi": "8.50",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-6-2-BOT",
+    "Description": "Câble chauffant autorégulant 6.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "BOT",
+    "Prix/pi": "11.50",
+    "Dimensions": "13.8 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-8-2-AO",
+    "Description": "Câble chauffant autorégulant 8.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "AO",
+    "Prix/pi": "7.00",
+    "Dimensions": "14.1 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-8-2-BO",
+    "Description": "Câble chauffant autorégulant 8.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "BO",
+    "Prix/pi": "8.50",
+    "Dimensions": "14.1 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-8-2-BOT",
+    "Description": "Câble chauffant autorégulant 8.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "BOT",
+    "Prix/pi": "11.50",
+    "Dimensions": "14.1 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-10-2-AO",
+    "Description": "Câble chauffant autorégulant 10.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "AO",
+    "Prix/pi": "7.00",
+    "Dimensions": "14.1 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-10-2-BO",
+    "Description": "Câble chauffant autorégulant 10.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "BO",
+    "Prix/pi": "8.50",
+    "Dimensions": "14.1 x 5.6 mm"
+  },
+  {
+    "#Produit": "ELSR-NA-10-2-BOT",
+    "Description": "Câble chauffant autorégulant 10.0 W/pi",
+    "Tension": "240V",
+    "Surgaine": "BOT",
+    "Prix/pi": "11.50",
+    "Dimensions": "14.1 x 5.6 mm"
+  }
+]
+```
+
+### Notes sur les surgaines/protections mécaniques:
+- AO: Feuille d'aluminium avec surgaine en thermoplastique
+- BO: Tresse de protection avec surgaine en thermoplastique
+- BOT: Tresse de protection avec surgaine en fluoropolymère
+- Pour branchement à 208V, voir le tableau Multiplicateur/facteurs de correction
+- Pour passer une commande, veuillez indiquer la quantité requise en pieds sur le bon de commande. Ex : Pour commander un câble de 500 pi, inscrivez 500 comme quantité avec le code de produit.
+- Service de coupe sur mesure offert pour toutes longueurs autres que 500 pi et 1000 pi (minimum de 25 pi).
+
+-------
+
+## Tableau OSR-NA - Longueur de circuit chauffant pour le modèle ELSR-NA (120V)
+
+```json
+[
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "10.0",
+    "ELSR-NA-3-1 (pi)": "159.0",
+    "ELSR-NA-5-1 (pi)": "125.0",
+    "ELSR-NA-7-1 (pi)": "82.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "15.0",
+    "ELSR-NA-3-1 (pi)": "238.0",
+    "ELSR-NA-5-1 (pi)": "187.0",
+    "ELSR-NA-7-1 (pi)": "123.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "20.0",
+    "ELSR-NA-3-1 (pi)": "317.0",
+    "ELSR-NA-5-1 (pi)": "249.0",
+    "ELSR-NA-7-1 (pi)": "164.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "25.0",
+    "ELSR-NA-3-1 (pi)": "397.0",
+    "ELSR-NA-5-1 (pi)": "312.0",
+    "ELSR-NA-7-1 (pi)": "205.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "30.0",
+    "ELSR-NA-3-1 (pi)": "476.0",
+    "ELSR-NA-5-1 (pi)": "374.0",
+    "ELSR-NA-7-1 (pi)": "246.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "35.0",
+    "ELSR-NA-3-1 (pi)": "555.0",
+    "ELSR-NA-5-1 (pi)": "436.0",
+    "ELSR-NA-7-1 (pi)": "287.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "40.0",
+    "ELSR-NA-3-1 (pi)": "612.0",
+    "ELSR-NA-5-1 (pi)": "499.0",
+    "ELSR-NA-7-1 (pi)": "328.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "10.0",
+    "ELSR-NA-3-1 (pi)": "143.0",
+    "ELSR-NA-5-1 (pi)": "112.0",
+    "ELSR-NA-7-1 (pi)": "75.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "15.0",
+    "ELSR-NA-3-1 (pi)": "215.0",
+    "ELSR-NA-5-1 (pi)": "168.0",
+    "ELSR-NA-7-1 (pi)": "113.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "20.0",
+    "ELSR-NA-3-1 (pi)": "287.0",
+    "ELSR-NA-5-1 (pi)": "224.0",
+    "ELSR-NA-7-1 (pi)": "151.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "25.0",
+    "ELSR-NA-3-1 (pi)": "358.0",
+    "ELSR-NA-5-1 (pi)": "280.0",
+    "ELSR-NA-7-1 (pi)": "188.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "30.0",
+    "ELSR-NA-3-1 (pi)": "430.0",
+    "ELSR-NA-5-1 (pi)": "336.0",
+    "ELSR-NA-7-1 (pi)": "226.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "35.0",
+    "ELSR-NA-3-1 (pi)": "502.0",
+    "ELSR-NA-5-1 (pi)": "392.0",
+    "ELSR-NA-7-1 (pi)": "264.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "40.0",
+    "ELSR-NA-3-1 (pi)": "573.0",
+    "ELSR-NA-5-1 (pi)": "448.0",
+    "ELSR-NA-7-1 (pi)": "301.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "10.0",
+    "ELSR-NA-3-1 (pi)": "130.0",
+    "ELSR-NA-5-1 (pi)": "102.0",
+    "ELSR-NA-7-1 (pi)": "69.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "15.0",
+    "ELSR-NA-3-1 (pi)": "195.0",
+    "ELSR-NA-5-1 (pi)": "153.0",
+    "ELSR-NA-7-1 (pi)": "104.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "20.0",
+    "ELSR-NA-3-1 (pi)": "260.0",
+    "ELSR-NA-5-1 (pi)": "204.0",
+    "ELSR-NA-7-1 (pi)": "139.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "25.0",
+    "ELSR-NA-3-1 (pi)": "325.0",
+    "ELSR-NA-5-1 (pi)": "255.0",
+    "ELSR-NA-7-1 (pi)": "173.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "30.0",
+    "ELSR-NA-3-1 (pi)": "390.0",
+    "ELSR-NA-5-1 (pi)": "306.0",
+    "ELSR-NA-7-1 (pi)": "208.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "35.0",
+    "ELSR-NA-3-1 (pi)": "455.0",
+    "ELSR-NA-5-1 (pi)": "357.0",
+    "ELSR-NA-7-1 (pi)": "243.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "40.0",
+    "ELSR-NA-3-1 (pi)": "520.0",
+    "ELSR-NA-5-1 (pi)": "408.0",
+    "ELSR-NA-7-1 (pi)": "277.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "10.0",
+    "ELSR-NA-3-1 (pi)": "110.0",
+    "ELSR-NA-5-1 (pi)": "87.0",
+    "ELSR-NA-7-1 (pi)": "60.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "15.0",
+    "ELSR-NA-3-1 (pi)": "165.0",
+    "ELSR-NA-5-1 (pi)": "130.0",
+    "ELSR-NA-7-1 (pi)": "90.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "20.0",
+    "ELSR-NA-3-1 (pi)": "220.0",
+    "ELSR-NA-5-1 (pi)": "173.0",
+    "ELSR-NA-7-1 (pi)": "120.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "25.0",
+    "ELSR-NA-3-1 (pi)": "275.0",
+    "ELSR-NA-5-1 (pi)": "217.0",
+    "ELSR-NA-7-1 (pi)": "150.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "30.0",
+    "ELSR-NA-3-1 (pi)": "330.0",
+    "ELSR-NA-5-1 (pi)": "260.0",
+    "ELSR-NA-7-1 (pi)": "180.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "35.0",
+    "ELSR-NA-3-1 (pi)": "385.0",
+    "ELSR-NA-5-1 (pi)": "303.0",
+    "ELSR-NA-7-1 (pi)": "210.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "40.0",
+    "ELSR-NA-3-1 (pi)": "440.0",
+    "ELSR-NA-5-1 (pi)": "347.0",
+    "ELSR-NA-7-1 (pi)": "240.0"
+  }
+]
+```
+
+-------
+
+## Tableau OSR-NA - Longueur de circuit chauffant pour le modèle ELSR-NA (240V)
+
+```json
+[
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "10.0",
+    "ELSR-NA-4-2 (pi)": "273.0",
+    "ELSR-NA-6-2 (pi)": "170.0",
+    "ELSR-NA-8-2 (pi)": "127.0",
+    "ELSR-NA-10-2 (pi)": "66.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "15.0",
+    "ELSR-NA-4-2 (pi)": "410.0",
+    "ELSR-NA-6-2 (pi)": "255.0",
+    "ELSR-NA-8-2 (pi)": "191.0",
+    "ELSR-NA-10-2 (pi)": "99.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "20.0",
+    "ELSR-NA-4-2 (pi)": "547.0",
+    "ELSR-NA-6-2 (pi)": "340.0",
+    "ELSR-NA-8-2 (pi)": "255.0",
+    "ELSR-NA-10-2 (pi)": "132.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "25.0",
+    "ELSR-NA-4-2 (pi)": "683.0",
+    "ELSR-NA-6-2 (pi)": "425.0",
+    "ELSR-NA-8-2 (pi)": "318.0",
+    "ELSR-NA-10-2 (pi)": "165.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "30.0",
+    "ELSR-NA-4-2 (pi)": "820.0",
+    "ELSR-NA-6-2 (pi)": "510.0",
+    "ELSR-NA-8-2 (pi)": "382.0",
+    "ELSR-NA-10-2 (pi)": "198.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "35.0",
+    "ELSR-NA-4-2 (pi)": "957.0",
+    "ELSR-NA-6-2 (pi)": "595.0",
+    "ELSR-NA-8-2 (pi)": "446.0",
+    "ELSR-NA-10-2 (pi)": "231.0"
+  },
+  {
+    "Température de démarrage": "10 °C (50 °F)",
+    "Disjoncteur (A)": "40.0",
+    "ELSR-NA-4-2 (pi)": "1087.0",
+    "ELSR-NA-6-2 (pi)": "857.0",
+    "ELSR-NA-8-2 (pi)": "509.0",
+    "ELSR-NA-10-2 (pi)": "264.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "10.0",
+    "ELSR-NA-4-2 (pi)": "245.0",
+    "ELSR-NA-6-2 (pi)": "154.0",
+    "ELSR-NA-8-2 (pi)": "117.0",
+    "ELSR-NA-10-2 (pi)": "61.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "15.0",
+    "ELSR-NA-4-2 (pi)": "367.0",
+    "ELSR-NA-6-2 (pi)": "231.0",
+    "ELSR-NA-8-2 (pi)": "175.0",
+    "ELSR-NA-10-2 (pi)": "91.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "20.0",
+    "ELSR-NA-4-2 (pi)": "489.0",
+    "ELSR-NA-6-2 (pi)": "308.0",
+    "ELSR-NA-8-2 (pi)": "233.0",
+    "ELSR-NA-10-2 (pi)": "121.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "25.0",
+    "ELSR-NA-4-2 (pi)": "612.0",
+    "ELSR-NA-6-2 (pi)": "385.0",
+    "ELSR-NA-8-2 (pi)": "292.0",
+    "ELSR-NA-10-2 (pi)": "152.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "30.0",
+    "ELSR-NA-4-2 (pi)": "734.0",
+    "ELSR-NA-6-2 (pi)": "462.0",
+    "ELSR-NA-8-2 (pi)": "350.0",
+    "ELSR-NA-10-2 (pi)": "182.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "35.0",
+    "ELSR-NA-4-2 (pi)": "856.0",
+    "ELSR-NA-6-2 (pi)": "539.0",
+    "ELSR-NA-8-2 (pi)": "408.0",
+    "ELSR-NA-10-2 (pi)": "212.0"
+  },
+  {
+    "Température de démarrage": "0 °C (32 °F)",
+    "Disjoncteur (A)": "40.0",
+    "ELSR-NA-4-2 (pi)": "979.0",
+    "ELSR-NA-6-2 (pi)": "616.0",
+    "ELSR-NA-8-2 (pi)": "467.0",
+    "ELSR-NA-10-2 (pi)": "243.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "10.0",
+    "ELSR-NA-4-2 (pi)": "222.0",
+    "ELSR-NA-6-2 (pi)": "141.0",
+    "ELSR-NA-8-2 (pi)": "108.0",
+    "ELSR-NA-10-2 (pi)": "57.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "15.0",
+    "ELSR-NA-4-2 (pi)": "333.0",
+    "ELSR-NA-6-2 (pi)": "211.0",
+    "ELSR-NA-8-2 (pi)": "162.0",
+    "ELSR-NA-10-2 (pi)": "85.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "20.0",
+    "ELSR-NA-4-2 (pi)": "444.0",
+    "ELSR-NA-6-2 (pi)": "281.0",
+    "ELSR-NA-8-2 (pi)": "216.0",
+    "ELSR-NA-10-2 (pi)": "113.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "25.0",
+    "ELSR-NA-4-2 (pi)": "555.0",
+    "ELSR-NA-6-2 (pi)": "352.0",
+    "ELSR-NA-8-2 (pi)": "270.0",
+    "ELSR-NA-10-2 (pi)": "142.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "30.0",
+    "ELSR-NA-4-2 (pi)": "666.0",
+    "ELSR-NA-6-2 (pi)": "422.0",
+    "ELSR-NA-8-2 (pi)": "324.0",
+    "ELSR-NA-10-2 (pi)": "170.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "35.0",
+    "ELSR-NA-4-2 (pi)": "777.0",
+    "ELSR-NA-6-2 (pi)": "492.0",
+    "ELSR-NA-8-2 (pi)": "378.0",
+    "ELSR-NA-10-2 (pi)": "198.0"
+  },
+  {
+    "Température de démarrage": "-10 °C (14 °F)",
+    "Disjoncteur (A)": "40.0",
+    "ELSR-NA-4-2 (pi)": "888.0",
+    "ELSR-NA-6-2 (pi)": "563.0",
+    "ELSR-NA-8-2 (pi)": "432.0",
+    "ELSR-NA-10-2 (pi)": "227.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "10.0",
+    "ELSR-NA-4-2 (pi)": "187.0",
+    "ELSR-NA-6-2 (pi)": "120.0",
+    "ELSR-NA-8-2 (pi)": "93.0",
+    "ELSR-NA-10-2 (pi)": "50.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "15.0",
+    "ELSR-NA-4-2 (pi)": "280.0",
+    "ELSR-NA-6-2 (pi)": "180.0",
+    "ELSR-NA-8-2 (pi)": "140.0",
+    "ELSR-NA-10-2 (pi)": "75.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "20.0",
+    "ELSR-NA-4-2 (pi)": "373.0",
+    "ELSR-NA-6-2 (pi)": "240.0",
+    "ELSR-NA-8-2 (pi)": "187.0",
+    "ELSR-NA-10-2 (pi)": "100.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "25.0",
+    "ELSR-NA-4-2 (pi)": "467.0",
+    "ELSR-NA-6-2 (pi)": "300.0",
+    "ELSR-NA-8-2 (pi)": "233.0",
+    "ELSR-NA-10-2 (pi)": "125.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "30.0",
+    "ELSR-NA-4-2 (pi)": "560.0",
+    "ELSR-NA-6-2 (pi)": "360.0",
+    "ELSR-NA-8-2 (pi)": "280.0",
+    "ELSR-NA-10-2 (pi)": "150.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "35.0",
+    "ELSR-NA-4-2 (pi)": "653.0",
+    "ELSR-NA-6-2 (pi)": "420.0",
+    "ELSR-NA-8-2 (pi)": "327.0",
+    "ELSR-NA-10-2 (pi)": "175.0"
+  },
+  {
+    "Température de démarrage": "-30 °C (-22 °F)",
+    "Disjoncteur (A)": "40.0",
+    "ELSR-NA-4-2 (pi)": "747.0",
+    "ELSR-NA-6-2 (pi)": "480.0",
+    "ELSR-NA-8-2 (pi)": "373.0",
+    "ELSR-NA-10-2 (pi)": "200.0"
+  }
+]
+```
+
+### Notes sur les longueurs maximales:
+- Longueurs maximales des circuits ELSR-NA-XX établies en fonction de :
+- Tension nominale de 120/240V.
+- Disjoncteur de circuit type QO (utilisation 100%).
+- Chute de tension max. de 10% sur le câble.
+- Un (1) seul câble chauffant, alimentation d'un seul côté.
+
+-------
+
+## Tableau OSR-NA - Multiplicateur/facteurs de correction Eltherm® pour utilisation des câbles chauffants à 208V
+
+```json
+[
+  {
+    "Câble chauffant": "ELSR-NA-XX-2",
+    "Multiplicateur/facteurs de correction Puissance nominale 208V vs. 240V": "0.88",
+    "Multiplicateur/facteurs de correction Longueur de circuit chauffant 208V vs. 240V": "0.93"
+  }
+]
+```
+
+### Notes sur les facteurs de correction:
+- Pour calculer la puissance générée pour une installation à 208V, multiplier la puissance nominale au catalogue à 240V (Watt/pi) par le facteur de correction de la table pour le modèle de câble utilisé.
+- Pour calculer la longueur maximale de circuit pour une installation à 208V (Tableau disponible sur le Web ou dans les dessins d'ateliers), multiplier la longueur maximale du circuit chauffant à 240V publié par le facteur de correction pour le modèle de câble utilisé.
+
+-------
+
+## Puissances émises du câble selon l'environnement
+
+Dans la neige et la glace (120V)
+• 11 W/pi @ 50 °F (36W/m @ 10 °C)
+
+À l'air sec (120V)
+• 7 W/pi @ 50 °F (23W/m @ 10 °C)
+
+Dans la neige et la glace (240/208V)
+• 13 W/pi @ 50 °F (42W/m @ 10 °C)
+
+À l'air sec (240/208V)
+• 8 W/pi @ 50 °F (26W/m @ 10 °C)

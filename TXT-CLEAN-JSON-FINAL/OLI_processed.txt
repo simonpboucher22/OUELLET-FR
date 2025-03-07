@@ -1,0 +1,731 @@
+# OLI - Convecteur architectural haute densité à dessus incliné
+
+## Caractéristiques
+
+### Couleur
+- Standards : blanc, amande.
+- Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+- Couleurs sur mesure disponibles sur demande.
+
+### Finition
+- Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+- 208V, 240V, 277V, 347V, 600V, 1 ou 3 phases.
+
+### Construction
+- Boîtier en acier de calibre 20.
+- Devant en acier de calibre 16.
+- Grillage en aluminium extrudé empêche l'entrée de corps étrangers.
+- Finition unie du dos de l'appareil (-BD) en option.
+- Protection thermique linéaire à réenclenchement automatique.
+
+### Élément
+- Trois éléments tubulaires en acier inoxydable recouverts d'ailettes d'aluminium.
+- Éléments flottants sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+-------
+
+### Densité
+- Densité moyenne standard de 1000W/pi.
+- Basse densité moyenne de 500W/pi, 750W/pi.
+
+### Régulation
+- Thermostat intégré en option, anti-vandale.
+- Relais mécanique, relais électronique ou relais pneumatique en option.
+- Note : Thermostat unipolaire pour appareils 1 ph seulement.
+- Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+- Usage non-résidentiel aux États-Unis.
+- Installation au plancher ou au mur.
+- Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.
+- Variété d'accessoires pour l'installation en continu en option.
+- Socle et trousse de piédestals en option.
+
+### Garantie
+- 3 ans contre tous vices.
+
+### Application
+- Édifice commercial, immeuble de bureaux, hôpital, école.
+
+-------
+
+### Caractéristiques OLI
+#### Construction
+- Entrée d'air frais par l'avant; sortie d'air chaud par le dessus.
+
+-------
+
+## Tableau OLI - Modèles à densité moyenne standard de 1000W/pi
+
+```json
+[
+  {
+    "#Produit": "OLI2008",
+    "Watts": "2000.0",
+    "Tension": "208V (1 ph)",
+    "Watts_240_208V": "2000/1500",
+    "#Produit_240_208V": "OLI2000",
+    "Prix": "1247.00",
+    "Longueur": "27.1875 po (690.0 mm)",
+    "Poids": "37.0 lb (16.8 kg)"
+  },
+  {
+    "#Produit": "OLI20382",
+    "Watts": "2000.0",
+    "Tension": "208V (3 ph)",
+    "Watts_240_208V": "2000/1500",
+    "#Produit_240_208V": "OLI2000",
+    "Prix": "1247.00",
+    "Longueur": "27.1875 po (690.0 mm)",
+    "Poids": "37.0 lb (16.8 kg)"
+  },
+  {
+    "#Produit": "OLI2007",
+    "Watts": "2000.0",
+    "Tension": "347V",
+    "Watts_240_208V": "2000/1500",
+    "#Produit_240_208V": "OLI2000",
+    "Prix": "1247.00",
+    "Longueur": "27.1875 po (690.0 mm)",
+    "Poids": "37.0 lb (16.8 kg)"
+  },
+  {
+    "#Produit": "OLI2006",
+    "Watts": "2000.0",
+    "Tension": "600V (1 ph)",
+    "Watts_240_208V": "2000/1500",
+    "#Produit_240_208V": "OLI2000",
+    "Prix": "1247.00",
+    "Longueur": "27.1875 po (690.0 mm)",
+    "Poids": "37.0 lb (16.8 kg)"
+  },
+  {
+    "#Produit": "OLI20362",
+    "Watts": "2000.0",
+    "Tension": "600V (3 ph)",
+    "Watts_240_208V": "2000/1500",
+    "#Produit_240_208V": "OLI2000",
+    "Prix": "1247.00",
+    "Longueur": "27.1875 po (690.0 mm)",
+    "Poids": "37.0 lb (16.8 kg)"
+  },
+  {
+    "#Produit": "OLI3008",
+    "Watts": "3000.0",
+    "Tension": "208V (1 ph)",
+    "Watts_240_208V": "3000/2250",
+    "#Produit_240_208V": "OLI3000",
+    "Prix": "1451.00",
+    "Longueur": "37.1875 po (944.0 mm)",
+    "Poids": "47.0 lb (21.3 kg)"
+  },
+  {
+    "#Produit": "OLI30382",
+    "Watts": "3000.0",
+    "Tension": "208V (3 ph)",
+    "Watts_240_208V": "3000/2250",
+    "#Produit_240_208V": "OLI3000",
+    "Prix": "1451.00",
+    "Longueur": "37.1875 po (944.0 mm)",
+    "Poids": "47.0 lb (21.3 kg)"
+  },
+  {
+    "#Produit": "OLI3007",
+    "Watts": "3000.0",
+    "Tension": "347V",
+    "Watts_240_208V": "3000/2250",
+    "#Produit_240_208V": "OLI3000",
+    "Prix": "1451.00",
+    "Longueur": "37.1875 po (944.0 mm)",
+    "Poids": "47.0 lb (21.3 kg)"
+  },
+  {
+    "#Produit": "OLI3006",
+    "Watts": "3000.0",
+    "Tension": "600V (1 ph)",
+    "Watts_240_208V": "3000/2250",
+    "#Produit_240_208V": "OLI3000",
+    "Prix": "1451.00",
+    "Longueur": "37.1875 po (944.0 mm)",
+    "Poids": "47.0 lb (21.3 kg)"
+  },
+  {
+    "#Produit": "OLI30362",
+    "Watts": "3000.0",
+    "Tension": "600V (3 ph)",
+    "Watts_240_208V": "3000/2250",
+    "#Produit_240_208V": "OLI3000",
+    "Prix": "1451.00",
+    "Longueur": "37.1875 po (944.0 mm)",
+    "Poids": "47.0 lb (21.3 kg)"
+  },
+  {
+    "#Produit": "OLI40082",
+    "Watts": "4000.0",
+    "Tension": "208V (1 ph)",
+    "Watts_240_208V": "4000/3000",
+    "#Produit_240_208V": "OLI40002",
+    "Prix": "1679.00",
+    "Longueur": "47.1875 po (1198.0 mm)",
+    "Poids": "57.0 lb (25.9 kg)"
+  },
+  {
+    "#Produit": "OLI40382",
+    "Watts": "4000.0",
+    "Tension": "208V (3 ph)",
+    "Watts_240_208V": "4000/3000",
+    "#Produit_240_208V": "OLI40002",
+    "Prix": "1679.00",
+    "Longueur": "47.1875 po (1198.0 mm)",
+    "Poids": "57.0 lb (25.9 kg)"
+  },
+  {
+    "#Produit": "OLI4007",
+    "Watts": "4000.0",
+    "Tension": "347V",
+    "Watts_240_208V": "4000/3000",
+    "#Produit_240_208V": "OLI40002",
+    "Prix": "1679.00",
+    "Longueur": "47.1875 po (1198.0 mm)",
+    "Poids": "57.0 lb (25.9 kg)"
+  },
+  {
+    "#Produit": "OLI40062",
+    "Watts": "4000.0",
+    "Tension": "600V (1 ph)",
+    "Watts_240_208V": "4000/3000",
+    "#Produit_240_208V": "OLI40002",
+    "Prix": "1679.00",
+    "Longueur": "47.1875 po (1198.0 mm)",
+    "Poids": "57.0 lb (25.9 kg)"
+  },
+  {
+    "#Produit": "OLI40362",
+    "Watts": "4000.0",
+    "Tension": "600V (3 ph)",
+    "Watts_240_208V": "4000/3000",
+    "#Produit_240_208V": "OLI40002",
+    "Prix": "1679.00",
+    "Longueur": "47.1875 po (1198.0 mm)",
+    "Poids": "57.0 lb (25.9 kg)"
+  },
+  {
+    "#Produit": "OLI50082",
+    "Watts": "5000.0",
+    "Tension": "208V (1 ph)",
+    "Watts_240_208V": "5000/3750",
+    "#Produit_240_208V": "OLI50002",
+    "Prix": "1823.00",
+    "Longueur": "57.1875 po (1452.0 mm)",
+    "Poids": "67.0 lb (30.4 kg)"
+  },
+  {
+    "#Produit": "OLI50382",
+    "Watts": "5000.0",
+    "Tension": "208V (3 ph)",
+    "Watts_240_208V": "5000/3750",
+    "#Produit_240_208V": "OLI50002",
+    "Prix": "1823.00",
+    "Longueur": "57.1875 po (1452.0 mm)",
+    "Poids": "67.0 lb (30.4 kg)"
+  },
+  {
+    "#Produit": "OLI5007",
+    "Watts": "5000.0",
+    "Tension": "347V",
+    "Watts_240_208V": "5000/3750",
+    "#Produit_240_208V": "OLI50002",
+    "Prix": "1823.00",
+    "Longueur": "57.1875 po (1452.0 mm)",
+    "Poids": "67.0 lb (30.4 kg)"
+  },
+  {
+    "#Produit": "OLI50062",
+    "Watts": "5000.0",
+    "Tension": "600V (1 ph)",
+    "Watts_240_208V": "5000/3750",
+    "#Produit_240_208V": "OLI50002",
+    "Prix": "1823.00",
+    "Longueur": "57.1875 po (1452.0 mm)",
+    "Poids": "67.0 lb (30.4 kg)"
+  },
+  {
+    "#Produit": "OLI50362",
+    "Watts": "5000.0",
+    "Tension": "600V (3 ph)",
+    "Watts_240_208V": "5000/3750",
+    "#Produit_240_208V": "OLI50002",
+    "Prix": "1823.00",
+    "Longueur": "57.1875 po (1452.0 mm)",
+    "Poids": "67.0 lb (30.4 kg)"
+  },
+  {
+    "#Produit": "OLI60083",
+    "Watts": "6000.0",
+    "Tension": "208V (1 ph)",
+    "Watts_240_208V": "6000/4500",
+    "#Produit_240_208V": "OLI60003",
+    "Prix": "1961.00",
+    "Longueur": "65.1875 po (1655.0 mm)",
+    "Poids": "79.0 lb (35.8 kg)"
+  },
+  {
+    "#Produit": "OLI60383",
+    "Watts": "6000.0",
+    "Tension": "208V (3 ph)",
+    "Watts_240_208V": "6000/4500",
+    "#Produit_240_208V": "OLI60003",
+    "Prix": "1961.00",
+    "Longueur": "65.1875 po (1655.0 mm)",
+    "Poids": "79.0 lb (35.8 kg)"
+  },
+  {
+    "#Produit": "OLI60072",
+    "Watts": "6000.0",
+    "Tension": "347V",
+    "Watts_240_208V": "6000/4500",
+    "#Produit_240_208V": "OLI60003",
+    "Prix": "1961.00",
+    "Longueur": "65.1875 po (1655.0 mm)",
+    "Poids": "79.0 lb (35.8 kg)"
+  },
+  {
+    "#Produit": "OLI60063",
+    "Watts": "6000.0",
+    "Tension": "600V (1 ph)",
+    "Watts_240_208V": "6000/4500",
+    "#Produit_240_208V": "OLI60003",
+    "Prix": "1961.00",
+    "Longueur": "65.1875 po (1655.0 mm)",
+    "Poids": "79.0 lb (35.8 kg)"
+  },
+  {
+    "#Produit": "OLI60362",
+    "Watts": "6000.0",
+    "Tension": "600V (3 ph)",
+    "Watts_240_208V": "6000/4500",
+    "#Produit_240_208V": "OLI60003",
+    "Prix": "1961.00",
+    "Longueur": "65.1875 po (1655.0 mm)",
+    "Poids": "79.0 lb (35.8 kg)"
+  }
+]
+```
+
+-------
+
+## Tableau OLI - Modèles à basse densité moyenne
+
+```json
+[
+  {
+    "#Produit": "OLI10XX-690",
+    "Prix": "1247.00",
+    "Longueur": "27 3/16\" (690 mm)",
+    "Poids": "37.0 lb (16.8 kg)",
+    "Densité_moyenne": "500.0 W/pi",
+    "Watts": "1000.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": false,
+      "600V_3ph": false
+    }
+  },
+  {
+    "#Produit": "OLI15XX-690",
+    "Prix": "1247.00",
+    "Longueur": "27 3/16\" (690 mm)",
+    "Poids": "37.0 lb (16.8 kg)",
+    "Densité_moyenne": "750.0 W/pi",
+    "Watts": "1500.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": true,
+      "600V_3ph": true
+    }
+  },
+  {
+    "#Produit": "OLI15XX-944",
+    "Prix": "1451.00",
+    "Longueur": "37 3/16\" (944 mm)",
+    "Poids": "47.0 lb (21.3 kg)",
+    "Densité_moyenne": "500.0 W/pi",
+    "Watts": "1500.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": false,
+      "600V_3ph": true
+    }
+  },
+  {
+    "#Produit": "OLI22XX-944",
+    "Prix": "1451.00",
+    "Longueur": "37 3/16\" (944 mm)",
+    "Poids": "47.0 lb (21.3 kg)",
+    "Densité_moyenne": "750.0 W/pi",
+    "Watts": "2250.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": true,
+      "600V_3ph": true
+    }
+  },
+  {
+    "#Produit": "OLI20XX-1198",
+    "Prix": "1679.00",
+    "Longueur": "47 3/16\" (1198 mm)",
+    "Poids": "57.0 lb (25.9 kg)",
+    "Densité_moyenne": "500.0 W/pi",
+    "Watts": "2000.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": true,
+      "600V_3ph": true
+    }
+  },
+  {
+    "#Produit": "OLI30XX-1198",
+    "Prix": "1679.00",
+    "Longueur": "47 3/16\" (1198 mm)",
+    "Poids": "57.0 lb (25.9 kg)",
+    "Densité_moyenne": "750.0 W/pi",
+    "Watts": "3000.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": true,
+      "600V_3ph": true
+    }
+  },
+  {
+    "#Produit": "OLI25XX-1452",
+    "Prix": "1823.00",
+    "Longueur": "57 3/16\" (1452 mm)",
+    "Poids": "67.0 lb (30.4 kg)",
+    "Densité_moyenne": "500.0 W/pi",
+    "Watts": "2500.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": true,
+      "600V_3ph": true
+    }
+  },
+  {
+    "#Produit": "OLI37XX-1452",
+    "Prix": "1823.00",
+    "Longueur": "57 3/16\" (1452 mm)",
+    "Poids": "67.0 lb (30.4 kg)",
+    "Densité_moyenne": "750.0 W/pi",
+    "Watts": "3750.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": true,
+      "600V_3ph": true
+    }
+  },
+  {
+    "#Produit": "OLI30XX-1655",
+    "Prix": "1961.00",
+    "Longueur": "65 3/16\" (1655 mm)",
+    "Poids": "79.0 lb (35.8 kg)",
+    "Densité_moyenne": "500.0 W/pi",
+    "Watts": "3000.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": true,
+      "600V_3ph": true
+    }
+  },
+  {
+    "#Produit": "OLI45XX-1655",
+    "Prix": "1961.00",
+    "Longueur": "65 3/16\" (1655 mm)",
+    "Poids": "79.0 lb (35.8 kg)",
+    "Densité_moyenne": "750.0 W/pi",
+    "Watts": "4500.0",
+    "Tensions_disponibles": {
+      "208V_1ph": true,
+      "208V_3ph": true,
+      "240V": true,
+      "347V": true,
+      "600V_1ph": true,
+      "600V_3ph": true
+    }
+  }
+]
+```
+
+-------
+
+## Tableau OLI - Options
+
+```json
+[
+  {
+    "#Produit_En_trousse": "",
+    "#Produit_Installée_en_usine": "BD",
+    "Prix": "0.1",
+    "Description": "Finition unie du dos de l'appareil",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-CE",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "1120.00",
+    "Description": "Coin extérieur, 8 po (203.2 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-CI",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "1120.00",
+    "Description": "Coin intérieur, 8 po (203.2 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-CTR",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "247.00",
+    "Description": "Boîte pour relais, 12 po (305 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-PEC",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "150.00",
+    "Description": "Trousse de piédestals carrés (2), 3 po (76 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SO-27",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "230.00",
+    "Description": "Socle, 27 3/16 po (690 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SO-37",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "245.00",
+    "Description": "Socle, 37 3/16 po (944 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SO-47",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "267.00",
+    "Description": "Socle, 47 3/16 po (1198 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SO-57",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "310.00",
+    "Description": "Socle, 57 3/16 po (1452 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SO-65",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "323.00",
+    "Description": "Socle, 65 3/16 po (1655 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SV-27",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "789.00",
+    "Description": "Fausse section, 27 3/16 po (690 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SV-37",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "923.00",
+    "Description": "Fausse section, 37 3/16 po (944 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SV-47",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "1092.00",
+    "Description": "Fausse section, 47 3/16 po (1198 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SV-57",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "1201.00",
+    "Description": "Fausse section, 57 3/16 po (1452 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-SV-65",
+    "#Produit_Installée_en_usine": "-",
+    "Prix": "1432.00",
+    "Description": "Fausse section, 65 3/16 po (1655 mm)",
+    "Catégorie": "Finition"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "CTT",
+    "Prix": "224.00",
+    "Description": "Relais unipolaire, bobine 240V : 25A à 240V, 10A à 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "CTT2",
+    "Prix": "300.00",
+    "Description": "Relais bipolaire, bobine 240V : 25A à 240V, 10A à 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "DIS403",
+    "Prix": "232.00",
+    "Description": "Interrupteur principal tripolaire, 40A à 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "PM",
+    "Prix": "458.00",
+    "Description": "Relais pneumatique, 20A à 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-R",
+    "#Produit_Installée_en_usine": "R",
+    "Prix": "200.00",
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 18A à 347V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-R2",
+    "#Produit_Installée_en_usine": "R2",
+    "Prix": "300.00",
+    "Description": "Relais bipolaire, bobine 24V, sans transformateur, 25A à 240V - 10A à 600V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-R2-30",
+    "#Produit_Installée_en_usine": "R230",
+    "Prix": "290.00",
+    "Description": "Relais bipolaire, bobine 24V, sans transformateur, 30A à 600V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-RT-208",
+    "#Produit_Installée_en_usine": "RT",
+    "Prix": "224.00",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 4500W, 22A à 208V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-RT-240",
+    "#Produit_Installée_en_usine": "RT",
+    "Prix": "224.00",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 5200W, 22A à 240V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-RT-277",
+    "#Produit_Installée_en_usine": "RT",
+    "Prix": "224.00",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 5200W, 19A à 277V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-RT-347",
+    "#Produit_Installée_en_usine": "RT",
+    "Prix": "224.00",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 6000W, 18A à 347V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-RT-6001",
+    "#Produit_Installée_en_usine": "RT1",
+    "Prix": "224.00",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 6000W, 10A à 600V (2 fils seulement)",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-T-AV2",
+    "#Produit_Installée_en_usine": "TAV2",
+    "Prix": "166.00",
+    "Description": "Thermostat unipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "KIT-OLI-T2-AV",
+    "#Produit_Installée_en_usine": "T2AV",
+    "Prix": "281.00",
+    "Description": "Thermostat bipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "TRIAC",
+    "Prix": "79.00",
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "TRIACT",
+    "Prix": "110.00",
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "TRIAC",
+    "Prix": "144.00",
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.",
+    "Catégorie": "Contrôles"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "TRF24",
+    "Prix": "272.00",
+    "Description": "Transformateur 24V, 50VA",
+    "Catégorie": "Transformateurs"
+  },
+  {
+    "#Produit_En_trousse": "-",
+    "#Produit_Installée_en_usine": "TRF240",
+    "Prix": "272.00",
+    "Description": "Transformateur 240V, 50VA",
+    "Catégorie": "Transformateurs"
+  }
+]
+```

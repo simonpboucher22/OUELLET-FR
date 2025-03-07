@@ -1,0 +1,486 @@
+# OPP - Plinthe électrique pour porte patio
+
+## Caractéristiques
+- **Couleur**
+  - Standards : blanc, amande.
+  - Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+  - Couleurs sur mesure disponibles sur demande.
+- **Finition**
+  - Standard : peinture à la poudre d'époxy/polyester.
+- **Tension**
+  - 208V, 240/208V, 347V, 600V, 1 phase.
+- **Construction**
+  - Construction robuste en acier de calibre 18 permettant d'utiliser la plinthe comme une marche.
+  - Protection thermique linéaire à réenclenchement automatique.
+- **Élément**
+  - Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+  - Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+- **Densité**
+  - Densité moyenne standard de 209W/pi.
+
+-------
+
+## Régulation
+- Thermostat intégré en option, avec bouton de contrôle ou anti-vandale (installation du côté droit seulement).
+- Relais mécanique et électronique en option (installation du côté droit seulement).
+- Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+## Installation
+- Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.
+- Variété d'accessoires pour l'installation en continu en option.
+- Trousse de piédestals en option.
+
+## Garantie
+- 3 ans contre tous vices.
+- 10 ans sur l'élément.
+
+## Application
+- Porte patio, baie vitrée, édifice commercial, immeuble de bureaux, condos, restaurant.
+
+-------
+
+## Tableau OPP - Modèles à densité moyenne standard de 209W/pi
+
+```json
+[
+  {
+    "#Produit": "OPP0500",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "500/375",
+    "Tension": "240/208V",
+    "Prix": "447.00",
+    "Longueur_po": "33.5",
+    "Longueur_mm": "855.0",
+    "Poids_lb": "13.0",
+    "Poids_kg": "5.9"
+  },
+  {
+    "#Produit": "OPP0508",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "500.0",
+    "Tension": "208V",
+    "Prix": "447.00",
+    "Longueur_po": "33.5",
+    "Longueur_mm": "855.0",
+    "Poids_lb": "13.0",
+    "Poids_kg": "5.9"
+  },
+  {
+    "#Produit": "OPP0507",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "500.0",
+    "Tension": "347V",
+    "Prix": "447.00",
+    "Longueur_po": "33.5",
+    "Longueur_mm": "855.0",
+    "Poids_lb": "13.0",
+    "Poids_kg": "5.9"
+  },
+  {
+    "#Produit": "OPP0750",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "750/563",
+    "Tension": "240/208V",
+    "Prix": "487.00",
+    "Longueur_po": "48.0",
+    "Longueur_mm": "1219.0",
+    "Poids_lb": "17.0",
+    "Poids_kg": "7.7"
+  },
+  {
+    "#Produit": "OPP0758",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "750.0",
+    "Tension": "208V",
+    "Prix": "487.00",
+    "Longueur_po": "48.0",
+    "Longueur_mm": "1219.0",
+    "Poids_lb": "17.0",
+    "Poids_kg": "7.7"
+  },
+  {
+    "#Produit": "OPP0757",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "750.0",
+    "Tension": "347V",
+    "Prix": "487.00",
+    "Longueur_po": "48.0",
+    "Longueur_mm": "1219.0",
+    "Poids_lb": "17.0",
+    "Poids_kg": "7.7"
+  },
+  {
+    "#Produit": "OPP0756",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "750.0",
+    "Tension": "600V",
+    "Prix": "487.00",
+    "Longueur_po": "48.0",
+    "Longueur_mm": "1219.0",
+    "Poids_lb": "17.0",
+    "Poids_kg": "7.7"
+  },
+  {
+    "#Produit": "OPP1000",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1000/750",
+    "Tension": "240/208V",
+    "Prix": "512.00",
+    "Longueur_po": "60.0",
+    "Longueur_mm": "1525.0",
+    "Poids_lb": "20.0",
+    "Poids_kg": "9.1"
+  },
+  {
+    "#Produit": "OPP1008",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1000.0",
+    "Tension": "208V",
+    "Prix": "512.00",
+    "Longueur_po": "60.0",
+    "Longueur_mm": "1525.0",
+    "Poids_lb": "20.0",
+    "Poids_kg": "9.1"
+  },
+  {
+    "#Produit": "OPP1007",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1000.0",
+    "Tension": "347V",
+    "Prix": "512.00",
+    "Longueur_po": "60.0",
+    "Longueur_mm": "1525.0",
+    "Poids_lb": "20.0",
+    "Poids_kg": "9.1"
+  },
+  {
+    "#Produit": "OPP1006",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1000.0",
+    "Tension": "600V",
+    "Prix": "512.00",
+    "Longueur_po": "60.0",
+    "Longueur_mm": "1525.0",
+    "Poids_lb": "20.0",
+    "Poids_kg": "9.1"
+  },
+  {
+    "#Produit": "OPP1250",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1250/938",
+    "Tension": "240/208V",
+    "Prix": "607.00",
+    "Longueur_po": "72.0",
+    "Longueur_mm": "1830.0",
+    "Poids_lb": "26.0",
+    "Poids_kg": "11.8"
+  },
+  {
+    "#Produit": "OPP1258",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1250.0",
+    "Tension": "208V",
+    "Prix": "607.00",
+    "Longueur_po": "72.0",
+    "Longueur_mm": "1830.0",
+    "Poids_lb": "26.0",
+    "Poids_kg": "11.8"
+  },
+  {
+    "#Produit": "OPP1257",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1250.0",
+    "Tension": "347V",
+    "Prix": "607.00",
+    "Longueur_po": "72.0",
+    "Longueur_mm": "1830.0",
+    "Poids_lb": "26.0",
+    "Poids_kg": "11.8"
+  },
+  {
+    "#Produit": "OPP1256",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1250.0",
+    "Tension": "600V",
+    "Prix": "607.00",
+    "Longueur_po": "72.0",
+    "Longueur_mm": "1830.0",
+    "Poids_lb": "26.0",
+    "Poids_kg": "11.8"
+  },
+  {
+    "#Produit": "OPP1500",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1500/1125",
+    "Tension": "240/208V",
+    "Prix": "644.00",
+    "Longueur_po": "86.75",
+    "Longueur_mm": "2204.0",
+    "Poids_lb": "31.0",
+    "Poids_kg": "14.1"
+  },
+  {
+    "#Produit": "OPP1508",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1500.0",
+    "Tension": "208V",
+    "Prix": "644.00",
+    "Longueur_po": "86.75",
+    "Longueur_mm": "2204.0",
+    "Poids_lb": "31.0",
+    "Poids_kg": "14.1"
+  },
+  {
+    "#Produit": "OPP1507",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1500.0",
+    "Tension": "347V",
+    "Prix": "644.00",
+    "Longueur_po": "86.75",
+    "Longueur_mm": "2204.0",
+    "Poids_lb": "31.0",
+    "Poids_kg": "14.1"
+  },
+  {
+    "#Produit": "OPP1506",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1500.0",
+    "Tension": "600V",
+    "Prix": "644.00",
+    "Longueur_po": "86.75",
+    "Longueur_mm": "2204.0",
+    "Poids_lb": "31.0",
+    "Poids_kg": "14.1"
+  },
+  {
+    "#Produit": "OPP1750",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1750/1313",
+    "Tension": "240/208V",
+    "Prix": "682.00",
+    "Longueur_po": "100.0",
+    "Longueur_mm": "2542.0",
+    "Poids_lb": "38.0",
+    "Poids_kg": "17.3"
+  },
+  {
+    "#Produit": "OPP1758",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1750.0",
+    "Tension": "208V",
+    "Prix": "682.00",
+    "Longueur_po": "100.0",
+    "Longueur_mm": "2542.0",
+    "Poids_lb": "38.0",
+    "Poids_kg": "17.3"
+  },
+  {
+    "#Produit": "OPP1757",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1750.0",
+    "Tension": "347V",
+    "Prix": "682.00",
+    "Longueur_po": "100.0",
+    "Longueur_mm": "2542.0",
+    "Poids_lb": "38.0",
+    "Poids_kg": "17.3"
+  },
+  {
+    "#Produit": "OPP1756",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "1750.0",
+    "Tension": "600V",
+    "Prix": "682.00",
+    "Longueur_po": "100.0",
+    "Longueur_mm": "2542.0",
+    "Poids_lb": "38.0",
+    "Poids_kg": "17.3"
+  },
+  {
+    "#Produit": "OPP2000",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "2000/1500",
+    "Tension": "240/208V",
+    "Prix": "718.00",
+    "Longueur_po": "113.3125",
+    "Longueur_mm": "2879.0",
+    "Poids_lb": "41.0",
+    "Poids_kg": "18.6"
+  },
+  {
+    "#Produit": "OPP2008",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "2000.0",
+    "Tension": "208V",
+    "Prix": "718.00",
+    "Longueur_po": "113.3125",
+    "Longueur_mm": "2879.0",
+    "Poids_lb": "41.0",
+    "Poids_kg": "18.6"
+  },
+  {
+    "#Produit": "OPP2007",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "2000.0",
+    "Tension": "347V",
+    "Prix": "718.00",
+    "Longueur_po": "113.3125",
+    "Longueur_mm": "2879.0",
+    "Poids_lb": "41.0",
+    "Poids_kg": "18.6"
+  },
+  {
+    "#Produit": "OPP2006",
+    "Description": "Plinthe électrique pour porte patio",
+    "Watts": "2000.0",
+    "Tension": "600V",
+    "Prix": "718.00",
+    "Longueur_po": "113.3125",
+    "Longueur_mm": "2879.0",
+    "Poids_lb": "41.0",
+    "Poids_kg": "18.6"
+  }
+]
+```
+
+-------
+
+## Tableau Options
+
+```json
+[
+  {
+    "#Produit": "BD",
+    "Description": "Finition unie du dos de l'appareil",
+    "Type": "Installée en usine*",
+    "Prix": "0.1"
+  },
+  {
+    "#Produit": "KIT-OPP-CIBR",
+    "Description": "Coin (intérieur et extérieur), 4 po (102 mm). Boîte de relais.",
+    "Type": "En trousse",
+    "Prix": "181.00"
+  },
+  {
+    "#Produit": "KIT-OPP-JT",
+    "Description": "Joint de finition, 2 po (51 mm)",
+    "Type": "En trousse",
+    "Prix": "116.00"
+  },
+  {
+    "#Produit": "KIT-OPP-JT-PE",
+    "Description": "Joint contour de finition pour unité avec piédestals, 2 po (51 mm)",
+    "Type": "En trousse",
+    "Prix": "181.00"
+  },
+  {
+    "#Produit": "KIT-OPP-PE",
+    "Description": "Trousse de piédestals ronds (2), 3 po (76 mm)",
+    "Type": "En trousse",
+    "Prix": "240.00"
+  },
+  {
+    "#Produit": "KIT-OPP-PEC",
+    "Description": "Trousse de piédestals carrés (2), 2 po (51 mm)",
+    "Type": "En trousse",
+    "Prix": "240.00"
+  },
+  {
+    "#Produit": "KIT-OPP-R-3471",
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 18A à 347V",
+    "Type": "En trousse",
+    "Prix": "311.00",
+    "Code_usine": "R1"
+  },
+  {
+    "#Produit": "KIT-OPP-R-6001",
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V",
+    "Type": "En trousse",
+    "Prix": "311.00",
+    "Code_usine": "R1"
+  },
+  {
+    "#Produit": "KIT-OPP-RT-2081",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V",
+    "Type": "En trousse",
+    "Prix": "329.00",
+    "Code_usine": "RT1"
+  },
+  {
+    "#Produit": "KIT-OPP-RT-2401",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V",
+    "Type": "En trousse",
+    "Prix": "329.00",
+    "Code_usine": "RT1"
+  },
+  {
+    "#Produit": "KIT-OPP-RT-3471",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V",
+    "Type": "En trousse",
+    "Prix": "329.00",
+    "Code_usine": "RT1"
+  },
+  {
+    "#Produit": "KIT-OPP-RT-6001,2",
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)",
+    "Type": "En trousse",
+    "Prix": "329.00",
+    "Code_usine": "RT1,2"
+  },
+  {
+    "#Produit": "OPP-SV-XX",
+    "Description": "Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2879 mm)",
+    "Type": "En trousse",
+    "Prix": "Sur demande"
+  },
+  {
+    "#Produit": "KIT-OPP-TB11",
+    "Description": "Thermostat unipolaire : 30A à 120V, 208V, 240V - 15A à 347V, 600V",
+    "Type": "En trousse",
+    "Prix": "256.00",
+    "Code_usine": "TB11"
+  },
+  {
+    "#Produit": "KIT-OPP-TB21,3",
+    "Description": "Thermostat bipolaire : 30A à 120V, 208V, 240V - 15A à 347V, 600V",
+    "Type": "En trousse",
+    "Prix": "264.00",
+    "Code_usine": "TB21,3"
+  },
+  {
+    "#Produit": "KIT-OPP-TB1-AV1",
+    "Description": "Thermostat unipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 347V, 600V",
+    "Type": "En trousse",
+    "Prix": "256.00",
+    "Code_usine": "TB1AV1"
+  },
+  {
+    "#Produit": "KIT-OPP-TB2-AV1,3",
+    "Description": "Thermostat bipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 347V, 600V",
+    "Type": "En trousse",
+    "Prix": "264.00",
+    "Code_usine": "TB2AV1,3"
+  },
+  {
+    "#Produit": "KIT-OPP-TRIAC-3471",
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 10A max. à 347V max.",
+    "Type": "En trousse",
+    "Prix": "128.00",
+    "Code_usine": "TRIAC1"
+  },
+  {
+    "#Produit": "KIT-OPP-TRIAC-347T1",
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 10A max. à 208V, 240V, 347V",
+    "Type": "En trousse",
+    "Prix": "184.00",
+    "Code_usine": "TRIACT1"
+  },
+  {
+    "#Produit": "KIT-OPP-TRIAC-6001",
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.",
+    "Type": "En trousse",
+    "Prix": "241.00",
+    "Code_usine": "TRIAC1"
+  }
+]
+```

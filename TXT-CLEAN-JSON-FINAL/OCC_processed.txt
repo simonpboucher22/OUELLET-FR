@@ -1,0 +1,78 @@
+# OCC - Chaufferette de construction portative
+
+## Caractéristiques
+
+Couleur
+• Standard : amande.
+
+Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+Tension
+• 240/208V, 1 phase.
+
+Construction
+• Poignée servant de dévidoir pour le rangement du câble de raccordement.
+• Câble de raccordement de 6 pi (2 m), moulé pour une plus grande durabilité.
+• Bouton de thermostat encastré pour un minimum d'encombrement de l'appareil.
+• Protection thermique à réenclenchement automatique.
+
+Ventilateur
+• Moteur fermé lubrifié à vie (modèle -MF).
+• Moteur ouvert lubrifié à vie (modèle -MO)
+• Ventilateur de 300 pcm.
+
+-------
+
+Élément
+• Fil hélicoïdal en alliage nickel-chrome protégé par des isolateurs en céramique.
+• Élément produisant une chaleur instantanée.
+
+Élévation de la température
+• 28 °C (51 °F).
+
+Régulation
+• Thermostat intégré inclus
+
+Installation
+• Se branche dans une prise à 3 bornes avec mise à la terre de 30A 250VAC.
+
+Garantie
+• 2 ans contre tous vices (modèle -MO).
+• 3 ans contre tous vices (modèle -MF).
+
+Application
+• Chantier, atelier, garage.
+
+-------
+
+## Tableau OCC - Chaufferette de construction portative
+
+```json
+[
+  {
+    "#Produit": "OCC4800AM-MF-TB6",
+    "Description": "Chaufferette de construction portative",
+    "Watts": "4800/3600",
+    "Volts": "240/208",
+    "Type de moteur": "Fermé",
+    "Prise à 3 bornes avec mise à la terre": "30A. 250VAC",
+    "Poids_lb": "16.0",
+    "Poids_kg": "7.3",
+    "Prix": "262.00"
+  },
+  {
+    "#Produit": "OCC4800AM-MO-TB61",
+    "Description": "Chaufferette de construction portative",
+    "Watts": "4800/3600",
+    "Volts": "240/208",
+    "Type de moteur": "Ouvert",
+    "Prise à 3 bornes avec mise à la terre": "30A. 250VAC",
+    "Poids_lb": "16.0",
+    "Poids_kg": "7.3",
+    "Prix": "193.00"
+  }
+]
+```
+
+-------

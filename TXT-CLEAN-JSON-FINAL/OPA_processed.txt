@@ -1,0 +1,999 @@
+# OPA - Convecteur architectural
+
+## Caractéristiques
+
+### Couleur
+- Standards : blanc, amande.
+- Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+- Couleurs sur mesure disponibles sur demande.
+
+### Finition
+- Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+- 208V, 240/208V, 277V, 347V, 600V, 1 phase.
+
+### Construction
+- Boîtier en acier de calibre 20.
+- Devant en acier de calibre 16.
+- Grillage en aluminium extrudé empêche l'entrée de corps étrangers.
+- Finition unie du dos de l'appareil (-BD) en option.
+- Protection thermique linéaire à réenclenchement automatique.
+
+### Élément
+- Deux éléments tubulaires en acier inoxydable recouverts d'ailettes d'aluminium.
+- Éléments flottants sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+### Densité
+- Densité moyenne standard de 500W/pi.
+- Basse densité moyenne de 375W/pi.
+
+### Régulation
+- Thermostat intégré en option, anti-vandale.
+- Relais mécanique, relais électronique ou relais pneumatique en option.
+- Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+- Usage non-résidentiel aux Etats-Unis.
+- Installation au plancher ou au mur.
+- Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.
+- Variété d'accessoires pour l'installation en continu en option.
+- Socle et trousse de piédestals en option.
+
+### Garantie
+- 3 ans contre tous vices.
+
+### Application
+- Édifice commercial, immeuble de bureaux, hôpital, école
+
+-------
+
+## Caractéristiques OPA
+
+### Construction
+- Entrée d'air frais par l'avant; sortie d'air chaud par le dessus.
+- Sortie d'air chaud par l'avant (-FR) en option.
+
+### Installation
+- Installation encastrée possible pour les modèles -FR.
+
+-------
+
+## Tableau OPA - Modèles à densité moyenne standard de 500W/pi
+
+```json
+[
+  {
+    "#Produit": "OPA1008",
+    "Watts": 1000.0,
+    "Tension": "208V",
+    "Prix": 838.00,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 690.0,
+    "Poids_lb": 30.0,
+    "Poids_kg": 13.6
+  },
+  {
+    "#Produit": "OPA1007",
+    "Watts": 1000.0,
+    "Tension": "347V",
+    "Prix": 838.00,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 690.0,
+    "Poids_lb": 30.0,
+    "Poids_kg": 13.6
+  },
+  {
+    "#Produit": "OPA1006",
+    "Watts": 1000.0,
+    "Tension": "600V",
+    "Prix": 838.00,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 690.0,
+    "Poids_lb": 30.0,
+    "Poids_kg": 13.6
+  },
+  {
+    "#Produit": "OPA1000",
+    "Watts": "1000/750",
+    "Tension": "240/208V",
+    "Prix": 838.00,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 690.0,
+    "Poids_lb": 30.0,
+    "Poids_kg": 13.6
+  },
+  {
+    "#Produit": "OPA1508",
+    "Watts": 1500.0,
+    "Tension": "208V",
+    "Prix": 969.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 944.0,
+    "Poids_lb": 46.0,
+    "Poids_kg": 20.9
+  },
+  {
+    "#Produit": "OPA1507",
+    "Watts": 1500.0,
+    "Tension": "347V",
+    "Prix": 969.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 944.0,
+    "Poids_lb": 46.0,
+    "Poids_kg": 20.9
+  },
+  {
+    "#Produit": "OPA1506",
+    "Watts": 1500.0,
+    "Tension": "600V",
+    "Prix": 969.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 944.0,
+    "Poids_lb": 46.0,
+    "Poids_kg": 20.9
+  },
+  {
+    "#Produit": "OPA1500",
+    "Watts": "1500/1125",
+    "Tension": "240/208V",
+    "Prix": 969.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 944.0,
+    "Poids_lb": 46.0,
+    "Poids_kg": 20.9
+  },
+  {
+    "#Produit": "OPA2008",
+    "Watts": 2000.0,
+    "Tension": "208V",
+    "Prix": 1135.00,
+    "Longueur_po": 47.1875,
+    "Longueur_mm": 1198.0,
+    "Poids_lb": 57.0,
+    "Poids_kg": 25.9
+  },
+  {
+    "#Produit": "OPA2007",
+    "Watts": 2000.0,
+    "Tension": "347V",
+    "Prix": 1135.00,
+    "Longueur_po": 47.1875,
+    "Longueur_mm": 1198.0,
+    "Poids_lb": 57.0,
+    "Poids_kg": 25.9
+  },
+  {
+    "#Produit": "OPA2006",
+    "Watts": 2000.0,
+    "Tension": "600V",
+    "Prix": 1135.00,
+    "Longueur_po": 47.1875,
+    "Longueur_mm": 1198.0,
+    "Poids_lb": 57.0,
+    "Poids_kg": 25.9
+  },
+  {
+    "#Produit": "OPA2000",
+    "Watts": "2000/1500",
+    "Tension": "240/208V",
+    "Prix": 1135.00,
+    "Longueur_po": 47.1875,
+    "Longueur_mm": 1198.0,
+    "Poids_lb": 57.0,
+    "Poids_kg": 25.9
+  },
+  {
+    "#Produit": "OPA2508",
+    "Watts": 2500.0,
+    "Tension": "208V",
+    "Prix": 1314.00,
+    "Longueur_po": 57.1875,
+    "Longueur_mm": 1452.0,
+    "Poids_lb": 66.0,
+    "Poids_kg": 29.9
+  },
+  {
+    "#Produit": "OPA2507",
+    "Watts": 2500.0,
+    "Tension": "347V",
+    "Prix": 1314.00,
+    "Longueur_po": 57.1875,
+    "Longueur_mm": 1452.0,
+    "Poids_lb": 66.0,
+    "Poids_kg": 29.9
+  },
+  {
+    "#Produit": "OPA2506",
+    "Watts": 2500.0,
+    "Tension": "600V",
+    "Prix": 1314.00,
+    "Longueur_po": 57.1875,
+    "Longueur_mm": 1452.0,
+    "Poids_lb": 66.0,
+    "Poids_kg": 29.9
+  },
+  {
+    "#Produit": "OPA2500",
+    "Watts": "2500/1875",
+    "Tension": "240/208V",
+    "Prix": 1314.00,
+    "Longueur_po": 57.1875,
+    "Longueur_mm": 1452.0,
+    "Poids_lb": 66.0,
+    "Poids_kg": 29.9
+  },
+  {
+    "#Produit": "OPA3008",
+    "Watts": 3000.0,
+    "Tension": "208V",
+    "Prix": 1536.00,
+    "Longueur_po": 65.1875,
+    "Longueur_mm": 1655.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OPA3007",
+    "Watts": 3000.0,
+    "Tension": "347V",
+    "Prix": 1536.00,
+    "Longueur_po": 65.1875,
+    "Longueur_mm": 1655.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OPA3006",
+    "Watts": 3000.0,
+    "Tension": "600V",
+    "Prix": 1536.00,
+    "Longueur_po": 65.1875,
+    "Longueur_mm": 1655.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OPA3000",
+    "Watts": "3000/2250",
+    "Tension": "240/208V",
+    "Prix": 1536.00,
+    "Longueur_po": 65.1875,
+    "Longueur_mm": 1655.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OPA35081",
+    "Watts": 3500.0,
+    "Tension": "208V",
+    "Prix": 1783.00,
+    "Longueur_po": 75.1875,
+    "Longueur_mm": 1909.0,
+    "Poids_lb": 80.0,
+    "Poids_kg": 36.3,
+    "Note": "Nécessite 2 relais électroniques si option de contrôle «Relais 24V électronique» requise"
+  },
+  {
+    "#Produit": "OPA3507",
+    "Watts": 3500.0,
+    "Tension": "347V",
+    "Prix": 1783.00,
+    "Longueur_po": 75.1875,
+    "Longueur_mm": 1909.0,
+    "Poids_lb": 80.0,
+    "Poids_kg": 36.3
+  },
+  {
+    "#Produit": "OPA3506",
+    "Watts": 3500.0,
+    "Tension": "600V",
+    "Prix": 1783.00,
+    "Longueur_po": 75.1875,
+    "Longueur_mm": 1909.0,
+    "Poids_lb": 80.0,
+    "Poids_kg": 36.3
+  },
+  {
+    "#Produit": "OPA3500",
+    "Watts": "3500/2625",
+    "Tension": "240/208V",
+    "Prix": 1783.00,
+    "Longueur_po": 75.1875,
+    "Longueur_mm": 1909.0,
+    "Poids_lb": 80.0,
+    "Poids_kg": 36.3
+  },
+  {
+    "#Produit": "OPA40081",
+    "Watts": 4000.0,
+    "Tension": "208V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4,
+    "Note": "Nécessite 2 relais électroniques si option de contrôle «Relais 24V électronique» requise"
+  },
+  {
+    "#Produit": "OPA4007",
+    "Watts": 4000.0,
+    "Tension": "347V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4
+  },
+  {
+    "#Produit": "OPA40061",
+    "Watts": 4000.0,
+    "Tension": "600V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4,
+    "Note": "Nécessite 2 relais électroniques si option de contrôle «Relais 24V électronique» requise"
+  },
+  {
+    "#Produit": "OPA40001",
+    "Watts": "4000/3000",
+    "Tension": "240/208V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4,
+    "Note": "Nécessite 2 relais électroniques si option de contrôle «Relais 24V électronique» requise"
+  }
+]
+```
+
+-------
+
+## Tableau OPA - Modèles à basse densité moyenne de 375W/pi
+
+```json
+[
+  {
+    "#Produit": "OPA0808-690",
+    "Watts": 800.0,
+    "Tension": "208V",
+    "Prix": 838.00,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 690.0,
+    "Poids_lb": 30.0,
+    "Poids_kg": 13.6
+  },
+  {
+    "#Produit": "OPA0800-690",
+    "Watts": 800.0,
+    "Tension": "240V",
+    "Prix": 838.00,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 690.0,
+    "Poids_lb": 30.0,
+    "Poids_kg": 13.6
+  },
+  {
+    "#Produit": "OPA0807-690",
+    "Watts": 800.0,
+    "Tension": "347V",
+    "Prix": 838.00,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 690.0,
+    "Poids_lb": 30.0,
+    "Poids_kg": 13.6
+  },
+  {
+    "#Produit": "OPA0806-690",
+    "Watts": 800.0,
+    "Tension": "600V",
+    "Prix": 838.00,
+    "Longueur_po": 27.1875,
+    "Longueur_mm": 690.0,
+    "Poids_lb": 30.0,
+    "Poids_kg": 13.6
+  },
+  {
+    "#Produit": "OPA1008-944",
+    "Watts": 1000.0,
+    "Tension": "208V",
+    "Prix": 969.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 944.0,
+    "Poids_lb": 46.0,
+    "Poids_kg": 20.9
+  },
+  {
+    "#Produit": "OPA1000-944",
+    "Watts": 1000.0,
+    "Tension": "240V",
+    "Prix": 969.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 944.0,
+    "Poids_lb": 46.0,
+    "Poids_kg": 20.9
+  },
+  {
+    "#Produit": "OPA1007-944",
+    "Watts": 1000.0,
+    "Tension": "347V",
+    "Prix": 969.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 944.0,
+    "Poids_lb": 46.0,
+    "Poids_kg": 20.9
+  },
+  {
+    "#Produit": "OPA1006-944",
+    "Watts": 1000.0,
+    "Tension": "600V",
+    "Prix": 969.00,
+    "Longueur_po": 37.1875,
+    "Longueur_mm": 944.0,
+    "Poids_lb": 46.0,
+    "Poids_kg": 20.9
+  },
+  {
+    "#Produit": "OPA1508-1198",
+    "Watts": 1500.0,
+    "Tension": "208V",
+    "Prix": 1135.00,
+    "Longueur_po": 47.1875,
+    "Longueur_mm": 1198.0,
+    "Poids_lb": 57.0,
+    "Poids_kg": 25.9
+  },
+  {
+    "#Produit": "OPA1500-1198",
+    "Watts": 1500.0,
+    "Tension": "240V",
+    "Prix": 1135.00,
+    "Longueur_po": 47.1875,
+    "Longueur_mm": 1198.0,
+    "Poids_lb": 57.0,
+    "Poids_kg": 25.9
+  },
+  {
+    "#Produit": "OPA1507-1198",
+    "Watts": 1500.0,
+    "Tension": "347V",
+    "Prix": 1135.00,
+    "Longueur_po": 47.1875,
+    "Longueur_mm": 1198.0,
+    "Poids_lb": 57.0,
+    "Poids_kg": 25.9
+  },
+  {
+    "#Produit": "OPA1506-1198",
+    "Watts": 1500.0,
+    "Tension": "600V",
+    "Prix": 1135.00,
+    "Longueur_po": 47.1875,
+    "Longueur_mm": 1198.0,
+    "Poids_lb": 57.0,
+    "Poids_kg": 25.9
+  },
+  {
+    "#Produit": "OPA1758-1452",
+    "Watts": 1750.0,
+    "Tension": "208V",
+    "Prix": 1314.00,
+    "Longueur_po": 57.1875,
+    "Longueur_mm": 1452.0,
+    "Poids_lb": 66.0,
+    "Poids_kg": 29.9
+  },
+  {
+    "#Produit": "OPA1750-1452",
+    "Watts": 1750.0,
+    "Tension": "240V",
+    "Prix": 1314.00,
+    "Longueur_po": 57.1875,
+    "Longueur_mm": 1452.0,
+    "Poids_lb": 66.0,
+    "Poids_kg": 29.9
+  },
+  {
+    "#Produit": "OPA1757-1452",
+    "Watts": 1750.0,
+    "Tension": "347V",
+    "Prix": 1314.00,
+    "Longueur_po": 57.1875,
+    "Longueur_mm": 1452.0,
+    "Poids_lb": 66.0,
+    "Poids_kg": 29.9
+  },
+  {
+    "#Produit": "OPA1756-1452",
+    "Watts": 1750.0,
+    "Tension": "600V",
+    "Prix": 1314.00,
+    "Longueur_po": 57.1875,
+    "Longueur_mm": 1452.0,
+    "Poids_lb": 66.0,
+    "Poids_kg": 29.9
+  },
+  {
+    "#Produit": "OPA2008-1655",
+    "Watts": 2000.0,
+    "Tension": "208V",
+    "Prix": 153600.0,
+    "Longueur_po": 65.1875,
+    "Longueur_mm": 1655.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OPA2000-1655",
+    "Watts": 2000.0,
+    "Tension": "240V",
+    "Prix": 153600.0,
+    "Longueur_po": 65.1875,
+    "Longueur_mm": 1655.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OPA2007-1655",
+    "Watts": 2000.0,
+    "Tension": "347V",
+    "Prix": 153600.0,
+    "Longueur_po": 65.1875,
+    "Longueur_mm": 1655.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OPA2006-1655",
+    "Watts": 2000.0,
+    "Tension": "600V",
+    "Prix": 153600.0,
+    "Longueur_po": 65.1875,
+    "Longueur_mm": 1655.0,
+    "Poids_lb": 75.0,
+    "Poids_kg": 34.0
+  },
+  {
+    "#Produit": "OPA2508-2112",
+    "Watts": 2500.0,
+    "Tension": "208V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4
+  },
+  {
+    "#Produit": "OPA2500-2112",
+    "Watts": 2500.0,
+    "Tension": "240V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4
+  },
+  {
+    "#Produit": "OPA2507-2112",
+    "Watts": 2500.0,
+    "Tension": "347V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4
+  },
+  {
+    "#Produit": "OPA2506-2112",
+    "Watts": 2500.0,
+    "Tension": "600V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4
+  },
+  {
+    "#Produit": "OPA2758-2112",
+    "Watts": 2750.0,
+    "Tension": "208V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4
+  },
+  {
+    "#Produit": "OPA2750-2112",
+    "Watts": 2750.0,
+    "Tension": "240V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4
+  },
+  {
+    "#Produit": "OPA2757-2112",
+    "Watts": 2750.0,
+    "Tension": "347V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4
+  },
+  {
+    "#Produit": "OPA2756-2112",
+    "Watts": 2750.0,
+    "Tension": "600V",
+    "Prix": 2075.00,
+    "Longueur_po": 83.125,
+    "Longueur_mm": 2112.0,
+    "Poids_lb": 89.0,
+    "Poids_kg": 40.4
+  }
+]
+```
+
+-------
+
+## Tableau OPA - Options
+
+```json
+[
+  {
+    "#Produit": "BD",
+    "Type": "Finition",
+    "Prix": 0.1,
+    "Description": "Finition unie du dos de l'appareil",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "KIT-OPA-CI",
+    "Type": "Finition",
+    "Prix": 732.00,
+    "Description": "Boîte de coins (intérieur et extérieur)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-CR-27",
+    "Type": "Finition",
+    "Prix": 150.00,
+    "Description": "Cadre d'installation en retrait, 27 3/16 po (690 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-CR-37",
+    "Type": "Finition",
+    "Prix": 167.00,
+    "Description": "Cadre d'installation en retrait, 37 3/16 po (944 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-CR-47",
+    "Type": "Finition",
+    "Prix": 173.00,
+    "Description": "Cadre d'installation en retrait, 47 3/16 po (1198 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-CR-57",
+    "Type": "Finition",
+    "Prix": 186.00,
+    "Description": "Cadre d'installation en retrait, 57 3/16 po (1452 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-CR-65",
+    "Type": "Finition",
+    "Prix": 195.00,
+    "Description": "Cadre d'installation en retrait, 65 3/16 po (1655 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-CR-75",
+    "Type": "Finition",
+    "Prix": 204.00,
+    "Description": "Cadre d'installation en retrait, 75 3/16 po (1909 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-CR-83",
+    "Type": "Finition",
+    "Prix": 212.00,
+    "Description": "Cadre d'installation en retrait, 83 1/8 po (2112 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-CTR",
+    "Type": "Finition",
+    "Prix": 238.00,
+    "Description": "Boîte pour relais, 12 po (305 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "FR",
+    "Type": "Finition",
+    "Prix": "Sans frais",
+    "Description": "Sortie d'air chaud par l'avant",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "KIT-OPA-PEC",
+    "Type": "Finition",
+    "Prix": 144.00,
+    "Description": "Trousse de piédestals carrés (2), 3 po (76 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SO-27",
+    "Type": "Finition",
+    "Prix": 212.00,
+    "Description": "Socle, 27 3/16 po (690 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SO-37",
+    "Type": "Finition",
+    "Prix": 237.00,
+    "Description": "Socle, 37 3/16 po (944 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SO-47",
+    "Type": "Finition",
+    "Prix": 256.00,
+    "Description": "Socle, 47 3/16 po (1198 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SO-57",
+    "Type": "Finition",
+    "Prix": 296.00,
+    "Description": "Socle, 57 3/16 po (1452 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SO-65",
+    "Type": "Finition",
+    "Prix": 309.00,
+    "Description": "Socle, 65 3/16 po (1655 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SO-75",
+    "Type": "Finition",
+    "Prix": 343.00,
+    "Description": "Socle, 75 3/16 po (1909 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SO-83",
+    "Type": "Finition",
+    "Prix": 382.00,
+    "Description": "Socle, 83 1/8 po (2112 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SV-27",
+    "Type": "Finition",
+    "Prix": 626.00,
+    "Description": "Fausse section, 27 3/16 po (690 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SV-37",
+    "Type": "Finition",
+    "Prix": 723.00,
+    "Description": "Fausse section, 37 3/16 po (944 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SV-47",
+    "Type": "Finition",
+    "Prix": 863.00,
+    "Description": "Fausse section, 47 3/16 po (1198 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SV-57",
+    "Type": "Finition",
+    "Prix": 948.00,
+    "Description": "Fausse section, 57 3/16 po (1452 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SV-65",
+    "Type": "Finition",
+    "Prix": 966.00,
+    "Description": "Fausse section, 65 3/16 po (1655 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SV-75",
+    "Type": "Finition",
+    "Prix": 1100.00,
+    "Description": "Fausse section, 75 3/16 po (1909 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-SV-83",
+    "Type": "Finition",
+    "Prix": 1145.00,
+    "Description": "Fausse section, 83 1/8 po (2112 mm)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "CTT",
+    "Type": "Contrôles",
+    "Prix": 209.00,
+    "Description": "Relais unipolaire, bobine 240V : 25A à 240V, 10A à 600V",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "CTT2",
+    "Type": "Contrôles",
+    "Prix": 287.00,
+    "Description": "Relais bipolaire, bobine 240V : 25A à 240V, 10A à 600V",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "DIS402",
+    "Type": "Contrôles",
+    "Prix": 216.00,
+    "Description": "Interrupteur principal tripolaire, 40A à 600V",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "PM",
+    "Type": "Contrôles",
+    "Prix": 439.00,
+    "Description": "Relais pneumatique, 20A à 600V",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "KIT-OPA-R",
+    "Type": "Contrôles",
+    "Prix": 190.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 18A à 347V",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "R",
+    "Type": "Contrôles",
+    "Prix": 190.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V - 18A à 347V",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "KIT-OPA-R2",
+    "Type": "Contrôles",
+    "Prix": 287.00,
+    "Description": "Relais bipolaire, bobine 24V, sans transformateur, 25A à 240V - 10A à 600V",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "R2",
+    "Type": "Contrôles",
+    "Prix": 287.00,
+    "Description": "Relais bipolaire, bobine 24V, sans transformateur, 25A à 240V - 10A à 600V",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "KIT-OPA-RT-208",
+    "Type": "Contrôles",
+    "Prix": 209.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 4500W, 22A à 208V",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-RT-240",
+    "Type": "Contrôles",
+    "Prix": 209.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 5200W, 22A à 240V",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-RT-277",
+    "Type": "Contrôles",
+    "Prix": 209.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 5200W, 19A à 277V",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-RT-347",
+    "Type": "Contrôles",
+    "Prix": 209.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 6000W, 18A à 347V",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "KIT-OPA-RT-6001",
+    "Type": "Contrôles",
+    "Prix": 209.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 6000W, 10A à 600V (2 fils seulement)",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "RT",
+    "Type": "Contrôles",
+    "Prix": 209.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "RT1",
+    "Type": "Contrôles",
+    "Prix": 209.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 6000W, 10A à 600V (2 fils seulement)",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "KIT-OPA-T-AV",
+    "Type": "Contrôles",
+    "Prix": 156.00,
+    "Description": "Thermostat unipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max.",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "TAV",
+    "Type": "Contrôles",
+    "Prix": 156.00,
+    "Description": "Thermostat unipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max.",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "KIT-OPA-T2-AV",
+    "Type": "Contrôles",
+    "Prix": 265.00,
+    "Description": "Thermostat bipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max.",
+    "Installation": "En trousse"
+  },
+  {
+    "#Produit": "T2AV",
+    "Type": "Contrôles",
+    "Prix": 265.00,
+    "Description": "Thermostat bipolaire, anti-vandale : 30A à 250V max. - 15A à 600V max.",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "TRIAC",
+    "Type": "Contrôles",
+    "Prix": 79.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "TRIACT",
+    "Type": "Contrôles",
+    "Prix": 110.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "TRIAC",
+    "Type": "Contrôles",
+    "Prix": 144.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "TRF24",
+    "Type": "Transformateurs",
+    "Prix": 257.00,
+    "Description": "Transformateur 24V, 50VA",
+    "Installation": "Installée en usine"
+  },
+  {
+    "#Produit": "TRF240",
+    "Type": "Transformateurs",
+    "Prix": 257.00,
+    "Description": "Transformateur 240V, 50VA",
+    "Installation": "Installée en usine"
+  }
+]
+```

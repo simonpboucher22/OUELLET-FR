@@ -1,0 +1,1023 @@
+# OPR - Plinthe électrique robuste en acier
+
+## Caractéristiques
+
+### Couleur
+• Standards : blanc, amande.
+• Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+• Couleurs sur mesure disponibles sur demande.
+
+### Finition
+• Standard : peinture à la poudre d'époxy/polyester.
+
+### Tension
+• 120V, 208V, 240/208V, 277V, 347V, 600V, 1 phase.
+
+### Construction
+• Devant en acier de calibre 16.
+• Boîtier en acier de calibre 18.
+• Canalisation de câblage intégrée pleine longueur.
+• Grillage robuste à louvres.
+• Ouvertures inférieures à 1/4 po (6.4 mm) évitant l'intrusion de petits objets à l'intérieur.
+• Finition unie du dos de l'appareil (-BD) en option.
+• Protection thermique linéaire à réenclenchement automatique.
+
+### Élément
+• Élément tubulaire en acier inoxydable recouvert d'ailettes en aluminium.
+• Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+-------
+
+### Densité
+• Densité moyenne standard de 275W/pi.
+• Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.
+
+### Régulation
+• Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+• Relais mécanique et relais électronique en option (installation du côté gauche seulement).
+• Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+• Installation au plancher ou au mur.
+• Trous de montage espacés de 2 po (51 mm) afin de faciliter la pose.
+• Variété d'accessoires pour l'installation en continu en option.
+• Trousse de piédestals en option.
+
+### Garantie
+• 3 ans contre tous vices.
+
+### Application
+• Édifice commercial, immeuble de bureaux, hôpital, école, institution carcérale.
+
+-------
+
+## Tableau OPR - Modèles à densité moyenne standard de 275W/pi
+
+```json
+[
+  {
+    "#Produit": "OPR0302",
+    "Watts": 300.0,
+    "Tension": "120V",
+    "Watts 240/208V": "300/225",
+    "#Produit 240/208V": "OPR0300",
+    "Prix": 370.00,
+    "Longueur": "20.5625 po (522.0 mm)",
+    "Poids": "10.4 lb (4.7 kg)"
+  },
+  {
+    "#Produit": "OPR0308",
+    "Watts": 300.0,
+    "Tension": "208V",
+    "Watts 240/208V": "300/225",
+    "#Produit 240/208V": "OPR0300",
+    "Prix": 370.00,
+    "Longueur": "20.5625 po (522.0 mm)",
+    "Poids": "10.4 lb (4.7 kg)"
+  },
+  {
+    "#Produit": "OPR0502",
+    "Watts": 500.0,
+    "Tension": "120V",
+    "Watts 240/208V": "500/375",
+    "#Produit 240/208V": "OPR0500",
+    "Prix": 450.00,
+    "Longueur": "25.5 po (647.0 mm)",
+    "Poids": "14.0 lb (6.4 kg)"
+  },
+  {
+    "#Produit": "OPR0508",
+    "Watts": 500.0,
+    "Tension": "208V",
+    "Watts 240/208V": "500/375",
+    "#Produit 240/208V": "OPR0500",
+    "Prix": 450.00,
+    "Longueur": "25.5 po (647.0 mm)",
+    "Poids": "14.0 lb (6.4 kg)"
+  },
+  {
+    "#Produit": "OPR0507",
+    "Watts": 500.0,
+    "Tension": "347V",
+    "Watts 240/208V": "500/375",
+    "#Produit 240/208V": "OPR0500",
+    "Prix": 450.00,
+    "Longueur": "25.5 po (647.0 mm)",
+    "Poids": "14.0 lb (6.4 kg)"
+  },
+  {
+    "#Produit": "OPR0752",
+    "Watts": 750.0,
+    "Tension": "120V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "OPR0750",
+    "Prix": 513.00,
+    "Longueur": "35.5 po (901.0 mm)",
+    "Poids": "20.0 lb (9.1 kg)"
+  },
+  {
+    "#Produit": "OPR0758",
+    "Watts": 750.0,
+    "Tension": "208V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "OPR0750",
+    "Prix": 513.00,
+    "Longueur": "35.5 po (901.0 mm)",
+    "Poids": "20.0 lb (9.1 kg)"
+  },
+  {
+    "#Produit": "OPR0757",
+    "Watts": 750.0,
+    "Tension": "347V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "OPR0750",
+    "Prix": 513.00,
+    "Longueur": "35.5 po (901.0 mm)",
+    "Poids": "20.0 lb (9.1 kg)"
+  },
+  {
+    "#Produit": "OPR0756",
+    "Watts": 750.0,
+    "Tension": "600V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "OPR0750",
+    "Prix": 513.00,
+    "Longueur": "35.5 po (901.0 mm)",
+    "Poids": "20.0 lb (9.1 kg)"
+  },
+  {
+    "#Produit": "OPR1002",
+    "Watts": 1000.0,
+    "Tension": "120V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "OPR1000",
+    "Prix": 582.00,
+    "Longueur": "45.75 po (1162.0 mm)",
+    "Poids": "26.0 lb (11.8 kg)"
+  },
+  {
+    "#Produit": "OPR1008",
+    "Watts": 1000.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "OPR1000",
+    "Prix": 582.00,
+    "Longueur": "45.75 po (1162.0 mm)",
+    "Poids": "26.0 lb (11.8 kg)"
+  },
+  {
+    "#Produit": "OPR1007",
+    "Watts": 1000.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "OPR1000",
+    "Prix": 582.00,
+    "Longueur": "45.75 po (1162.0 mm)",
+    "Poids": "26.0 lb (11.8 kg)"
+  },
+  {
+    "#Produit": "OPR1006",
+    "Watts": 1000.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "OPR1000",
+    "Prix": 582.00,
+    "Longueur": "45.75 po (1162.0 mm)",
+    "Poids": "26.0 lb (11.8 kg)"
+  },
+  {
+    "#Produit": "OPR1252",
+    "Watts": 1250.0,
+    "Tension": "120V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "OPR1250",
+    "Prix": 663.00,
+    "Longueur": "55.25 po (1403.0 mm)",
+    "Poids": "32.0 lb (14.6 kg)"
+  },
+  {
+    "#Produit": "OPR1258",
+    "Watts": 1250.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "OPR1250",
+    "Prix": 663.00,
+    "Longueur": "55.25 po (1403.0 mm)",
+    "Poids": "32.0 lb (14.6 kg)"
+  },
+  {
+    "#Produit": "OPR1257",
+    "Watts": 1250.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "OPR1250",
+    "Prix": 663.00,
+    "Longueur": "55.25 po (1403.0 mm)",
+    "Poids": "32.0 lb (14.6 kg)"
+  },
+  {
+    "#Produit": "OPR1256",
+    "Watts": 1250.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "OPR1250",
+    "Prix": 663.00,
+    "Longueur": "55.25 po (1403.0 mm)",
+    "Poids": "32.0 lb (14.6 kg)"
+  },
+  {
+    "#Produit": "OPR1502",
+    "Watts": 1500.0,
+    "Tension": "120V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "OPR1500",
+    "Prix": 756.00,
+    "Longueur": "63.9375 po (1624.0 mm)",
+    "Poids": "37.0 lb (16.8 kg)"
+  },
+  {
+    "#Produit": "OPR1508",
+    "Watts": 1500.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "OPR1500",
+    "Prix": 756.00,
+    "Longueur": "63.9375 po (1624.0 mm)",
+    "Poids": "37.0 lb (16.8 kg)"
+  },
+  {
+    "#Produit": "OPR1507",
+    "Watts": 1500.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "OPR1500",
+    "Prix": 756.00,
+    "Longueur": "63.9375 po (1624.0 mm)",
+    "Poids": "37.0 lb (16.8 kg)"
+  },
+  {
+    "#Produit": "OPR1506",
+    "Watts": 1500.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "OPR1500",
+    "Prix": 756.00,
+    "Longueur": "63.9375 po (1624.0 mm)",
+    "Poids": "37.0 lb (16.8 kg)"
+  },
+  {
+    "#Produit": "OPR1758",
+    "Watts": 1750.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1750/1313",
+    "#Produit 240/208V": "OPR1750",
+    "Prix": 853.00,
+    "Longueur": "73.25 po (1861.0 mm)",
+    "Poids": "43.0 lb (19.6 kg)"
+  },
+  {
+    "#Produit": "OPR1757",
+    "Watts": 1750.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1750/1313",
+    "#Produit 240/208V": "OPR1750",
+    "Prix": 853.00,
+    "Longueur": "73.25 po (1861.0 mm)",
+    "Poids": "43.0 lb (19.6 kg)"
+  },
+  {
+    "#Produit": "OPR1756",
+    "Watts": 1750.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1750/1313",
+    "#Produit 240/208V": "OPR1750",
+    "Prix": 853.00,
+    "Longueur": "73.25 po (1861.0 mm)",
+    "Poids": "43.0 lb (19.6 kg)"
+  },
+  {
+    "#Produit": "OPR2008",
+    "Watts": 2000.0,
+    "Tension": "208V",
+    "Watts 240/208V": "2000/1500",
+    "#Produit 240/208V": "OPR2000",
+    "Prix": 974.00,
+    "Longueur": "82.0625 po (2084.0 mm)",
+    "Poids": "47.5 lb (21.6 kg)"
+  },
+  {
+    "#Produit": "OPR2007",
+    "Watts": 2000.0,
+    "Tension": "347V",
+    "Watts 240/208V": "2000/1500",
+    "#Produit 240/208V": "OPR2000",
+    "Prix": 974.00,
+    "Longueur": "82.0625 po (2084.0 mm)",
+    "Poids": "47.5 lb (21.6 kg)"
+  },
+  {
+    "#Produit": "OPR2006",
+    "Watts": 2000.0,
+    "Tension": "600V",
+    "Watts 240/208V": "2000/1500",
+    "#Produit 240/208V": "OPR2000",
+    "Prix": 974.00,
+    "Longueur": "82.0625 po (2084.0 mm)",
+    "Poids": "47.5 lb (21.6 kg)"
+  },
+  {
+    "#Produit": "OPR2258",
+    "Watts": 2250.0,
+    "Tension": "208V",
+    "Watts 240/208V": "2250/1688",
+    "#Produit 240/208V": "OPR2250",
+    "Prix": 1105.00,
+    "Longueur": "90.9375 po (2309.0 mm)",
+    "Poids": "53.5 lb (24.3 kg)"
+  },
+  {
+    "#Produit": "OPR2257",
+    "Watts": 2250.0,
+    "Tension": "347V",
+    "Watts 240/208V": "2250/1688",
+    "#Produit 240/208V": "OPR2250",
+    "Prix": 1105.00,
+    "Longueur": "90.9375 po (2309.0 mm)",
+    "Poids": "53.5 lb (24.3 kg)"
+  },
+  {
+    "#Produit": "OPR2256",
+    "Watts": 2250.0,
+    "Tension": "600V",
+    "Watts 240/208V": "2250/1688",
+    "#Produit 240/208V": "OPR2250",
+    "Prix": 1105.00,
+    "Longueur": "90.9375 po (2309.0 mm)",
+    "Poids": "53.5 lb (24.3 kg)"
+  },
+  {
+    "#Produit": "OPR2508",
+    "Watts": 2500.0,
+    "Tension": "208V",
+    "Watts 240/208V": "2500/1875",
+    "#Produit 240/208V": "OPR2500",
+    "Prix": 1257.00,
+    "Longueur": "100.0 po (2541.0 mm)",
+    "Poids": "58.4 lb (26.6 kg)"
+  },
+  {
+    "#Produit": "OPR2507",
+    "Watts": 2500.0,
+    "Tension": "347V",
+    "Watts 240/208V": "2500/1875",
+    "#Produit 240/208V": "OPR2500",
+    "Prix": 1257.00,
+    "Longueur": "100.0 po (2541.0 mm)",
+    "Poids": "58.4 lb (26.6 kg)"
+  },
+  {
+    "#Produit": "OPR2506",
+    "Watts": 2500.0,
+    "Tension": "600V",
+    "Watts 240/208V": "2500/1875",
+    "#Produit 240/208V": "OPR2500",
+    "Prix": 1257.00,
+    "Longueur": "100.0 po (2541.0 mm)",
+    "Poids": "58.4 lb (26.6 kg)"
+  }
+]
+```
+
+-------
+
+## Tableau OPR - Modèles à basse densité moyenne
+
+```json
+[
+  {
+    "#Produit": "OPR020X-647",
+    "Prix": 450.00,
+    "Longueur": "25 1/2\" (647mm)",
+    "Poids": "14.0 lb (6.4 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 200.0,
+    "Watts 240/208V": "200/150",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": false,
+      "600V": false
+    }
+  },
+  {
+    "#Produit": "OPR030X-647",
+    "Prix": 450.00,
+    "Longueur": "25 1/2\" (647mm)",
+    "Poids": "14.0 lb (6.4 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 300.0,
+    "Watts 240/208V": "300/225",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": false,
+      "600V": false
+    }
+  },
+  {
+    "#Produit": "OPR040X-647",
+    "Prix": 450.00,
+    "Longueur": "25 1/2\" (647mm)",
+    "Poids": "14.0 lb (6.4 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 400.0,
+    "Watts 240/208V": "400/300",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": false
+    }
+  },
+  {
+    "#Produit": "OPR030X-901",
+    "Prix": 513.00,
+    "Longueur": "35 1/2\" (901 mm)",
+    "Poids": "20.0 lb (9.1 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 300.0,
+    "Watts 240/208V": "300/225",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": false
+    }
+  },
+  {
+    "#Produit": "OPR045X-901",
+    "Prix": 513.00,
+    "Longueur": "35 1/2\" (901 mm)",
+    "Poids": "20.0 lb (9.1 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 450.0,
+    "Watts 240/208V": "450/338",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": false
+    }
+  },
+  {
+    "#Produit": "OPR060X-901",
+    "Prix": 513.00,
+    "Longueur": "35 1/2\" (901 mm)",
+    "Poids": "20.0 lb (9.1 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 600.0,
+    "Watts 240/208V": "600/450",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": false
+    }
+  },
+  {
+    "#Produit": "OPR040X-1162",
+    "Prix": 582.00,
+    "Longueur": "45 3/4\" (1162 mm)",
+    "Poids": "26.0 lb (11.8 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 400.0,
+    "Watts 240/208V": "400/300",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": false
+    }
+  },
+  {
+    "#Produit": "OPR060X-1162",
+    "Prix": 582.00,
+    "Longueur": "45 3/4\" (1162 mm)",
+    "Poids": "26.0 lb (11.8 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 600.0,
+    "Watts 240/208V": "600/450",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": false
+    }
+  },
+  {
+    "#Produit": "OPR080X-1162",
+    "Prix": 582.00,
+    "Longueur": "45 3/4\" (1162 mm)",
+    "Poids": "26.0 lb (11.8 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 800.0,
+    "Watts 240/208V": "800/600",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR050X-1403",
+    "Prix": 663.00,
+    "Longueur": "55 1/4\" (1403 mm)",
+    "Poids": "32.0 lb (14.6 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 500.0,
+    "Watts 240/208V": "500/375",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": false
+    }
+  },
+  {
+    "#Produit": "OPR075X-1403",
+    "Prix": 663.00,
+    "Longueur": "55 1/4\" (1403 mm)",
+    "Poids": "32.0 lb (14.6 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 750.0,
+    "Watts 240/208V": "750/563",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR100X-1403",
+    "Prix": 663.00,
+    "Longueur": "55 1/4\" (1403 mm)",
+    "Poids": "32.0 lb (14.6 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1000.0,
+    "Watts 240/208V": "1000/750",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR060X-1624",
+    "Prix": 756.00,
+    "Longueur": "63 15/16\" (1624 mm)",
+    "Poids": "37.0 lb (16.8 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 600.0,
+    "Watts 240/208V": "600/450",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR090X-1624",
+    "Prix": 756.00,
+    "Longueur": "63 15/16\" (1624 mm)",
+    "Poids": "37.0 lb (16.8 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 900.0,
+    "Watts 240/208V": "900/675",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR120X-1624",
+    "Prix": 756.00,
+    "Longueur": "63 15/16\" (1624 mm)",
+    "Poids": "37.0 lb (16.8 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1200.0,
+    "Watts 240/208V": "1200/900",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR070X-1861",
+    "Prix": 853.00,
+    "Longueur": "73 1/4\" (1861 mm)",
+    "Poids": "43.0 lb (19.6 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 700.0,
+    "Watts 240/208V": "700/525",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR105X-1861",
+    "Prix": 853.00,
+    "Longueur": "73 1/4\" (1861 mm)",
+    "Poids": "43.0 lb (19.6 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 1050.0,
+    "Watts 240/208V": "1050/788",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR140X-1861",
+    "Prix": 853.00,
+    "Longueur": "73 1/4\" (1861 mm)",
+    "Poids": "43.0 lb (19.6 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1400.0,
+    "Watts 240/208V": "1400/1050",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR080X-2084",
+    "Prix": 974.00,
+    "Longueur": "82 1/16\" (2084 mm)",
+    "Poids": "47.5 lb (21.6 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 800.0,
+    "Watts 240/208V": "800/600",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR120X-2084",
+    "Prix": 974.00,
+    "Longueur": "82 1/16\" (2084 mm)",
+    "Poids": "47.5 lb (21.6 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 1200.0,
+    "Watts 240/208V": "1200/900",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR160X-2084",
+    "Prix": 974.00,
+    "Longueur": "82 1/16\" (2084 mm)",
+    "Poids": "47.5 lb (21.6 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1600.0,
+    "Watts 240/208V": "1600/1200",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR090X-2309",
+    "Prix": 1105.00,
+    "Longueur": "90 15/16\" (2309 mm)",
+    "Poids": "53.5 lb (24.3 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 900.0,
+    "Watts 240/208V": "900/675",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR135X-2309",
+    "Prix": 1105.00,
+    "Longueur": "90 15/16\" (2309 mm)",
+    "Poids": "53.5 lb (24.3 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 1350.0,
+    "Watts 240/208V": "1350/1013",
+    "Tensions disponibles": {
+      "120V": false,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR180X-2309",
+    "Prix": 1105.00,
+    "Longueur": "90 15/16\" (2309 mm)",
+    "Poids": "53.5 lb (24.3 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1800.0,
+    "Watts 240/208V": "1800/1350",
+    "Tensions disponibles": {
+      "120V": false,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR100X-2541",
+    "Prix": 1257.00,
+    "Longueur": "100\" (2541 mm)",
+    "Poids": "58.4 lb (26.6 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 1000.0,
+    "Watts 240/208V": "1000/750",
+    "Tensions disponibles": {
+      "120V": true,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR150X-2541",
+    "Prix": 1257.00,
+    "Longueur": "100\" (2541 mm)",
+    "Poids": "58.4 lb (26.6 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 1500.0,
+    "Watts 240/208V": "1500/1125",
+    "Tensions disponibles": {
+      "120V": false,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  },
+  {
+    "#Produit": "OPR200X-2541",
+    "Prix": 1257.00,
+    "Longueur": "100\" (2541 mm)",
+    "Poids": "58.4 lb (26.6 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 2000.0,
+    "Watts 240/208V": "2000/1500",
+    "Tensions disponibles": {
+      "120V": false,
+      "208V": true,
+      "240/208V": true,
+      "347V": true,
+      "600V": true
+    }
+  }
+]
+```
+
+-------
+
+## Tableau OPR - Options
+
+```json
+[
+  {
+    "#Produit": "BD",
+    "Type": "Finition",
+    "Prix": 0.1,
+    "Description": "Finition unie du dos de l'appareil",
+    "En trousse": false,
+    "Installée en usine": true
+  },
+  {
+    "#Produit": "KIT-OPR-BR",
+    "Type": "Finition",
+    "Prix": 133.00,
+    "Description": "Boîte de relais, 5 po (127 mm)",
+    "En trousse": true,
+    "Installée en usine": false
+  },
+  {
+    "#Produit": "KIT-OPR-CE",
+    "Type": "Finition",
+    "Prix": 381.00,
+    "Description": "Coin extérieur, 5 po (127 mm)",
+    "En trousse": true,
+    "Installée en usine": false
+  },
+  {
+    "#Produit": "KIT-OPR-CI",
+    "Type": "Finition",
+    "Prix": 381.00,
+    "Description": "Coin intérieur, 5 po (127 mm)",
+    "En trousse": true,
+    "Installée en usine": false
+  },
+  {
+    "#Produit": "KIT-OPR-JT",
+    "Type": "Finition",
+    "Prix": 97.00,
+    "Description": "Joint de finition, 3 1/8 po (80 mm)",
+    "En trousse": true,
+    "Installée en usine": false
+  },
+  {
+    "#Produit": "KIT-OPR-PE",
+    "Type": "Finition",
+    "Prix": 140.00,
+    "Description": "Trousse de piédestals ronds (2), 3 po (76 mm)",
+    "En trousse": true,
+    "Installée en usine": false
+  },
+  {
+    "#Produit": "KIT-OPR-PEC",
+    "Type": "Finition",
+    "Prix": 140.00,
+    "Description": "Trousse de piédestals carrés (2), 3 po (76 mm)",
+    "En trousse": true,
+    "Installée en usine": false
+  },
+  {
+    "#Produit": "OPR-SV-XX",
+    "Type": "Finition",
+    "Prix": "Sur demande",
+    "Description": "Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2541 mm)",
+    "En trousse": true,
+    "Installée en usine": false
+  },
+  {
+    "#Produit": "KIT-OPR-R-347",
+    "Type": "Contrôles",
+    "Prix": 175.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V",
+    "En trousse": true,
+    "Installée en usine": "R"
+  },
+  {
+    "#Produit": "KIT-OPR-R-600",
+    "Type": "Contrôles",
+    "Prix": 182.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V",
+    "En trousse": true,
+    "Installée en usine": "R"
+  },
+  {
+    "#Produit": "KIT-OPR-RT-120",
+    "Type": "Contrôles",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V",
+    "En trousse": true,
+    "Installée en usine": "RT"
+  },
+  {
+    "#Produit": "KIT-OPR-RT-208",
+    "Type": "Contrôles",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V",
+    "En trousse": true,
+    "Installée en usine": "RT"
+  },
+  {
+    "#Produit": "KIT-OPR-RT-240",
+    "Type": "Contrôles",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V",
+    "En trousse": true,
+    "Installée en usine": "RT"
+  },
+  {
+    "#Produit": "KIT-OPR-RT-277",
+    "Type": "Contrôles",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V",
+    "En trousse": true,
+    "Installée en usine": "RT"
+  },
+  {
+    "#Produit": "KIT-OPR-RT-347",
+    "Type": "Contrôles",
+    "Prix": 189.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V",
+    "En trousse": true,
+    "Installée en usine": "RT"
+  },
+  {
+    "#Produit": "KIT-OPR-RT-6001",
+    "Type": "Contrôles",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)",
+    "En trousse": true,
+    "Installée en usine": "RT1"
+  },
+  {
+    "#Produit": "KIT-OPR-T",
+    "Type": "Contrôles",
+    "Prix": 137.00,
+    "Description": "Thermostat unipolaire : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V",
+    "En trousse": true,
+    "Installée en usine": "T"
+  },
+  {
+    "#Produit": "KIT-OPR-T22",
+    "Type": "Contrôles",
+    "Prix": 228.00,
+    "Description": "Thermostat bipolaire : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V",
+    "En trousse": true,
+    "Installée en usine": "T22"
+  },
+  {
+    "#Produit": "KIT-OPR-T-AV",
+    "Type": "Contrôles",
+    "Prix": 137.00,
+    "Description": "Thermostat unipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V",
+    "En trousse": true,
+    "Installée en usine": "TAV"
+  },
+  {
+    "#Produit": "KIT-OPR-T2-AV2",
+    "Type": "Contrôles",
+    "Prix": 228.00,
+    "Description": "Thermostat bipolaire, anti-vandale : 30A à 120V, 208V, 240V - 15A à 277V, 347V, 600V",
+    "En trousse": true,
+    "Installée en usine": "T2AV2"
+  },
+  {
+    "#Produit": "KIT-OPR-TRIAC-347",
+    "Type": "Contrôles",
+    "Prix": 77.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.",
+    "En trousse": true,
+    "Installée en usine": "TRIAC"
+  },
+  {
+    "#Produit": "KIT-OPR-TRIAC-347T",
+    "Type": "Contrôles",
+    "Prix": 105.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V",
+    "En trousse": true,
+    "Installée en usine": "TRIACT"
+  },
+  {
+    "#Produit": "KIT-OPR-TRIAC-600",
+    "Type": "Contrôles",
+    "Prix": 135.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max.",
+    "En trousse": true,
+    "Installée en usine": "TRIAC"
+  }
+]
+```

@@ -1,0 +1,869 @@
+# ODB - Plinthe coupe-brise en aluminium
+
+## Caractéristiques
+
+### Couleur
+- Standards : blanc, amande.
+- Optionnelles (surcharge applicable) : argent étoilé, bronze, charcoal métallique, noir semi-lustré, aluminium, sable.
+- Couleurs sur mesure disponibles sur demande.
+
+### Finition
+- Standard : peinture à la poudre d'époxy/polyester.
+- Optionnelle : aluminium anodisé.
+
+### Tension
+- 120V, 208V, 240/208V, 277V, 347V, 600V, 50/60 Hz, 1 phase.
+
+### Construction
+- Devant en aluminium de calibre 14 (0.0787 po [2 mm]).
+- Boîtier en acier satiné de calibre 18.
+- Assemblage vissé pour une plus grande robustesse.
+- Canalisation de câblage intégrée pleine longueur.
+- Ouvertures inférieures à 1/4 po (6.4 mm) évitant l'intrusion de petits objets à l'intérieur.
+- Entrée d'air frais par l'avant; sortie d'air chaud par le dessus.
+- Entrée d'air frais par le dessous (-BAI) en option.
+- Finition unie du dos de l'appareil (-BD) en option.
+- Protection thermique linéaire pleine longueur, à réenclenchement automatique.
+- Protection thermique pour la haute altitude (-HA) en option.
+- Bouts inclus.
+
+### Élément
+- Élément tubulaire en acier recouvert d'ailettes en aluminium.
+- Élément flottant sur supports de nylon haute température réduisant les bruits causés par son expansion thermique.
+
+-------
+
+### Densité
+- Densité moyenne standard de 275W/pi.
+- Basse densité moyenne de 100W/pi, 150W/pi, 200W/pi.
+
+### Régulation
+- Thermostat intégré en option, avec un bouton de contrôle ou anti-vandale.
+- Relais mécanique, relais électronique ou relais pneumatique en option (installation du côté droit seulement).
+- Ouellet recommande fortement l'installation d'un thermostat électronique mural pour un meilleur confort.
+
+### Installation
+- L'appareil doit être installé à 2 po (51 mm) au-dessus du plancher (pour l'option -BAI).
+- Trous de montage espacés de 4 po (102 mm) afin de faciliter la pose.
+- Installation au plancher ou au mur.
+- Variété d'accessoires pour l'installation en continu en option.
+- Trousse de piédestals en option.
+
+### Garantie
+- 3 ans contre tous vices.
+
+### Application
+- Édifice commercial, immeuble de bureaux, hôpital, école, résidence privée.
+
+-------
+
+## Tableau ODB - Modèles à densité moyenne standard de 275W/pi
+
+```json
+[
+  {
+    "#Produit": "ODB0502",
+    "Watts": 500.0,
+    "Tension": "120V",
+    "Watts 240/208V": "500/375",
+    "#Produit 240/208V": "ODB0500",
+    "Prix": 542.00,
+    "Longueur": "29.0625 po (738.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)"
+  },
+  {
+    "#Produit": "ODB0508",
+    "Watts": 500.0,
+    "Tension": "208V",
+    "Watts 240/208V": "500/375",
+    "#Produit 240/208V": "ODB0500",
+    "Prix": 542.00,
+    "Longueur": "29.0625 po (738.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)"
+  },
+  {
+    "#Produit": "ODB0507",
+    "Watts": 500.0,
+    "Tension": "347V",
+    "Watts 240/208V": "500/375",
+    "#Produit 240/208V": "ODB0500",
+    "Prix": 542.00,
+    "Longueur": "29.0625 po (738.0 mm)",
+    "Poids": "8.0 lb (3.6 kg)"
+  },
+  {
+    "#Produit": "ODB0752",
+    "Watts": 750.0,
+    "Tension": "120V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "ODB0750",
+    "Prix": 589.00,
+    "Longueur": "39.0625 po (992.0 mm)",
+    "Poids": "10.4 lb (4.7 kg)"
+  },
+  {
+    "#Produit": "ODB0758",
+    "Watts": 750.0,
+    "Tension": "208V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "ODB0750",
+    "Prix": 589.00,
+    "Longueur": "39.0625 po (992.0 mm)",
+    "Poids": "10.4 lb (4.7 kg)"
+  },
+  {
+    "#Produit": "ODB0757",
+    "Watts": 750.0,
+    "Tension": "347V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "ODB0750",
+    "Prix": 589.00,
+    "Longueur": "39.0625 po (992.0 mm)",
+    "Poids": "10.4 lb (4.7 kg)"
+  },
+  {
+    "#Produit": "ODB0756",
+    "Watts": 750.0,
+    "Tension": "600V",
+    "Watts 240/208V": "750/563",
+    "#Produit 240/208V": "ODB0750",
+    "Prix": 589.00,
+    "Longueur": "39.0625 po (992.0 mm)",
+    "Poids": "10.4 lb (4.7 kg)"
+  },
+  {
+    "#Produit": "ODB1002",
+    "Watts": 1000.0,
+    "Tension": "120V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "ODB1000",
+    "Prix": 647.00,
+    "Longueur": "49.3125 po (1253.0 mm)",
+    "Poids": "12.8 lb (5.8 kg)"
+  },
+  {
+    "#Produit": "ODB1008",
+    "Watts": 1000.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "ODB1000",
+    "Prix": 647.00,
+    "Longueur": "49.3125 po (1253.0 mm)",
+    "Poids": "12.8 lb (5.8 kg)"
+  },
+  {
+    "#Produit": "ODB1007",
+    "Watts": 1000.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "ODB1000",
+    "Prix": 647.00,
+    "Longueur": "49.3125 po (1253.0 mm)",
+    "Poids": "12.8 lb (5.8 kg)"
+  },
+  {
+    "#Produit": "ODB1006",
+    "Watts": 1000.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1000/750",
+    "#Produit 240/208V": "ODB1000",
+    "Prix": 647.00,
+    "Longueur": "49.3125 po (1253.0 mm)",
+    "Poids": "12.8 lb (5.8 kg)"
+  },
+  {
+    "#Produit": "ODB1252",
+    "Watts": 1250.0,
+    "Tension": "120V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "ODB1250",
+    "Prix": 709.00,
+    "Longueur": "58.8125 po (1494.0 mm)",
+    "Poids": "15.1 lb (6.8 kg)"
+  },
+  {
+    "#Produit": "ODB1258",
+    "Watts": 1250.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "ODB1250",
+    "Prix": 709.00,
+    "Longueur": "58.8125 po (1494.0 mm)",
+    "Poids": "15.1 lb (6.8 kg)"
+  },
+  {
+    "#Produit": "ODB1257",
+    "Watts": 1250.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "ODB1250",
+    "Prix": 709.00,
+    "Longueur": "58.8125 po (1494.0 mm)",
+    "Poids": "15.1 lb (6.8 kg)"
+  },
+  {
+    "#Produit": "ODB1256",
+    "Watts": 1250.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1250/938",
+    "#Produit 240/208V": "ODB1250",
+    "Prix": 709.00,
+    "Longueur": "58.8125 po (1494.0 mm)",
+    "Poids": "15.1 lb (6.8 kg)"
+  },
+  {
+    "#Produit": "ODB1502",
+    "Watts": 1500.0,
+    "Tension": "120V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "ODB1500",
+    "Prix": 784.00,
+    "Longueur": "67.5 po (1715.0 mm)",
+    "Poids": "17.2 lb (7.8 kg)"
+  },
+  {
+    "#Produit": "ODB1508",
+    "Watts": 1500.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "ODB1500",
+    "Prix": 784.00,
+    "Longueur": "67.5 po (1715.0 mm)",
+    "Poids": "17.2 lb (7.8 kg)"
+  },
+  {
+    "#Produit": "ODB1507",
+    "Watts": 1500.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "ODB1500",
+    "Prix": 784.00,
+    "Longueur": "67.5 po (1715.0 mm)",
+    "Poids": "17.2 lb (7.8 kg)"
+  },
+  {
+    "#Produit": "ODB1506",
+    "Watts": 1500.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1500/1125",
+    "#Produit 240/208V": "ODB1500",
+    "Prix": 784.00,
+    "Longueur": "67.5 po (1715.0 mm)",
+    "Poids": "17.2 lb (7.8 kg)"
+  },
+  {
+    "#Produit": "ODB1758",
+    "Watts": 1750.0,
+    "Tension": "208V",
+    "Watts 240/208V": "1750/1313",
+    "#Produit 240/208V": "ODB1750",
+    "Prix": 866.00,
+    "Longueur": "76.875 po (1952.0 mm)",
+    "Poids": "19.4 lb (8.8 kg)"
+  },
+  {
+    "#Produit": "ODB1757",
+    "Watts": 1750.0,
+    "Tension": "347V",
+    "Watts 240/208V": "1750/1313",
+    "#Produit 240/208V": "ODB1750",
+    "Prix": 866.00,
+    "Longueur": "76.875 po (1952.0 mm)",
+    "Poids": "19.4 lb (8.8 kg)"
+  },
+  {
+    "#Produit": "ODB1756",
+    "Watts": 1750.0,
+    "Tension": "600V",
+    "Watts 240/208V": "1750/1313",
+    "#Produit 240/208V": "ODB1750",
+    "Prix": 866.00,
+    "Longueur": "76.875 po (1952.0 mm)",
+    "Poids": "19.4 lb (8.8 kg)"
+  },
+  {
+    "#Produit": "ODB2008",
+    "Watts": 2000.0,
+    "Tension": "208V",
+    "Watts 240/208V": "2000/1500",
+    "#Produit 240/208V": "ODB2000",
+    "Prix": 961.00,
+    "Longueur": "85.625 po (2175.0 mm)",
+    "Poids": "21.5 lb (9.7 kg)"
+  },
+  {
+    "#Produit": "ODB2007",
+    "Watts": 2000.0,
+    "Tension": "347V",
+    "Watts 240/208V": "2000/1500",
+    "#Produit 240/208V": "ODB2000",
+    "Prix": 961.00,
+    "Longueur": "85.625 po (2175.0 mm)",
+    "Poids": "21.5 lb (9.7 kg)"
+  },
+  {
+    "#Produit": "ODB2006",
+    "Watts": 2000.0,
+    "Tension": "600V",
+    "Watts 240/208V": "2000/1500",
+    "#Produit 240/208V": "ODB2000",
+    "Prix": 961.00,
+    "Longueur": "85.625 po (2175.0 mm)",
+    "Poids": "21.5 lb (9.7 kg)"
+  },
+  {
+    "#Produit": "ODB2258",
+    "Watts": 2250.0,
+    "Tension": "208V",
+    "Watts 240/208V": "2250/1688",
+    "#Produit 240/208V": "ODB2250",
+    "Prix": 1065.00,
+    "Longueur": "94.5 po (2400.0 mm)",
+    "Poids": "23.6 lb (10.7 kg)"
+  },
+  {
+    "#Produit": "ODB2257",
+    "Watts": 2250.0,
+    "Tension": "347V",
+    "Watts 240/208V": "2250/1688",
+    "#Produit 240/208V": "ODB2250",
+    "Prix": 1065.00,
+    "Longueur": "94.5 po (2400.0 mm)",
+    "Poids": "23.6 lb (10.7 kg)"
+  },
+  {
+    "#Produit": "ODB2256",
+    "Watts": 2250.0,
+    "Tension": "600V",
+    "Watts 240/208V": "2250/1688",
+    "#Produit 240/208V": "ODB2250",
+    "Prix": 1065.00,
+    "Longueur": "94.5 po (2400.0 mm)",
+    "Poids": "23.6 lb (10.7 kg)"
+  },
+  {
+    "#Produit": "ODB2508",
+    "Watts": 2500.0,
+    "Tension": "208V",
+    "Watts 240/208V": "2500/1875",
+    "#Produit 240/208V": "ODB2500",
+    "Prix": 1187.00,
+    "Longueur": "103.625 po (2632.0 mm)",
+    "Poids": "25.8 lb (11.7 kg)"
+  },
+  {
+    "#Produit": "ODB2507",
+    "Watts": 2500.0,
+    "Tension": "347V",
+    "Watts 240/208V": "2500/1875",
+    "#Produit 240/208V": "ODB2500",
+    "Prix": 1187.00,
+    "Longueur": "103.625 po (2632.0 mm)",
+    "Poids": "25.8 lb (11.7 kg)"
+  },
+  {
+    "#Produit": "ODB2506",
+    "Watts": 2500.0,
+    "Tension": "600V",
+    "Watts 240/208V": "2500/1875",
+    "#Produit 240/208V": "ODB2500",
+    "Prix": 1187.00,
+    "Longueur": "103.625 po (2632.0 mm)",
+    "Poids": "25.8 lb (11.7 kg)"
+  }
+]
+```
+
+-------
+
+## Tableau ODB - Modèles à basse densité moyenne
+
+```json
+[
+  {
+    "#Produit": "ODB020X-738",
+    "Prix": 542.00,
+    "Longueur": "29 1/16\" (738 mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 200.0,
+    "Watts 240/208V": "200/150",
+    "Tensions disponibles": ["120V", "208V", "240/208V"]
+  },
+  {
+    "#Produit": "ODB030X-738",
+    "Prix": 542.00,
+    "Longueur": "29 1/16\" (738 mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 300.0,
+    "Watts 240/208V": "300/225",
+    "Tensions disponibles": ["120V", "208V", "240/208V"]
+  },
+  {
+    "#Produit": "ODB040X-738",
+    "Prix": 542.00,
+    "Longueur": "29 1/16\" (738 mm)",
+    "Poids": "8.0 lb (3.6 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 400.0,
+    "Watts 240/208V": "400/300",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "ODB030X-992",
+    "Prix": 589.00,
+    "Longueur": "39 1/16\" (992 mm)",
+    "Poids": "10.4 lb (4.7 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 300.0,
+    "Watts 240/208V": "300/225",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "ODB045X-992",
+    "Prix": 589.00,
+    "Longueur": "39 1/16\" (992 mm)",
+    "Poids": "10.4 lb (4.7 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 450.0,
+    "Watts 240/208V": "450/338",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "ODB060X-992",
+    "Prix": 589.00,
+    "Longueur": "39 1/16\" (992 mm)",
+    "Poids": "10.4 lb (4.7 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 600.0,
+    "Watts 240/208V": "600/450",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "ODB040X-1253",
+    "Prix": 647.00,
+    "Longueur": "49 5/16\" (1253 mm)",
+    "Poids": "12.8 lb (5.8 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 400.0,
+    "Watts 240/208V": "400/300",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "ODB060X-1253",
+    "Prix": 647.00,
+    "Longueur": "49 5/16\" (1253 mm)",
+    "Poids": "12.8 lb (5.8 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 600.0,
+    "Watts 240/208V": "600/450",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "ODB080X-1253",
+    "Prix": 647.00,
+    "Longueur": "49 5/16\" (1253 mm)",
+    "Poids": "12.8 lb (5.8 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 800.0,
+    "Watts 240/208V": "800/600",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB050X-1494",
+    "Prix": 709.00,
+    "Longueur": "58 13/16\" (1494 mm)",
+    "Poids": "15.1 lb (6.8 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 500.0,
+    "Watts 240/208V": "500/375",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V"]
+  },
+  {
+    "#Produit": "ODB075X-1494",
+    "Prix": 709.00,
+    "Longueur": "58 13/16\" (1494 mm)",
+    "Poids": "15.1 lb (6.8 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 750.0,
+    "Watts 240/208V": "750/563",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB100X-1494",
+    "Prix": 709.00,
+    "Longueur": "58 13/16\" (1494 mm)",
+    "Poids": "15.1 lb (6.8 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1000.0,
+    "Watts 240/208V": "1000/750",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB060X-1715",
+    "Prix": 784.00,
+    "Longueur": "67 1/2\" (1715 mm)",
+    "Poids": "17.2 lb (7.8 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 600.0,
+    "Watts 240/208V": "600/450",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB090X-1715",
+    "Prix": 784.00,
+    "Longueur": "67 1/2\" (1715 mm)",
+    "Poids": "17.2 lb (7.8 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 900.0,
+    "Watts 240/208V": "900/675",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB120X-1715",
+    "Prix": 784.00,
+    "Longueur": "67 1/2\" (1715 mm)",
+    "Poids": "17.2 lb (7.8 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1200.0,
+    "Watts 240/208V": "1200/900",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB070X-1952",
+    "Prix": 866.00,
+    "Longueur": "76 7/8\" (1952 mm)",
+    "Poids": "19.6 lb (8.8 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 700.0,
+    "Watts 240/208V": "700/525",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB105X-1952",
+    "Prix": 866.00,
+    "Longueur": "76 7/8\" (1952 mm)",
+    "Poids": "19.6 lb (8.8 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 1050.0,
+    "Watts 240/208V": "1050/788",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB140X-1952",
+    "Prix": 866.00,
+    "Longueur": "76 7/8\" (1952 mm)",
+    "Poids": "19.6 lb (8.8 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1400.0,
+    "Watts 240/208V": "1400/1050",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB080X-2175",
+    "Prix": 961.00,
+    "Longueur": "85 5/8\" (2175 mm)",
+    "Poids": "21.5 lb (9.7 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 800.0,
+    "Watts 240/208V": "800/600",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB120X-2175",
+    "Prix": 961.00,
+    "Longueur": "85 5/8\" (2175 mm)",
+    "Poids": "21.5 lb (9.7 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 1200.0,
+    "Watts 240/208V": "1200/900",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB160X-2175",
+    "Prix": 961.00,
+    "Longueur": "85 5/8\" (2175 mm)",
+    "Poids": "21.5 lb (9.7 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1600.0,
+    "Watts 240/208V": "1600/1200",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB090X-2400",
+    "Prix": 1065.00,
+    "Longueur": "94 1/2\" (2400 mm)",
+    "Poids": "23.6 lb (10.7 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 900.0,
+    "Watts 240/208V": "900/675",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB135X-2400",
+    "Prix": 1065.00,
+    "Longueur": "94 1/2\" (2400 mm)",
+    "Poids": "23.6 lb (10.7 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 1350.0,
+    "Watts 240/208V": "1350/1013",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB180X-2400",
+    "Prix": 1065.00,
+    "Longueur": "94 1/2\" (2400 mm)",
+    "Poids": "23.6 lb (10.7 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 1800.0,
+    "Watts 240/208V": "1800/1350",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB100X-2632",
+    "Prix": 1187.00,
+    "Longueur": "103 5/8\" (2632 mm)",
+    "Poids": "26.8 lb (11.7 kg)",
+    "Densité moyenne W/pi": 100.0,
+    "Watts": 1000.0,
+    "Watts 240/208V": "1000/750",
+    "Tensions disponibles": ["120V", "208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB150X-2632",
+    "Prix": 1187.00,
+    "Longueur": "103 5/8\" (2632 mm)",
+    "Poids": "26.8 lb (11.7 kg)",
+    "Densité moyenne W/pi": 150.0,
+    "Watts": 1500.0,
+    "Watts 240/208V": "1500/1125",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB200X-2632",
+    "Prix": 1187.00,
+    "Longueur": "103 5/8\" (2632 mm)",
+    "Poids": "26.8 lb (11.7 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 2000.0,
+    "Watts 240/208V": "2000/1500",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  },
+  {
+    "#Produit": "ODB225X-2632",
+    "Prix": 1187.00,
+    "Longueur": "103 5/8\" (2632 mm)",
+    "Poids": "26.8 lb (11.7 kg)",
+    "Densité moyenne W/pi": 200.0,
+    "Watts": 2250.0,
+    "Watts 240/208V": "2250/1688",
+    "Tensions disponibles": ["208V", "240/208V", "347V", "600V"]
+  }
+]
+```
+
+-------
+
+## Tableau ODB - Options
+
+```json
+[
+  {
+    "Catégorie": "Finition",
+    "#Produit En trousse": "",
+    "#Produit Installée en usine": "BAI",
+    "Prix": "Sans frais",
+    "Description": "Entrée d'air par le dessous"
+  },
+  {
+    "Catégorie": "Finition",
+    "#Produit En trousse": "",
+    "#Produit Installée en usine": "BD1",
+    "Prix": 0.1,
+    "Description": "Finition unie du dos de l'appareil"
+  },
+  {
+    "Catégorie": "Finition",
+    "#Produit En trousse": "KIT-ODB-CE",
+    "#Produit Installée en usine": "",
+    "Prix": 479.00,
+    "Description": "Coin extérieur, 4 po (102 mm)"
+  },
+  {
+    "Catégorie": "Finition",
+    "#Produit En trousse": "KIT-ODB-CI",
+    "#Produit Installée en usine": "",
+    "Prix": 479.00,
+    "Description": "Coin intérieur, 4 po (102 mm)"
+  },
+  {
+    "Catégorie": "Finition",
+    "#Produit En trousse": "KIT-ODB-JT",
+    "#Produit Installée en usine": "",
+    "Prix": 111.00,
+    "Description": "Joint de finition, 2 po (51 mm)"
+  },
+  {
+    "Catégorie": "Finition",
+    "#Produit En trousse": "KIT-ODB-JT-PE",
+    "#Produit Installée en usine": "",
+    "Prix": 123.00,
+    "Description": "Joint contour de finition pour option BD et/ou unité avec piédestals, 2 po (51 mm)"
+  },
+  {
+    "Catégorie": "Finition",
+    "#Produit En trousse": "KIT-ODB-PE",
+    "#Produit Installée en usine": "",
+    "Prix": 161.00,
+    "Description": "Trousse de piédestals ronds (2), 3 po (76 mm)"
+  },
+  {
+    "Catégorie": "Finition",
+    "#Produit En trousse": "KIT-ODB-PEC",
+    "#Produit Installée en usine": "",
+    "Prix": 161.00,
+    "Description": "Trousse de piédestals carrés (2), 2 po (51 mm)"
+  },
+  {
+    "Catégorie": "Finition",
+    "#Produit En trousse": "ODB-SV-XX",
+    "#Produit Installée en usine": "",
+    "Prix": "Sur demande",
+    "Description": "Boîtier vide longueur de XX mm (minimum : 154 mm, maximum : 2632 mm)"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-DIS204",
+    "#Produit Installée en usine": "DIS204",
+    "Prix": 172.00,
+    "Description": "Interrupteur principal, 20A à 277V max."
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-DIS404",
+    "#Produit Installée en usine": "DIS404",
+    "Prix": 211.00,
+    "Description": "Interrupteur principal, 40A à 600V max."
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "",
+    "#Produit Installée en usine": "HA",
+    "Prix": "Sans frais",
+    "Description": "Protection thermique pour la haute altitude (3000 pi à 8200 pi)"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "",
+    "#Produit Installée en usine": "PM",
+    "Prix": 410.00,
+    "Description": "Relais pneumatique, 20A à 600V max."
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-R-347",
+    "#Produit Installée en usine": "R",
+    "Prix": 175.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-R-600",
+    "#Produit Installée en usine": "R",
+    "Prix": 182.00,
+    "Description": "Relais unipolaire, bobine 24V, sans transformateur, 10A à 600V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-RT-120",
+    "#Produit Installée en usine": "RT",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 120V/24V, 22A à 120V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-RT-208",
+    "#Produit Installée en usine": "RT",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-RT-240",
+    "#Produit Installée en usine": "RT",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-RT-277",
+    "#Produit Installée en usine": "RT",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-RT-347",
+    "#Produit Installée en usine": "RT",
+    "Prix": 189.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-RT-6002",
+    "#Produit Installée en usine": "RT2",
+    "Prix": 195.00,
+    "Description": "Relais unipolaire, bobine 24V, avec transformateur 600V/24V, 10A à 600V (2 fils seulement)"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-TB6",
+    "#Produit Installée en usine": "TB6",
+    "Prix": 154.00,
+    "Description": "Thermostat bimétallique, unipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-TB263",
+    "#Produit Installée en usine": "TB263",
+    "Prix": 250.00,
+    "Description": "Thermostat bimétallique, bipolaire : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-TB6-AV",
+    "#Produit Installée en usine": "TB6AV",
+    "Prix": 154.00,
+    "Description": "Thermostat bimétallique, unipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-TB26-AV3",
+    "#Produit Installée en usine": "TB26AV3",
+    "Prix": 250.00,
+    "Description": "Thermostat bimétallique, bipolaire, anti-vandale : 25A à 120V, 208V, 240V, 277V - 10A à 347V, 480V, 600V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-TRIAC-347",
+    "#Produit Installée en usine": "TRIAC",
+    "Prix": 77.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max."
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-TRIAC-347T",
+    "#Produit Installée en usine": "TRIACT",
+    "Prix": 105.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 347V"
+  },
+  {
+    "Catégorie": "Contrôles",
+    "#Produit En trousse": "KIT-ODB-TRIAC-600",
+    "#Produit Installée en usine": "TRIAC",
+    "Prix": 135.00,
+    "Description": "Relais électronique unipolaire, bobine 24V, sans transformateur, 6A à 600V max."
+  }
+]
+```

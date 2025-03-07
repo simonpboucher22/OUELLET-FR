@@ -1,0 +1,616 @@
+# OWC-M Câble chauffant à béton sur treillis
+
+## Longueur de la liaison froide
+• Liaison froide de 8' 2'' (2.5 m) incluse.
+• Liaison froide de 50' (15 m) disponible sur commande.
+
+## Régulation
+• Deux types de régulation possible (voir manuel d'installation pour les détails) :
+- Régulation de la température de la surface avec un thermostat électronique en mode plancher (F) et sonde de sol.
+- Régulation de la température ambiante avec un thermostat électronique en mode ambiant avec limite de plancher (A ou AF) et sonde de sol.
+
+Note : Ce produit doit être utilisé avec un disjoncteur-détecteur de fuite à la terre (DDFT) sauf si exempté par le code national et/ou local en vigueur dans la région d'installation.
+
+## Matériel inclus
+• Sonde de sol 15' (4.6 m).
+• Étiquette de tableau de mesures (à apposer au panneau électrique).
+
+## Installation
+• Ne jamais couper ni tenter de raccourcir le câble.
+• Pour applications intérieures seulement, résidentiel ou commercial.
+• S'installe sous une dalle de béton de 4'' à 6'' (10 cm à 15 cm) ou sous une chape de béton de 1.5'' à 4'' (4 cm à 10 cm).
+• Compatible avec la plupart des revêtements de sol. (vérifier avec le revendeur ou le fabricant).
+
+Note : Il est fortement recommandé d'isoler la dalle de béton afin d'éviter une perte de chaleur par le bas (voir le manuel d'instructions pour tous les détails d'installation).
+
+## Garantie
+• 20 ans sur le câble chauffant.
+
+## Application
+• Sous-sol, garage, salle d'eau, salle à manger-cuisine, salle de séjour, atelier, piscine, douche, vestibule, hôpital, hôtel, usine, commerce, restaurant, verrière, serre, bâtiments destinés au logement des animaux.
+
+-------
+
+## Caractéristiques OWC-M
+
+### Tension
+• 240/208V, 347V, 1 phase.
+
+### Construction
+• Câble chauffant de type double conducteur fixé sur un treillis de plastique à émission magnétique négligeable.
+
+### Densité
+• 11 W/pi² (120 W/m²), installé en usine sur treillis aux 6'' (15 cm).
+
+### Dimension
+• Treillis de 24'' (0.6 m) de largeur offerts en plusieurs longueurs.
+
+### Matériel inclus
+• Agrafes de sol en plastique (WC-CLP).
+
+### Installation
+• Installation avec ou sans armature métallique pour béton armé.
+
+-------
+
+## Tableau OWC-M - Modèles OWC-M
+
+```json
+[
+  {
+    "#Produit": "OWC-M0150",
+    "Watts": "150.0",
+    "Tension": "240/208V",
+    "Prix": "267.00",
+    "Surface couverte_pi2": "14.0",
+    "Surface couverte_m2": "1.3",
+    "Longueur_pi_po": "6' 5\"",
+    "Longueur_m": "1.9",
+    "Poids_lb": "3.0",
+    "Poids_kg": "1.4"
+  },
+  {
+    "#Produit": "OWC-M0200",
+    "Watts": "200.0",
+    "Tension": "240/208V",
+    "Prix": "273.00",
+    "Surface couverte_pi2": "19.0",
+    "Surface couverte_m2": "1.7",
+    "Longueur_pi_po": "8' 4\"",
+    "Longueur_m": "2.5",
+    "Poids_lb": "3.7",
+    "Poids_kg": "1.7"
+  },
+  {
+    "#Produit": "OWC-M0300",
+    "Watts": "300.0",
+    "Tension": "240/208V",
+    "Prix": "283.00",
+    "Surface couverte_pi2": "28.0",
+    "Surface couverte_m2": "2.6",
+    "Longueur_pi_po": "12' 6\"",
+    "Longueur_m": "3.8",
+    "Poids_lb": "4.0",
+    "Poids_kg": "1.8"
+  },
+  {
+    "#Produit": "OWC-M0400",
+    "Watts": "400.0",
+    "Tension": "240/208V",
+    "Prix": "297.00",
+    "Surface couverte_pi2": "38.0",
+    "Surface couverte_m2": "3.5",
+    "Longueur_pi_po": "16' 8\"",
+    "Longueur_m": "5.1",
+    "Poids_lb": "4.5",
+    "Poids_kg": "2.0"
+  },
+  {
+    "#Produit": "OWC-M0500",
+    "Watts": "500.0",
+    "Tension": "240/208V",
+    "Prix": "337.00",
+    "Surface couverte_pi2": "46.5",
+    "Surface couverte_m2": "4.3",
+    "Longueur_pi_po": "20' 10\"",
+    "Longueur_m": "6.4",
+    "Poids_lb": "5.0",
+    "Poids_kg": "2.3"
+  },
+  {
+    "#Produit": "OWC-M0600",
+    "Watts": "600.0",
+    "Tension": "240/208V",
+    "Prix": "355.00",
+    "Surface couverte_pi2": "56.0",
+    "Surface couverte_m2": "5.2",
+    "Longueur_pi_po": "25'",
+    "Longueur_m": "7.6",
+    "Poids_lb": "6.0",
+    "Poids_kg": "2.7"
+  },
+  {
+    "#Produit": "OWC-M0700",
+    "Watts": "700.0",
+    "Tension": "240/208V",
+    "Prix": "371.00",
+    "Surface couverte_pi2": "65.5",
+    "Surface couverte_m2": "6.1",
+    "Longueur_pi_po": "29' 2\"",
+    "Longueur_m": "8.9",
+    "Poids_lb": "7.0",
+    "Poids_kg": "3.1"
+  },
+  {
+    "#Produit": "OWC-M0850",
+    "Watts": "850.0",
+    "Tension": "240/208V",
+    "Prix": "397.00",
+    "Surface couverte_pi2": "80.0",
+    "Surface couverte_m2": "7.4",
+    "Longueur_pi_po": "35' 5\"",
+    "Longueur_m": "10.8",
+    "Poids_lb": "8.0",
+    "Poids_kg": "3.6"
+  },
+  {
+    "#Produit": "OWC-M0950",
+    "Watts": "950.0",
+    "Tension": "240/208V",
+    "Prix": "416.00",
+    "Surface couverte_pi2": "89.0",
+    "Surface couverte_m2": "8.3",
+    "Longueur_pi_po": "39' 7\"",
+    "Longueur_m": "12.1",
+    "Poids_lb": "9.0",
+    "Poids_kg": "4.0"
+  },
+  {
+    "#Produit": "OWC-M1100",
+    "Watts": "1100.0",
+    "Tension": "240/208V",
+    "Prix": "462.00",
+    "Surface couverte_pi2": "103.0",
+    "Surface couverte_m2": "9.6",
+    "Longueur_pi_po": "45' 10\"",
+    "Longueur_m": "14.0",
+    "Poids_lb": "10.0",
+    "Poids_kg": "4.5"
+  },
+  {
+    "#Produit": "OWC-M1200",
+    "Watts": "1200.0",
+    "Tension": "240/208V",
+    "Prix": "483.00",
+    "Surface couverte_pi2": "113.0",
+    "Surface couverte_m2": "10.5",
+    "Longueur_pi_po": "50'",
+    "Longueur_m": "15.2",
+    "Poids_lb": "11.0",
+    "Poids_kg": "5.0"
+  },
+  {
+    "#Produit": "OWC-M1300",
+    "Watts": "1300.0",
+    "Tension": "240/208V",
+    "Prix": "518.00",
+    "Surface couverte_pi2": "121.5",
+    "Surface couverte_m2": "11.3",
+    "Longueur_pi_po": "54' 2\"",
+    "Longueur_m": "16.5",
+    "Poids_lb": "12.0",
+    "Poids_kg": "5.4"
+  },
+  {
+    "#Produit": "OWC-M1400",
+    "Watts": "1400.0",
+    "Tension": "240/208V",
+    "Prix": "534.00",
+    "Surface couverte_pi2": "130.5",
+    "Surface couverte_m2": "12.1",
+    "Longueur_pi_po": "58' 4\"",
+    "Longueur_m": "17.8",
+    "Poids_lb": "13.0",
+    "Poids_kg": "6.0"
+  },
+  {
+    "#Produit": "OWC-M1500",
+    "Watts": "1500.0",
+    "Tension": "240/208V",
+    "Prix": "543.00",
+    "Surface couverte_pi2": "140.5",
+    "Surface couverte_m2": "13.1",
+    "Longueur_pi_po": "62' 6\"",
+    "Longueur_m": "19.1",
+    "Poids_lb": "14.0",
+    "Poids_kg": "6.4"
+  },
+  {
+    "#Produit": "OWC-M1600",
+    "Watts": "1600.0",
+    "Tension": "240/208V",
+    "Prix": "561.00",
+    "Surface couverte_pi2": "149.5",
+    "Surface couverte_m2": "13.9",
+    "Longueur_pi_po": "66' 8\"",
+    "Longueur_m": "20.3",
+    "Poids_lb": "15.0",
+    "Poids_kg": "6.8"
+  },
+  {
+    "#Produit": "OWC-M1700",
+    "Watts": "1700.0",
+    "Tension": "240/208V",
+    "Prix": "580.00",
+    "Surface couverte_pi2": "159.0",
+    "Surface couverte_m2": "14.8",
+    "Longueur_pi_po": "70' 10\"",
+    "Longueur_m": "21.6",
+    "Poids_lb": "16.0",
+    "Poids_kg": "7.2"
+  },
+  {
+    "#Produit": "OWC-M1850",
+    "Watts": "1850.0",
+    "Tension": "240/208V",
+    "Prix": "625.00",
+    "Surface couverte_pi2": "172.5",
+    "Surface couverte_m2": "16.0",
+    "Longueur_pi_po": "77' 1\"",
+    "Longueur_m": "23.5",
+    "Poids_lb": "17.0",
+    "Poids_kg": "7.8"
+  },
+  {
+    "#Produit": "OWC-M2000",
+    "Watts": "2000.0",
+    "Tension": "240/208V",
+    "Prix": "645.00",
+    "Surface couverte_pi2": "187.5",
+    "Surface couverte_m2": "17.4",
+    "Longueur_pi_po": "83' 4\"",
+    "Longueur_m": "25.4",
+    "Poids_lb": "18.0",
+    "Poids_kg": "8.1"
+  },
+  {
+    "#Produit": "OWC-M2007",
+    "Watts": "2000.0",
+    "Tension": "347V",
+    "Prix": "722.00",
+    "Surface couverte_pi2": "187.5",
+    "Surface couverte_m2": "17.4",
+    "Longueur_pi_po": "83' 4\"",
+    "Longueur_m": "25.4",
+    "Poids_lb": "18.0",
+    "Poids_kg": "8.1"
+  },
+  {
+    "#Produit": "OWC-M2200",
+    "Watts": "2200.0",
+    "Tension": "240/208V",
+    "Prix": "677.00",
+    "Surface couverte_pi2": "206.0",
+    "Surface couverte_m2": "19.1",
+    "Longueur_pi_po": "91' 6\"",
+    "Longueur_m": "27.9",
+    "Poids_lb": "21.0",
+    "Poids_kg": "9.5"
+  },
+  {
+    "#Produit": "OWC-M2400",
+    "Watts": "2400.0",
+    "Tension": "240/208V",
+    "Prix": "713.00",
+    "Surface couverte_pi2": "225.0",
+    "Surface couverte_m2": "20.9",
+    "Longueur_pi_po": "100'",
+    "Longueur_m": "30.5",
+    "Poids_lb": "23.0",
+    "Poids_kg": "10.4"
+  },
+  {
+    "#Produit": "OWC-M2407",
+    "Watts": "2400.0",
+    "Tension": "347V",
+    "Prix": "797.00",
+    "Surface couverte_pi2": "225.0",
+    "Surface couverte_m2": "20.9",
+    "Longueur_pi_po": "100'",
+    "Longueur_m": "30.5",
+    "Poids_lb": "23.0",
+    "Poids_kg": "10.4"
+  },
+  {
+    "#Produit": "OWC-M2550",
+    "Watts": "2550.0",
+    "Tension": "240/208V",
+    "Prix": "731.00",
+    "Surface couverte_pi2": "239.0",
+    "Surface couverte_m2": "22.2",
+    "Longueur_pi_po": "106' 6\"",
+    "Longueur_m": "32.5",
+    "Poids_lb": "25.0",
+    "Poids_kg": "11.3"
+  },
+  {
+    "#Produit": "OWC-M2700",
+    "Watts": "2700.0",
+    "Tension": "240/208V",
+    "Prix": "754.00",
+    "Surface couverte_pi2": "253.0",
+    "Surface couverte_m2": "23.5",
+    "Longueur_pi_po": "112' 6\"",
+    "Longueur_m": "34.3",
+    "Poids_lb": "28.0",
+    "Poids_kg": "12.7"
+  },
+  {
+    "#Produit": "OWC-M2707",
+    "Watts": "2700.0",
+    "Tension": "347V",
+    "Prix": "868.00",
+    "Surface couverte_pi2": "253.0",
+    "Surface couverte_m2": "23.5",
+    "Longueur_pi_po": "112' 6\"",
+    "Longueur_m": "34.3",
+    "Poids_lb": "28.0",
+    "Poids_kg": "12.7"
+  },
+  {
+    "#Produit": "OWC-M2850",
+    "Watts": "2850.0",
+    "Tension": "240/208V",
+    "Prix": "793.00",
+    "Surface couverte_pi2": "267.0",
+    "Surface couverte_m2": "24.8",
+    "Longueur_pi_po": "119'",
+    "Longueur_m": "36.3",
+    "Poids_lb": "30.0",
+    "Poids_kg": "13.6"
+  },
+  {
+    "#Produit": "OWC-M3000",
+    "Watts": "3000.0",
+    "Tension": "240/208V",
+    "Prix": "833.00",
+    "Surface couverte_pi2": "281.0",
+    "Surface couverte_m2": "26.1",
+    "Longueur_pi_po": "125'",
+    "Longueur_m": "38.1",
+    "Poids_lb": "32.0",
+    "Poids_kg": "14.5"
+  },
+  {
+    "#Produit": "OWC-M3007",
+    "Watts": "3000.0",
+    "Tension": "347V",
+    "Prix": "916.00",
+    "Surface couverte_pi2": "281.0",
+    "Surface couverte_m2": "26.1",
+    "Longueur_pi_po": "125'",
+    "Longueur_m": "38.1",
+    "Poids_lb": "32.0",
+    "Poids_kg": "14.5"
+  },
+  {
+    "#Produit": "OWC-M3200",
+    "Watts": "3200.0",
+    "Tension": "240/208V",
+    "Prix": "872.00",
+    "Surface couverte_pi2": "300.0",
+    "Surface couverte_m2": "27.9",
+    "Longueur_pi_po": "133' 6\"",
+    "Longueur_m": "40.7",
+    "Poids_lb": "34.0",
+    "Poids_kg": "15.4"
+  },
+  {
+    "#Produit": "OWC-M3400",
+    "Watts": "3400.0",
+    "Tension": "240/208V",
+    "Prix": "912.00",
+    "Surface couverte_pi2": "318.5",
+    "Surface couverte_m2": "29.6",
+    "Longueur_pi_po": "141' 8\"",
+    "Longueur_m": "43.2",
+    "Poids_lb": "36.0",
+    "Poids_kg": "16.3"
+  },
+  {
+    "#Produit": "OWC-M3407",
+    "Watts": "3400.0",
+    "Tension": "347V",
+    "Prix": "1005.00",
+    "Surface couverte_pi2": "318.5",
+    "Surface couverte_m2": "29.6",
+    "Longueur_pi_po": "141' 8\"",
+    "Longueur_m": "43.2",
+    "Poids_lb": "36.0",
+    "Poids_kg": "16.3"
+  },
+  {
+    "#Produit": "OWC-M3600",
+    "Watts": "3600.0",
+    "Tension": "240/208V",
+    "Prix": "967.00",
+    "Surface couverte_pi2": "336.0",
+    "Surface couverte_m2": "31.2",
+    "Longueur_pi_po": "150'",
+    "Longueur_m": "45.7",
+    "Poids_lb": "38.0",
+    "Poids_kg": "17.2"
+  },
+  {
+    "#Produit": "OWC-M3707",
+    "Watts": "3700.0",
+    "Tension": "347V",
+    "Prix": "1046.00",
+    "Surface couverte_pi2": "346.5",
+    "Surface couverte_m2": "32.2",
+    "Longueur_pi_po": "154' 2\"",
+    "Longueur_m": "47.0",
+    "Poids_lb": "39.0",
+    "Poids_kg": "17.7"
+  },
+  {
+    "#Produit": "OWC-M4007",
+    "Watts": "4000.0",
+    "Tension": "347V",
+    "Prix": "1135.00",
+    "Surface couverte_pi2": "375.0",
+    "Surface couverte_m2": "34.8",
+    "Longueur_pi_po": "166' 8\"",
+    "Longueur_m": "50.8",
+    "Poids_lb": "42.0",
+    "Poids_kg": "19.0"
+  }
+]
+```
+
+-------
+
+## Tableau OWC-M - Options OWC-M et OWC-R
+
+```json
+[
+  {
+    "#Produit": "OTM-CC1",
+    "Type": "En trousse",
+    "Prix": "41.00",
+    "Description": "CableCheck - Indicateur de défaillance électriques"
+  },
+  {
+    "#Produit": "KIT-WC-CLP",
+    "Type": "En trousse",
+    "Prix": "19.00",
+    "Description": "Sac de 50 agrafes de sol en plastique pour câble sur treillis"
+  },
+  {
+    "#Produit": "KIT-SP2",
+    "Type": "En trousse",
+    "Prix": "46.00",
+    "Description": "Trousse de réparation pour câbles chauffants à béton."
+  },
+  {
+    "#Produit": "502.0",
+    "Type": "Installée en usine",
+    "Prix": "201.00",
+    "Description": "Liaison froide de 50' (15 m)"
+  }
+]
+```
+
+-------
+
+## Tableau OWC-M - Panneaux de contrôles DDFT avec contacteur et transfo. de contrôle 24V (208V/240V)
+
+```json
+[
+  {
+    "#Produit": "WC-2CIR-208",
+    "H x L x P (po)": "16x14x8",
+    "Prix": "5150.00",
+    "Description": "2 circuits 30A 208V"
+  },
+  {
+    "#Produit": "WC-4CIR-208",
+    "H x L x P (po)": "20x16x8",
+    "Prix": "6206.00",
+    "Description": "4 circuits 30A 208V"
+  },
+  {
+    "#Produit": "WC-6CIR-208",
+    "H x L x P (po)": "20x16x8",
+    "Prix": "6978.00",
+    "Description": "6 circuits 30A 208V"
+  },
+  {
+    "#Produit": "WC-8CIR-208",
+    "H x L x P (po)": "24x24x8",
+    "Prix": "7725.00",
+    "Description": "8 circuits 30A 208V"
+  },
+  {
+    "#Produit": "WC-10CIR-208",
+    "H x L x P (po)": "24x24x8",
+    "Prix": "8652.00",
+    "Description": "10 circuits 30A 208V"
+  },
+  {
+    "#Produit": "WC-12CIR-208",
+    "H x L x P (po)": "24x24x8",
+    "Prix": "9219.00",
+    "Description": "12 circuits 30A 208V"
+  },
+  {
+    "#Produit": "WC-2CIR-240",
+    "H x L x P (po)": "16x14x8",
+    "Prix": "5150.00",
+    "Description": "2 circuits 30A 240V"
+  },
+  {
+    "#Produit": "WC-4CIR-240",
+    "H x L x P (po)": "20x16x8",
+    "Prix": "6206.00",
+    "Description": "4 circuits 30A 240V"
+  },
+  {
+    "#Produit": "WC-6CIR-240",
+    "H x L x P (po)": "24x20x8",
+    "Prix": "6978.00",
+    "Description": "6 circuits 30A 240V"
+  },
+  {
+    "#Produit": "WC-8CIR-240",
+    "H x L x P (po)": "24x20x8",
+    "Prix": "7725.00",
+    "Description": "8 circuits 30A 240V"
+  },
+  {
+    "#Produit": "WC-10CIR-240",
+    "H x L x P (po)": "24x24x8",
+    "Prix": "8652.00",
+    "Description": "10 circuits 30A 240V"
+  },
+  {
+    "#Produit": "WC-12CIR-240",
+    "H x L x P (po)": "24x24x8",
+    "Prix": "9219.00",
+    "Description": "12 circuits 30A 240V"
+  }
+]
+```
+
+-------
+
+## Tableau OWC-M - Panneaux de contrôles DDFT avec contacteur et transfo. de contrôle 24V (347V/600V)
+
+```json
+[
+  {
+    "#Produit": "WC-3CIR-347-347",
+    "H x L x P (po)": "16x14x8",
+    "Prix": "5665.00",
+    "Description": "3 circuits 24A 347V"
+  },
+  {
+    "#Produit": "WC-6CIR-347-347",
+    "H x L x P (po)": "20x16x8",
+    "Prix": "6695.00",
+    "Description": "6 circuits 24A 347V"
+  },
+  {
+    "#Produit": "WC-9CIR-600-347",
+    "H x L x P (po)": "30x24x8",
+    "Prix": "9013.00",
+    "Description": "9 circuits 24A 600V"
+  },
+  {
+    "#Produit": "WC-12CIR-600-347",
+    "H x L x P (po)": "30x24x8",
+    "Prix": "10352.00",
+    "Description": "12 circuits 24A 600V"
+  }
+]
+```

@@ -1,0 +1,896 @@
+# OPXA Plinthe antidéflagrante à dessus incliné
+
+-------
+
+## Caractéristiques
+
+**Couleur**
+• Standard : rouge.
+
+**Tension**
+• 120V, 208V, 240V, 277V, 347V, 480V, 600V, 1 ou 3 phases.
+
+**Construction**
+• Dessus incliné. Panneau arrière en acier galvanisé de calibre 14. Panneaux avant et latéraux en acier carbone de calibre 14 avec revêtement en poudre d'époxy/polyester.
+• Convection à basse température.
+• Protection thermique linéaire à réenclenchement automatique.
+• Boîte de jonction scellée.
+
+**Élément**
+• Élément tubulaire en Incoloy® 800 avec ailettes en aluminium embossé de forme radiale.
+
+**Densité**
+• Variable selon le code de température.
+
+**Normes**
+• CSA C22.2 No.30, No. 60079-0, No.60079-1, No.46, No. 60529, No. 94.2.
+• ANSI/UL 823, 60079-0, 60079-1.
+• ANSI/IEC 60529.
+• UL 50E.
+
+**Classifications**
+• Pour les zones dangereuses en Amérique du Nord :
+• Classe I, Division 1 et 2, Groupes B, C et D (T2B ou T3A).
+• Classe I, Zone 1 et 2, Ex db, Groupes IIA, IIB+H2, Gb Classe I, Zone 1 et 2, AEx db, Groupes IIA, IIB+H2, Gb
+• Ta = -50 °C à +40 °C, IP66, Type 4, (T2 ou T3).
+
+**Code de température**
+• Système de divisions – T2B 260 °C (500 °F) ou T3A 180 °C (356 °F).
+• Système de zones – T2 300 °C (572 °F) ou T3 200 °C (392 °F).
+
+**Indice de protection**
+• IP66 et Type 4.
+
+**Régulation**
+• Thermostat intégré ou mural en option.
+
+**Installation**
+• Support mural intégré.
+• Distances de montage minimales de 8 po (20 cm) au-dessus du plancher et de 18 po (45 cm) du plafond.
+
+**Garantie**
+• 1 an contre tous vices
+
+**Application**
+• Chambre à peinture, aire de stockage et de manipulations chimiques, usine de pétrochimie, raffinerie, usine de nettoyage à sec, mine.
+
+-------
+
+## Modèles
+
+### Tableau OPXA - Plinthe antidéflagrante à dessus incliné
+
+```json
+[
+  {
+    "#Produit": "OPXA03600-2081-X-T2B-31",
+    "kW": 3.6,
+    "Volts": "208",
+    "Phase": 1,
+    "Amp": 17.3,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 6345.00,
+    "Prix_Boitier_C": 4500.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA03600-2083-X-T2B-31",
+    "kW": 3.6,
+    "Volts": "208",
+    "Phase": 3,
+    "Amp": 10.0,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 8520.00,
+    "Prix_Boitier_C": 6675.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA03600-2401-X-T2B-31",
+    "kW": 3.6,
+    "Volts": "240",
+    "Phase": 1,
+    "Amp": 15.0,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 6345.00,
+    "Prix_Boitier_C": 4500.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA03600-2403-X-T2B-31",
+    "kW": 3.6,
+    "Volts": "240",
+    "Phase": 3,
+    "Amp": 8.7,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 8520.00,
+    "Prix_Boitier_C": 6675.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA03600-6001-X-T2B-31",
+    "kW": 3.6,
+    "Volts": "600",
+    "Phase": 1,
+    "Amp": 6.0,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 6345.00,
+    "Prix_Boitier_C": 4500.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA03600-6003-X-T2B-31",
+    "kW": 3.6,
+    "Volts": "600",
+    "Phase": 3,
+    "Amp": 3.5,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 9845.00,
+    "Prix_Boitier_C": 8000.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA04800-2081-X-T2B-49",
+    "kW": 4.8,
+    "Volts": "208",
+    "Phase": 1,
+    "Amp": 23.1,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 10220.00,
+    "Prix_Boitier_C": 8375.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA04800-2083-X-T2B-49",
+    "kW": 4.8,
+    "Volts": "208",
+    "Phase": 3,
+    "Amp": 13.3,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 10720.00,
+    "Prix_Boitier_C": 8875.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA04800-2401-X-T2B-49",
+    "kW": 4.8,
+    "Volts": "240",
+    "Phase": 1,
+    "Amp": 20.0,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 10220.00,
+    "Prix_Boitier_C": 8375.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA04800-2403-X-T2B-49",
+    "kW": 4.8,
+    "Volts": "240",
+    "Phase": 3,
+    "Amp": 11.5,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 10720.00,
+    "Prix_Boitier_C": 8875.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA04800-6001-X-T2B-49",
+    "kW": 4.8,
+    "Volts": "600",
+    "Phase": 1,
+    "Amp": 8.0,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 10220.00,
+    "Prix_Boitier_C": 8375.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA04800-6003-X-T2B-49",
+    "kW": 4.8,
+    "Volts": "600",
+    "Phase": 3,
+    "Amp": 4.6,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 10720.00,
+    "Prix_Boitier_C": 8875.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA07600-2081-X-T2B-59",
+    "kW": 7.6,
+    "Volts": "208",
+    "Phase": 1,
+    "Amp": 36.5,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 11920.00,
+    "Prix_Boitier_C": 10075.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 59.0
+  },
+  {
+    "#Produit": "OPXA07600-2083-X-T2B-59",
+    "kW": 7.6,
+    "Volts": "208",
+    "Phase": 3,
+    "Amp": 21.1,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 12620.00,
+    "Prix_Boitier_C": 10775.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 59.0
+  },
+  {
+    "#Produit": "OPXA07600-2401-X-T2B-59",
+    "kW": 7.6,
+    "Volts": "240",
+    "Phase": 1,
+    "Amp": 31.7,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 11920.00,
+    "Prix_Boitier_C": 10075.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 59.0
+  },
+  {
+    "#Produit": "OPXA07600-2403-X-T2B-59",
+    "kW": 7.6,
+    "Volts": "240",
+    "Phase": 3,
+    "Amp": 18.3,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 12620.00,
+    "Prix_Boitier_C": 10775.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 59.0
+  },
+  {
+    "#Produit": "OPXA07600-6001-X-T2B-59",
+    "kW": 7.6,
+    "Volts": "600",
+    "Phase": 1,
+    "Amp": 12.7,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 11920.00,
+    "Prix_Boitier_C": 10075.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 59.0
+  },
+  {
+    "#Produit": "OPXA07600-6003-X-T2B-59",
+    "kW": 7.6,
+    "Volts": "600",
+    "Phase": 3,
+    "Amp": 7.3,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": 12620.00,
+    "Prix_Boitier_C": 10775.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 59.0
+  },
+  {
+    "#Produit": "OPXA10000-2083-X-T2B-712",
+    "kW": 10.0,
+    "Volts": "208",
+    "Phase": 3,
+    "Amp": 27.8,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": null,
+    "Prix_Boitier_C": 11275.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "Non disponible",
+    "Thermostat_Mural_XET1": "Non disponible",
+    "Votre_Propre_Unite": "C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA10000-2403-X-T2B-712",
+    "kW": 10.0,
+    "Volts": "240",
+    "Phase": 3,
+    "Amp": 24.1,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": null,
+    "Prix_Boitier_C": 11275.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "Non disponible",
+    "Thermostat_Mural_XET1": "Non disponible",
+    "Votre_Propre_Unite": "C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA10000-6001-X-T2B-712",
+    "kW": 10.0,
+    "Volts": "600",
+    "Phase": 1,
+    "Amp": 16.7,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": null,
+    "Prix_Boitier_C": 11275.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "Non disponible",
+    "Thermostat_Mural_XET1": "Non disponible",
+    "Votre_Propre_Unite": "C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA10000-6003-X-T2B-712",
+    "kW": 10.0,
+    "Volts": "600",
+    "Phase": 3,
+    "Amp": 9.6,
+    "Code_Temperature": "T2B",
+    "Prix_Boitier_A_B": null,
+    "Prix_Boitier_C": 11275.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "Non disponible",
+    "Thermostat_Mural_XET1": "Non disponible",
+    "Votre_Propre_Unite": "C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA00600-3471-X-T3A-31",
+    "kW": 0.6,
+    "Volts": "347",
+    "Phase": 1,
+    "Amp": 1.7,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 4595.00,
+    "Prix_Boitier_C": 2750.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01200-1201-X-T3A-31",
+    "kW": 1.2,
+    "Volts": "120",
+    "Phase": 1,
+    "Amp": 10.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": null,
+    "Prix_Boitier_C": 2755.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "C",
+    "Thermostat_Mural_XET1": "Non disponible",
+    "Votre_Propre_Unite": "C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01200-2081-X-T3A-31",
+    "kW": 1.2,
+    "Volts": "208",
+    "Phase": 1,
+    "Amp": 5.8,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 5305.00,
+    "Prix_Boitier_C": 3460.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01200-2083-X-T3A-31",
+    "kW": 1.2,
+    "Volts": "208",
+    "Phase": 3,
+    "Amp": 3.3,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 5875.00,
+    "Prix_Boitier_C": 4030.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A or B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A or B or C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01200-2401-X-T3A-31",
+    "kW": 1.2,
+    "Volts": "240",
+    "Phase": 1,
+    "Amp": 5.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 5305.00,
+    "Prix_Boitier_C": 3460.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01200-2403-X-T3A-31",
+    "kW": 1.2,
+    "Volts": "240",
+    "Phase": 3,
+    "Amp": 2.9,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 5875.00,
+    "Prix_Boitier_C": 4030.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A or B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A or B or C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01200-3471-X-T3A-31",
+    "kW": 1.2,
+    "Volts": "347",
+    "Phase": 1,
+    "Amp": 3.5,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 9295.00,
+    "Prix_Boitier_C": 7450.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01200-6001-X-T3A-31",
+    "kW": 1.2,
+    "Volts": "600",
+    "Phase": 1,
+    "Amp": 2.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 5305.00,
+    "Prix_Boitier_C": 3460.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01610-3471-X-T3A-49",
+    "kW": 1.6,
+    "Volts": "347",
+    "Phase": 1,
+    "Amp": 4.6,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 9795.00,
+    "Prix_Boitier_C": 7950.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA01800-1201-X-T3A-31",
+    "kW": 1.8,
+    "Volts": "120",
+    "Phase": 1,
+    "Amp": 15.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": null,
+    "Prix_Boitier_C": 4200.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "C",
+    "Thermostat_Mural_XET1": "Non disponible",
+    "Votre_Propre_Unite": "C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01800-2081-X-T3A-31",
+    "kW": 1.8,
+    "Volts": "208",
+    "Phase": 1,
+    "Amp": 8.7,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 6045.00,
+    "Prix_Boitier_C": 4200.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01800-2083-X-T3A-31",
+    "kW": 1.8,
+    "Volts": "208",
+    "Phase": 3,
+    "Amp": 5.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 6645.00,
+    "Prix_Boitier_C": 4800.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01800-2401-X-T3A-31",
+    "kW": 1.8,
+    "Volts": "240",
+    "Phase": 1,
+    "Amp": 7.5,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 6045.00,
+    "Prix_Boitier_C": 4200.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01800-2403-X-T3A-31",
+    "kW": 1.8,
+    "Volts": "240",
+    "Phase": 3,
+    "Amp": 4.3,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 6645.00,
+    "Prix_Boitier_C": 4800.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA01800-6001-X-T3A-31",
+    "kW": 1.8,
+    "Volts": "600",
+    "Phase": 1,
+    "Amp": 3.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 6045.00,
+    "Prix_Boitier_C": 4200.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 31.0
+  },
+  {
+    "#Produit": "OPXA02540-3471-X-T3A-59",
+    "kW": 2.54,
+    "Volts": "347",
+    "Phase": 1,
+    "Amp": 7.3,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 10095.00,
+    "Prix_Boitier_C": 8250.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 59.0
+  },
+  {
+    "#Produit": "OPXA03340-3471-X-T3A-71",
+    "kW": 3.34,
+    "Volts": "347",
+    "Phase": 1,
+    "Amp": 9.6,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 10955.00,
+    "Prix_Boitier_C": 9110.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA03600-2081-X-T3A-49",
+    "kW": 3.6,
+    "Volts": "208",
+    "Phase": 1,
+    "Amp": 17.3,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 8520.00,
+    "Prix_Boitier_C": 6675.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA03600-2083-X-T3A-49",
+    "kW": 3.6,
+    "Volts": "208",
+    "Phase": 3,
+    "Amp": 10.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 9895.00,
+    "Prix_Boitier_C": 8050.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA03600-2401-X-T3A-49",
+    "kW": 3.6,
+    "Volts": "240",
+    "Phase": 1,
+    "Amp": 15.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 8520.00,
+    "Prix_Boitier_C": 6675.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA03600-2403-X-T3A-49",
+    "kW": 3.6,
+    "Volts": "240",
+    "Phase": 3,
+    "Amp": 8.7,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 9895.00,
+    "Prix_Boitier_C": 8050.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA03600-6001-X-T3A-49",
+    "kW": 3.6,
+    "Volts": "600",
+    "Phase": 1,
+    "Amp": 6.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 8520.00,
+    "Prix_Boitier_C": 6675.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA03600-6003-X-T3A-49",
+    "kW": 3.6,
+    "Volts": "600",
+    "Phase": 3,
+    "Amp": 3.5,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 9895.00,
+    "Prix_Boitier_C": 8050.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 49.0
+  },
+  {
+    "#Produit": "OPXA05000-2081-X-T3A-71",
+    "kW": 5.0,
+    "Volts": "208",
+    "Phase": 1,
+    "Amp": 24.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 10620.00,
+    "Prix_Boitier_C": 8775.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA05000-2083-X-T3A-71",
+    "kW": 5.0,
+    "Volts": "208",
+    "Phase": 3,
+    "Amp": 13.9,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 13120.00,
+    "Prix_Boitier_C": 11275.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA05000-2401-X-T3A-71",
+    "kW": 5.0,
+    "Volts": "240",
+    "Phase": 1,
+    "Amp": 20.8,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 10620.00,
+    "Prix_Boitier_C": 8775.00,
+    "Thermostat_Integre_T1": "C",
+    "Thermostat_Mural_BTX1": "A ou B ou C",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA05000-2403-X-T3A-71",
+    "kW": 5.0,
+    "Volts": "240",
+    "Phase": 3,
+    "Amp": 12.0,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 13120.00,
+    "Prix_Boitier_C": 11275.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA05000-6001-X-T3A-71",
+    "kW": 5.0,
+    "Volts": "600",
+    "Phase": 1,
+    "Amp": 8.3,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 10620.00,
+    "Prix_Boitier_C": 8775.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 71.0
+  },
+  {
+    "#Produit": "OPXA05000-6003-X-T3A-71",
+    "kW": 5.0,
+    "Volts": "600",
+    "Phase": 3,
+    "Amp": 4.8,
+    "Code_Temperature": "T3A",
+    "Prix_Boitier_A_B": 13120.00,
+    "Prix_Boitier_C": 11275.00,
+    "Thermostat_Integre_T1": "Non disponible",
+    "Thermostat_Mural_BTX1": "A ou B",
+    "Thermostat_Mural_XET1": "B",
+    "Votre_Propre_Unite": "A ou B ou C",
+    "Longueur_Cabinet": 71.0
+  }
+]
+```
+
+-------
+
+## Options
+
+### Tableau OPXA - Options
+
+```json
+[
+  {
+    "#Produit": "T1",
+    "En_Trousse": "-",
+    "Prix": 890.00,
+    "Description": "Thermostat intégré, bimétallique (non disponible avec les modèles 600V, tous les modèles 3 phases, ou les modèles à 1 phase ayant un courant de ligne excédant 22A)"
+  },
+  {
+    "#Produit": "LC",
+    "En_Trousse": "-",
+    "Prix": 30.00,
+    "Description": "Entrée électrique du côté gauche (la localisation standard se trouve du côté droit)"
+  },
+  {
+    "#Produit": "ZZ",
+    "En_Trousse": "-",
+    "Prix": null,
+    "Description": "Construction spéciale (pour utilisation en usine seulement)"
+  },
+  {
+    "#Produit": "OUE-BTX1-N-B",
+    "En_Trousse": "-",
+    "Prix": 890.00,
+    "Description": "Thermostat bimétallique antidéflagrant à fixation mural pour les milieux à risque. Note : Nécessite un des boîtiers électriques A ou B ou C de l'OPXA, dépendamment du modèle sélectionné."
+  },
+  {
+    "#Produit": "OUE-XET1-1-W-N-A",
+    "En_Trousse": "-",
+    "Prix": 986.00,
+    "Description": "Thermostat électronique à fixation mural pour les environnements à risques. Note : Nécessite le boîtier électrique B de l'OPXA."
+  },
+  {
+    "#Produit": "OUE-XDC-01",
+    "En_Trousse": "-",
+    "Prix": 1939.00,
+    "Description": "Interrupteur principal mural pour les environnements à risque. Note : Non adapté pour les atmosphères du Groupe B ou du Groupe IIB+H2 de gaz (hydrogène)."
+  },
+  {
+    "#Produit": "BTX1-FIK",
+    "En_Trousse": "-",
+    "Prix": 300.00,
+    "Description": "Trousse d'installation d'un thermostat BTX1-N-B sur un appareil OPXA avec un boîtier électrique « A » (120VAC) ou « B » (24VAC). Thermostat non inclus."
+  },
+  {
+    "#Produit": "XET1-FIK",
+    "En_Trousse": "-",
+    "Prix": 300.00,
+    "Description": "Trousse d'installation d'un thermostat XET1-W-N-A sur un appareil OPXA avec un boîtier électrique « B ». (24VAC) seulement. Thermostat non inclus."
+  },
+  {
+    "#Produit": "OUE-BLK1-W-N-A",
+    "En_Trousse": "-",
+    "Prix": 321.00,
+    "Description": "La trousse de conversion de l'appareil permet de passer facilement d'un thermostat intégré à une configuration murale"
+  }
+]
+```
