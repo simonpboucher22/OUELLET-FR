@@ -1,0 +1,10 @@
+### Régulation
+#### Modèle (-TH)
+• Modes de fonctionnement convenant à tous les besoins (confort, économie, hors gel, pleine puissance, veille).
+• Thermostat/minuterie digital électronique intégré avec écran rétro-éclairé servant de veilleuse.
+• Thermostat électronique pulsant à 2 triacs passant automatiquement de 750W à 1500W lorsque nécessaire.
+• Fonction de verrouillage du clavier qui élimine les ajustements de température indésirés et l'usage des différents modes du thermostat.
+
+#### Modèle (-PW)
+• Requiert un thermostat mural non pulsant (vendu séparément).
+• La puissance de l'appareil doit être sélectionnée au moment du raccordement (750W ou 1500W).

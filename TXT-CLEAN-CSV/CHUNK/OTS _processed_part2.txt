@@ -1,0 +1,7 @@
+## Modèles à densité moyenne standard de 250W/pi
+
+Tableau OTS - Convecteur de tranchée
+Watts;# Produit;# Produit;# Produit;# Produit;# Produit;Watts 240/208V;# Produit 240/208V;Prix;Longueur;Longueur;Poids;Poids/120V;208V;277V;347V;600V;;;po;mm;lb;kg
+750.0;OTS0752;OTS0758;OTS0777;-;-;750/563;OTS0750;374.00;36.0;915.0;8.4;3.8
+1000.0;-;OTS1008;OTS1077;OTS1007;OTS1006;1000/750;OTS1000;405.00;48.0;1220.0;10.8;4.9
+1250.0;-;OTS1258;OTS1277;OTS1257;OTS1256;1250/938;OTS1250;428.00;60.0;1525.0;13.2;6.0

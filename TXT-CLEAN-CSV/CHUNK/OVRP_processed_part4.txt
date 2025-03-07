@@ -1,0 +1,5 @@
+## Options
+
+Tableau OVRP - Ventilo-convecteur compact de plafond
+# Produit En trousse;# Produit Installée en usine*;Prix;Description;-;-/KIT-OVR-BS;-;73.00;Boîtier pour montage en surface;-;-/KIT-OVR-DIS1;DIS1;179.00;Interrupteur principal, 20A à 277V max. (120V, 240/208V seulement);-;-/-;ES2;33.00;Élément scellé en usine (120V, 240/208V seulement);-;-/-;TRIAC4;83.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 347V max.;-;-/-;TRIACT4;113.00;Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V, 277V, 347V;-;-
+-------

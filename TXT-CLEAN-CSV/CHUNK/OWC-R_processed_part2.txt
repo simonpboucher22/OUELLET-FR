@@ -1,0 +1,19 @@
+## Caractéristiques OWC-M
+
+### Tension
+• 240/208V, 347V, 1 phase.
+
+### Construction
+• Câble chauffant de type double conducteur fixé sur un treillis de plastique à émission magnétique négligeable.
+
+### Densité
+• 11 W/pi2 (120 W/m2), installé en usine sur treillis aux 6'' (15 cm).
+
+### Dimension
+• Treillis de 24'' (0.6 m) de largeur offerts en plusieurs longueurs.
+
+### Matériel inclus
+• Agrafes de sol en plastique (WC-CLP).
+
+### Installation
+• Installation avec ou sans armature métallique pour béton armé.

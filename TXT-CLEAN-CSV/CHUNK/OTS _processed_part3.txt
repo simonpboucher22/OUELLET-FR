@@ -1,0 +1,20 @@
+## Options
+
+Tableau OTS - Convecteur de tranchée
+# Produit En trousse;# Produit;Prix;Description
+;Installée en usine*;;
+KIT-OTS-DIS20;DIS20;147.00;Interrupteur principal, 20A à 277V max.
+KIT-OTS-DIS40;-;181.00;Interrupteur principal, 40A à 600V max. 120 mm de hauteur
+KIT-OTS-R-3471;R1;230.00;Relais unipolaire, bobine 24V, sans transformateur : 22A à 120V, 208V, 240V - 19A à 277V - 18A à 347V
+KIT-OTS-R-6001;R1;230.00;Relais unipolaire, bobine 24V, sans transformateur : 10A à 480V, 600V
+KIT-OTS-RT-2081;RT1;242.00;Relais unipolaire, bobine 24V, avec transformateur 208V/24V, 22A à 208V
+KIT-OTS-RT-2401;RT1;242.00;Relais unipolaire, bobine 24V, avec transformateur 240V/24V, 22A à 240V
+KIT-OTS-RT-2771;RT1;242.00;Relais unipolaire, bobine 24V, avec transformateur 277V/24V, 19A à 277V
+KIT-OTS-RT-3471;RT1;242.00;Relais unipolaire, bobine 24V, avec transformateur 347V/24V, 18A à 347V
+KIT-OTS-TRIAC-3471;TRIAC1;92.00;Relais électronique unipolaire, bobine 24V, sans transformateur : 10A max. à 347V max.
+KIT-OTS-TRIAC-347T1;TRIACT1;134.00;Relais électronique unipolaire, bobine 24V, avec transformateur : 10A max. à 347V max.
+KIT-OTS-TRIAC-6001;TRIAC1;179.00;Relais électronique unipolaire, bobine 24V, sans transformateur : 6A à 600V max.
+
+* Pour installation en usine
+
+-------

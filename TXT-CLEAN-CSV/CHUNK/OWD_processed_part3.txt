@@ -1,0 +1,5 @@
+## Options
+
+Tableau OWD - Aérotherme lavable
+# Produit En trousse;# Produit Installée en usine*;Prix;Description/-;120.0;257.00;Circuit de commande à 120V/-;EP;731.00;Finition à la peinture d'époxy pour une meilleure résistance à la corrosion selon l'environnement/-;I1;862.00;Interrupteur principal à poignée verrouillable/-;L;545.00;Lampe témoin «En marche»/-;ME1;1205.00;Éléments en monel pour appareil de 3 à 20kW pour une meilleure résistance à la corrosion selon l'environnement/-;ME2;3030.00;Éléments en monel pour appareil de 25 à 38.4kW pour une meilleure résistance à la corrosion selon l'environnement/-;PTM;545.00;Protection thermique à réenclenchement manuel/-;S;798.00;Interrupteur à trois positions : On/Mise en veille/Ventilateur/-;T;545.00;Thermostat/-;T2S;1366.00;Thermostat 2 stages/OWD-TM;-;611.00;Themostat mural NEMA 4X, plage de 4 °C à 43 °C (40 °F à 110 °F) : 25A à 120V, 208V, 240V - 22A à 277V (Compatible with 24VAC control circuit)
+-------

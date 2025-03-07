@@ -1,0 +1,26 @@
+# OWF-R Câble de plancher chauffant pour pose sur gabarit
+
+## Caractéristiques
+
+Tension
+• 120V, 240/208V, 1 phase.
+
+Longueur de la liaison froide
+• 10' (3 m).
+
+Construction
+• Câble chauffant de type double conducteur pour une installation plus simple et plus rapide, à émission magnétique négligeable.
+
+Densité
+• 12W/pi2 (130W/m2), installation aux 3'' (76 mm).
+• 9W/pi2 (100W/m2), installation aux 4'' (102 mm).
+
+Matériel inclus
+• Gabarit de pose en plastique.
+• Sonde de sol de 15' (4.6 m).
+• Étiquette de tableau de mesures (à apposer au panneau électrique).
+
+Installation
+• Ne jamais couper ou tenter de raccourcir le câble.
+• Pour applications intérieures seulement.
+• S'installe sur un sous-plancher de contreplaqué ou sur une chape de béton.

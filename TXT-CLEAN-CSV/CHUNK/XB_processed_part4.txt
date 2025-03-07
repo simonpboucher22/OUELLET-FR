@@ -1,0 +1,9 @@
+## Options
+
+Tableau XB - Convecteur antidéflagrant
+# Produit En trousse;# Produit Installée en usine*;Prix;Description
+-;T;1035.00;Thermostat unipolaire disponible pour unité à simple phase seulement
+-;T2;1035.00;Thermostat bipolaire
+XB-TM;-;1044.00;Thermostat mural antidéflagrant, plage de -18 °C à 40 °C (0 °F à 100 °F) : 15A à 600V, 25A à 277V
+XB-TM2;-;1140.00;Thermostat mural antidéflagrant bipolaire, plage de -18 °C à 40 °C (0 °F à 100 °F) : 15A à 600V, 25A à 277V
+-------

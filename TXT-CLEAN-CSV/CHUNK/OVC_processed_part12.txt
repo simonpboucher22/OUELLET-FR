@@ -1,0 +1,6 @@
+## Options
+
+Tableau OVC - Ventilo-convecteur électronique compact
+# Produit;Prix;Description/DIS2;118.00;Interrupteur principal, 20A à 250V/R3;81.00;Relais unipolaire, bobine 24V, sans transformateur, 22A à 208V, 240V/RT3;110.00;Relais unipolaire, bobine 24V, avec transformateur, 208V/24V, 240V/24V, 22A à 208V, 240V/TRIAC3;81.00;Relais électronique unipolaire, bobine 24V, sans transformateur, 15A à 240V max./TRIACT3;110.00;Relais électronique unipolaire, bobine 24V, avec transformateur, 15A à 208V, 240V max.
+
+-------

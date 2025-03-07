@@ -1,0 +1,22 @@
+# Thermopompe simple zone Pacific sans conduit de ventilation (OTP-P)
+
+## Caractéristiques
+- Mode de fonctionnement
+  • Climatisation, chauffage, déshumidification, ventilation et auto
+- Capacité nominale
+  • 9000, 12000, 18000, 24000 BTU/hr.
+- Tension
+  • 230/208V, 60 Hz, 1 phase.
+- Unité intérieure
+  • Installation en haut de mur, pouvant être raccordée de chaque côté.
+  • Boîtier en plastique, standard blanc.
+  • Ventilateur à courant transversal à 7 vitesses (auto, turbo, élevée, moyenne-élevée, moyenne, faible et très faible).
+  • Filtres lavables.
+- Unité extérieure
+  • Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.
+  • Vanne d'expansion électronique pour un contrôle précis du débit de réfrigérant.
+  • Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.
+  • Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.
+  • Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.
+  • Couverture et technologie de préchauffage du compresseur.
+  • Installation sur support mural ou au sol en aluminium en option.

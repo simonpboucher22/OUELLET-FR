@@ -1,0 +1,2 @@
+Tableau OTP-O - Thermopompe simple zone Olympia sans conduit de ventilation
+Tuyauterie de raccordement/réfrigérant;;;;/Longueur de préchargement;;pi (m);25 (7.5);25 (7.5);25 (7.5);25 (7.5)/Volume additionnel de réfrigérant;;oz/pi (g/m);0.2 (20);0.2 (20);0.5 (50);0.5 (50)/Diamètre externe tuyau liquide;;po;45661.0;45661.0;45661.0;45661.0/Diamètre externe tuyau gaz;;po;45659.0;45659.0;45785.0;45785.0/Différence de hauteur maximale;;pi (m);49 (15);49 (15);66 (20);98 (30)/Longueur totale maximale;;pi (m);98 (30);98 (30);100 (30);164 (50)

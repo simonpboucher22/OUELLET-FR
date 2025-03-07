@@ -1,0 +1,4 @@
+### Régulation
+• Thermostat à bulbe (modèles -T et -TM).
+• Minuterie mécanique, 0-60 minutes (modèle -TM).
+Note : Si un thermostat électronique mural est utilisé, il faut s'assurer qu'il soit compatible avec les ventilo-convecteurs.

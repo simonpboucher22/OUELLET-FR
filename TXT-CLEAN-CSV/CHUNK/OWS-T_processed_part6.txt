@@ -1,0 +1,2 @@
+Tableau OWS-T - Câble chauffant pour fonte de neige en tapis
+# Produit En trousse;H x L x P (po);Prix;Description/WS-4CIR-208;20x16x8;8343.00;4 circuits 30A 208V/WS-6CIR-208;24x20x8;9167.00;6 circuits 30A 208V/WS-8CIR-208;24x24x8;10146.00;8 circuits 30A 208V/WS-12CIR-208;30x24x8;10892.00;12 circuits 30A 208V/WS-4CIR-240;20x16x8;8343.00;4 circuits 30A 240V/WS-6CIR-240;24x20x8;9167.00;6 circuits 30A 240V/WS-8CIR-240;24x24x8;10146.00;8 circuits 30A 240V/WS-12CIR-240;30x24x8;10892.00;12 circuits 30A 240V

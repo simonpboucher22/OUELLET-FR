@@ -1,0 +1,3 @@
+Tableau OTP-H - Thermopompe simple zone Harmony sans conduit de ventilation
+Unité extérieure;L;;H;;P;;A;;B;;/;po;mm;po;mm;po;mm;po;mm;po;mm/CHD09KCH19S-O CHD12KCH17S-O;28.8125;732.0;21.84375;555.0;13.0;330.0;17.9375;540.0;12.1875;286.0/CHD18KCH17S-O;31.578125;802.0;21.84375;555.0;13.78125;350.0;20.15625;559.0;13.0625;364.0/CHD24KCH18S-O;37.75;958.0;26.0;660.0;15.828125;402.0;22.40625;610.0;14.59375;395.0
+-------

@@ -1,0 +1,4 @@
+## Modèles
+
+Tableau OVC - Ventilo-convecteur électronique compact
+Watts min.;Watts max.;Volts;# Produit;Prix;Poids lb;Poids kg/750.0;1500.0;120.0;OVC1502BL-TH;443.00;11.5;5.22/750/563;1500/1125;240/208;OVC1500BL-TH;443.00;11.5;5.22/750/563;1500/1125;240/208;OVC1500BL-PW1;358.00;12.2;5.53

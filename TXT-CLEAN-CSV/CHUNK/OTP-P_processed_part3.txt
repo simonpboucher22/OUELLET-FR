@@ -1,0 +1,2 @@
+Tableau OTP-P - Thermopompe simple zone Pacific sans conduit de ventilation
+Unité intérieure (Modèle intérieur Muse);PUD09KCH25S-I;PUD12KCH24S-I;PUD18KCH23S-I;PUD24KCH24S-I;PUD30KCH20S-I;PUD36KCH20S-I/Unité extérieure;PUD09KCH25S-O;PUD12KCH24S-O;PUD18KCH23S-O;PUD24KCH24S-O;PUD30KCH20S-O;PUD36KCH20S-O

@@ -1,0 +1,4 @@
+## Options OTM et OTR
+
+Tableau OTR - Câble de plancher chauffant pour membrane
+# Produit En trousse;Prix unitaire;Description/NADCM-M-80;31.00;Membrane de désolidarisation feutrée en feuille, 2' 6-5/16'' X 3' 3'', 8.16 pi2, vendue en boîte de 10 feuilles/NADCM-M-150;520.00;Membrane de désolidarisation feutrée en rouleau, 46' 9'' x 3' 3'', 150 pi2/NADCM-S-80;42.00;Membrane de désolidarisation autocollante en feuille, 2' 6-5/16'' X 3 '3'', 8.16 pi2, vendue en boîte de 10 feuilles/NADCM-S-150;666.00;Membrane de désolidarisation autocollante en rouleau, 46' 9'' x 3' 3'', 150 pi2/OTM-CC;41.00;CableCheck - Indicateur de défaillance électrique/OTM-SA;41.00;Colle en aérosol pour sécuriser le treillis sur le plancher de béton, 16.75 oz (474 g)/KIT-SP1;48.00;Trousse de réparation/KIT-CBL-SN;29.00;Sonde de sol 15 pi (4.6 m)

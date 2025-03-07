@@ -1,0 +1,26 @@
+# OWS-T Câble chauffant pour fonte de neige en tapis
+
+## Caractéristiques
+
+### Tension
+• 208V, 240V et 600V, 1 phase.
+
+### Construction
+• Ensemble de câble chauffant en série de type double conducteur.
+• Câble chauffant maintenu, à l'aide de bandes flexibles, sous forme de tapis à espacement régulier de 3'' (76 mm).
+• Gaine isolante des fils conducteurs en fluoropolymère/XLPE de 0.019'' (0.5 mm) d'épaisseur.
+• Blindage en maille de cuivre (0.823 mm2) servant de mise à la terre.
+• Gaine de protection du câble chauffant en polyoléfine (EPR) de 0.08'' (2 mm) d'épaisseur.
+
+### Densité
+• 50W/pi2 (538W/m2) à 208V, 240V et 600V, espacement aux 3'' (76 mm).
+
+### Dimension
+• Tapis de 24'' (610 mm) et 36'' (914 mm) de largeur, offerts en plusieurs longueurs.
+
+### Liaison froide
+• 50' (15 m) de longueur.
+• Liaison froide de 100' (30 m) disponible sur commande.
+• Calibre 12 AWG ou 14 AWG (selon la charge maximale permise).
+• Gaine de protection en PVC de 0.03'' (0.76 mm) d'épaisseur.
+• Diamètre externe de 3/8'' (9.5 mm).

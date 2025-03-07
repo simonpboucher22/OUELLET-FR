@@ -1,0 +1,12 @@
+Régulation
+• Deux types de régulation possible (voir manuel d'installation pour les détails) :
+- Régulation de la température de la surface avec un thermostat électronique en mode plancher (F) et sonde de sol.
+- Régulation de la température ambiante avec un thermostat électronique en mode ambiant avec limite de plancher (A ou AF) et sonde de sol.
+
+Note : Ce produit doit être utilisé avec un disjoncteur-détecteur de fuite à la terre (DDFT) sauf si exempté par le code national et/ou local en vigueur dans la région d'installation.
+
+Garantie
+• 25 ans sur le câble chauffant.
+
+Application
+• Vestibule, salle d'eau, salle à manger-cuisine, salle de séjour, salle familiale

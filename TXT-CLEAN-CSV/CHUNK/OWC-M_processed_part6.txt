@@ -1,0 +1,3 @@
+Tableau OWC-M - Câble chauffant à béton sur treillis
+# Produit;H x L x P;Prix;Description/WC-3CIR-347-347;16x14x8;5665.00;3 circuits 24A 347V/WC-6CIR-347-347;20x16x8;6695.00;6 circuits 24A 347V/WC-9CIR-600-347;30x24x8;9013.00;9 circuits 24A 600V/WC-12CIR-600-347;30x24x8;10352.00;12 circuits 24A 600V
+-------

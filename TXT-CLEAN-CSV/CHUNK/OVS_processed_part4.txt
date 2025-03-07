@@ -1,0 +1,5 @@
+## Options
+
+Tableau OVS - Ventilo-convecteur résidentiel mural
+# Produit En trousse;# Produit Installée en usine*;Prix;Description/KIT-OVS-BS;-;67.00;Boîtier pour montage en surface/KIT-OVS-DIS1;DIS1;163.00;Interrupteur principal, 20A à 277V max. (120V, 208V, 240/208V seulement)/-;ES2;29.00;Élément scellé en usine (120V, 208V, 240/208V seulement)/KIT-OVS-TB6;TB6;59.00;Thermostat bimétallique, unipolaire (347V installé en usine seulement)/KIT-OVS-TB263;TB263;72.00;Thermostat bimétallique, bipolaire (347V installé en usine seulement)/KIT-OVS-TB6-AV;TB6AV;69.00;Thermostat bimétallique, unipolaire, anti-vandale (347V installé en usine seulement)/KIT-OVS-TB26-AV3;TB26AV3;72.00;Thermostat bimétallique, bipolaire, anti-vandale (347V installé en usine seulement)
+-------

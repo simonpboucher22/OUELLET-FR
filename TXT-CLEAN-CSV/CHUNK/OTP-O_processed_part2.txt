@@ -1,0 +1,2 @@
+Tableau OTP-O - Thermopompe simple zone Olympia sans conduit de ventilation
+Produit1;Unité intérieure;UHD09KCH38SB-I;UHD12KCH31S-I;UHD18KCH25S-I;UHD24KCH22S-I/;Unité extérieure;UHD09KCH38SB-O;UHD12KCH31S-O;UHD18KCH25S-O;UHD24KCH22S-O

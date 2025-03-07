@@ -1,0 +1,24 @@
+# OTR - Câble de plancher chauffant pour membrane
+
+## Caractéristiques générales
+- Tension: 120V, 240/208V, 1 phase
+- Longueur de la liaison froide: 10' (3 m)
+
+## Régulation
+- Deux types de régulation possible:
+  - Régulation de la température de la surface avec un thermostat électronique en mode plancher (F) et sonde de sol
+  - Régulation de la température ambiante avec un thermostat électronique en mode ambiant avec limite de plancher (A ou AF) et sonde de sol
+- Note: Ce produit doit être utilisé avec un disjoncteur-détecteur de fuite à la terre (DDFT) sauf si exempté par le code national et/ou local en vigueur dans la région d'installation
+- Sonde de sol de 15' (4.6 m)
+- Étiquette de tableau de mesures (à apposer au panneau électrique)
+
+## Installation
+- Ne jamais couper ou tenter de raccourcir le câble
+- Pour applications intérieures seulement
+- S'installe sur un sous-plancher de contreplaqué ou sur une chape de béton
+
+## Application
+- Vestibule, salle d'eau, salle à manger-cuisine, salle de séjour, salle familiale
+
+## Garantie
+- 25 ans sur le câble chauffant

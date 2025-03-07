@@ -1,0 +1,39 @@
+# OWD - Aérotherme lavable
+
+## Caractéristiques
+
+### Tension
+• 208V, 240V, 277V, 480V, 600V, 1 ou 3 phases.
+
+### Construction
+• Boîtier mécanique en acier inoxydable type 304 de calibre 16, résistant à la corrosion.*
+• Volets de sortie d'air en acier inoxydable.
+• Grille de protection en acier inoxydable, qui empêche les contacts accidentels avec le ventilateur.
+• Protection thermique à réenclenchement automatique (ou manuel en option).
+• Boîtier électrique non métallique NEMA 4X.
+• Lampe témoin indiquant la mise sous tension des éléments en option.
+• Interrupteur principal à poignée verrouillable en option.
+
+### Ventilateur
+• Ventilateur à action différée en aluminium anodisé.
+• Moteur fermé à roulement à billes recouvert d'époxy, parfaitement étanche et lubrifié en permanence.
+• Ventilateur recouvert d'époxy.
+• Conçu pour résister à l'humidité et à la corrosion.
+
+### Élément
+• Élément tubulaire scellé à ailettes en acier inoxydable de type 316*.
+
+### Régulation
+• Circuit de commande à 24V avec transformateur et contacteur.
+• Thermostat intégré à tube capillaire en option.
+• Commande de ventilateur en option.
+
+### Installation
+• Boîtier électrique placé sous l'unité, facilitant l'installation et l'entretien.
+• Support pivotant en acier inoxydable inclus, permettant le montage au mur ou au plafond.
+
+### Garantie
+• 1 an contre tous vices.
+
+### Application
+Agroalimentaire, installations maritimes et côtières, lave-auto, laiterie

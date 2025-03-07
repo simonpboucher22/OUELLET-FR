@@ -1,0 +1,48 @@
+# Thermopompe simple zone Olympia sans conduit de ventilation (OTP-O)
+
+## Caractéristiques
+
+### Mode de fonctionnement
+• Climatisation, chauffage, déshumidification, ventilation et auto.
+
+### Capacité nominale
+• 9000, 12000, 18000, 24000 BTU/hr.
+
+### Tension
+• 230/208V, 60 Hz, 1 phase.
+
+### Unité intérieure
+• Installation en haut de mur, pouvant être raccordée de chaque côté.
+• Boîtier en plastique, standard blanc.
+• Ventilateur à courant transversal à 7 vitesses (turbo, élevée, moyenne-élevée, moyenne, moyenne-faible, faible et très faible).
+• Filtres lavables.
+
+### Unité extérieure
+• Compresseur rotatif à vitesse variable (INVERTER), avec limiteur de surcharge.
+• Soupape d'expansion électronique pour un contrôle précis du débit de réfrigérant.
+• Ailettes du condenseur recouvertes d'un enduit hydrophile pour une plus grande résistance à la corrosion.
+• Ventilateur axial silencieux de grand diamètre pour un meilleur échange thermique.
+• Fil chauffant dans le plateau de dégivrage pour empêcher la formation de glace.
+
+### R410A
+• Couverture et technologie de préchauffage du compresseur.
+• Installation sur support mural ou au sol en aluminium en option.
+
+### Tuyauterie de raccordement
+• Longueur minimale de la tuyauterie de 10 pi (3 m).
+• Raccords évasés.
+
+### Régulation
+• Télécommande sans fil incluse.
+• Contrôleur mural en option.
+• Wi-Fi.
+• Interface (options HP6000ZB-GE et GT130 requises).
+• Température de consigne: 16 à 30 °C (61 à 86 °F).
+• Format d'affichage de la température : °C ou °F.
+
+### Garantie
+• Garantie de base 10 ans pièces et 10 ans compresseur (main-d'œuvre non incluse).
+• Garantie main-d'œuvre (vendue séparément) de la 1ère à la 10e année, couvre pièces et main-d'œuvre avec remplacement du système si défaillance du compresseur.
+
+### Application
+• Salle à manger-cuisine, salle de séjour, salle familiale, édifice commercial, immeuble de bureaux, condo, restaurant.

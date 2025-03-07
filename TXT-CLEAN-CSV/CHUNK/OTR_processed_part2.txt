@@ -1,0 +1,12 @@
+## Caractéristiques OTR
+
+### Construction
+- Câble chauffant de type double conducteur pour une installation plus simple et plus rapide, compatible avec les systèmes d'installation sur membrane de désolidarisation
+
+### Densité
+- 9.6W/pi² (103W/m²), espacement aux 3 3/4'' (95 mm)
+- 10W/pi² (108W/m²), espacement aux 3 5/8'' (92 mm)
+
+### Installation
+- Sur membrane de désolidarisation vendue en option
+- Pour l'installation du câble sur membrane de désolidarisation, se référer aux instructions du manufacturier de la membrane afin de s'assurer qu'elle est compatible avec l'utilisation d'un câble chauffant
